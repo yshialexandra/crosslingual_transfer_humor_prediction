@@ -1,0 +1,134 @@
+{
+  "audio_file": "A Comedy Central új csatornahangja ｜ Kerekes József.wav",
+  "full_text": "Sziasztok! Lengyel Tomi vagyok. A Comedy Central csatorna hangja már több mint 10 éve. De most úgy érzem ideje más területen kamatoztatni a képességeivel. Mivel a szívemen viselem a csatorna sorsát, ezért úgy döntöttem, segítek kiválasztani az utódomat. És hogy ki lesz az új hang? Na eskubizzátok! Kivész úr! A még a megtiszteltetés! Kerekes úr! Tessék, itt a szöveg. Csak lazánabban úgy is jó vagy. Kösz. Akkor most lesz, ugye? Azért adtam. Kösz. Azért örülök, hogy így fölvitte az Isten a dolgodat. Na jó. Máskor együtt vagyok. Elköszthetjük. Ja persze, persze. Adj menők! Minden hétköznap este 19.25-től a Kamedi Centrálon. Még? Igen? Figyelj csak, mi lenne, ha most elhagynánk ezt a cetlit, és mondjuk meglepnél minket? Mire gondolsz? Bármire. Jó. Mióta készülök, hogy elmondjam neked szerelmem rejtett csillagrendszerét? Egy képben csak talán csupán a lényeget. Nyirgős. Állapodik. Bocs, hogy félbeszakítalak. De nem lehetne valamelyik karakteret hangján? Tudod, ilyen viccesen? Hagyjuk a karaktereket, Tamás, jó? Azért szeretnék egy kicsit ebből kitörni, és valami más csinálni. Cucumalac? Nem, nem, nem leszek cucumalac. Samar? Nem. Kowalszky? Nem. Csavardi Samu? Nem. Yeti? Nem. Grinch? Nem. Peter Griffin? Nem! Nem. Értem. Akkor még csak annyit, hogy segfelelnél nekünk pár kérdésre? Na jó, kölcsököm széken. Na, hagyjatok még itt. Hát, úgy tűnik, hogy maradok én a csatornahang.",
+  "chunks": [
+    {
+      "text": " Sziasztok! Lengyel Tomi vagyok. A Comedy Central csatorna hangja már több mint 10 éve.",
+      "start": 1.0399999999999998,
+      "end": 6.2
+    },
+    {
+      "text": " De most úgy érzem ideje más területen kamatoztatni a képességeivel.",
+      "start": 6.46,
+      "end": 10.3
+    },
+    {
+      "text": " Mivel a szívemen viselem a csatorna sorsát, ezért úgy döntöttem, segítek kiválasztani az utódomat.",
+      "start": 10.8,
+      "end": 17.78
+    },
+    {
+      "text": " És hogy ki lesz az új hang? Na eskubizzátok!",
+      "start": 17.98,
+      "end": 21.02
+    },
+    {
+      "text": " Kivész úr! A még a megtiszteltetés! Kerekes úr! Tessék, itt a szöveg. Csak lazánabban úgy is jó vagy. Kösz.",
+      "start": 30.099999999999994,
+      "end": 42.1
+    },
+    {
+      "text": " Akkor most lesz, ugye? Azért adtam. Kösz. Azért örülök, hogy így fölvitte az Isten a dolgodat. Na jó. Máskor együtt vagyok. Elköszthetjük. Ja persze, persze.",
+      "start": 44.36,
+      "end": 56.2
+    },
+    {
+      "text": " Adj menők! Minden hétköznap este 19.25-től a Kamedi Centrálon.",
+      "start": 60.34,
+      "end": 65.26
+    },
+    {
+      "text": " Még? Igen? Figyelj csak, mi lenne, ha most elhagynánk ezt a cetlit, és mondjuk meglepnél minket?",
+      "start": 67.6,
+      "end": 74.14
+    },
+    {
+      "text": " Mire gondolsz? Bármire.",
+      "start": 74.38,
+      "end": 76.12
+    },
+    {
+      "text": " Jó.",
+      "start": 78.32,
+      "end": 78.56
+    },
+    {
+      "text": " Mióta készülök, hogy elmondjam neked szerelmem rejtett csillagrendszerét?",
+      "start": 81.54,
+      "end": 85.68
+    },
+    {
+      "text": " Egy képben csak talán csupán a lényeget.",
+      "start": 87.06,
+      "end": 89.54
+    },
+    {
+      "text": " Nyirgős. Állapodik. Bocs, hogy félbeszakítalak.",
+      "start": 91.5,
+      "end": 94.3
+    },
+    {
+      "text": " De nem lehetne valamelyik karakteret hangján? Tudod, ilyen viccesen?",
+      "start": 94.8,
+      "end": 99.08
+    },
+    {
+      "text": " Hagyjuk a karaktereket, Tamás, jó? Azért szeretnék egy kicsit ebből kitörni, és valami más csinálni.",
+      "start": 99.08,
+      "end": 103.58
+    },
+    {
+      "text": " Cucumalac? Nem, nem, nem leszek cucumalac.",
+      "start": 103.62,
+      "end": 105.66
+    },
+    {
+      "text": " Samar? Nem. Kowalszky? Nem.",
+      "start": 105.68,
+      "end": 107.86
+    },
+    {
+      "text": " Csavardi Samu? Nem.",
+      "start": 108.62,
+      "end": 109.78
+    },
+    {
+      "text": " Yeti? Nem.",
+      "start": 110.18,
+      "end": 111.86
+    },
+    {
+      "text": " Grinch? Nem.",
+      "start": 112.28,
+      "end": 113.36
+    },
+    {
+      "text": " Peter Griffin? Nem!",
+      "start": 113.8,
+      "end": 115.1
+    },
+    {
+      "text": " Nem.",
+      "start": 115.1,
+      "end": 115.34
+    },
+    {
+      "text": " Értem. Akkor még csak annyit, hogy segfelelnél nekünk pár kérdésre?",
+      "start": 118.08,
+      "end": 122.58
+    },
+    {
+      "text": " Na jó, kölcsököm széken. Na, hagyjatok még itt.",
+      "start": 122.9,
+      "end": 126.3
+    },
+    {
+      "text": " Hát, úgy tűnik, hogy maradok én a csatornahang.",
+      "start": 128.68,
+      "end": 131.78
+    }
+  ],
+  "processing_time": 0.713104248046875,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

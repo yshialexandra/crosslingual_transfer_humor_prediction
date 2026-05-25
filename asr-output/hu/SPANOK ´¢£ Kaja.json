@@ -1,0 +1,179 @@
+{
+  "audio_file": "SPANOK ｜ Kaja.wav",
+  "full_text": "MAGYAL KÖZÖNKILBÉHÉD Deniz, denniz gyere! Mi tanélt van Jézusom mi a mehet? Betörte, kirabolták a hűtőt. Kirabolna ki egy hűtőt? Ha kiéhes. Nem vásároltam, nyugodjál már meg, most mit pánikolsz? Most mit fogunk enni? Nyugodjál meg, lesz kaja! Nincs kaja! Itt van, itt van, két csarokkal leje van egy salátás. Rendben só salátájuk van, tegnap rendeldem salátát. Jó lesz? Te persze pörköltál. Nem pörkölt, ez salátás, hanem Áron a pörkölt, ez csak salátás. Akkor pörköltet másholra rendeljük? De pörkölt nincsen csak a te nagy fejed, de pörköltről nem is volt szó. Ez egy akcentuson van, vagy mi az, amit nem értesz? Ez salátás, saláta. Akkor pörkölti elmegyünk? De nincsen, senki nem beszél, de idegesítsé már föl, nincs pörkölt. Ez egy salátás, akcentuson van, mit nem értesz? Akkor mi értelme van a salátának, ha nincs pörkölt? Az, hogy 30 éves vagy, naponta 150 ezer kalóriát megeszel, nem szeretném, hogy megdövöljél, éjjél még plusz 5 évet, de legalább egészségeset tudsz enni. Jó lesz a saláta? Jó. Na? Jó. Milyen van? Ettem mozzarella-sat, meg cukkiniset, az rendes, az finom. Akkor legyen mondjuk egy cukkinis, meg egy mozzarella-s. Két jól átad is ezt elhessz? Igen, büszke vagyok. Kell a vitamin pörkölthöz. Úristen, szerep. Köszönöm. Köszönöm. Köszönöm. NAMASTE",
+  "chunks": [
+    {
+      "text": " MAGYAL KÖZÖNKILBÉHÉD",
+      "start": 10.420000000000009,
+      "end": 11.46
+    },
+    {
+      "text": " Deniz, denniz gyere!",
+      "start": 11.46,
+      "end": 12.84
+    },
+    {
+      "text": " Mi tanélt van Jézusom mi a mehet?",
+      "start": 13.28,
+      "end": 15.06
+    },
+    {
+      "text": " Betörte, kirabolták a hűtőt.",
+      "start": 15.72000000000001,
+      "end": 17.36
+    },
+    {
+      "text": " Kirabolna ki egy hűtőt?",
+      "start": 17.86,
+      "end": 19.26
+    },
+    {
+      "text": " Ha kiéhes.",
+      "start": 19.38,
+      "end": 20.16
+    },
+    {
+      "text": " Nem vásároltam, nyugodjál már meg, most mit pánikolsz?",
+      "start": 20.42,
+      "end": 23.36
+    },
+    {
+      "text": " Most mit fogunk enni?",
+      "start": 23.5,
+      "end": 24.46
+    },
+    {
+      "text": " Nyugodjál meg, lesz kaja!",
+      "start": 24.52,
+      "end": 25.62
+    },
+    {
+      "text": " Nincs kaja!",
+      "start": 25.78,
+      "end": 26.44
+    },
+    {
+      "text": " Itt van, itt van, két csarokkal leje van egy salátás.",
+      "start": 26.52,
+      "end": 29.82
+    },
+    {
+      "text": " Rendben só salátájuk van, tegnap rendeldem salátát. Jó lesz?",
+      "start": 30.0,
+      "end": 32.88
+    },
+    {
+      "text": " Te persze pörköltál.",
+      "start": 32.98,
+      "end": 34.18
+    },
+    {
+      "text": " Nem pörkölt, ez salátás, hanem Áron a pörkölt, ez csak salátás.",
+      "start": 35.1,
+      "end": 39.46
+    },
+    {
+      "text": " Akkor pörköltet másholra rendeljük?",
+      "start": 41.06,
+      "end": 42.7
+    },
+    {
+      "text": " De pörkölt nincsen csak a te nagy fejed, de pörköltről nem is volt szó.",
+      "start": 42.78,
+      "end": 46.06
+    },
+    {
+      "text": " Ez egy akcentuson van, vagy mi az, amit nem értesz? Ez salátás, saláta.",
+      "start": 46.22,
+      "end": 50.68
+    },
+    {
+      "text": " Akkor pörkölti elmegyünk?",
+      "start": 51.82,
+      "end": 53.1
+    },
+    {
+      "text": " De nincsen, senki nem beszél, de idegesítsé már föl, nincs pörkölt.",
+      "start": 53.2,
+      "end": 56.18
+    },
+    {
+      "text": " Ez egy salátás, akcentuson van, mit nem értesz?",
+      "start": 56.28,
+      "end": 58.88
+    },
+    {
+      "text": " Akkor mi értelme van a salátának, ha nincs pörkölt?",
+      "start": 58.88,
+      "end": 62.02
+    },
+    {
+      "text": " Az, hogy 30 éves vagy, naponta 150 ezer kalóriát megeszel,",
+      "start": 62.02,
+      "end": 65.2
+    },
+    {
+      "text": " nem szeretném, hogy megdövöljél, éjjél még plusz 5 évet, de legalább egészségeset tudsz enni.",
+      "start": 65.24,
+      "end": 69.16
+    },
+    {
+      "text": " Jó lesz a saláta?",
+      "start": 69.34,
+      "end": 70.24
+    },
+    {
+      "text": " Jó. Na? Jó. Milyen van?",
+      "start": 70.76,
+      "end": 73.82
+    },
+    {
+      "text": " Ettem mozzarella-sat, meg cukkiniset, az rendes, az finom.",
+      "start": 74.34,
+      "end": 76.74
+    },
+    {
+      "text": " Akkor legyen mondjuk egy cukkinis, meg egy mozzarella-s.",
+      "start": 77.08,
+      "end": 80.84
+    },
+    {
+      "text": " Két jól átad is ezt elhessz? Igen, büszke vagyok.",
+      "start": 81.12,
+      "end": 83.04
+    },
+    {
+      "text": " Kell a vitamin pörkölthöz.",
+      "start": 83.14,
+      "end": 85.56
+    },
+    {
+      "text": " Úristen, szerep.",
+      "start": 86.32000000000001,
+      "end": 87.54
+    },
+    {
+      "text": " Köszönöm.",
+      "start": 90.05999999999999,
+      "end": 90.74
+    },
+    {
+      "text": " Köszönöm.",
+      "start": 90.74,
+      "end": 91.08
+    },
+    {
+      "text": " Köszönöm.",
+      "start": 94.34,
+      "end": 95.02
+    },
+    {
+      "text": " NAMASTE",
+      "start": 95.02,
+      "end": 95.5
+    }
+  ],
+  "processing_time": 2.6072182655334473,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

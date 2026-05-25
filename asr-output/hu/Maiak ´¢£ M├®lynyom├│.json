@@ -1,0 +1,54 @@
+{
+  "audio_file": "Maiak ｜ Mélynyomó.wav",
+  "full_text": "52-ben én hangosítottam a scootert, azt vágjátok, nem? Scooter nincs meg. A hajpa hajpa! Spawned on me baby like a sailor light! Nem? Ez sincs meg. Senki meg nem tudja... Miért volt haví... Nincs meg ez se? Hát nem hiszlek el titeket, komolyan mondom. Neked íröm a dát! Neked énekelek! Oh Lady Anne, táncolj velem! Oh Lady Anne! Hova tűntek most? Hova mentek? Figyelj ide Paribá! Ezek a lányok 2000-ben születtek. Amikor te scootert hangosítottál, két évesek voltak, lövésük sincs. Lejárt lemezek vagyunk, Paribá! Paribá!",
+  "chunks": [
+    {
+      "text": " 52-ben én hangosítottam a scootert, azt vágjátok, nem? Scooter nincs meg.",
+      "start": 5.0200000000000005,
+      "end": 9.52
+    },
+    {
+      "text": " A hajpa hajpa! Spawned on me baby like a sailor light! Nem? Ez sincs meg.",
+      "start": 9.82,
+      "end": 17.16
+    },
+    {
+      "text": " Senki meg nem tudja... Miért volt haví... Nincs meg ez se?",
+      "start": 17.58,
+      "end": 24.14
+    },
+    {
+      "text": " Hát nem hiszlek el titeket, komolyan mondom. Neked íröm a dát!",
+      "start": 24.22,
+      "end": 28.78
+    },
+    {
+      "text": " Neked énekelek!",
+      "start": 28.78,
+      "end": 30.92
+    },
+    {
+      "text": " Oh Lady Anne, táncolj velem! Oh Lady Anne!",
+      "start": 32.78,
+      "end": 38.38
+    },
+    {
+      "text": " Hova tűntek most? Hova mentek? Figyelj ide Paribá!",
+      "start": 49.78,
+      "end": 52.16
+    },
+    {
+      "text": " Ezek a lányok 2000-ben születtek. Amikor te scootert hangosítottál, két évesek voltak, lövésük sincs. Lejárt lemezek vagyunk, Paribá!",
+      "start": 53.28,
+      "end": 62.86
+    },
+    {
+      "text": " Paribá!",
+      "start": 64.48,
+      "end": 65.24
+    }
+  ],
+  "processing_time": 0.9534456729888916,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

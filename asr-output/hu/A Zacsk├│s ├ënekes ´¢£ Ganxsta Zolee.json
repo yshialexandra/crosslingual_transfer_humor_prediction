@@ -1,0 +1,59 @@
+{
+  "audio_file": "A Zacskós Énekes ｜ Ganxsta Zolee.wav",
+  "full_text": "Végre megérkezett a show, amire mindenki vált! Az internetes videók legjobban őrzött titka. Ki van a zacskó alap? Soha nem látott jelmezek? Változatos díszlet! Tíz ember, aki hajlandó hülyét csinálni magából! És akkor lássuk az ehetű zacskós énekest! A tévékben már itt semmi más, Csak szex, meg bűn ez lett a szórakozás. Régi jó dolgok úgy eltűntek, Tárfa marad a száj! Jó vagy van a Family Guy! Megmutatjuk neked, Fokkat oda fejed, Sírsz vagy ne vesz rajta, ha szag fáj! Itt a Family Guy! Van ötleted? Ki van a zacskó alatt? Kommenteld be a tippet a videók alá! Addig is nézd a Family Guy új évadát a Comedy Centralon!",
+  "chunks": [
+    {
+      "text": " Végre megérkezett a show, amire mindenki vált!",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": " Az internetes videók legjobban őrzött titka.",
+      "start": 3.34,
+      "end": 6.04
+    },
+    {
+      "text": " Ki van a zacskó alap? Soha nem látott jelmezek?",
+      "start": 6.26,
+      "end": 9.48
+    },
+    {
+      "text": " Változatos díszlet! Tíz ember, aki hajlandó hülyét csinálni magából!",
+      "start": 10.26,
+      "end": 14.62
+    },
+    {
+      "text": " És akkor lássuk az ehetű zacskós énekest!",
+      "start": 14.84,
+      "end": 17.52
+    },
+    {
+      "text": " A tévékben már itt semmi más, Csak szex, meg bűn ez lett a szórakozás.",
+      "start": 18.0,
+      "end": 24.74
+    },
+    {
+      "text": " Régi jó dolgok úgy eltűntek, Tárfa marad a száj! Jó vagy van a Family Guy!",
+      "start": 24.74,
+      "end": 33.76
+    },
+    {
+      "text": " Megmutatjuk neked, Fokkat oda fejed, Sírsz vagy ne vesz rajta, ha szag fáj! Itt a Family Guy!",
+      "start": 35.300000000000004,
+      "end": 45.48
+    },
+    {
+      "text": " Van ötleted? Ki van a zacskó alatt? Kommenteld be a tippet a videók alá!",
+      "start": 47.58,
+      "end": 52.0
+    },
+    {
+      "text": " Addig is nézd a Family Guy új évadát a Comedy Centralon!",
+      "start": 52.0,
+      "end": 55.56
+    }
+  ],
+  "processing_time": 0.3955078125,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

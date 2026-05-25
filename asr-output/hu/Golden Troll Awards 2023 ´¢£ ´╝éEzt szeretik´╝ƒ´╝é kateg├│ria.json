@@ -1,0 +1,39 @@
+{
+  "audio_file": "Golden Troll Awards 2023 ｜ ＂Ezt szeretik？＂ kategória.wav",
+  "full_text": "Arany Troll díj 2023, ahol a legjobb műsorok megkapják a legdurbább kommenteket. Élőben a nyújjó... Hölgyeim és uraim! Welcome to the show! A következő díjat What's Zach 00-nak köszönhetjük. Nézzük! Az összes karakter idegesítő, bosszantó, okoskodó, beképzelt egoista. Ezt szeretik? Komolyan nem értem. Komolyan! És ezt a díjat kapja... Fú, de izgatott vagyok! Az agymenők! Hihetetlen! Agymenők! Ma a Comedy Centralon!",
+  "chunks": [
+    {
+      "text": " Arany Troll díj 2023, ahol a legjobb műsorok megkapják a legdurbább kommenteket.",
+      "start": 1.0,
+      "end": 7.28
+    },
+    {
+      "text": " Élőben a nyújjó...",
+      "start": 7.6,
+      "end": 10.34
+    },
+    {
+      "text": " Hölgyeim és uraim! Welcome to the show!",
+      "start": 11.0,
+      "end": 14.68
+    },
+    {
+      "text": " A következő díjat What's Zach 00-nak köszönhetjük. Nézzük!",
+      "start": 16.38,
+      "end": 22.92
+    },
+    {
+      "text": " Az összes karakter idegesítő, bosszantó, okoskodó, beképzelt egoista. Ezt szeretik? Komolyan nem értem. Komolyan! És ezt a díjat kapja... Fú, de izgatott vagyok! Az agymenők!",
+      "start": 24.1,
+      "end": 41.8
+    },
+    {
+      "text": " Hihetetlen! Agymenők! Ma a Comedy Centralon!",
+      "start": 48.900000000000006,
+      "end": 54.6
+    }
+  ],
+  "processing_time": 0.9967272281646729,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

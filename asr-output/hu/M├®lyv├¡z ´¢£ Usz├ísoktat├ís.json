@@ -1,0 +1,54 @@
+{
+  "audio_file": "Mélyvíz ｜ Uszásoktatás.wav",
+  "full_text": "Ez az tempozzál. Szépen nem süjjedszel, Ervinke, foglak. Ez az ügyes vagy, tempójára lábad, kisfóka vagy. Nagyon ügyes. Foglak, foglak, foglak. Endi bácsi fog téged. Kisfóka vagy? Mi ez a dedózás, Endi-ke? Tanítom úszni Ervinke. Tehát ez nem úszásoktatás. Figyelj ide, Ervinke. Ezzel az óvodás mentalitással nem sokra viszed. Tempozzál, mert aki nem tempózik, az elsüllyed és meghal, érted? Az élet a legkegyetlenebb tanár. Palibán, nagyon szépen kérlek ne szóljál bele a módszereit. Hát ez nem módszere, Endi-ke, ez elme baj. Nekem ezt egy olyan ember nem mondja meg, aki nem is tud úszni. De tudok úszni, ne szóra. De tudok úszni. Ne mondjad meg, hogy nem tudok úszni. Ne alázzál meg a gyerek előtt. De hol a gyerek? Hol a gyerek? Ervinke? Ervin, hol a gyerek? Ervinke? Hol a gyerek? Hol a gyerek? Hol van a suja? Hát hol? Hát Endi, rád lett bízva, nem? Mondtam, az élet a legkegyetlenebb tanár.",
+  "chunks": [
+    {
+      "text": " Ez az tempozzál. Szépen nem süjjedszel, Ervinke, foglak. Ez az ügyes vagy, tempójára lábad, kisfóka vagy.",
+      "start": 2.799999999999998,
+      "end": 8.26
+    },
+    {
+      "text": " Nagyon ügyes. Foglak, foglak, foglak. Endi bácsi fog téged.",
+      "start": 8.52,
+      "end": 12.32
+    },
+    {
+      "text": " Kisfóka vagy? Mi ez a dedózás, Endi-ke? Tanítom úszni Ervinke.",
+      "start": 12.72,
+      "end": 16.76
+    },
+    {
+      "text": " Tehát ez nem úszásoktatás. Figyelj ide, Ervinke. Ezzel az óvodás mentalitással nem sokra viszed.",
+      "start": 16.96,
+      "end": 22.2
+    },
+    {
+      "text": " Tempozzál, mert aki nem tempózik, az elsüllyed és meghal, érted? Az élet a legkegyetlenebb tanár.",
+      "start": 22.68,
+      "end": 27.54
+    },
+    {
+      "text": " Palibán, nagyon szépen kérlek ne szóljál bele a módszereit. Hát ez nem módszere, Endi-ke, ez elme baj.",
+      "start": 27.54,
+      "end": 31.78
+    },
+    {
+      "text": " Nekem ezt egy olyan ember nem mondja meg, aki nem is tud úszni. De tudok úszni, ne szóra. De tudok úszni.",
+      "start": 31.88,
+      "end": 35.88
+    },
+    {
+      "text": " Ne mondjad meg, hogy nem tudok úszni. Ne alázzál meg a gyerek előtt. De hol a gyerek? Hol a gyerek? Ervinke? Ervin, hol a gyerek? Ervinke? Hol a gyerek? Hol a gyerek? Hol van a suja? Hát hol? Hát Endi, rád lett bízva, nem?",
+      "start": 35.96,
+      "end": 51.84
+    },
+    {
+      "text": " Mondtam, az élet a legkegyetlenebb tanár.",
+      "start": 57.54,
+      "end": 61.86
+    }
+  ],
+  "processing_time": 0.45751142501831055,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

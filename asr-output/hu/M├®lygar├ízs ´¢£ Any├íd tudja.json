@@ -1,0 +1,74 @@
+{
+  "audio_file": "Mélygarázs ｜ Anyád tudja.wav",
+  "full_text": "A Bajcsi 23-hoz legyen szíves! Kórházba? Nem. Nem a Bajcsi kórház, Bajcsi út. Aha. És hol? A harmadik körület? A hatodik. De megállt a páros oldalán, aztán meg ne átsétálok. Hála Istennek! Az akkora szopó senkinek nem kívánok. Hát azért annyira nem. Az aranyán a socán vissza tud fordulni. Hogyhogy? Hát van ott egy lámpa. És a belső sábból kanyarodni is lehet meg visszafordulni. És tudod, hogy amit most mondtál, az hülyeség? Hogy mondta? Anyád tudja. Hidd föl, kérdezd meg. Ezt nagyon határozottan kikérem magamnak. Jó, nem úgy gondoltam. Estefilmezés? Bekuckozzunk a kanapéra csak te megint. Tudom, tudom. Nehezen beszélek az érzéseimről. Nehezen nyílok meg. Itt ülök egész nap bezárva ebbe a kalitkába, mint valami díszpintj. És akkor csak úgy a semmiből jössz te. Szeretlek. Kimondtam. Tessék. Ne haragudjon Uram, de az előbb még sérteked, most megpróbálok. Jó, csak fogjuk rövidre. Ki akarok szállni. Tessék? Mondom, ki akarok szállni. Pillanat. Visszahívlak, nem hallak az utastól, jó? Parancsoljon.",
+  "chunks": [
+    {
+      "text": " A Bajcsi 23-hoz legyen szíves!",
+      "start": 8.06,
+      "end": 10.74
+    },
+    {
+      "text": " Kórházba?",
+      "start": 11.28,
+      "end": 12.04
+    },
+    {
+      "text": " Nem. Nem a Bajcsi kórház, Bajcsi út.",
+      "start": 12.5,
+      "end": 15.68
+    },
+    {
+      "text": " Aha. És hol? A harmadik körület?",
+      "start": 16.4,
+      "end": 18.84
+    },
+    {
+      "text": " A hatodik. De megállt a páros oldalán, aztán meg ne átsétálok.",
+      "start": 19.22,
+      "end": 24.24
+    },
+    {
+      "text": " Hála Istennek! Az akkora szopó senkinek nem kívánok.",
+      "start": 24.5,
+      "end": 28.82
+    },
+    {
+      "text": " Hát azért annyira nem. Az aranyán a socán vissza tud fordulni. Hogyhogy?",
+      "start": 30.0,
+      "end": 35.06
+    },
+    {
+      "text": " Hát van ott egy lámpa. És a belső sábból kanyarodni is lehet meg visszafordulni.",
+      "start": 35.46,
+      "end": 40.58
+    },
+    {
+      "text": " És tudod, hogy amit most mondtál, az hülyeség? Hogy mondta? Anyád tudja. Hidd föl, kérdezd meg.",
+      "start": 40.78,
+      "end": 49.44
+    },
+    {
+      "text": " Ezt nagyon határozottan kikérem magamnak. Jó, nem úgy gondoltam. Estefilmezés? Bekuckozzunk a kanapéra csak te megint.",
+      "start": 49.54,
+      "end": 58.56
+    },
+    {
+      "text": " Tudom, tudom. Nehezen beszélek az érzéseimről. Nehezen nyílok meg. Itt ülök egész nap bezárva ebbe a kalitkába, mint valami díszpintj. És akkor csak úgy a semmiből jössz te. Szeretlek. Kimondtam. Tessék.",
+      "start": 60.0,
+      "end": 80.96
+    },
+    {
+      "text": " Ne haragudjon Uram, de az előbb még sérteked, most megpróbálok. Jó, csak fogjuk rövidre. Ki akarok szállni. Tessék? Mondom, ki akarok szállni.",
+      "start": 80.96,
+      "end": 89.96
+    },
+    {
+      "text": " Pillanat. Visszahívlak, nem hallak az utastól, jó? Parancsoljon.",
+      "start": 90.28,
+      "end": 94.14
+    }
+  ],
+  "processing_time": 0.5385041236877441,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

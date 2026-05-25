@@ -1,0 +1,79 @@
+{
+  "audio_file": "Dal ｜ Télvíz.wav",
+  "full_text": "A MIGULÁS BÁCSI KÖZÖNÉK Na gyerekek, nagyon elfáradta Mikulás bácsi, nagyon hosszú útról érkezett. Bizony, reggel hétkor indultunk Pécerről, és be volt állva az egész játszberé. Figyelj, hagyd abba, jó? Majd átveszem. Na szóval, nagyon-nagyon elfáradta Mikulás bácsi, tud-e valaki valami szép Mikulás dal? Gyerekek, óvónénik, senki? Na, Mikulás csomagért. Z-generáció. Jó, akkor fordítsunk a dolgon, jó? Így van, a Krampusz bácsi eljátszik nektek egy dal. És aki megmondja, hogy melyik dal volt az, az kap csomagot, jó? Lát, nélát, nélát, nélát, nélát! Te ezt a telefon se ismerte fel. Feldolgozás. Jó, gyerekek, annyit segítek, hogy Tél-apó itt van. Bocsánat, helyesbítek. Hullapejhes fehérhó. Ezért te ugye nem fogsz pénzt elfogadni. Ugye?",
+  "chunks": [
+    {
+      "text": " A MIGULÁS BÁCSI KÖZÖNÉK",
+      "start": 0.0,
+      "end": 4.06
+    },
+    {
+      "text": " Na gyerekek, nagyon elfáradta Mikulás bácsi, nagyon hosszú útról érkezett.",
+      "start": 5.0,
+      "end": 11.2
+    },
+    {
+      "text": " Bizony, reggel hétkor indultunk Pécerről, és be volt állva az egész játszberé.",
+      "start": 11.38,
+      "end": 16.06
+    },
+    {
+      "text": " Figyelj, hagyd abba, jó? Majd átveszem.",
+      "start": 16.08,
+      "end": 17.84
+    },
+    {
+      "text": " Na szóval, nagyon-nagyon elfáradta Mikulás bácsi, tud-e valaki valami szép Mikulás dal?",
+      "start": 18.24,
+      "end": 24.94
+    },
+    {
+      "text": " Gyerekek, óvónénik, senki? Na, Mikulás csomagért.",
+      "start": 28.580000000000002,
+      "end": 35.02
+    },
+    {
+      "text": " Z-generáció.",
+      "start": 36.080000000000005,
+      "end": 37.52
+    },
+    {
+      "text": " Jó, akkor fordítsunk a dolgon, jó?",
+      "start": 38.78,
+      "end": 42.68
+    },
+    {
+      "text": " Így van, a Krampusz bácsi eljátszik nektek egy dal. És aki megmondja, hogy melyik dal volt az, az kap csomagot, jó?",
+      "start": 42.88,
+      "end": 50.48
+    },
+    {
+      "text": " Lát, nélát, nélát, nélát, nélát!",
+      "start": 54.94,
+      "end": 62.72
+    },
+    {
+      "text": " Te ezt a telefon se ismerte fel. Feldolgozás.",
+      "start": 66.36,
+      "end": 70.98
+    },
+    {
+      "text": " Jó, gyerekek, annyit segítek, hogy Tél-apó itt van. Bocsánat, helyesbítek. Hullapejhes fehérhó.",
+      "start": 71.5,
+      "end": 82.92
+    },
+    {
+      "text": " Ezért te ugye nem fogsz pénzt elfogadni.",
+      "start": 84.72,
+      "end": 86.98
+    },
+    {
+      "text": " Ugye?",
+      "start": 87.66,
+      "end": 88.34
+    }
+  ],
+  "processing_time": 1.5496351718902588,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

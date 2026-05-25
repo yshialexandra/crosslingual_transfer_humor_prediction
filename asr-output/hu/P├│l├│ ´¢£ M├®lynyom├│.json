@@ -1,0 +1,29 @@
+{
+  "audio_file": "Póló ｜ Mélynyomó.wav",
+  "full_text": "PORK! Nem tudom, hogy a pólód is a hírót. Nyítsák ezek az amerikaiet. Ja, meg a pólód is.",
+  "chunks": [
+    {
+      "text": " PORK!",
+      "start": 28.520000000000003,
+      "end": 29.92
+    },
+    {
+      "text": " Nem tudom, hogy a pólód is a hírót.",
+      "start": 30.0,
+      "end": 31.38
+    },
+    {
+      "text": " Nyítsák ezek az amerikaiet.",
+      "start": 48.400000000000006,
+      "end": 49.92
+    },
+    {
+      "text": " Ja, meg a pólód is.",
+      "start": 50.14,
+      "end": 51.7
+    }
+  ],
+  "processing_time": 1.5084257125854492,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

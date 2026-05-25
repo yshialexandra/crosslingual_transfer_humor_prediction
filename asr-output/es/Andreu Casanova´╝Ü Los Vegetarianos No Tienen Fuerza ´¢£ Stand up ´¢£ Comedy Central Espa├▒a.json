@@ -1,0 +1,149 @@
+{
+  "audio_file": "Andreu Casanova： Los Vegetarianos No Tienen Fuerza ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "Comer bien no es comer sano. Que la gente dice, yo como sano, digo, sí, pero no bien. No, comer bien es levantarte por la mañana y cascarte unos huevos rotos, un bocadillo. Al mediodía un plato de cuchara, carne, pescado por la noche, lentejas, garbanzos, un platazo, coño. Que después de todo el día digas, pues me lo merezco. No, que acabes de cenar y digas, me quedo dormido en la mesa porque no llego ni a la cama, ¿sabes? Hombre. ¿Qué es esto de no comer? Yo necesito, yo sueño fuerte, o sea, yo he de cenar bien. Yo ceno judía, sueño que vuelo y me despierto colgado de la lámpara porque lo he quemado. Hay ahí, es que, claro, hay gente que no, que dice, no, yo como ligero, que está bien esto. Comer ligero, comer sano, es levantarte por la mañana y comerte una manzana. Al mediodía un cuenco de arroz integral. Por la noche, fruta, pescado, no sé, algo muy suave, cuatro algas. Da igual, que esta gente dice, sueño ligero, digo, normal, si pesa 50 kilos, desgraciado. Y ojo, yo lo animo y lo apoyo comer sano. Pero os digo una cosa, ¿eh? En mi puta vida he visto un obrero vegetariano. Si no puedes mover un tocho, o sea, no tendría fuerza. Y es un tío que se ha movido un saco, se ha levantado una pared, se ha tirado un tabique. Cuando acabe, ves y dale una manzana. Si es que te la tira a la cara. Claro que, si es que no son la marca blanca de los obreros, un obrero vegetariano. O sea, no tiene, la Sagrada Familia eran vegetarianos. ¿Cómo está? ¿Por acabar? Ahí desganado. Claro.",
+  "chunks": [
+    {
+      "text": " Comer bien no es comer sano.",
+      "start": 1.3999999999999997,
+      "end": 2.56
+    },
+    {
+      "text": " Que la gente dice, yo como sano, digo, sí, pero no bien.",
+      "start": 2.74,
+      "end": 4.96
+    },
+    {
+      "text": " No, comer bien es levantarte por la mañana y cascarte unos huevos rotos, un bocadillo.",
+      "start": 5.6,
+      "end": 9.7
+    },
+    {
+      "text": " Al mediodía un plato de cuchara, carne, pescado por la noche, lentejas, garbanzos, un platazo, coño.",
+      "start": 10.24,
+      "end": 14.6
+    },
+    {
+      "text": " Que después de todo el día digas, pues me lo merezco.",
+      "start": 14.88,
+      "end": 16.6
+    },
+    {
+      "text": " No, que acabes de cenar y digas, me quedo dormido en la mesa porque no llego ni a la cama, ¿sabes?",
+      "start": 17.26,
+      "end": 21.0
+    },
+    {
+      "text": " Hombre.",
+      "start": 23.38,
+      "end": 23.7
+    },
+    {
+      "text": " ¿Qué es esto de no comer?",
+      "start": 26.68,
+      "end": 27.68
+    },
+    {
+      "text": " Yo necesito, yo sueño fuerte, o sea, yo he de cenar bien.",
+      "start": 27.68,
+      "end": 30.94
+    },
+    {
+      "text": " Yo ceno judía, sueño que vuelo y me despierto colgado de la lámpara porque lo he quemado.",
+      "start": 31.5,
+      "end": 35.74
+    },
+    {
+      "text": " Hay ahí, es que, claro, hay gente que no, que dice, no, yo como ligero, que está bien esto.",
+      "start": 35.98,
+      "end": 41.06
+    },
+    {
+      "text": " Comer ligero, comer sano, es levantarte por la mañana y comerte una manzana.",
+      "start": 42.019999999999996,
+      "end": 45.74
+    },
+    {
+      "text": " Al mediodía un cuenco de arroz integral.",
+      "start": 45.98,
+      "end": 47.34
+    },
+    {
+      "text": " Por la noche, fruta, pescado, no sé, algo muy suave, cuatro algas.",
+      "start": 47.66,
+      "end": 51.96
+    },
+    {
+      "text": " Da igual, que esta gente dice, sueño ligero, digo, normal, si pesa 50 kilos, desgraciado.",
+      "start": 52.04,
+      "end": 56.26
+    },
+    {
+      "text": " Y ojo, yo lo animo y lo apoyo comer sano.",
+      "start": 56.86,
+      "end": 59.48
+    },
+    {
+      "text": " Pero os digo una cosa, ¿eh?",
+      "start": 59.64,
+      "end": 60.56
+    },
+    {
+      "text": " En mi puta vida he visto un obrero vegetariano.",
+      "start": 61.0,
+      "end": 65.4
+    },
+    {
+      "text": " Si no puedes mover un tocho, o sea, no tendría fuerza.",
+      "start": 65.9,
+      "end": 68.24
+    },
+    {
+      "text": " Y es un tío que se ha movido un saco, se ha levantado una pared, se ha tirado un tabique.",
+      "start": 68.62,
+      "end": 71.56
+    },
+    {
+      "text": " Cuando acabe, ves y dale una manzana.",
+      "start": 71.78,
+      "end": 73.32
+    },
+    {
+      "text": " Si es que te la tira a la cara.",
+      "start": 75.30000000000001,
+      "end": 76.76
+    },
+    {
+      "text": " Claro que, si es que no son la marca blanca de los obreros, un obrero vegetariano.",
+      "start": 77.6,
+      "end": 80.68
+    },
+    {
+      "text": " O sea, no tiene, la Sagrada Familia eran vegetarianos.",
+      "start": 80.68,
+      "end": 83.34
+    },
+    {
+      "text": " ¿Cómo está?",
+      "start": 83.4,
+      "end": 83.72
+    },
+    {
+      "text": " ¿Por acabar?",
+      "start": 83.88,
+      "end": 84.38
+    },
+    {
+      "text": " Ahí desganado.",
+      "start": 87.42,
+      "end": 88.42
+    },
+    {
+      "text": " Claro.",
+      "start": 90.48,
+      "end": 90.98
+    }
+  ],
+  "processing_time": 0.6563336849212646,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

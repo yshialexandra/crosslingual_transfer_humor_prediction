@@ -1,0 +1,135 @@
+{
+  "audio_file": "ESTRENO： One Piece en Comedy Central España ｜ 6 DE NOVIEMBRE.wav",
+  "full_text": " Llega a toda vela La serie que más nos pedíais One Piece, estreno el lunes 6 de noviembre",
+  "chunks": [
+    {
+      "text": " Llega",
+      "timestamp": [
+        0.0,
+        2.08
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        2.08,
+        2.1
+      ]
+    },
+    {
+      "text": " toda",
+      "timestamp": [
+        2.1,
+        2.4
+      ]
+    },
+    {
+      "text": " vela",
+      "timestamp": [
+        2.4,
+        2.94
+      ]
+    },
+    {
+      "text": " La",
+      "timestamp": [
+        3.0,
+        4.52
+      ]
+    },
+    {
+      "text": " serie",
+      "timestamp": [
+        4.52,
+        5.38
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        5.38,
+        5.68
+      ]
+    },
+    {
+      "text": " más",
+      "timestamp": [
+        5.68,
+        5.92
+      ]
+    },
+    {
+      "text": " nos",
+      "timestamp": [
+        5.92,
+        6.14
+      ]
+    },
+    {
+      "text": " pedíais",
+      "timestamp": [
+        6.14,
+        6.76
+      ]
+    },
+    {
+      "text": " One",
+      "timestamp": [
+        6.98,
+        7.18
+      ]
+    },
+    {
+      "text": " Piece,",
+      "timestamp": [
+        7.18,
+        7.62
+      ]
+    },
+    {
+      "text": " estreno",
+      "timestamp": [
+        7.62,
+        8.1
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        8.1,
+        8.36
+      ]
+    },
+    {
+      "text": " lunes",
+      "timestamp": [
+        8.36,
+        8.64
+      ]
+    },
+    {
+      "text": " 6",
+      "timestamp": [
+        8.64,
+        8.96
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        8.96,
+        9.1
+      ]
+    },
+    {
+      "text": " noviembre",
+      "timestamp": [
+        9.1,
+        9.58
+      ]
+    }
+  ],
+  "processing_time": 7923.445235013962,
+  "language": "es",
+  "model_id": "openai/whisper-large-v3"
+}

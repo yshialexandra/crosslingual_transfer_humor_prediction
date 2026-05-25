@@ -1,0 +1,329 @@
+{
+  "audio_file": "Jo Brami – Rencard avec un super pouvoir.wav",
+  "full_text": "... Alors que je suis pas du tout connu ! ... Wow, incroyable, incroyable ! Je suis hyper fier d'être là, c'est magnifique ! Vous êtes incroyable, magnifique, c'est beau ! Donc je m'appelle Joe Brami, je suis un adolescent, c'est-à-dire qu'une partie de moi refuse de grandir. Voilà. Juste une partie, t'inquiète ! Il m'a regardé un peu chelou ! Je suis adolescent parce que je suis hyper fan des super-héros, j'adorerais avoir des super-pouvoirs, tu vois. Je sais pas, peut-être que vous aussi, je sais pas. Tu t'appelles comment ? Rémi. Rémi, enchanté Rémi, tu fais quoi dans la vie Rémi ? T'es photographe ? C'est pas vrai. Ok. Rémi, si t'avais un super-pouvoir ce soir, ça serait quoi ton super-pouvoir ? ... ... Voler ? C'est pas vrai ! Bah t'es dans le bon pays, bosse dans une banque, ils y arrivent super bien. ... En vrai, je vous fais marcher les amis, j'ai un super-pouvoir. Ouais. C'est cool. Je suis capable de claquer des doigts et de revenir 10 secondes en arrière. Ça c'est cool parce que quand t'as un rendez-vous, ça peut servir. Je vous montre ? ... C'est un petit ouais, hein ? ... On va voir. T'sais là, la vie n'a pas été facile. Elle a parfois été dure. Mais depuis que je suis avec toi, bah je sais pas, je me sens comme... ... ... Clara ? Nina ? La vie n'a pas été facile. Elle a parfois été dure. Mais depuis que je suis avec toi, bah je sais pas, je me sens comme... ... Clara ! Nina ! Merde, putain ! ... ... La vie n'a pas été facile. Elle a parfois été dure. Mais depuis que je suis avec toi, bah je sais pas, je me sens comme... ... ... dans un oasis de bonheur. Euh... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...",
+  "chunks": [
+    {
+      "text": " ...",
+      "start": 1.2599999999999998,
+      "end": 1.92
+    },
+    {
+      "text": " Alors que je suis pas du tout connu !",
+      "start": 22.02,
+      "end": 25.18
+    },
+    {
+      "text": " ...",
+      "start": 25.18,
+      "end": 25.46
+    },
+    {
+      "text": " Wow, incroyable, incroyable ! Je suis hyper fier d'être là, c'est magnifique ! Vous êtes incroyable, magnifique, c'est beau !",
+      "start": 27.18,
+      "end": 32.0
+    },
+    {
+      "text": " Donc je m'appelle Joe Brami, je suis un adolescent, c'est-à-dire qu'une partie de moi refuse de grandir.",
+      "start": 32.0,
+      "end": 37.02
+    },
+    {
+      "text": " Voilà. Juste une partie, t'inquiète !",
+      "start": 37.26,
+      "end": 40.56
+    },
+    {
+      "text": " Il m'a regardé un peu chelou !",
+      "start": 41.32,
+      "end": 43.16
+    },
+    {
+      "text": " Je suis adolescent parce que je suis hyper fan des super-héros, j'adorerais avoir des super-pouvoirs, tu vois.",
+      "start": 43.64,
+      "end": 48.56
+    },
+    {
+      "text": " Je sais pas, peut-être que vous aussi, je sais pas. Tu t'appelles comment ?",
+      "start": 48.88,
+      "end": 52.36
+    },
+    {
+      "text": " Rémi.",
+      "start": 52.36,
+      "end": 52.68
+    },
+    {
+      "text": " Rémi, enchanté Rémi, tu fais quoi dans la vie Rémi ?",
+      "start": 52.68,
+      "end": 54.68
+    },
+    {
+      "text": " T'es photographe ?",
+      "start": 55.32,
+      "end": 56.64
+    },
+    {
+      "text": " C'est pas vrai.",
+      "start": 57.48,
+      "end": 58.08
+    },
+    {
+      "text": " Ok. Rémi, si t'avais un super-pouvoir ce soir, ça serait quoi ton super-pouvoir ?",
+      "start": 60.22,
+      "end": 63.68
+    },
+    {
+      "text": " ...",
+      "start": 64.54,
+      "end": 64.78
+    },
+    {
+      "text": " ...",
+      "start": 65.60000000000001,
+      "end": 65.92
+    },
+    {
+      "text": " Voler ? C'est pas vrai ! Bah t'es dans le bon pays, bosse dans une banque, ils y arrivent super bien.",
+      "start": 67.64,
+      "end": 71.52
+    },
+    {
+      "text": " ...",
+      "start": 71.52,
+      "end": 72.42
+    },
+    {
+      "text": " En vrai, je vous fais marcher les amis, j'ai un super-pouvoir. Ouais. C'est cool. Je suis capable de claquer des doigts et de revenir 10 secondes en arrière.",
+      "start": 75.58,
+      "end": 84.9
+    },
+    {
+      "text": " Ça c'est cool parce que quand t'as un rendez-vous, ça peut servir. Je vous montre ?",
+      "start": 85.32,
+      "end": 90.76
+    },
+    {
+      "text": " ...",
+      "start": 90.76,
+      "end": 91.16
+    },
+    {
+      "text": " C'est un petit ouais, hein ? ...",
+      "start": 92.16,
+      "end": 93.94
+    },
+    {
+      "text": " On va voir. T'sais là, la vie n'a pas été facile. Elle a parfois été dure. Mais depuis que je suis avec toi, bah je sais pas, je me sens comme...",
+      "start": 95.72,
+      "end": 107.56
+    },
+    {
+      "text": " ...",
+      "start": 107.56,
+      "end": 108.1
+    },
+    {
+      "text": " ...",
+      "start": 108.1,
+      "end": 108.32
+    },
+    {
+      "text": " Clara ? Nina ?",
+      "start": 110.46,
+      "end": 112.1
+    },
+    {
+      "text": " La vie n'a pas été facile. Elle a parfois été dure. Mais depuis que je suis avec toi, bah je sais pas, je me sens comme...",
+      "start": 113.82,
+      "end": 122.56
+    },
+    {
+      "text": " ...",
+      "start": 122.96,
+      "end": 123.24
+    },
+    {
+      "text": " Clara ! Nina ! Merde, putain !",
+      "start": 124.48,
+      "end": 126.14
+    },
+    {
+      "text": " ...",
+      "start": 128.6,
+      "end": 128.88
+    },
+    {
+      "text": " ...",
+      "start": 129.26,
+      "end": 129.54
+    },
+    {
+      "text": " La vie n'a pas été facile. Elle a parfois été dure. Mais depuis que je suis avec toi, bah je sais pas, je me sens comme...",
+      "start": 129.54,
+      "end": 136.88
+    },
+    {
+      "text": " ...",
+      "start": 137.72,
+      "end": 138.04
+    },
+    {
+      "text": " ... dans un oasis de bonheur. Euh...",
+      "start": 138.04,
+      "end": 140.88
+    },
+    {
+      "text": " ...",
+      "start": 140.88,
+      "end": 141.04
+    },
+    {
+      "text": " ...",
+      "start": 141.04,
+      "end": 141.12
+    },
+    {
+      "text": " ...",
+      "start": 141.12,
+      "end": 141.22
+    },
+    {
+      "text": " ...",
+      "start": 141.22,
+      "end": 141.32
+    },
+    {
+      "text": " ...",
+      "start": 142.02,
+      "end": 142.34
+    },
+    {
+      "text": " ...",
+      "start": 142.34,
+      "end": 142.36
+    },
+    {
+      "text": " ...",
+      "start": 142.36,
+      "end": 142.6
+    },
+    {
+      "text": " ...",
+      "start": 144.5,
+      "end": 144.82
+    },
+    {
+      "text": " ...",
+      "start": 144.82,
+      "end": 144.86
+    },
+    {
+      "text": " ...",
+      "start": 144.86,
+      "end": 144.9
+    },
+    {
+      "text": " ...",
+      "start": 144.9,
+      "end": 145.72
+    },
+    {
+      "text": " ...",
+      "start": 145.72,
+      "end": 145.74
+    },
+    {
+      "text": " ...",
+      "start": 145.74,
+      "end": 146.5
+    },
+    {
+      "text": " ...",
+      "start": 146.5,
+      "end": 146.66
+    },
+    {
+      "text": " ...",
+      "start": 146.66,
+      "end": 147.66
+    },
+    {
+      "text": " ...",
+      "start": 208.48,
+      "end": 208.76
+    },
+    {
+      "text": " ...",
+      "start": 210.0,
+      "end": 210.92
+    },
+    {
+      "text": " ...",
+      "start": 210.92,
+      "end": 211.38
+    },
+    {
+      "text": " ...",
+      "start": 211.38,
+      "end": 212.82
+    },
+    {
+      "text": " ...",
+      "start": 212.82,
+      "end": 212.9
+    },
+    {
+      "text": " ...",
+      "start": 212.9,
+      "end": 213.9
+    },
+    {
+      "text": " ...",
+      "start": 215.36,
+      "end": 215.9
+    },
+    {
+      "text": " ...",
+      "start": 245.9,
+      "end": 246.54
+    },
+    {
+      "text": " ...",
+      "start": 246.54,
+      "end": 246.64
+    },
+    {
+      "text": " ...",
+      "start": 336.84,
+      "end": 336.96
+    },
+    {
+      "text": " ...",
+      "start": 339.04,
+      "end": 339.16
+    },
+    {
+      "text": " ...",
+      "start": 339.16,
+      "end": 339.2
+    },
+    {
+      "text": " ...",
+      "start": 339.2,
+      "end": 339.24
+    },
+    {
+      "text": " ...",
+      "start": 339.24,
+      "end": 339.3
+    },
+    {
+      "text": " ...",
+      "start": 339.3,
+      "end": 339.36
+    }
+  ],
+  "processing_time": 1.839846134185791,
+  "language": "fr",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,144 @@
+{
+  "audio_file": "Fitala Félőrültek ｜ Játékok (2.rész).wav",
+  "full_text": "Egy erős szellő Istvánon van. Jó estét kívánok! Egy férfinak mindkét lábát levágta a vonat Máté szalkán, akit a rendőrség biztosítási csalás gyanújával köröz. A férfi szabadlából védekezhet. Hát erre sem mi szükségem vicsen. Persze anya, most ráérek, tudunk beszélni nyugodtan. Ma csak mellezünk. Ó, és te mondjam, amely. Ne nyologasd már mindenki előtt! Köszönöm, hogy vagy nekem, és hogy érzelmi támaszt nyújtasz minden nehéz helyzetben. Ülj le és maradj ott! Mit csinálsz? Bocsia, számát elkérhetem? Csokorom, elfogyott a zacskó a zsömléknél. Ez egyáltalán nem úgy működik, ahogy vártam, kérem vissza a pénzemet. Jó, ezzel is végeztünk, még sincs este. Egy picit sem sajnálom, hogy véget ért. Nagyon megtolom. Nagyon vágytam rá, de aztán gyorsan elment. Hát, idős, hogy a működtöm betűzte. Van valamitek másnaposságra? Esküvőket vállaltok? Ez a mocskos asztalhoz nem ülök ne. Az de szor. Az de szor. Az de szor.",
+  "chunks": [
+    {
+      "text": " Egy erős szellő Istvánon van.",
+      "start": 0.0,
+      "end": 2.32
+    },
+    {
+      "text": " Jó estét kívánok!",
+      "start": 3.8000000000000007,
+      "end": 5.3
+    },
+    {
+      "text": " Egy férfinak mindkét lábát levágta a vonat Máté szalkán,",
+      "start": 5.44,
+      "end": 8.6
+    },
+    {
+      "text": " akit a rendőrség biztosítási csalás gyanújával köröz.",
+      "start": 8.76,
+      "end": 11.94
+    },
+    {
+      "text": " A férfi szabadlából védekezhet.",
+      "start": 12.1,
+      "end": 14.04
+    },
+    {
+      "text": " Hát erre sem mi szükségem vicsen.",
+      "start": 16.28,
+      "end": 18.96
+    },
+    {
+      "text": " Persze anya, most ráérek, tudunk beszélni nyugodtan.",
+      "start": 19.52,
+      "end": 21.92
+    },
+    {
+      "text": " Ma csak mellezünk.",
+      "start": 22.22,
+      "end": 23.18
+    },
+    {
+      "text": " Ó, és te mondjam, amely.",
+      "start": 23.52,
+      "end": 24.76
+    },
+    {
+      "text": " Ne nyologasd már mindenki előtt!",
+      "start": 25.4,
+      "end": 27.62
+    },
+    {
+      "text": " Köszönöm, hogy vagy nekem, és hogy érzelmi támaszt nyújtasz minden nehéz helyzetben.",
+      "start": 27.62,
+      "end": 32.12
+    },
+    {
+      "text": " Ülj le és maradj ott!",
+      "start": 32.54,
+      "end": 33.7
+    },
+    {
+      "text": " Mit csinálsz?",
+      "start": 34.16,
+      "end": 35.0
+    },
+    {
+      "text": " Bocsia, számát elkérhetem?",
+      "start": 35.32,
+      "end": 37.22
+    },
+    {
+      "text": " Csokorom, elfogyott a zacskó a zsömléknél.",
+      "start": 37.9,
+      "end": 40.5
+    },
+    {
+      "text": " Ez egyáltalán nem úgy működik, ahogy vártam, kérem vissza a pénzemet.",
+      "start": 40.78,
+      "end": 43.96
+    },
+    {
+      "text": " Jó, ezzel is végeztünk, még sincs este.",
+      "start": 44.12,
+      "end": 46.36
+    },
+    {
+      "text": " Egy picit sem sajnálom, hogy véget ért.",
+      "start": 47.0,
+      "end": 49.16
+    },
+    {
+      "text": " Nagyon megtolom.",
+      "start": 49.68,
+      "end": 50.74
+    },
+    {
+      "text": " Nagyon vágytam rá, de aztán gyorsan elment.",
+      "start": 51.08,
+      "end": 53.02
+    },
+    {
+      "text": " Hát, idős, hogy a működtöm betűzte.",
+      "start": 53.32,
+      "end": 55.12
+    },
+    {
+      "text": " Van valamitek másnaposságra?",
+      "start": 55.12,
+      "end": 57.6
+    },
+    {
+      "text": " Esküvőket vállaltok?",
+      "start": 58.6,
+      "end": 59.76
+    },
+    {
+      "text": " Ez a mocskos asztalhoz nem ülök ne.",
+      "start": 60.12,
+      "end": 61.88
+    },
+    {
+      "text": " Az de szor.",
+      "start": 62.2,
+      "end": 63.04
+    },
+    {
+      "text": " Az de szor.",
+      "start": 85.34,
+      "end": 86.24
+    },
+    {
+      "text": " Az de szor.",
+      "start": 115.24,
+      "end": 117.12
+    }
+  ],
+  "processing_time": 1.6938655376434326,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

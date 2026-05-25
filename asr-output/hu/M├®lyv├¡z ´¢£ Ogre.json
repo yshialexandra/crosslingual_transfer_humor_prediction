@@ -1,0 +1,24 @@
+{
+  "audio_file": "Mélyvíz ｜ Ogre.wav",
+  "full_text": "Jó napot kívánok, drága uram! Arra szeretném nagyon szépen megkérni, hogy rossz helyen tetszik feküdni. Rajta tetszik feküdni az aknatetőn. Szeretném még egyszer megkérni, hogy megkeljen még egyszer megkérni. A probléma Endickel. Zúr, rajta fekszik az aknat. Igen, látom. Na, figyelj, egy egyszerű kéréssel fordultunk hozzád, ugye? Figyelj, szépen meglették élve, nem? De akkor miért nem állsz fel innen nagyon gyorsan, és nézz vissza oda, ahol az édesanyád a világ? Na, hozott az az áldott jó asszony. Te mondd már meg, te hány kilóval születtél? Ööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööö és legalább azt mondd meg, hogy mivel etetett? Van fennakadva egy tollaslabda, ha jártába keltében. De amúgy tényleg további, tényleg kellemes.",
+  "chunks": [
+    {
+      "text": " Jó napot kívánok, drága uram! Arra szeretném nagyon szépen megkérni, hogy rossz helyen tetszik feküdni. Rajta tetszik feküdni az aknatetőn. Szeretném még egyszer megkérni, hogy megkeljen még egyszer megkérni.",
+      "start": 7.719999999999999,
+      "end": 23.5
+    },
+    {
+      "text": " A probléma Endickel. Zúr, rajta fekszik az aknat. Igen, látom. Na, figyelj, egy egyszerű kéréssel fordultunk hozzád, ugye? Figyelj, szépen meglették élve, nem? De akkor miért nem állsz fel innen nagyon gyorsan, és nézz vissza oda, ahol az édesanyád a világ? Na, hozott az az áldott jó asszony. Te mondd már meg, te hány kilóval születtél? Ööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööö",
+      "start": 23.66,
+      "end": 53.64
+    },
+    {
+      "text": " és legalább azt mondd meg, hogy mivel etetett? Van fennakadva egy tollaslabda, ha jártába keltében. De amúgy tényleg további, tényleg kellemes.",
+      "start": 55.42,
+      "end": 66.44
+    }
+  ],
+  "processing_time": 0.44470810890197754,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

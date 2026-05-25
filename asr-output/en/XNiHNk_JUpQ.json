@@ -1,0 +1,779 @@
+{
+  "audio_file": "XNiHNk_JUpQ.wav",
+  "full_text": "The End The End The End The End Oh... Morning. Do sit down. And go... How are we today? The End The End The End The End The End The End The End The End The End The End The End The End The End The End The End Good Okay The End The End The End The End The End The End The End The End The End The End The End The End The End The End The End Now I have to... The End The End The End The End The End The End The End The End The End The End The End Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. Thank you. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. . . . . I don't know. I'll just put this in my car. Oh, thank you. I'll just put this in my car. I'll just put this in my car. I'll just put this in my car. I'll just put this in my car. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Oh, sorry. Just wearing my hair. Merry Christmas. Merry Christmas to you. Oh, oh, oh, oh. Oh. Cup of tea? Oh, yes. if you're having one well I might you've got the turkey on do you want a hand no no thank you you Oh, my God. Oh, look. Oh, a classic ship. Oh, look at that. Oh, look at that. Uh-oh. Oh, no. Look at all these bits and stuff. Look at all those guns. Oh. I've got it here. There. I've got this cardboard thing on the back so I can stand there. I can stand there. I can even stand just here. I guess it's brilliant. Isn't that brilliant? Oh. Oh, no. No, no. Don't cry. Oh, I've got the main bit. There. Oh. Oh, no. Oh, oh, no. Oh, no, no, no, no, no, no. Oh. Thank you. Merry Christmas, Mr. B. Merry Christmas, Mr. B. Merry Christmas, Mr. B. Merry Christmas, Mr. B. Merry Christmas, Mr. B. Merry Christmas, Mr. B. Merry Christmas, Mr. B. Merry Christmas, Mr. B. Merry Christmas, Mr. B. I'm sorry sir nothing like this has ever happened before I'll get some on right away good morning Yes",
+  "chunks": [
+    {
+      "text": " The End",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "text": " The End",
+      "start": 0.4,
+      "end": 1.5
+    },
+    {
+      "text": " The End",
+      "start": 1.5,
+      "end": 2.98
+    },
+    {
+      "text": " The End",
+      "start": 2.98,
+      "end": 7.88
+    },
+    {
+      "text": " Oh...",
+      "start": 10.3,
+      "end": 11.34
+    },
+    {
+      "text": " Morning. Do sit down.",
+      "start": 13.46,
+      "end": 16.12
+    },
+    {
+      "text": " And go...",
+      "start": 16.52,
+      "end": 18.0
+    },
+    {
+      "text": " How are we today?",
+      "start": 24.76,
+      "end": 26.66
+    },
+    {
+      "text": " The End",
+      "start": 33.160000000000004,
+      "end": 34.86
+    },
+    {
+      "text": " The End",
+      "start": 62.62,
+      "end": 63.1
+    },
+    {
+      "text": " The End",
+      "start": 63.1,
+      "end": 63.14
+    },
+    {
+      "text": " The End",
+      "start": 63.14,
+      "end": 63.38
+    },
+    {
+      "text": " The End",
+      "start": 63.38,
+      "end": 65.66
+    },
+    {
+      "text": " The End",
+      "start": 65.66,
+      "end": 65.88
+    },
+    {
+      "text": " The End",
+      "start": 65.88,
+      "end": 67.78
+    },
+    {
+      "text": " The End",
+      "start": 71.74,
+      "end": 73.5
+    },
+    {
+      "text": " The End",
+      "start": 76.0,
+      "end": 77.46
+    },
+    {
+      "text": " The End",
+      "start": 79.69999999999999,
+      "end": 81.22
+    },
+    {
+      "text": " The End",
+      "start": 81.22,
+      "end": 88.66
+    },
+    {
+      "text": " The End",
+      "start": 92.43999999999998,
+      "end": 95.24
+    },
+    {
+      "text": " The End",
+      "start": 100.32,
+      "end": 101.88
+    },
+    {
+      "text": " The End",
+      "start": 104.64,
+      "end": 106.06
+    },
+    {
+      "text": " The End",
+      "start": 106.06,
+      "end": 110.94
+    },
+    {
+      "text": " Good",
+      "start": 110.94,
+      "end": 112.08
+    },
+    {
+      "text": " Okay",
+      "start": 123.82,
+      "end": 125.22
+    },
+    {
+      "text": " The End",
+      "start": 127.18,
+      "end": 127.7
+    },
+    {
+      "text": " The End",
+      "start": 127.7,
+      "end": 127.86
+    },
+    {
+      "text": " The End",
+      "start": 127.86,
+      "end": 128.74
+    },
+    {
+      "text": " The End",
+      "start": 131.73999999999998,
+      "end": 132.44
+    },
+    {
+      "text": " The End",
+      "start": 135.35999999999999,
+      "end": 136.04
+    },
+    {
+      "text": " The End",
+      "start": 136.04,
+      "end": 136.82
+    },
+    {
+      "text": " The End",
+      "start": 136.82,
+      "end": 137.06
+    },
+    {
+      "text": " The End",
+      "start": 137.06,
+      "end": 139.12
+    },
+    {
+      "text": " The End",
+      "start": 139.12,
+      "end": 141.68
+    },
+    {
+      "text": " The End",
+      "start": 141.68,
+      "end": 144.02
+    },
+    {
+      "text": " The End",
+      "start": 144.02,
+      "end": 144.7
+    },
+    {
+      "text": " The End",
+      "start": 144.7,
+      "end": 145.38
+    },
+    {
+      "text": " The End",
+      "start": 145.38,
+      "end": 146.86
+    },
+    {
+      "text": " The End",
+      "start": 146.86,
+      "end": 151.96
+    },
+    {
+      "text": " The End",
+      "start": 156.64,
+      "end": 158.94
+    },
+    {
+      "text": " Now I have to...",
+      "start": 172.6,
+      "end": 174.0
+    },
+    {
+      "text": " The End",
+      "start": 177.92,
+      "end": 180.72
+    },
+    {
+      "text": " The End",
+      "start": 180.72,
+      "end": 188.78
+    },
+    {
+      "text": " The End",
+      "start": 188.78,
+      "end": 191.16
+    },
+    {
+      "text": " The End",
+      "start": 191.16,
+      "end": 194.2
+    },
+    {
+      "text": " The End",
+      "start": 201.17999999999998,
+      "end": 203.98
+    },
+    {
+      "text": " The End",
+      "start": 203.98,
+      "end": 206.44
+    },
+    {
+      "text": " The End",
+      "start": 206.44,
+      "end": 206.48
+    },
+    {
+      "text": " The End",
+      "start": 206.48,
+      "end": 207.88
+    },
+    {
+      "text": " The End",
+      "start": 218.35999999999999,
+      "end": 219.76
+    },
+    {
+      "text": " The End",
+      "start": 219.76,
+      "end": 221.56
+    },
+    {
+      "text": " The End",
+      "start": 223.12,
+      "end": 224.82
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 234.6,
+      "end": 235.02
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 254.82,
+      "end": 258.52
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 287.24,
+      "end": 300.76
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 319.96000000000004,
+      "end": 323.12
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 344.82,
+      "end": 345.16
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 345.16,
+      "end": 350.78
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 350.78,
+      "end": 352.5
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 390.74,
+      "end": 393.08
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 410.78,
+      "end": 412.3
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 414.84000000000003,
+      "end": 425.02
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 425.68,
+      "end": 430.16
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 431.38,
+      "end": 432.32
+    },
+    {
+      "text": " I don't know.",
+      "start": 432.32,
+      "end": 439.74
+    },
+    {
+      "text": " I don't know.",
+      "start": 483.56000000000006,
+      "end": 486.52
+    },
+    {
+      "text": " I don't know.",
+      "start": 492.32,
+      "end": 494.3
+    },
+    {
+      "text": " I don't know.",
+      "start": 525.24,
+      "end": 526.86
+    },
+    {
+      "text": " I don't know.",
+      "start": 526.86,
+      "end": 528.32
+    },
+    {
+      "text": " I don't know.",
+      "start": 529.14,
+      "end": 541.96
+    },
+    {
+      "text": " Thank you.",
+      "start": 544.32,
+      "end": 545.9
+    },
+    {
+      "text": " I don't know.",
+      "start": 567.9,
+      "end": 569.98
+    },
+    {
+      "text": " I don't know.",
+      "start": 570.0,
+      "end": 572.64
+    },
+    {
+      "text": " I don't know.",
+      "start": 572.76,
+      "end": 574.62
+    },
+    {
+      "text": " I don't know.",
+      "start": 574.62,
+      "end": 575.26
+    },
+    {
+      "text": " I don't know.",
+      "start": 575.28,
+      "end": 576.16
+    },
+    {
+      "text": " I don't know.",
+      "start": 576.72,
+      "end": 601.64
+    },
+    {
+      "text": " I don't know.",
+      "start": 604.6,
+      "end": 606.98
+    },
+    {
+      "text": " I don't know.",
+      "start": 607.18,
+      "end": 608.86
+    },
+    {
+      "text": " I don't know.",
+      "start": 620.36,
+      "end": 621.76
+    },
+    {
+      "text": " I don't know.",
+      "start": 623.84,
+      "end": 625.06
+    },
+    {
+      "text": " I don't know.",
+      "start": 625.06,
+      "end": 626.66
+    },
+    {
+      "text": " I don't know.",
+      "start": 626.66,
+      "end": 640.56
+    },
+    {
+      "text": " I don't know.",
+      "start": 640.58,
+      "end": 641.42
+    },
+    {
+      "text": " I don't know.",
+      "start": 648.08,
+      "end": 648.64
+    },
+    {
+      "text": " I don't know.",
+      "start": 656.6200000000001,
+      "end": 659.0
+    },
+    {
+      "text": " I don't know.",
+      "start": 659.3,
+      "end": 660.96
+    },
+    {
+      "text": " I don't know.",
+      "start": 660.96,
+      "end": 662.2
+    },
+    {
+      "text": " I don't know.",
+      "start": 667.2,
+      "end": 670.14
+    },
+    {
+      "text": " . . . .",
+      "start": 670.14,
+      "end": 679.84
+    },
+    {
+      "text": " I don't know.",
+      "start": 705.4200000000001,
+      "end": 707.1
+    },
+    {
+      "text": " I'll just put this in my car.",
+      "start": 750.46,
+      "end": 752.38
+    },
+    {
+      "text": " Oh, thank you.",
+      "start": 780.96,
+      "end": 782.36
+    },
+    {
+      "text": " I'll just put this in my car.",
+      "start": 806.52,
+      "end": 808.06
+    },
+    {
+      "text": " I'll just put this in my car.",
+      "start": 822.14,
+      "end": 823.76
+    },
+    {
+      "text": " I'll just put this in my car.",
+      "start": 829.12,
+      "end": 830.96
+    },
+    {
+      "text": " I'll just put this in my car.",
+      "start": 831.42,
+      "end": 835.38
+    },
+    {
+      "text": " Thank you.",
+      "start": 844.08,
+      "end": 846.88
+    },
+    {
+      "text": " Thank you.",
+      "start": 869.38,
+      "end": 870.2
+    },
+    {
+      "text": " Thank you.",
+      "start": 900.8000000000001,
+      "end": 902.2
+    },
+    {
+      "text": " Thank you.",
+      "start": 925.38,
+      "end": 926.0
+    },
+    {
+      "text": " Thank you.",
+      "start": 957.7,
+      "end": 959.28
+    },
+    {
+      "text": " Thank you.",
+      "start": 987.6400000000001,
+      "end": 990.44
+    },
+    {
+      "text": " Thank you.",
+      "start": 1024.7399999999998,
+      "end": 1027.54
+    },
+    {
+      "text": " Oh, sorry.",
+      "start": 1046.8,
+      "end": 1047.92
+    },
+    {
+      "text": " Just wearing my hair.",
+      "start": 1048.08,
+      "end": 1049.12
+    },
+    {
+      "text": " Merry Christmas.",
+      "start": 1049.56,
+      "end": 1050.44
+    },
+    {
+      "text": " Merry Christmas to you.",
+      "start": 1052.04,
+      "end": 1053.64
+    },
+    {
+      "text": " Oh, oh, oh, oh.",
+      "start": 1054.3999999999999,
+      "end": 1058.3
+    },
+    {
+      "text": " Oh.",
+      "start": 1058.42,
+      "end": 1058.8
+    },
+    {
+      "text": " Cup of tea?",
+      "start": 1068.24,
+      "end": 1069.46
+    },
+    {
+      "text": " Oh, yes.",
+      "start": 1069.82,
+      "end": 1070.56
+    },
+    {
+      "text": " if you're having one well I might you've got the turkey on do you want a hand no no thank you",
+      "start": 1070.56,
+      "end": 1083.78
+    },
+    {
+      "text": " you",
+      "start": 1107.2199999999998,
+      "end": 1107.56
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1157.22,
+      "end": 1159.32
+    },
+    {
+      "text": " Oh, look.",
+      "start": 1166.6,
+      "end": 1167.9
+    },
+    {
+      "text": " Oh, a classic ship.",
+      "start": 1173.6,
+      "end": 1177.08
+    },
+    {
+      "text": " Oh, look at that.",
+      "start": 1177.6,
+      "end": 1179.82
+    },
+    {
+      "text": " Oh, look at that.",
+      "start": 1180.54,
+      "end": 1182.66
+    },
+    {
+      "text": " Uh-oh.",
+      "start": 1184.54,
+      "end": 1185.7
+    },
+    {
+      "text": " Oh, no.",
+      "start": 1186.16,
+      "end": 1186.96
+    },
+    {
+      "text": " Look at all these bits and stuff.",
+      "start": 1186.96,
+      "end": 1190.78
+    },
+    {
+      "text": " Look at all those guns.",
+      "start": 1191.08,
+      "end": 1192.54
+    },
+    {
+      "text": " Oh.",
+      "start": 1199.08,
+      "end": 1199.96
+    },
+    {
+      "text": " I've got it here.",
+      "start": 1202.68,
+      "end": 1204.28
+    },
+    {
+      "text": " There.",
+      "start": 1205.06,
+      "end": 1205.74
+    },
+    {
+      "text": " I've got this cardboard thing on the back so I can stand there.",
+      "start": 1221.82,
+      "end": 1226.1
+    },
+    {
+      "text": " I can stand there.",
+      "start": 1226.32,
+      "end": 1227.66
+    },
+    {
+      "text": " I can even stand just here.",
+      "start": 1227.86,
+      "end": 1230.24
+    },
+    {
+      "text": " I guess it's brilliant.",
+      "start": 1230.5,
+      "end": 1231.56
+    },
+    {
+      "text": " Isn't that brilliant?",
+      "start": 1232.88,
+      "end": 1233.56
+    },
+    {
+      "text": " Oh.",
+      "start": 1237.22,
+      "end": 1237.9
+    },
+    {
+      "text": " Oh, no.",
+      "start": 1246.3,
+      "end": 1247.08
+    },
+    {
+      "text": " No, no.",
+      "start": 1247.2,
+      "end": 1247.84
+    },
+    {
+      "text": " Don't cry.",
+      "start": 1247.84,
+      "end": 1248.54
+    },
+    {
+      "text": " Oh, I've got the main bit.",
+      "start": 1249.94,
+      "end": 1252.86
+    },
+    {
+      "text": " There.",
+      "start": 1253.5,
+      "end": 1254.14
+    },
+    {
+      "text": " Oh.",
+      "start": 1254.14,
+      "end": 1256.02
+    },
+    {
+      "text": " Oh, no.",
+      "start": 1256.2,
+      "end": 1256.32
+    },
+    {
+      "text": " Oh, oh, no.",
+      "start": 1260.38,
+      "end": 1262.28
+    },
+    {
+      "text": " Oh, no, no, no, no, no, no.",
+      "start": 1269.98,
+      "end": 1282.72
+    },
+    {
+      "text": " Oh.",
+      "start": 1283.24,
+      "end": 1283.66
+    },
+    {
+      "text": " Thank you.",
+      "start": 1283.98,
+      "end": 1284.7
+    },
+    {
+      "text": " Merry Christmas, Mr. B.",
+      "start": 1314.0399999999997,
+      "end": 1316.14
+    },
+    {
+      "text": " Merry Christmas, Mr. B.",
+      "start": 1370.7399999999998,
+      "end": 1373.96
+    },
+    {
+      "text": " Merry Christmas, Mr. B.",
+      "start": 1400.84,
+      "end": 1403.96
+    },
+    {
+      "text": " Merry Christmas, Mr. B.",
+      "start": 1425.0,
+      "end": 1430.14
+    },
+    {
+      "text": " Merry Christmas, Mr. B.",
+      "start": 1442.9999999999998,
+      "end": 1448.06
+    },
+    {
+      "text": " Merry Christmas, Mr. B.",
+      "start": 1475.1,
+      "end": 1478.04
+    },
+    {
+      "text": " Merry Christmas, Mr. B.",
+      "start": 1478.04,
+      "end": 1491.88
+    },
+    {
+      "text": " Merry Christmas, Mr. B.",
+      "start": 1508.04,
+      "end": 1509.14
+    },
+    {
+      "text": " Merry Christmas, Mr. B.",
+      "start": 1554.44,
+      "end": 1568.02
+    },
+    {
+      "text": " I'm sorry sir nothing like this has ever happened before I'll get some on right away good morning",
+      "start": 1587.98,
+      "end": 1593.86
+    },
+    {
+      "text": " Yes",
+      "start": 1605.26,
+      "end": 1606.66
+    }
+  ],
+  "processing_time": 8.405085563659668,
+  "language": "en",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,234 @@
+{
+  "audio_file": "Komikus megoldások ｜ Trump.wav",
+  "full_text": "Trump is the worst, we need to get him out. We do. How are we going to do it? Well... I don't understand how he's still allowed near Twitter. What if everyone unfollows him on Twitter? That could be good. A mass exodus. Just everyone. That would be, yeah, because his pride is his biggest thing, isn't it? Completely. Oh, hacker's account, turn his picture into an egg. The Twitter egg. Oh my god! Yeah, egg. What shame. Egg of shame. Embarrassed him in public. There's nothing worse than being embarrassed. The ultimate put down that you cannot, there's no hiding from is, your breath stinks and you're boring. Boom! I think the key to bringing down Trump is to use his family against him. What if we got Melania to become a double agent? Yeah. This could be our time to like directly speak to her. So this better be captioned. What would it say? Let's just put Melania. Melania here. Melania. Skitop! Stop, Melania! Say what you want to say. Okay. Hi Melania. I think you have lovely hair, but we need you to become an agent for us. So next time you're about to do it, really sorry that you have to do that with him. Right? I want you to change Donald Trump's safe word. We're going to change it to something that his supporters would find abhorrent to hear. So maybe something like, oh I love Mexicans or more controls on guns. Health, healthcare for all. Record him saying it. Pfff! Downfall. Amazing. You can do it. He's 71 though. He's on his way out anyway. He's on his way out. He's on his way out. And then he's on his way out. He's on his way out. He's on his way out.",
+  "chunks": [
+    {
+      "text": " Trump is the worst, we need to get him out.",
+      "start": 0.0,
+      "end": 2.88
+    },
+    {
+      "text": " We do.",
+      "start": 2.96,
+      "end": 3.28
+    },
+    {
+      "text": " How are we going to do it?",
+      "start": 3.46,
+      "end": 4.54
+    },
+    {
+      "text": " Well...",
+      "start": 6.160000000000001,
+      "end": 6.56
+    },
+    {
+      "text": " I don't understand how he's still allowed near Twitter.",
+      "start": 7.840000000000002,
+      "end": 10.12
+    },
+    {
+      "text": " What if everyone unfollows him on Twitter?",
+      "start": 10.48,
+      "end": 12.02
+    },
+    {
+      "text": " That could be good. A mass exodus. Just everyone.",
+      "start": 12.14,
+      "end": 14.38
+    },
+    {
+      "text": " That would be, yeah, because his pride is his biggest thing, isn't it?",
+      "start": 14.66,
+      "end": 17.12
+    },
+    {
+      "text": " Completely. Oh, hacker's account, turn his picture into an egg.",
+      "start": 17.26,
+      "end": 20.62
+    },
+    {
+      "text": " The Twitter egg.",
+      "start": 21.34,
+      "end": 22.26
+    },
+    {
+      "text": " Oh my god!",
+      "start": 22.38,
+      "end": 23.02
+    },
+    {
+      "text": " Yeah, egg.",
+      "start": 23.64,
+      "end": 24.2
+    },
+    {
+      "text": " What shame.",
+      "start": 24.2,
+      "end": 24.44
+    },
+    {
+      "text": " Egg of shame.",
+      "start": 24.7,
+      "end": 25.14
+    },
+    {
+      "text": " Embarrassed him in public. There's nothing worse than being embarrassed.",
+      "start": 29.060000000000002,
+      "end": 32.02
+    },
+    {
+      "text": " The ultimate put down that you cannot, there's no hiding from is, your breath stinks and you're boring.",
+      "start": 32.44,
+      "end": 37.06
+    },
+    {
+      "text": " Boom!",
+      "start": 38.120000000000005,
+      "end": 38.52
+    },
+    {
+      "text": " I think the key to bringing down Trump is to use his family against him.",
+      "start": 40.28,
+      "end": 45.16
+    },
+    {
+      "text": " What if we got Melania to become a double agent?",
+      "start": 45.34,
+      "end": 48.6
+    },
+    {
+      "text": " Yeah.",
+      "start": 48.96,
+      "end": 49.06
+    },
+    {
+      "text": " This could be our time to like directly speak to her.",
+      "start": 49.76,
+      "end": 52.16
+    },
+    {
+      "text": " So this better be captioned.",
+      "start": 52.32,
+      "end": 53.6
+    },
+    {
+      "text": " What would it say?",
+      "start": 53.7,
+      "end": 54.16
+    },
+    {
+      "text": " Let's just put Melania.",
+      "start": 54.16,
+      "end": 55.42
+    },
+    {
+      "text": " Melania here.",
+      "start": 55.56,
+      "end": 56.1
+    },
+    {
+      "text": " Melania.",
+      "start": 56.52,
+      "end": 56.92
+    },
+    {
+      "text": " Skitop!",
+      "start": 58.300000000000004,
+      "end": 58.7
+    },
+    {
+      "text": " Stop, Melania!",
+      "start": 58.92,
+      "end": 59.68
+    },
+    {
+      "text": " Say what you want to say.",
+      "start": 59.9,
+      "end": 61.02
+    },
+    {
+      "text": " Okay. Hi Melania. I think you have lovely hair, but we need you to become an agent for us.",
+      "start": 61.1,
+      "end": 66.12
+    },
+    {
+      "text": " So next time you're about to do it, really sorry that you have to do that with him.",
+      "start": 66.24,
+      "end": 70.98
+    },
+    {
+      "text": " Right? I want you to change Donald Trump's safe word.",
+      "start": 71.34,
+      "end": 74.72
+    },
+    {
+      "text": " We're going to change it to something that his supporters would find abhorrent to hear.",
+      "start": 74.72,
+      "end": 78.82
+    },
+    {
+      "text": " So maybe something like, oh I love Mexicans or more controls on guns.",
+      "start": 79.18,
+      "end": 83.18
+    },
+    {
+      "text": " Health, healthcare for all. Record him saying it.",
+      "start": 83.83999999999999,
+      "end": 86.6
+    },
+    {
+      "text": " Pfff! Downfall.",
+      "start": 87.36,
+      "end": 88.52
+    },
+    {
+      "text": " Amazing.",
+      "start": 88.52,
+      "end": 89.1
+    },
+    {
+      "text": " You can do it.",
+      "start": 89.3,
+      "end": 89.82
+    },
+    {
+      "text": " He's 71 though.",
+      "start": 91.82000000000001,
+      "end": 92.78
+    },
+    {
+      "text": " He's on his way out anyway.",
+      "start": 93.06,
+      "end": 94.08
+    },
+    {
+      "text": " He's on his way out.",
+      "start": 94.26,
+      "end": 94.38
+    },
+    {
+      "text": " He's on his way out.",
+      "start": 94.38,
+      "end": 94.76
+    },
+    {
+      "text": " And then he's on his way out.",
+      "start": 94.76,
+      "end": 94.92
+    },
+    {
+      "text": " He's on his way out.",
+      "start": 94.96,
+      "end": 95.04
+    },
+    {
+      "text": " He's on his way out.",
+      "start": 95.04,
+      "end": 95.06
+    }
+  ],
+  "processing_time": 1.504861831665039,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

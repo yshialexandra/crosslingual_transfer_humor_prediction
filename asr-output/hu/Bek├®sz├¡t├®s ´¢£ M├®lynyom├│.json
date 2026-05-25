@@ -1,0 +1,44 @@
+{
+  "audio_file": "Bekészítés ｜ Mélynyomó.wav",
+  "full_text": "A T 머리 Beszerök ezeken az izzlandiakon! Három tagú zenekar! Minek nekik ennyi víz? Megnyerted. 17 Celsius fokos eper! Hagyjad még hűlni nekik, mert megmelegszik, mire ideérnek a parasztok. Tökömér kell, na pernyő az öltözőbe. Ezt teszi az emberrel a어야 demasiélet. Tavaly még sörré játszottak... Ne segíts! Meglesz!",
+  "chunks": [
+    {
+      "text": " A T 머리",
+      "start": 5.9399999999999995,
+      "end": 6.58
+    },
+    {
+      "text": " Beszerök ezeken az izzlandiakon! Három tagú zenekar! Minek nekik ennyi víz?",
+      "start": 6.58,
+      "end": 10.44
+    },
+    {
+      "text": " Megnyerted. 17 Celsius fokos eper!",
+      "start": 10.7,
+      "end": 14.76
+    },
+    {
+      "text": " Hagyjad még hűlni nekik, mert megmelegszik, mire ideérnek a parasztok.",
+      "start": 15.38,
+      "end": 19.38
+    },
+    {
+      "text": " Tökömér kell, na pernyő az öltözőbe.",
+      "start": 20.02,
+      "end": 22.88
+    },
+    {
+      "text": " Ezt teszi az emberrel a어야 demasiélet. Tavaly még sörré játszottak...",
+      "start": 23.2,
+      "end": 27.86
+    },
+    {
+      "text": " Ne segíts! Meglesz!",
+      "start": 35.38,
+      "end": 37.76
+    }
+  ],
+  "processing_time": 1.4124300479888916,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

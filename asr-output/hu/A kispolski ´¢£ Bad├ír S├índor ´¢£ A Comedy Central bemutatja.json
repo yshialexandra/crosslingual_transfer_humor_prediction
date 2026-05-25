@@ -1,0 +1,524 @@
+{
+  "audio_file": "A kispolski ｜ Badár Sándor ｜ A Comedy Central bemutatja.wav",
+  "full_text": "A kis polszki is becsúszott. Autó autó követett, mert ezek mindig haltak meg, és én nem szereltem, hanem váltottam. Egy kis polszki is becsúszott. Most a kis polszki az vagy hátizsák, vagy táska, de mindenféleképpen nem autó. De mivel a kis polszkit ingyen kaptam, szinte ingyen, mert azt mondtam, hogy leviszem vidékre, itt Pesten, már a tárolása is pénzbe kerül, parkolót kell fizetni. Én leviszem, ott biztos lesz egy vállalkozó ember, aki majd megvásárolja, és pontosan tudtam, hogy ha leviszem, és nem az, Moszkvicsba tankolok borzasztó mennyiségűt, mert Moszkvics az 15-öt evett. Olajból is, hol van még a benzint? Annyit, annyit spórolok, hogy a kis polszki szinte ingyen vásárolom meg, hogyha egy évig nem indítom be, hanem csak félreteszem azt a pénzt, amiből a Moszkvicsot indítottam volna. És hát így is tettem, ezzel nem lett volna semmi probléma, de a kis polszki Budapesthez szokott. Tehát én ugye beleültem a Moszkvics után a kis polszkiba itt Pesten, úgy, hogy szakadt az eső, és elindultam, és valahol ott a keleti mellett volt egy benzinkút, ahol szerettem volna tankolni, és már kezdődtek a problémák, mert nem tudom, hogy kis polszkinak hány ajtaja van, de az száz százalék, hogy nekem volt egy nyolcvan kulcsom a csomón. Tehát ugye ahányszor kulcsot kellett cserélni, a régi kulcsot mindig meghajták, és ebben beletartozott a tanksapka is. Na most hát ott a kúton így elkezdtem szorakodni, kutasd meg így át, azt mondja, esik az eső. Mondom, igen. Az a baj, hogy most kijöttem, azt most nem tudok visszajülni, hogy... Megaláztam saját magam. De mindjárt, mindjárt, mindjárt, azt mondja, kifakadt, azt mondja, az rendben van, hogy lopta az autót. De hogy nem tudja kinyitni, az azért borzasztó. Ekkor egy kicsit felfortjantam, és így belenyomtam így a kulcsomot a markába, mondom, tele kérem. Addig én bemegyek a sobbba. Akkor próbálkozzák azért, hogy kutasd. És... Teletankolta, hozta be... Tessék, itt a kulcs. És ő bement a helyére. Én meg mentem ki a szakadó esőbe, mert ő visszazárt mindent. Kezdődött előre az egész történet. Aztán nagy nehezen belejutottam a Kisposzkiba, és elindultam hazafelé, Szentesre, de az élet nem állt meg. Pesten jövök keresztül, ugye én, aki a Moszkvishoz voltam hozzászokva, az azt jelentette, hogy mindent láttam fölülről. A Kisposzkiba meg alulról. Olyan területeken mentem, hogy teljesen ismeretlen volt számomra ez a Budapest. Néztem ilyen bokamagosságba, még életemben nem jártam, mondom. Hula, jó, Atya Úristenemben vagyok, a Tócsja egy óceánnal ért föld. Amit hozzáteszem... Amit hozzáteszem, hogy nem láttam, mert a Kisposzkain sok mindenem volt, de fénye nem. Nem, mert Pesthez volt hozzászokva, van közvilágítás Pesten, érted? De hogyha befordulsz egy olyan utcába, amiben még életedben nem jártál, és nem tudod, hogy mi van ott, így néztem ki a szememek, mondom, hogy a gyertye van az elejébe, roldjam. Pfff... És akkor behatolt a gőz, mindegy, mindegy, mindegy, jussak ki az ötösre, ott már csak egy irányba mennek az autók. Ha jó irányba megyek föl. Ha meg elbaszalítottam, akkor meg már úgyis mindegy, mert azt nézik, egy kék szunyag jön szembe. Pfff... Másra meg se írják az újságok, mert nem veszik észre. Én meg ott így ültem így, és így önkivilleti állapotban, hogy... Hazamentem szentesre úgy, hogy már Csongrád környékén már így pöfékelt, hogy... Pfff... Tehát másnap ez volt. Toltam el a szerelőhöz. Azt mondja, mi van, vettél megint egy szart? Nem, ez nagyon jó, csak nem tudom, hogy mi van benne hátul, mondom. Lehet, hogy motor, lehet, hogy nem.",
+  "chunks": [
+    {
+      "text": " A kis polszki is becsúszott.",
+      "start": 1.3000000000000032,
+      "end": 1.94
+    },
+    {
+      "text": " Autó autó követett, mert ezek mindig haltak meg,",
+      "start": 1.94,
+      "end": 4.06
+    },
+    {
+      "text": " és én nem szereltem, hanem váltottam.",
+      "start": 4.18,
+      "end": 6.48
+    },
+    {
+      "text": " Egy kis polszki is becsúszott.",
+      "start": 7.180000000000003,
+      "end": 8.92
+    },
+    {
+      "text": " Most a kis polszki az vagy hátizsák, vagy táska,",
+      "start": 9.08,
+      "end": 12.32
+    },
+    {
+      "text": " de mindenféleképpen nem autó.",
+      "start": 12.38,
+      "end": 13.9
+    },
+    {
+      "text": " De mivel a kis polszkit ingyen kaptam,",
+      "start": 14.3,
+      "end": 16.6
+    },
+    {
+      "text": " szinte ingyen, mert azt mondtam,",
+      "start": 16.74,
+      "end": 18.32
+    },
+    {
+      "text": " hogy leviszem vidékre,",
+      "start": 18.46,
+      "end": 19.8
+    },
+    {
+      "text": " itt Pesten, már a tárolása is pénzbe kerül,",
+      "start": 19.92,
+      "end": 22.6
+    },
+    {
+      "text": " parkolót kell fizetni.",
+      "start": 22.76,
+      "end": 23.98
+    },
+    {
+      "text": " Én leviszem, ott biztos lesz egy vállalkozó ember,",
+      "start": 24.24,
+      "end": 26.26
+    },
+    {
+      "text": " aki majd megvásárolja,",
+      "start": 26.36,
+      "end": 27.42
+    },
+    {
+      "text": " és pontosan tudtam, hogy ha leviszem,",
+      "start": 27.54,
+      "end": 29.42
+    },
+    {
+      "text": " és nem az, Moszkvicsba tankolok borzasztó mennyiségűt,",
+      "start": 30.0,
+      "end": 32.7
+    },
+    {
+      "text": " mert Moszkvics az 15-öt evett.",
+      "start": 32.78,
+      "end": 34.24
+    },
+    {
+      "text": " Olajból is, hol van még a benzint?",
+      "start": 35.1,
+      "end": 36.7
+    },
+    {
+      "text": " Annyit, annyit spórolok,",
+      "start": 41.080000000000005,
+      "end": 42.62
+    },
+    {
+      "text": " hogy a kis polszki szinte ingyen vásárolom meg,",
+      "start": 43.0,
+      "end": 45.2
+    },
+    {
+      "text": " hogyha egy évig nem indítom be,",
+      "start": 45.32,
+      "end": 46.8
+    },
+    {
+      "text": " hanem csak félreteszem azt a pénzt,",
+      "start": 47.1,
+      "end": 48.6
+    },
+    {
+      "text": " amiből a Moszkvicsot indítottam volna.",
+      "start": 48.62,
+      "end": 50.8
+    },
+    {
+      "text": " És hát így is tettem,",
+      "start": 50.96,
+      "end": 52.0
+    },
+    {
+      "text": " ezzel nem lett volna semmi probléma,",
+      "start": 52.12,
+      "end": 53.54
+    },
+    {
+      "text": " de a kis polszki Budapesthez szokott.",
+      "start": 53.72,
+      "end": 56.12
+    },
+    {
+      "text": " Tehát én ugye beleültem",
+      "start": 56.28,
+      "end": 57.64
+    },
+    {
+      "text": " a Moszkvics után a kis polszkiba itt Pesten,",
+      "start": 57.64,
+      "end": 59.94
+    },
+    {
+      "text": " úgy, hogy szakadt az eső,",
+      "start": 60.16,
+      "end": 61.38
+    },
+    {
+      "text": " és elindultam, és valahol ott a keleti mellett",
+      "start": 61.52,
+      "end": 63.82
+    },
+    {
+      "text": " volt egy benzinkút, ahol szerettem volna tankolni,",
+      "start": 63.82,
+      "end": 66.52
+    },
+    {
+      "text": " és már kezdődtek a problémák,",
+      "start": 66.64,
+      "end": 68.52
+    },
+    {
+      "text": " mert nem tudom, hogy kis polszkinak hány ajtaja van,",
+      "start": 68.66,
+      "end": 71.3
+    },
+    {
+      "text": " de az száz százalék, hogy nekem volt egy nyolcvan kulcsom a csomón.",
+      "start": 71.5,
+      "end": 74.68
+    },
+    {
+      "text": " Tehát ugye ahányszor kulcsot kellett cserélni,",
+      "start": 74.68,
+      "end": 77.94
+    },
+    {
+      "text": " a régi kulcsot mindig meghajták,",
+      "start": 78.02,
+      "end": 79.6
+    },
+    {
+      "text": " és ebben beletartozott a tanksapka is.",
+      "start": 79.74,
+      "end": 81.72
+    },
+    {
+      "text": " Na most hát ott a kúton így elkezdtem szorakodni,",
+      "start": 81.78,
+      "end": 83.78
+    },
+    {
+      "text": " kutasd meg így át, azt mondja, esik az eső.",
+      "start": 85.1,
+      "end": 86.72
+    },
+    {
+      "text": " Mondom, igen.",
+      "start": 86.92,
+      "end": 87.52
+    },
+    {
+      "text": " Az a baj, hogy most kijöttem, azt most nem tudok visszajülni, hogy...",
+      "start": 89.2,
+      "end": 92.1
+    },
+    {
+      "text": " Megaláztam saját magam.",
+      "start": 93.6,
+      "end": 94.52
+    },
+    {
+      "text": " De mindjárt, mindjárt, mindjárt, azt mondja,",
+      "start": 94.68,
+      "end": 96.52
+    },
+    {
+      "text": " kifakadt, azt mondja, az rendben van,",
+      "start": 97.18,
+      "end": 98.82
+    },
+    {
+      "text": " hogy lopta az autót.",
+      "start": 98.82,
+      "end": 100.14
+    },
+    {
+      "text": " De hogy nem tudja kinyitni, az azért borzasztó.",
+      "start": 100.82,
+      "end": 103.52
+    },
+    {
+      "text": " Ekkor egy kicsit felfortjantam, és így belenyomtam így a kulcsomot a markába,",
+      "start": 103.8,
+      "end": 107.14
+    },
+    {
+      "text": " mondom, tele kérem.",
+      "start": 107.24,
+      "end": 108.14
+    },
+    {
+      "text": " Addig én bemegyek a sobbba.",
+      "start": 108.2,
+      "end": 109.44
+    },
+    {
+      "text": " Akkor próbálkozzák azért, hogy kutasd.",
+      "start": 109.9,
+      "end": 111.94
+    },
+    {
+      "text": " És...",
+      "start": 112.34,
+      "end": 112.52
+    },
+    {
+      "text": " Teletankolta, hozta be...",
+      "start": 116.8,
+      "end": 119.02
+    },
+    {
+      "text": " Tessék, itt a kulcs.",
+      "start": 119.02,
+      "end": 120.28
+    },
+    {
+      "text": " És ő bement a helyére.",
+      "start": 121.72,
+      "end": 123.3
+    },
+    {
+      "text": " Én meg mentem ki a szakadó esőbe,",
+      "start": 123.5,
+      "end": 125.42
+    },
+    {
+      "text": " mert ő visszazárt mindent.",
+      "start": 125.56,
+      "end": 126.84
+    },
+    {
+      "text": " Kezdődött előre az egész történet.",
+      "start": 126.84,
+      "end": 128.86
+    },
+    {
+      "text": " Aztán nagy nehezen belejutottam a Kisposzkiba,",
+      "start": 129.82,
+      "end": 131.98
+    },
+    {
+      "text": " és elindultam hazafelé, Szentesre,",
+      "start": 132.1,
+      "end": 133.86
+    },
+    {
+      "text": " de az élet nem állt meg.",
+      "start": 134.2,
+      "end": 135.3
+    },
+    {
+      "text": " Pesten jövök keresztül,",
+      "start": 135.6,
+      "end": 137.1
+    },
+    {
+      "text": " ugye én, aki a Moszkvishoz voltam hozzászokva,",
+      "start": 137.12,
+      "end": 140.14
+    },
+    {
+      "text": " az azt jelentette, hogy mindent láttam fölülről.",
+      "start": 140.28,
+      "end": 142.38
+    },
+    {
+      "text": " A Kisposzkiba meg alulról.",
+      "start": 142.54,
+      "end": 143.84
+    },
+    {
+      "text": " Olyan területeken mentem,",
+      "start": 144.72,
+      "end": 146.24
+    },
+    {
+      "text": " hogy teljesen ismeretlen volt számomra ez a Budapest.",
+      "start": 146.42,
+      "end": 148.9
+    },
+    {
+      "text": " Néztem ilyen bokamagosságba,",
+      "start": 149.24,
+      "end": 150.92
+    },
+    {
+      "text": " még életemben nem jártam, mondom.",
+      "start": 150.92,
+      "end": 153.44
+    },
+    {
+      "text": " Hula, jó, Atya Úristenemben vagyok,",
+      "start": 154.04,
+      "end": 155.64
+    },
+    {
+      "text": " a Tócsja egy óceánnal ért föld.",
+      "start": 156.84,
+      "end": 158.34
+    },
+    {
+      "text": " Amit hozzáteszem...",
+      "start": 160.35999999999999,
+      "end": 161.16
+    },
+    {
+      "text": " Amit hozzáteszem, hogy nem láttam,",
+      "start": 165.66,
+      "end": 166.84
+    },
+    {
+      "text": " mert a Kisposzkain sok mindenem volt,",
+      "start": 167.57999999999998,
+      "end": 169.66
+    },
+    {
+      "text": " de fénye nem.",
+      "start": 169.74,
+      "end": 170.36
+    },
+    {
+      "text": " Nem, mert Pesthez volt hozzászokva,",
+      "start": 171.16,
+      "end": 173.06
+    },
+    {
+      "text": " van közvilágítás Pesten, érted?",
+      "start": 173.12,
+      "end": 174.62
+    },
+    {
+      "text": " De hogyha befordulsz egy olyan utcába,",
+      "start": 174.76,
+      "end": 176.28
+    },
+    {
+      "text": " amiben még életedben nem jártál,",
+      "start": 176.36,
+      "end": 177.72
+    },
+    {
+      "text": " és nem tudod, hogy mi van ott,",
+      "start": 177.82,
+      "end": 178.82
+    },
+    {
+      "text": " így néztem ki a szememek, mondom,",
+      "start": 178.96,
+      "end": 180.76
+    },
+    {
+      "text": " hogy a gyertye van az elejébe, roldjam.",
+      "start": 180.84,
+      "end": 182.3
+    },
+    {
+      "text": " Pfff...",
+      "start": 183.9,
+      "end": 184.38
+    },
+    {
+      "text": " És akkor behatolt a gőz,",
+      "start": 184.38,
+      "end": 185.9
+    },
+    {
+      "text": " mindegy, mindegy, mindegy,",
+      "start": 185.98,
+      "end": 186.5
+    },
+    {
+      "text": " jussak ki az ötösre, ott már csak egy irányba mennek az autók.",
+      "start": 186.84,
+      "end": 190.06
+    },
+    {
+      "text": " Ha jó irányba megyek föl.",
+      "start": 190.92000000000002,
+      "end": 192.52
+    },
+    {
+      "text": " Ha meg elbaszalítottam,",
+      "start": 193.24,
+      "end": 194.68
+    },
+    {
+      "text": " akkor meg már úgyis mindegy,",
+      "start": 194.76,
+      "end": 195.8
+    },
+    {
+      "text": " mert azt nézik, egy kék szunyag jön szembe.",
+      "start": 195.86,
+      "end": 198.26
+    },
+    {
+      "text": " Pfff...",
+      "start": 199.22,
+      "end": 199.7
+    },
+    {
+      "text": " Másra meg se írják az újságok,",
+      "start": 199.7,
+      "end": 201.36
+    },
+    {
+      "text": " mert nem veszik észre.",
+      "start": 201.44,
+      "end": 202.5
+    },
+    {
+      "text": " Én meg ott így ültem így,",
+      "start": 204.08,
+      "end": 205.58
+    },
+    {
+      "text": " és így önkivilleti állapotban,",
+      "start": 205.62,
+      "end": 206.92
+    },
+    {
+      "text": " hogy...",
+      "start": 206.92,
+      "end": 207.38
+    },
+    {
+      "text": " Hazamentem szentesre úgy, hogy már Csongrád környékén",
+      "start": 210.66,
+      "end": 213.12
+    },
+    {
+      "text": " már így pöfékelt, hogy...",
+      "start": 213.12,
+      "end": 214.12
+    },
+    {
+      "text": " Pfff...",
+      "start": 216.5,
+      "end": 216.94
+    },
+    {
+      "text": " Tehát másnap ez volt.",
+      "start": 216.94,
+      "end": 218.42
+    },
+    {
+      "text": " Toltam el a szerelőhöz.",
+      "start": 221.7,
+      "end": 222.88
+    },
+    {
+      "text": " Azt mondja, mi van, vettél megint egy szart?",
+      "start": 223.0,
+      "end": 225.1
+    },
+    {
+      "text": " Nem, ez nagyon jó,",
+      "start": 225.1,
+      "end": 227.36
+    },
+    {
+      "text": " csak nem tudom, hogy mi van benne hátul, mondom.",
+      "start": 227.44,
+      "end": 229.48
+    },
+    {
+      "text": " Lehet, hogy motor, lehet, hogy nem.",
+      "start": 229.92,
+      "end": 231.24
+    }
+  ],
+  "processing_time": 1.5956096649169922,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,124 @@
+{
+  "audio_file": "Nem ｜ Mélynyomó.wav",
+  "full_text": "NAMASTE A TORONTOS A TORONTOS Na ragúj! Nem. Nem tudod, hogy mikor kezdőd. Hogy a parasztok! Azt tettem volna megkérdezni, hogy mikor kezdődött. Én pedig a munkámat szeretném elvégezni, mert én itt a színpadmester vagyok, nem pedig az információs kisasszony. Tudod? Hogyha valamire szükséged van, akkor oda lehet ballagni az infó ponthoz. De ott sokan vannak. Jó, akkor nézd meg az ingyenes programfüzetet, vagy kérdezd meg a kollégámat. Hát inkább a programfüzet, köszi. Mázlista, megúztál egy konfliktust. Aki tud, azt tud. Hát bizony, ezt csodálom benned, hogy mindig hülyébnek tudod magad tettetni, mint amilyen vagy. Ugye? Mindent, amit az életben elértem, ennek köszönhetek. Látom. Köszönjük!",
+  "chunks": [
+    {
+      "text": " NAMASTE",
+      "start": 0.8999999999999997,
+      "end": 1.3
+    },
+    {
+      "text": " A TORONTOS",
+      "start": 5.68,
+      "end": 6.08
+    },
+    {
+      "text": " A TORONTOS",
+      "start": 6.08,
+      "end": 6.12
+    },
+    {
+      "text": " Na ragúj!",
+      "start": 6.12,
+      "end": 6.78
+    },
+    {
+      "text": " Nem.",
+      "start": 6.86,
+      "end": 7.08
+    },
+    {
+      "text": " Nem tudod, hogy mikor kezdőd.",
+      "start": 7.12,
+      "end": 8.8
+    },
+    {
+      "text": " Hogy a parasztok!",
+      "start": 9.46,
+      "end": 10.38
+    },
+    {
+      "text": " Azt tettem volna megkérdezni, hogy mikor kezdődött.",
+      "start": 10.46,
+      "end": 12.1
+    },
+    {
+      "text": " Én pedig a munkámat szeretném elvégezni,",
+      "start": 12.1,
+      "end": 14.56
+    },
+    {
+      "text": " mert én itt a színpadmester vagyok,",
+      "start": 14.62,
+      "end": 16.16
+    },
+    {
+      "text": " nem pedig az információs kisasszony.",
+      "start": 16.2,
+      "end": 18.02
+    },
+    {
+      "text": " Tudod?",
+      "start": 18.16,
+      "end": 18.42
+    },
+    {
+      "text": " Hogyha valamire szükséged van, akkor oda lehet ballagni az infó ponthoz.",
+      "start": 18.6,
+      "end": 22.12
+    },
+    {
+      "text": " De ott sokan vannak.",
+      "start": 22.64,
+      "end": 23.84
+    },
+    {
+      "text": " Jó, akkor nézd meg az ingyenes programfüzetet, vagy kérdezd meg a kollégámat.",
+      "start": 23.84,
+      "end": 27.48
+    },
+    {
+      "text": " Hát inkább a programfüzet, köszi.",
+      "start": 30.859999999999996,
+      "end": 33.2
+    },
+    {
+      "text": " Mázlista, megúztál egy konfliktust.",
+      "start": 35.08,
+      "end": 37.18
+    },
+    {
+      "text": " Aki tud, azt tud.",
+      "start": 38.4,
+      "end": 39.54
+    },
+    {
+      "text": " Hát bizony, ezt csodálom benned, hogy mindig hülyébnek tudod magad tettetni, mint amilyen vagy.",
+      "start": 40.16,
+      "end": 45.14
+    },
+    {
+      "text": " Ugye?",
+      "start": 45.3,
+      "end": 45.54
+    },
+    {
+      "text": " Mindent, amit az életben elértem, ennek köszönhetek.",
+      "start": 47.08,
+      "end": 49.88
+    },
+    {
+      "text": " Látom.",
+      "start": 50.66,
+      "end": 51.22
+    },
+    {
+      "text": " Köszönjük!",
+      "start": 57.04,
+      "end": 58.44
+    }
+  ],
+  "processing_time": 2.0384058952331543,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

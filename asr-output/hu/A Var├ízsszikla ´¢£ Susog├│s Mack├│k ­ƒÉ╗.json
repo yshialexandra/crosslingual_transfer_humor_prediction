@@ -1,0 +1,129 @@
+{
+  "audio_file": "A Varázsszikla ｜ Susogós Mackók 🐻.wav",
+  "full_text": "SZÁNYÁ! SÁNYÁ! SZÁNYÁ! SZÁNYÁ! SZÁNYÁ! Gyere, gyere már, gyere már! Ezt nézd mit szereztem! Ez egy csakra! Érted? Csakra! Olcsón vettem egy haverról! Ezzel spirituális központot csinálhatunk a telebből! Az emberek fizetni fognak azért, hogy hozzáérhessenek a varázs sziklához! Gaszdagok leszünk, Sanyá! Gaszdagok! Mi történik, ha hozzáérnek? Azt mondják, hogy minden betegséget meggyógyít. De én még nem próbáltam. Érj hozzá! Én nem akartam, a sziklától volt. A sziklától? Aha. Nem lehet, hogy ez nem is gyógyít, hanem csak simán fingannod kell, ha megérinted. Hát, ez megmagyaráznál, miért volt olyan olcsó. Ezzelrűzör! Azt mondta! Ezzelrűzör! Köszönöm, hogy megnézted!",
+  "chunks": [
+    {
+      "text": " SZÁNYÁ! SÁNYÁ!",
+      "start": 12.340000000000002,
+      "end": 13.38
+    },
+    {
+      "text": " SZÁNYÁ!",
+      "start": 14.14,
+      "end": 14.38
+    },
+    {
+      "text": " SZÁNYÁ!",
+      "start": 14.38,
+      "end": 14.4
+    },
+    {
+      "text": " SZÁNYÁ!",
+      "start": 14.4,
+      "end": 14.42
+    },
+    {
+      "text": " Gyere, gyere már, gyere már! Ezt nézd mit szereztem!",
+      "start": 14.42,
+      "end": 16.5
+    },
+    {
+      "text": " Ez egy csakra!",
+      "start": 16.64,
+      "end": 18.12
+    },
+    {
+      "text": " Érted? Csakra! Olcsón vettem egy haverról!",
+      "start": 18.32,
+      "end": 20.72
+    },
+    {
+      "text": " Ezzel spirituális központot csinálhatunk a telebből!",
+      "start": 20.84,
+      "end": 23.52
+    },
+    {
+      "text": " Az emberek fizetni fognak azért, hogy hozzáérhessenek",
+      "start": 23.66,
+      "end": 26.42
+    },
+    {
+      "text": " a varázs sziklához!",
+      "start": 26.42,
+      "end": 28.0
+    },
+    {
+      "text": " Gaszdagok leszünk, Sanyá!",
+      "start": 29.3,
+      "end": 30.52
+    },
+    {
+      "text": " Gaszdagok!",
+      "start": 31.1,
+      "end": 31.74
+    },
+    {
+      "text": " Mi történik, ha hozzáérnek?",
+      "start": 32.54,
+      "end": 34.64
+    },
+    {
+      "text": " Azt mondják, hogy minden betegséget meggyógyít.",
+      "start": 34.92,
+      "end": 37.68
+    },
+    {
+      "text": " De én még nem próbáltam. Érj hozzá!",
+      "start": 38.04,
+      "end": 40.74
+    },
+    {
+      "text": " Én nem akartam, a sziklától volt.",
+      "start": 46.22,
+      "end": 48.84
+    },
+    {
+      "text": " A sziklától?",
+      "start": 49.14,
+      "end": 50.24
+    },
+    {
+      "text": " Aha.",
+      "start": 50.34,
+      "end": 50.56
+    },
+    {
+      "text": " Nem lehet, hogy ez nem is gyógyít, hanem csak simán fingannod kell, ha megérinted.",
+      "start": 70.12,
+      "end": 74.1
+    },
+    {
+      "text": " Hát, ez megmagyaráznál, miért volt olyan olcsó.",
+      "start": 76.2,
+      "end": 78.78
+    },
+    {
+      "text": " Ezzelrűzör!",
+      "start": 89.61999999999999,
+      "end": 89.66
+    },
+    {
+      "text": " Azt mondta!",
+      "start": 89.7,
+      "end": 89.76
+    },
+    {
+      "text": " Ezzelrűzör!",
+      "start": 90.56,
+      "end": 90.6
+    },
+    {
+      "text": " Köszönöm, hogy megnézted!",
+      "start": 90.6,
+      "end": 90.74
+    }
+  ],
+  "processing_time": 2.3938069343566895,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

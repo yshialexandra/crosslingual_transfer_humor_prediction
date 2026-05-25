@@ -1,0 +1,149 @@
+{
+  "audio_file": "Las Peores Tomas Del Jurado ｜ Tomas Falsas Parte 1 ｜ Roast Battle 3.wav",
+  "full_text": "Bueno, qué chistacos, ¿eh? Impresionante. ¿Están haciendo tiempo porque no te acuerdas de ninguno? Ponte de pie, por favor, te lo digo, porque yo no pensé que podía asistir Iniesta, pero en pequeño. ¿A que te lo han dicho muchas veces? ¿Qué? Es lo mejor que te han dicho en la vida. Tú debes ser pibonéxica. Creo que junto con Scarlett Johansson eres un nuevo amor platónico. ¿De verdad? ¿Pero me has llamado pibonéxica? Porque las pibonéxicas creen que están buenas sin serlo. Bueno, me confío. Bienvenidos a Rose Battle, las batallas de gallos de la gente que sí tiene el graduado escolar. Creo. Esto es... No, soy Dani Mateo. Me he liado con mi nombre. Esto es Dani Mateo. Yo soy Rose Battle. Esto es Dani Mateo. Su cerebro parece una bola de pinball. Tendría que haberme leído esto. Un aplauso con... Un aplauso con... ¡Esta mierda seis horas esperando! Pero en forma de fuerza, ¿eh? No, de hacer risa a mi puta. Repito. ¿Por qué? Estaba muy bien. Porque me da la puta gana repetir, ¿vale? Pero estaba muy bien para ser tú. Para ser tú muy bien, Cario. No te exijas. No te exijas. No te exijas. No te exijas. Bueno, deтов уверas y tienes que verte, ¿vale? No te exijas.",
+  "chunks": [
+    {
+      "text": " Bueno, qué chistacos, ¿eh? Impresionante.",
+      "start": 1.4200000000000015,
+      "end": 4.46
+    },
+    {
+      "text": " ¿Están haciendo tiempo porque no te acuerdas de ninguno?",
+      "start": 4.56,
+      "end": 6.14
+    },
+    {
+      "text": " Ponte de pie, por favor, te lo digo, porque yo no pensé que podía asistir Iniesta, pero en pequeño.",
+      "start": 8.3,
+      "end": 12.7
+    },
+    {
+      "text": " ¿A que te lo han dicho muchas veces?",
+      "start": 13.940000000000001,
+      "end": 15.44
+    },
+    {
+      "text": " ¿Qué?",
+      "start": 16.28,
+      "end": 16.68
+    },
+    {
+      "text": " Es lo mejor que te han dicho en la vida.",
+      "start": 17.400000000000002,
+      "end": 19.62
+    },
+    {
+      "text": " Tú debes ser pibonéxica. Creo que junto con Scarlett Johansson eres un nuevo amor platónico.",
+      "start": 20.72,
+      "end": 26.04
+    },
+    {
+      "text": " ¿De verdad? ¿Pero me has llamado pibonéxica? Porque las pibonéxicas creen que están buenas sin serlo.",
+      "start": 26.04,
+      "end": 31.46
+    },
+    {
+      "text": " Bueno, me confío.",
+      "start": 31.94,
+      "end": 32.76
+    },
+    {
+      "text": " Bienvenidos a Rose Battle, las batallas de gallos de la gente que sí tiene el graduado escolar.",
+      "start": 35.6,
+      "end": 40.58
+    },
+    {
+      "text": " Creo. Esto es... No, soy Dani Mateo. Me he liado con mi nombre.",
+      "start": 41.08,
+      "end": 45.52
+    },
+    {
+      "text": " Esto es Dani Mateo. Yo soy Rose Battle.",
+      "start": 46.46,
+      "end": 49.52
+    },
+    {
+      "text": " Esto es Dani Mateo.",
+      "start": 51.1,
+      "end": 52.6
+    },
+    {
+      "text": " Su cerebro parece una bola de pinball.",
+      "start": 52.6,
+      "end": 55.2
+    },
+    {
+      "text": " Tendría que haberme leído esto.",
+      "start": 58.940000000000005,
+      "end": 60.22
+    },
+    {
+      "text": " Un aplauso con... Un aplauso con...",
+      "start": 60.56,
+      "end": 63.3
+    },
+    {
+      "text": " ¡Esta mierda seis horas esperando!",
+      "start": 65.01999999999998,
+      "end": 67.08
+    },
+    {
+      "text": " Pero en forma de fuerza, ¿eh? No, de hacer risa a mi puta.",
+      "start": 68.86000000000001,
+      "end": 71.26
+    },
+    {
+      "text": " Repito.",
+      "start": 72.78,
+      "end": 73.18
+    },
+    {
+      "text": " ¿Por qué? Estaba muy bien.",
+      "start": 73.58,
+      "end": 74.6
+    },
+    {
+      "text": " Porque me da la puta gana repetir, ¿vale?",
+      "start": 74.78,
+      "end": 76.28
+    },
+    {
+      "text": " Pero estaba muy bien para ser tú. Para ser tú muy bien, Cario.",
+      "start": 76.36,
+      "end": 79.26
+    },
+    {
+      "text": " No te exijas.",
+      "start": 79.4,
+      "end": 80.16
+    },
+    {
+      "text": " No te exijas.",
+      "start": 80.16,
+      "end": 82.46
+    },
+    {
+      "text": " No te exijas.",
+      "start": 83.26,
+      "end": 84.56
+    },
+    {
+      "text": " No te exijas.",
+      "start": 84.7,
+      "end": 85.18
+    },
+    {
+      "text": " Bueno, deтов уверas y tienes que verte, ¿vale?",
+      "start": 85.24,
+      "end": 90.56
+    },
+    {
+      "text": " No te exijas.",
+      "start": 92.7,
+      "end": 93.84
+    }
+  ],
+  "processing_time": 1.9003546237945557,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

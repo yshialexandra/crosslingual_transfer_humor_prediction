@@ -1,0 +1,234 @@
+{
+  "audio_file": "Joan Pico： La Estafa Ser Coach ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "Claro, es que son muy inteligentes. Un coach cobra por hacerte preguntas. Tú le dices a un coach, ¿crees que derrocho el dinero? Y él te responde, ¿qué crees tú? 200 euros, ¿sabes? Joder, que yo le dije... Que yo le dije, joder, macho, no tengo 200 pavos. Dice, ¿entonces qué? ¿No me vas a pagar? Digo, no sé, ¿qué crees tú? Por eso a mí con el coaching me pasa como con la marihuana, ¿vale? Que me encanta, pero he acabado hasta la polla. O sea, sí, porque están los cursos de coaching estos multitudinarios, 200 personas en un hotel ahí, ¿no? Te lo venden como si fuera la vacuna contra el cáncer, lo más maravilloso del mundo, como hacerle la eutanasia al hijo de Will Smith, ¿no? Y llegan ahí y te prometen que te van a enseñar el truco para conseguir el trabajo que quieres, el dinero que quieres, la pareja que quieres. Claro, yo llegué preparado para falsificar el DNI de Brad Pitt. Cuando llega el momento te dicen que el truco es trabajar, trabajar y trabajar. Hostia, esto es como si Harry Potter te promete enseñarte a volar y a la hora de la verdad te dice, ¿quieres volar? ¿Estás preparado? Ok. Métete en internet, pon vuelos baratos. Cógete el más barato, no seas tonto. Y vete al aeropuerto a la hora que te pone ahí. Claro, te decepciona más que un minion presentando pasapalabra. Así que por eso prefiero cosas mucho más potentes como un chamán. Sí, porque la sabiduría chamánica data del año 1500 AC, antes de Coach, ¿sabes? Súper antigua. Yo fui a un chamán y me puse ahí delante de él y el tío... ¡Ay, ay, esto es tu aura! Y al lado había un grupo de chavales con problemas de psicomotricidad y el tío... ¡Ay, ay, estos son aurin! Claro, lo vio. Que lo vio, que lo vio. Esto es verdad. Entonces, claro, yo he estado investigando en internet y me he dado cuenta de que todos los coach tienen algo en común. Todos. Tienen un pasado oscuro. Turbio. Se ve que para llegar a ser coach tienes que haber superado algún trauma, ¿sabes? Son como Batman. Lo que pasa es que Batman te viene con su Batmóvil y un coach te viene con su couche, ¿no? Es una diferencia... Bueno, soy, soy yo. Es así.",
+  "chunks": [
+    {
+      "text": " Claro, es que son muy inteligentes. Un coach cobra por hacerte preguntas.",
+      "start": 1.3000000000000014,
+      "end": 5.32
+    },
+    {
+      "text": " Tú le dices a un coach, ¿crees que derrocho el dinero?",
+      "start": 5.56,
+      "end": 8.68
+    },
+    {
+      "text": " Y él te responde, ¿qué crees tú?",
+      "start": 9.700000000000001,
+      "end": 12.38
+    },
+    {
+      "text": " 200 euros, ¿sabes?",
+      "start": 13.780000000000003,
+      "end": 15.24
+    },
+    {
+      "text": " Joder, que yo le dije...",
+      "start": 16.18,
+      "end": 18.0
+    },
+    {
+      "text": " Que yo le dije, joder, macho, no tengo 200 pavos.",
+      "start": 20.62,
+      "end": 22.96
+    },
+    {
+      "text": " Dice, ¿entonces qué? ¿No me vas a pagar?",
+      "start": 23.24,
+      "end": 24.46
+    },
+    {
+      "text": " Digo, no sé, ¿qué crees tú?",
+      "start": 24.66,
+      "end": 26.6
+    },
+    {
+      "text": " Por eso a mí con el coaching me pasa como con la marihuana, ¿vale?",
+      "start": 28.66,
+      "end": 31.54
+    },
+    {
+      "text": " Que me encanta, pero he acabado hasta la polla.",
+      "start": 31.62,
+      "end": 33.12
+    },
+    {
+      "text": " O sea, sí, porque están los cursos de coaching estos multitudinarios, 200 personas en un hotel ahí, ¿no?",
+      "start": 33.34,
+      "end": 38.88
+    },
+    {
+      "text": " Te lo venden como si fuera la vacuna contra el cáncer, lo más maravilloso del mundo,",
+      "start": 38.92,
+      "end": 42.22
+    },
+    {
+      "text": " como hacerle la eutanasia al hijo de Will Smith, ¿no?",
+      "start": 42.34,
+      "end": 44.56
+    },
+    {
+      "text": " Y llegan ahí y te prometen que te van a enseñar el truco para conseguir el trabajo que quieres,",
+      "start": 46.14,
+      "end": 51.6
+    },
+    {
+      "text": " el dinero que quieres, la pareja que quieres.",
+      "start": 51.92,
+      "end": 54.04
+    },
+    {
+      "text": " Claro, yo llegué preparado para falsificar el DNI de Brad Pitt.",
+      "start": 54.800000000000004,
+      "end": 57.7
+    },
+    {
+      "text": " Cuando llega el momento te dicen que el truco es trabajar, trabajar y trabajar.",
+      "start": 58.52,
+      "end": 61.66
+    },
+    {
+      "text": " Hostia, esto es como si Harry Potter te promete enseñarte a volar",
+      "start": 62.82,
+      "end": 65.36
+    },
+    {
+      "text": " y a la hora de la verdad te dice, ¿quieres volar?",
+      "start": 65.36,
+      "end": 68.36
+    },
+    {
+      "text": " ¿Estás preparado?",
+      "start": 69.36,
+      "end": 70.14
+    },
+    {
+      "text": " Ok.",
+      "start": 71.02,
+      "end": 71.42
+    },
+    {
+      "text": " Métete en internet, pon vuelos baratos.",
+      "start": 73.78,
+      "end": 75.6
+    },
+    {
+      "text": " Cógete el más barato, no seas tonto.",
+      "start": 77.3,
+      "end": 78.7
+    },
+    {
+      "text": " Y vete al aeropuerto a la hora que te pone ahí.",
+      "start": 79.2,
+      "end": 81.08
+    },
+    {
+      "text": " Claro, te decepciona más que un minion presentando pasapalabra.",
+      "start": 81.78,
+      "end": 84.56
+    },
+    {
+      "text": " Así que por eso prefiero cosas mucho más potentes como un chamán.",
+      "start": 91.42,
+      "end": 95.0
+    },
+    {
+      "text": " Sí, porque la sabiduría chamánica data del año 1500 AC, antes de Coach, ¿sabes?",
+      "start": 95.52,
+      "end": 101.96
+    },
+    {
+      "text": " Súper antigua.",
+      "start": 103.53999999999999,
+      "end": 104.46
+    },
+    {
+      "text": " Yo fui a un chamán y me puse ahí delante de él y el tío...",
+      "start": 104.76,
+      "end": 107.92
+    },
+    {
+      "text": " ¡Ay, ay, esto es tu aura!",
+      "start": 107.92,
+      "end": 111.54
+    },
+    {
+      "text": " Y al lado había un grupo de chavales con problemas de psicomotricidad y el tío...",
+      "start": 112.04,
+      "end": 115.94
+    },
+    {
+      "text": " ¡Ay, ay, estos son aurin!",
+      "start": 115.94,
+      "end": 119.56
+    },
+    {
+      "text": " Claro, lo vio.",
+      "start": 119.86,
+      "end": 121.3
+    },
+    {
+      "text": " Que lo vio, que lo vio.",
+      "start": 122.5,
+      "end": 123.22
+    },
+    {
+      "text": " Esto es verdad.",
+      "start": 125.69999999999999,
+      "end": 126.32
+    },
+    {
+      "text": " Entonces, claro, yo he estado investigando en internet y me he dado cuenta de que todos los coach tienen algo en común.",
+      "start": 128.66,
+      "end": 133.72
+    },
+    {
+      "text": " Todos.",
+      "start": 133.96,
+      "end": 134.28
+    },
+    {
+      "text": " Tienen un pasado oscuro.",
+      "start": 134.56,
+      "end": 135.96
+    },
+    {
+      "text": " Turbio.",
+      "start": 136.64,
+      "end": 137.04
+    },
+    {
+      "text": " Se ve que para llegar a ser coach tienes que haber superado algún trauma, ¿sabes?",
+      "start": 137.52,
+      "end": 140.74
+    },
+    {
+      "text": " Son como Batman.",
+      "start": 140.88,
+      "end": 141.66
+    },
+    {
+      "text": " Lo que pasa es que Batman te viene con su Batmóvil y un coach te viene con su couche, ¿no?",
+      "start": 142.34,
+      "end": 146.96
+    },
+    {
+      "text": " Es una diferencia...",
+      "start": 147.12,
+      "end": 148.06
+    },
+    {
+      "text": " Bueno, soy, soy yo.",
+      "start": 148.06,
+      "end": 150.34
+    },
+    {
+      "text": " Es así.",
+      "start": 151.34,
+      "end": 152.22
+    }
+  ],
+  "processing_time": 0.9226996898651123,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

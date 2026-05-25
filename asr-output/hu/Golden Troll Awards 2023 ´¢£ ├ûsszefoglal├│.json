@@ -1,0 +1,99 @@
+{
+  "audio_file": "Golden Troll Awards 2023 ｜ Összefoglaló.wav",
+  "full_text": "Nem értem. Szégyen, beteges, guztustal és letépkínos. S*** lapok? S***, s***, te hén s***. Basszus. Arany Troll díj 2023, ahol a legjobb műsorok megkapják a legdurvább kommenteket. Nem ezt érdemeljük? Szépen vagyunk. Sziasztok, hölgyek, urak! Nézzük, ki kapja a következő díjat, ami egy teti unalmas f***. A főszereplő egy idióta. Néha én írom a saját jeleneteimet. Melegek lannak a sorozatban. Olyan izgatott vagyok, hogy nem bírok magammal! Semmi vicces nincs benne, egy halálunálmas f***. Az összes karakter idegesítő, bosszantó, okoskodó, beképzelt egoista. Zsír. És ezt a díjat kapja... Family Guy, kísértete, modern, salád, a jó szomszédon, szédom. Ma a Comedy Centralon.",
+  "chunks": [
+    {
+      "text": " Nem értem. Szégyen, beteges, guztustal és letépkínos.",
+      "start": 0.0,
+      "end": 4.0
+    },
+    {
+      "text": " S*** lapok? S***, s***, te hén s***.",
+      "start": 4.08,
+      "end": 6.72
+    },
+    {
+      "text": " Basszus.",
+      "start": 8.200000000000001,
+      "end": 8.96
+    },
+    {
+      "text": " Arany Troll díj 2023, ahol a legjobb műsorok megkapják a legdurvább kommenteket.",
+      "start": 9.78,
+      "end": 15.94
+    },
+    {
+      "text": " Nem ezt érdemeljük?",
+      "start": 16.26,
+      "end": 17.54
+    },
+    {
+      "text": " Szépen vagyunk.",
+      "start": 18.26,
+      "end": 19.04
+    },
+    {
+      "text": " Sziasztok, hölgyek, urak!",
+      "start": 19.36,
+      "end": 20.68
+    },
+    {
+      "text": " Nézzük, ki kapja a következő díjat, ami egy teti unalmas f***.",
+      "start": 21.38,
+      "end": 26.44
+    },
+    {
+      "text": " A főszereplő egy idióta.",
+      "start": 28.82,
+      "end": 30.44
+    },
+    {
+      "text": " Néha én írom a saját jeleneteimet.",
+      "start": 31.12,
+      "end": 32.44
+    },
+    {
+      "text": " Melegek lannak a sorozatban.",
+      "start": 33.24,
+      "end": 34.44
+    },
+    {
+      "text": " Olyan izgatott vagyok, hogy nem bírok magammal!",
+      "start": 35.14,
+      "end": 37.14
+    },
+    {
+      "text": " Semmi vicces nincs benne, egy halálunálmas f***.",
+      "start": 37.24,
+      "end": 40.34
+    },
+    {
+      "text": " Az összes karakter idegesítő, bosszantó, okoskodó, beképzelt egoista.",
+      "start": 41.16,
+      "end": 46.44
+    },
+    {
+      "text": " Zsír.",
+      "start": 47.36,
+      "end": 47.84
+    },
+    {
+      "text": " És ezt a díjat kapja...",
+      "start": 48.04,
+      "end": 49.68
+    },
+    {
+      "text": " Family Guy, kísértete, modern, salád, a jó szomszédon, szédom.",
+      "start": 49.68,
+      "end": 54.12
+    },
+    {
+      "text": " Ma a Comedy Centralon.",
+      "start": 54.12,
+      "end": 57.120000000000005
+    }
+  ],
+  "processing_time": 0.4194643497467041,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

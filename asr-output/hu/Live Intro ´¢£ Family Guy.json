@@ -1,0 +1,39 @@
+{
+  "audio_file": "Live Intro ｜ Family Guy.wav",
+  "full_text": "A tévében már nicz semmi más, csak szex meg bűn, ez lett a szórakozás. A régió dolgok úgy eldűntek, hogy átva marad a száj. Még jó, hogy van a family guy! Megmutatjuk neked, foghatod a fejed, csész vagy nevetsz rajta, hasad fáj! Itt a family guy! Köszönöm!",
+  "chunks": [
+    {
+      "text": " A tévében már nicz semmi más, csak szex meg bűn, ez lett a szórakozás.",
+      "start": 0.0,
+      "end": 7.0
+    },
+    {
+      "text": " A régió dolgok úgy eldűntek, hogy átva marad a száj.",
+      "start": 7.18,
+      "end": 13.34
+    },
+    {
+      "text": " Még jó, hogy van a family guy!",
+      "start": 13.64,
+      "end": 16.1
+    },
+    {
+      "text": " Megmutatjuk neked, foghatod a fejed, csész vagy nevetsz rajta, hasad fáj!",
+      "start": 17.4,
+      "end": 23.6
+    },
+    {
+      "text": " Itt a family guy!",
+      "start": 23.94,
+      "end": 27.78
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 32.660000000000004,
+      "end": 34.06
+    }
+  ],
+  "processing_time": 0.6722533702850342,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

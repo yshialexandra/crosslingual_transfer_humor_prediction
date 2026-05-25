@@ -1,0 +1,1 @@
+{"0": {"start_sec": 99.2, "end_sec": 100.0, "class_id": 19, "class_name": "Snicker", "logit": 0.364}, "1": {"start_sec": 99.2, "end_sec": 100.0, "class_id": 21, "class_name": "Chuckle, chortle", "logit": 0.0479}, "2": {"start_sec": 370.40000000000003, "end_sec": 371.20000000000005, "class_id": 19, "class_name": "Snicker", "logit": 0.002}}

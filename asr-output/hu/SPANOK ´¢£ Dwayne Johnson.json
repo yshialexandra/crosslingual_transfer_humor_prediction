@@ -1,0 +1,79 @@
+{
+  "audio_file": "SPANOK ｜ Dwayne Johnson.wav",
+  "full_text": "Köszönöm. Ennyi, drág, húha! Hát azért egy komoly szín eszez, ne tegyük már! Most nem azt mondom, hogy egy pát csínó, de amit csinál, abban iszonyat profi. Aha. Százmilliókra fizetik, szerinted megéri? Nálam, hát én megcsinálom bármikor. Egy különbség van a csávó, meg köztem. A szúrja magát én, nem. Ennyi. Igen? Hát meg a nyomorékok is megcsinálják, az összeset megcsinálom. De menjél haza, feküdjél-e, félrebeszél! Félsz? Csícska vagy? Ötrodj! Hát 5 tronjra fogadj! Meg fogsz halni! 5 tronj! Az összeset! Jó, hát én tudod el? Hát gyere! És most következik a Dig and Buck Fence! Kösz! Ijjj, Bratyesz! Jó vagy? Tesszük! Tesszük! Tízesből tudsz visszaadni? Acika, pénzzel most ne foglalkozzál, van neked nagyobb bajod is!",
+  "chunks": [
+    {
+      "text": " Köszönöm.",
+      "start": 28.580000000000002,
+      "end": 29.98
+    },
+    {
+      "text": " Ennyi, drág, húha! Hát azért egy komoly szín eszez, ne tegyük már!",
+      "start": 30.0,
+      "end": 34.14
+    },
+    {
+      "text": " Most nem azt mondom, hogy egy pát csínó, de amit csinál, abban iszonyat profi.",
+      "start": 34.5,
+      "end": 37.58
+    },
+    {
+      "text": " Aha. Százmilliókra fizetik, szerinted megéri? Nálam, hát én megcsinálom bármikor.",
+      "start": 37.76,
+      "end": 42.84
+    },
+    {
+      "text": " Egy különbség van a csávó, meg köztem. A szúrja magát én, nem. Ennyi.",
+      "start": 43.0,
+      "end": 47.54
+    },
+    {
+      "text": " Igen? Hát meg a nyomorékok is megcsinálják, az összeset megcsinálom.",
+      "start": 47.9,
+      "end": 53.14
+    },
+    {
+      "text": " De menjél haza, feküdjél-e, félrebeszél! Félsz? Csícska vagy? Ötrodj!",
+      "start": 53.3,
+      "end": 57.14
+    },
+    {
+      "text": " Hát 5 tronjra fogadj! Meg fogsz halni! 5 tronj! Az összeset! Jó, hát én tudod el? Hát gyere!",
+      "start": 57.96,
+      "end": 63.22
+    },
+    {
+      "text": " És most következik a Dig and Buck Fence!",
+      "start": 83.4,
+      "end": 86.64
+    },
+    {
+      "text": " Kösz!",
+      "start": 92.16,
+      "end": 92.86
+    },
+    {
+      "text": " Ijjj, Bratyesz! Jó vagy?",
+      "start": 92.86,
+      "end": 94.58
+    },
+    {
+      "text": " Tesszük! Tesszük!",
+      "start": 96.38,
+      "end": 97.78
+    },
+    {
+      "text": " Tízesből tudsz visszaadni?",
+      "start": 98.76,
+      "end": 100.42
+    },
+    {
+      "text": " Acika, pénzzel most ne foglalkozzál, van neked nagyobb bajod is!",
+      "start": 100.7,
+      "end": 103.4
+    }
+  ],
+  "processing_time": 2.454637289047241,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

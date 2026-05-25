@@ -1,0 +1,24 @@
+{
+  "audio_file": "Mélygarázs ｜ Elektronika.wav",
+  "full_text": "A TASZI CSEKRE hogyha nem jó. És minek a laptop? Hogy az utas filmet tudjon nézni. Milyen filmet? Bármilyet, amit letöltök. Jó, tudom, hogy illegal, de van rúter. Egyszer úgy meg fog büntetni a rendőr. Nem fog. Mert? Mert nem látom, hogyha integet. És miből vetted ezt a sok szart? Hitelből. Papa taxizás kitermeli. Az. Hopp. Uj, uj, kapás van. Cím, nyomj áll rá, nyomj áll rá. Nem tudok, mert szinkronizál. Basszus kulcs. Hát kitermeri a taxizás. Márjál? Illatfenyőt vetté volna. Uj, nem tudom. Hát, esetleg a kám. Ó. Előszerült a spagetti. Illanat. Rossz nézni. Mindjárt. Ó, hogy rohadjál meg.",
+  "chunks": [
+    {
+      "text": " A TASZI CSEKRE",
+      "start": 26.92,
+      "end": 29.98
+    },
+    {
+      "text": " hogyha nem jó. És minek a laptop? Hogy az utas filmet tudjon nézni. Milyen filmet? Bármilyet, amit letöltök. Jó, tudom, hogy illegal, de van rúter. Egyszer úgy meg fog büntetni a rendőr. Nem fog. Mert? Mert nem látom, hogyha integet. És miből vetted ezt a sok szart? Hitelből. Papa taxizás kitermeli. Az. Hopp. Uj, uj, kapás van. Cím, nyomj áll rá, nyomj áll rá. Nem tudok, mert szinkronizál. Basszus kulcs. Hát kitermeri a taxizás. Márjál? Illatfenyőt vetté volna. Uj, nem tudom. Hát,",
+      "start": 30.0,
+      "end": 59.78
+    },
+    {
+      "text": " esetleg a kám. Ó. Előszerült a spagetti. Illanat. Rossz nézni. Mindjárt. Ó, hogy rohadjál meg.",
+      "start": 60.0,
+      "end": 68.34
+    }
+  ],
+  "processing_time": 1.0216779708862305,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

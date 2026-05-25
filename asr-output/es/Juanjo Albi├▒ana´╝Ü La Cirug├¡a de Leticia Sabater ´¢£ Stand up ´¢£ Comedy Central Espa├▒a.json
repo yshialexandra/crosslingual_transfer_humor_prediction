@@ -1,0 +1,129 @@
+{
+  "audio_file": "Juanjo Albiñana： La Cirugía de Leticia Sabater ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "Otra cosa por la que vengo a quejarme, Leticia Sabater. ¿Viste la noticia esa de Leticia Sabater? Lo del... lo del toto. Para el que no lo sepa, Leticia Sabater se gastó 6.000 euros para operarse el toto y volver a ser virgen, ¿vale? 6.000 euros pa' un uso. Que yo me lo imagino, todos lo imaginamos, llegando ahí a la consulta del cirujano, al doctor, a plantearle el tema y decirle Hola, buenas, doctor. Venía porque quería que usted me operase. Me imagino que el doctor le dijo Ah, muy bien, tenemos un láser que te va a dejar los ojos perfectos. Y ella, ¿qué pasa con mis ojos, doctor? ¿Sabes por qué? Creo que ella no lo sabe, lo de los ojos, ¿sabes? Me la imagino ahí, ¿qué pasa con mis ojos, doctor? Y el doctor allí, ¿qué pasa con mis ojos? Y el doctor allí, ¿eh? Otra cosa por la que vengo a quejarme, los patinetes, estos que se han puesto de moda, ¿sabes lo que os digo? Estos que solo tienes que hacer así como... Que no tienes que andar ni nada. ¿Esto para qué coño es? Porque, o sea, no haces deporte, ya tenemos niños gordos, ¿para qué sacamos esta mierda? O sea, se llama, además, se llama hoverboard o algo así, es un invento americano o algo así. Si lo traduces al castellano, literalmente significa gilipatinete, ¿vale? Los odio estos patinetes, además, yo me pregunto qué pensará una persona que va en silla de ruedas que no puede andar cuando ve pasar por delante de él un chaval con eso. Le tiene que dar una rabia de la hostia, en plan, oye, chaval, yo no puedo andar, cabrón, yo me gustaría andar, ¿qué haces con esa mierda? Que además me da mucha rabia que a esta gente, que no puede andar o lo que sea, que le llamemos minusválidos o discapacitados. Esta gente, en todo caso, son válidos o capacitados porque han tenido un problema y lo han superado. Alguien que le llama minusválido o discapacitado es al del patinete, no me jodas. Gracias.",
+  "chunks": [
+    {
+      "text": " Otra cosa por la que vengo a quejarme, Leticia Sabater.",
+      "start": 1.4000000000000006,
+      "end": 4.02
+    },
+    {
+      "text": " ¿Viste la noticia esa de Leticia Sabater?",
+      "start": 7.220000000000001,
+      "end": 9.68
+    },
+    {
+      "text": " Lo del... lo del toto.",
+      "start": 9.86,
+      "end": 12.28
+    },
+    {
+      "text": " Para el que no lo sepa, Leticia Sabater se gastó 6.000 euros para operarse el toto y volver a ser virgen, ¿vale?",
+      "start": 13.34,
+      "end": 18.72
+    },
+    {
+      "text": " 6.000 euros pa' un uso.",
+      "start": 19.02,
+      "end": 20.66
+    },
+    {
+      "text": " Que yo me lo imagino, todos lo imaginamos, llegando ahí a la consulta del cirujano, al doctor, a plantearle el tema y decirle",
+      "start": 22.42,
+      "end": 26.84
+    },
+    {
+      "text": " Hola, buenas, doctor. Venía porque quería que usted me operase. Me imagino que el doctor le dijo",
+      "start": 26.84,
+      "end": 30.9
+    },
+    {
+      "text": " Ah, muy bien, tenemos un láser que te va a dejar los ojos perfectos.",
+      "start": 31.28,
+      "end": 34.72
+    },
+    {
+      "text": " Y ella, ¿qué pasa con mis ojos, doctor? ¿Sabes por qué? Creo que ella no lo sabe, lo de los ojos, ¿sabes?",
+      "start": 44.02,
+      "end": 48.36
+    },
+    {
+      "text": " Me la imagino ahí, ¿qué pasa con mis ojos, doctor? Y el doctor allí, ¿qué pasa con mis ojos?",
+      "start": 48.84,
+      "end": 51.76
+    },
+    {
+      "text": " Y el doctor allí, ¿eh?",
+      "start": 53.06,
+      "end": 53.88
+    },
+    {
+      "text": " Otra cosa por la que vengo a quejarme, los patinetes, estos que se han puesto de moda, ¿sabes lo que os digo?",
+      "start": 60.68,
+      "end": 64.62
+    },
+    {
+      "text": " Estos que solo tienes que hacer así como...",
+      "start": 65.04,
+      "end": 66.76
+    },
+    {
+      "text": " Que no tienes que andar ni nada.",
+      "start": 68.63999999999999,
+      "end": 69.98
+    },
+    {
+      "text": " ¿Esto para qué coño es? Porque, o sea, no haces deporte, ya tenemos niños gordos, ¿para qué sacamos esta mierda?",
+      "start": 70.72,
+      "end": 75.28
+    },
+    {
+      "text": " O sea, se llama, además, se llama hoverboard o algo así, es un invento americano o algo así.",
+      "start": 76.62,
+      "end": 81.22
+    },
+    {
+      "text": " Si lo traduces al castellano, literalmente significa gilipatinete, ¿vale?",
+      "start": 81.22,
+      "end": 84.28
+    },
+    {
+      "text": " Los odio estos patinetes, además, yo me pregunto qué pensará una persona que va en silla de ruedas que no puede andar",
+      "start": 85.66,
+      "end": 90.4
+    },
+    {
+      "text": " cuando ve pasar por delante de él un chaval con eso.",
+      "start": 90.4,
+      "end": 92.56
+    },
+    {
+      "text": " Le tiene que dar una rabia de la hostia, en plan, oye, chaval, yo no puedo andar, cabrón, yo me gustaría andar, ¿qué haces con esa mierda?",
+      "start": 93.8,
+      "end": 98.66
+    },
+    {
+      "text": " Que además me da mucha rabia que a esta gente, que no puede andar o lo que sea, que le llamemos minusválidos o discapacitados.",
+      "start": 99.66,
+      "end": 104.04
+    },
+    {
+      "text": " Esta gente, en todo caso, son válidos o capacitados porque han tenido un problema y lo han superado.",
+      "start": 104.2,
+      "end": 108.16
+    },
+    {
+      "text": " Alguien que le llama minusválido o discapacitado es al del patinete, no me jodas.",
+      "start": 108.52,
+      "end": 111.66
+    },
+    {
+      "text": " Gracias.",
+      "start": 128.66,
+      "end": 128.98
+    }
+  ],
+  "processing_time": 0.8085427284240723,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

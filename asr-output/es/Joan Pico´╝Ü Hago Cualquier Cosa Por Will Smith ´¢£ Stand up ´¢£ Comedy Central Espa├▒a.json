@@ -1,0 +1,164 @@
+{
+  "audio_file": "Joan Pico： Hago Cualquier Cosa Por Will Smith ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "Buenas noches, muchas gracias. ¿Qué tal? ¿Cómo estáis? Me llamo Joan Pico, soy actor. A mí me gustaría ser un tipo de actor comprometido, con conciencia social, de los que lucha por participar en proyectos alternativos, con sentido, con corazón... Y una puta mierda. Yo lo que quiero es ser rico y famoso. Pero muy rico y muy famoso, ¿eh? Como Will Smith. ¿Sabéis quién es? El director del hormiguero. A mí me encanta Will Smith. Me encanta su filosofía de vida, cómo trabaja, él como persona. Yo por Will Smith haría cualquier cosa que me pidiera hasta matar a su hijo. Y si no me lo pidiera también. Sí, sueño con ser famoso y con ganar premios importantes, como los ganadores de los premios Goya, ¿verdad? Ellos también sueñan con ganar premios importantes. No sé si sabéis quién es Candela Peña. ¿Conocéis a Candela Peña? Una mujer que se ponga lo que se ponga siempre parece que ha dormido en un camping. Candela Peña ganó su segundo Goya en 2013 por la película Una pistola en cada mano. Y cuando subió a recoger el premio, Candela hizo algo que me parece lamentable, penoso. O sea, sus palabras al recoger el premio fueron, cito textualmente, está en YouTube, lo podéis ver. Dijo, llevo tres años sin trabajar, desde aquí pido trabajo, tengo un hijo que alimentar. Mira, hasta el Goya estaba así. Hija de puta que te acaban de dar un Goya. Yo me he pasado tres meses en la cárcel por intentar robar el de Dani Rovira. Joder, es que es difícil currar como actor. No vale con enviar un currículum y hacer una entrevista. Te hacen un casting donde tienes que demostrar lo que vales en 30 segundos. Jodido, ¿no? Es como si para que te cogieran en un Starbucks te dijeran, a ver, escribe tu nombre en un vaso de papel. O para ser modelo te dijeran, a ver, métete este gramo de cocaína. O para ser policía municipal te dijeran, a ver, métete este gramo de cocaína. O sea de delivery dentro de la cárcel. Gracias.",
+  "chunks": [
+    {
+      "text": " Buenas noches, muchas gracias. ¿Qué tal? ¿Cómo estáis?",
+      "start": 1.2800000000000031,
+      "end": 3.4
+    },
+    {
+      "text": " Me llamo Joan Pico, soy actor.",
+      "start": 4.480000000000003,
+      "end": 6.92
+    },
+    {
+      "text": " A mí me gustaría ser un tipo de actor comprometido, con conciencia social,",
+      "start": 7.54,
+      "end": 11.44
+    },
+    {
+      "text": " de los que lucha por participar en proyectos alternativos, con sentido, con corazón...",
+      "start": 11.68,
+      "end": 16.5
+    },
+    {
+      "text": " Y una puta mierda.",
+      "start": 17.340000000000003,
+      "end": 18.46
+    },
+    {
+      "text": " Yo lo que quiero es ser rico y famoso.",
+      "start": 19.12,
+      "end": 20.9
+    },
+    {
+      "text": " Pero muy rico y muy famoso, ¿eh?",
+      "start": 21.400000000000002,
+      "end": 23.46
+    },
+    {
+      "text": " Como Will Smith. ¿Sabéis quién es? El director del hormiguero.",
+      "start": 23.54,
+      "end": 26.14
+    },
+    {
+      "text": " A mí me encanta Will Smith. Me encanta su filosofía de vida, cómo trabaja, él como persona.",
+      "start": 28.2,
+      "end": 33.2
+    },
+    {
+      "text": " Yo por Will Smith haría cualquier cosa que me pidiera hasta matar a su hijo.",
+      "start": 33.6,
+      "end": 36.98
+    },
+    {
+      "text": " Y si no me lo pidiera también.",
+      "start": 38.480000000000004,
+      "end": 39.6
+    },
+    {
+      "text": " Sí, sueño con ser famoso y con ganar premios importantes, como los ganadores de los premios Goya, ¿verdad?",
+      "start": 40.900000000000006,
+      "end": 46.0
+    },
+    {
+      "text": " Ellos también sueñan con ganar premios importantes.",
+      "start": 46.28,
+      "end": 48.22
+    },
+    {
+      "text": " No sé si sabéis quién es Candela Peña. ¿Conocéis a Candela Peña?",
+      "start": 50.02,
+      "end": 53.9
+    },
+    {
+      "text": " Una mujer que se ponga lo que se ponga siempre parece que ha dormido en un camping.",
+      "start": 54.36,
+      "end": 57.46
+    },
+    {
+      "text": " Candela Peña ganó su segundo Goya en 2013 por la película Una pistola en cada mano.",
+      "start": 59.7,
+      "end": 64.36
+    },
+    {
+      "text": " Y cuando subió a recoger el premio, Candela hizo algo que me parece lamentable, penoso.",
+      "start": 64.54,
+      "end": 69.2
+    },
+    {
+      "text": " O sea, sus palabras al recoger el premio fueron, cito textualmente, está en YouTube, lo podéis ver.",
+      "start": 69.72,
+      "end": 73.68
+    },
+    {
+      "text": " Dijo, llevo tres años sin trabajar, desde aquí pido trabajo, tengo un hijo que alimentar.",
+      "start": 73.8,
+      "end": 78.98
+    },
+    {
+      "text": " Mira, hasta el Goya estaba así.",
+      "start": 80.22,
+      "end": 81.32
+    },
+    {
+      "text": " Hija de puta que te acaban de dar un Goya.",
+      "start": 83.5,
+      "end": 85.4
+    },
+    {
+      "text": " Yo me he pasado tres meses en la cárcel por intentar robar el de Dani Rovira.",
+      "start": 86.32000000000001,
+      "end": 89.12
+    },
+    {
+      "text": " Joder, es que es difícil currar como actor.",
+      "start": 91.86,
+      "end": 93.66
+    },
+    {
+      "text": " No vale con enviar un currículum y hacer una entrevista.",
+      "start": 93.92,
+      "end": 96.08
+    },
+    {
+      "text": " Te hacen un casting donde tienes que demostrar lo que vales en 30 segundos.",
+      "start": 96.18,
+      "end": 99.36
+    },
+    {
+      "text": " Jodido, ¿no?",
+      "start": 100.22,
+      "end": 100.78
+    },
+    {
+      "text": " Es como si para que te cogieran en un Starbucks te dijeran, a ver, escribe tu nombre en un vaso de papel.",
+      "start": 101.32000000000001,
+      "end": 106.08
+    },
+    {
+      "text": " O para ser modelo te dijeran, a ver, métete este gramo de cocaína.",
+      "start": 107.28,
+      "end": 110.8
+    },
+    {
+      "text": " O para ser policía municipal te dijeran, a ver, métete este gramo de cocaína.",
+      "start": 111.46000000000001,
+      "end": 115.34
+    },
+    {
+      "text": " O sea de delivery dentro de la cárcel.",
+      "start": 130.78,
+      "end": 136.12
+    },
+    {
+      "text": " Gracias.",
+      "start": 136.12,
+      "end": 136.26
+    }
+  ],
+  "processing_time": 1.7170493602752686,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

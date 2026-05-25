@@ -1,0 +1,84 @@
+{
+  "audio_file": "Dani Mateo： La Vida Es El Juego Del Calamar ｜ Roast Battle 3.wav",
+  "full_text": "La torre de Pisa, que listos los que la hicieron, que la construyeron torcida pensando ya en las fotos de Instagram, de cracks. Messi, Messi, pues siempre estará en nuestros corazones porque los blaugranas sabemos cómo tratar a nuestras leyendas. Se lo digan a Koeman. TikTok, una forma ideal de perder la poca dignidad que te queda después del divorcio. El brócoli. Bueno, pues Dios tuvo que ponerle todas las propiedades que tenía porque desde luego con el sabor no se le ocurrió nada. Alejandro Sanz, el gremlin original. Lo que pasa es que se ve que lo mojaron porque cada mes aparecen dos o tres réplicas con su misma voz. Todos los meses, todos los meses. Este es el gremlin. Hombre, la reina de Inglaterra, que le han quitado el alcohol, desde tú, a sus 100 años. ¿Queréis más prueba de que a ella le sienta bien? Dejadla beber. ¿Qué va a hacer esta mujer ahora? ¿Maratones? Banksy. Es muy importante saber que se escribe así. Banksy. Tienes que decirlo bien para que todo el mundo crea que sabes algo de arte. El coronavirus. La prueba de que Einstein tenía razón. Dios no juega a los dados, juega a los dardos. ¿Y el juego del calamar? Bueno, pues la vida. La vida con disfraces. Pero, en fin, gente que arriesga su salud por ganarse un dinero, no veo mucha diferencia entre esto y ser rider. Así que la vida con más disfraces. Gracias. Gracias.",
+  "chunks": [
+    {
+      "text": " La torre de Pisa, que listos los que la hicieron, que la construyeron torcida pensando ya en las fotos de Instagram, de cracks.",
+      "start": 4.359999999999996,
+      "end": 10.62
+    },
+    {
+      "text": " Messi, Messi, pues siempre estará en nuestros corazones porque los blaugranas sabemos cómo tratar a nuestras leyendas.",
+      "start": 11.42,
+      "end": 17.54
+    },
+    {
+      "text": " Se lo digan a Koeman.",
+      "start": 18.04,
+      "end": 19.06
+    },
+    {
+      "text": " TikTok, una forma ideal de perder la poca dignidad que te queda después del divorcio.",
+      "start": 19.4,
+      "end": 23.8
+    },
+    {
+      "text": " El brócoli. Bueno, pues Dios tuvo que ponerle todas las propiedades que tenía porque desde luego con el sabor no se le ocurrió nada.",
+      "start": 24.45999999999999,
+      "end": 31.38
+    },
+    {
+      "text": " Alejandro Sanz, el gremlin original. Lo que pasa es que se ve que lo mojaron porque cada mes aparecen dos o tres réplicas con su misma voz.",
+      "start": 32.8,
+      "end": 41.08
+    },
+    {
+      "text": " Todos los meses, todos los meses. Este es el gremlin.",
+      "start": 41.46,
+      "end": 43.52
+    },
+    {
+      "text": " Hombre, la reina de Inglaterra, que le han quitado el alcohol, desde tú, a sus 100 años.",
+      "start": 44.19999999999999,
+      "end": 49.08
+    },
+    {
+      "text": " ¿Queréis más prueba de que a ella le sienta bien?",
+      "start": 49.5,
+      "end": 51.68
+    },
+    {
+      "text": " Dejadla beber. ¿Qué va a hacer esta mujer ahora? ¿Maratones?",
+      "start": 51.68,
+      "end": 55.18
+    },
+    {
+      "text": " Banksy. Es muy importante saber que se escribe así. Banksy. Tienes que decirlo bien para que todo el mundo crea que sabes algo de arte.",
+      "start": 56.14,
+      "end": 64.32
+    },
+    {
+      "text": " El coronavirus. La prueba de que Einstein tenía razón. Dios no juega a los dados, juega a los dardos.",
+      "start": 65.18,
+      "end": 71.92
+    },
+    {
+      "text": " ¿Y el juego del calamar? Bueno, pues la vida. La vida con disfraces. Pero, en fin, gente que arriesga su salud por ganarse un dinero, no veo mucha diferencia entre esto y ser rider. Así que la vida con más disfraces.",
+      "start": 71.92,
+      "end": 86.82
+    },
+    {
+      "text": " Gracias.",
+      "start": 102.0,
+      "end": 102.28
+    },
+    {
+      "text": " Gracias.",
+      "start": 102.36,
+      "end": 102.5
+    }
+  ],
+  "processing_time": 0.7235593795776367,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

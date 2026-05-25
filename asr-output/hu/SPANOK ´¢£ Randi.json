@@ -1,0 +1,134 @@
+{
+  "audio_file": "SPANOK ｜ Randi.wav",
+  "full_text": "I.B., I.B. . Na! Nem tudom, LACIKA! Nemsók ez egy kicsit! Nos ebbe a bonniemesz, zakóba, garbóba menjek első randira! Ez inkább fiatal Michael Jackson. Még, hogy akarsz menni? Jól nézel ki, meg kell adni a módját. De nem érzem magam komfortosan. Hát ez... Most egy former póló az miért nem jó? Vacsorára mész. Első randi. Nővel. Na, de akkor is. Hát ez... Mit akkor is? Akkor szenvedjél, járásd le magad. Tiszta szégyed. De nagy segítség vagy, kösz. Most mi van? Semmi. Hát neked bármit mondok, neked semmi nem jó. Akkor menjél farmerba, érezd jól magad, ugyanúgy nem lesz nőd. Akkor mi nem maradsz itthon? De most a zakon múlik, szedten múlik? Hát elsőre én biztos oda tenném maga, majd a következőre mész farmerba. Hól elmegyek, de most miattad kinevetetem magam. Hát... Mi nevetnének ki? Én az életemben olyan emberemén nem találkoztam, aki így megy a Mekive. Mekive? Jó lesz az oda! Ahha... Köszönöm, hogy megtal васz! NAMASTE",
+  "chunks": [
+    {
+      "text": " I.B., I.B. .",
+      "start": 0.0,
+      "end": 10.98
+    },
+    {
+      "text": " Na!",
+      "start": 12.3,
+      "end": 12.96
+    },
+    {
+      "text": " Nem tudom, LACIKA! Nemsók ez egy kicsit!",
+      "start": 18.52,
+      "end": 20.92
+    },
+    {
+      "text": " Nos ebbe a bonniemesz, zakóba, garbóba menjek első randira!",
+      "start": 21.18,
+      "end": 24.84
+    },
+    {
+      "text": " Ez inkább fiatal Michael Jackson. Még, hogy akarsz menni?",
+      "start": 25.24,
+      "end": 28.24
+    },
+    {
+      "text": " Jól nézel ki, meg kell adni a módját.",
+      "start": 28.24,
+      "end": 30.2
+    },
+    {
+      "text": " De nem érzem magam komfortosan. Hát ez...",
+      "start": 30.46,
+      "end": 33.18
+    },
+    {
+      "text": " Most egy former póló az miért nem jó?",
+      "start": 33.18,
+      "end": 35.16
+    },
+    {
+      "text": " Vacsorára mész. Első randi. Nővel.",
+      "start": 36.22,
+      "end": 38.76
+    },
+    {
+      "text": " Na, de akkor is. Hát ez...",
+      "start": 40.14,
+      "end": 42.0
+    },
+    {
+      "text": " Mit akkor is? Akkor szenvedjél, járásd le magad. Tiszta szégyed.",
+      "start": 42.74,
+      "end": 46.4
+    },
+    {
+      "text": " De nagy segítség vagy, kösz.",
+      "start": 47.62,
+      "end": 48.92
+    },
+    {
+      "text": " Most mi van?",
+      "start": 54.52,
+      "end": 55.36
+    },
+    {
+      "text": " Semmi.",
+      "start": 56.5,
+      "end": 57.0
+    },
+    {
+      "text": " Hát neked bármit mondok, neked semmi nem jó.",
+      "start": 60.2,
+      "end": 62.62
+    },
+    {
+      "text": " Akkor menjél farmerba, érezd jól magad, ugyanúgy nem lesz nőd. Akkor mi nem maradsz itthon?",
+      "start": 62.78,
+      "end": 67.84
+    },
+    {
+      "text": " De most a zakon múlik, szedten múlik?",
+      "start": 67.96,
+      "end": 70.04
+    },
+    {
+      "text": " Hát elsőre én biztos oda tenném maga, majd a következőre mész farmerba.",
+      "start": 70.62,
+      "end": 74.78
+    },
+    {
+      "text": " Hól elmegyek, de most miattad kinevetetem magam. Hát... Mi nevetnének ki?",
+      "start": 75.4,
+      "end": 79.74
+    },
+    {
+      "text": " Én az életemben olyan emberemén nem találkoztam, aki így megy a Mekive.",
+      "start": 80.34,
+      "end": 83.72
+    },
+    {
+      "text": " Mekive?",
+      "start": 84.12,
+      "end": 84.64
+    },
+    {
+      "text": " Jó lesz az oda!",
+      "start": 86.0,
+      "end": 87.36
+    },
+    {
+      "text": " Ahha...",
+      "start": 87.36,
+      "end": 87.62
+    },
+    {
+      "text": " Köszönöm, hogy megtal васz!",
+      "start": 92.84,
+      "end": 94.64
+    },
+    {
+      "text": " NAMASTE",
+      "start": 94.64,
+      "end": 96.98
+    }
+  ],
+  "processing_time": 2.524120807647705,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

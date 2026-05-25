@@ -1,0 +1,79 @@
+{
+  "audio_file": "Mélyvíz 2. ｜ Visszaszámlálás.wav",
+  "full_text": "Hú, mennyi van még? Alig egy perc. De izgulok. Most hívjon fel anyámat? Én majd csak utána fogom. Csodálatos volt veled, Paribá. Veled is. Na, jó van, majd holnap folytatjuk ez a vendéglátás. Minden megy tovább a megszokott kerékvágásba. Nézzük. Tíz, kilenc, nyolc, hét, hat, öt, négy, három, kettő, egy. Záróra! Sajnos. Boldog zárórát, Pali Bá. Neked is rendike.",
+  "chunks": [
+    {
+      "text": " Hú, mennyi van még?",
+      "start": 6.06,
+      "end": 7.42
+    },
+    {
+      "text": " Alig egy perc.",
+      "start": 7.84,
+      "end": 8.92
+    },
+    {
+      "text": " De izgulok. Most hívjon fel anyámat?",
+      "start": 9.04,
+      "end": 11.52
+    },
+    {
+      "text": " Én majd csak utána fogom.",
+      "start": 11.58,
+      "end": 12.78
+    },
+    {
+      "text": " Csodálatos volt veled, Paribá.",
+      "start": 15.4,
+      "end": 16.72
+    },
+    {
+      "text": " Veled is.",
+      "start": 16.76,
+      "end": 17.44
+    },
+    {
+      "text": " Na, jó van, majd holnap folytatjuk ez a vendéglátás.",
+      "start": 19.24,
+      "end": 22.1
+    },
+    {
+      "text": " Minden megy tovább a megszokott kerékvágásba.",
+      "start": 22.24,
+      "end": 24.5
+    },
+    {
+      "text": " Nézzük.",
+      "start": 24.58,
+      "end": 24.88
+    },
+    {
+      "text": " Tíz, kilenc, nyolc, hét, hat, öt, négy, három, kettő, egy.",
+      "start": 24.88,
+      "end": 33.62
+    },
+    {
+      "text": " Záróra!",
+      "start": 34.620000000000005,
+      "end": 35.52
+    },
+    {
+      "text": " Sajnos.",
+      "start": 39.64,
+      "end": 40.54
+    },
+    {
+      "text": " Boldog zárórát, Pali Bá.",
+      "start": 42.16,
+      "end": 43.44
+    },
+    {
+      "text": " Neked is rendike.",
+      "start": 43.54,
+      "end": 44.6
+    }
+  ],
+  "processing_time": 1.5017693042755127,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

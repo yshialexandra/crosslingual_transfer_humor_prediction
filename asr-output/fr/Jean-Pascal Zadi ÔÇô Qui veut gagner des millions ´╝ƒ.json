@@ -1,0 +1,644 @@
+{
+  "audio_file": "Jean-Pascal Zadi – Qui veut gagner des millions ？.wav",
+  "full_text": "C'est parti ! Non mais ça va, c'est pas son gars là non plus en fait. Arrêtez, arrêtez, j'ai des défauts aussi. Je suis pas parfait, je suis pas parfait. Bonsoir et bienvenue à qui veut gagner des millions ou comme on dit en Suisse, qui veut gagner trois mois de salaire. Alors ce soir en joue avec la sublimissime, la belle, la craquante, la pimpante, l'actrice qui joue mieux que Catherine Deneuve quand elle joue dans des films. C'est toi qui as écrit ça ? Continue de lire, continue de lire. C'est un peu abusé quand même, non ? Parce que les gens ils t'aiment bien mais t'es pas connu, connu non plus. Je vois bien les gens, depuis tout à l'heure ils regardent le truc, ils disent mais c'est le montreux de qui en fait ? Et qui est cette femme noire qui parle beaucoup ? Enfoiré, c'est quoi ton problème ? Allez, enchaîne là, c'est beau. Ok, ok, allez, vas-y alors. Ce soir on joue avec Fadili Kamara qui joue pour une association caritative. Alors on commence avec la première question pour 500 euros. En fait c'est le prix d'un club sandwich à la gare de Genève. Vous rigolez parce que vous savez que c'est vrai. Qui a été le premier à gagner un César ? Alors, réponse A, Fadili Kamara. Ça m'étonnerait. Réponse B, Roger Federer. Réponse C, Jean-Pascal Zaddy. Réponse D, une autre personne dans cette émission. Alors ça peut peut-être être un cadreur ou quelqu'un dans le public. Non mais c'est une dinguerie. En vrai tu voulais juste parler toi. On sait, on a compris que t'es un César. Ça y est. Ça y est. Non. C'est une question de culture générale. Je suis désolé. Alors un joker peut-être, Fadili ? Je sais pas, je... J'hésite. Bon allez, je vais être sympa. Je vais être sympa. Allez, je te donne un 50-50. C'est pour moi. C'est pas la réponse A ni la réponse B. Non, c'est vrai. Oui. Non mais tu sais quoi, j'ai un doute. Ouais. Je vais faire l'appel à un ami. On appelle qui ? Ben, je vais appeler un ami proche à moi. Omar Sy. On va appeler Omar Sy. Oui, oui, on va appeler Omar Sy. En fait, le but du jeu, c'est que la personne que t'appelles décroche. Parce que même moi je le connais et il décroche pas souvent. Pour toi. Ok, allez, bon, tu vas t'afficher, vas-y, pas de problème. Oui, alors ? Oh, très belle imitation, c'est qui ? C'est Omar qui est à l'appareil. C'est JP. JP, Jean-Pascal. Qui ça ? Oh, wow. Jean-Pascal Zaddy, ton gars, arrête. Non mais Omar, c'est Fadili, ça va ? Tu vas bien ? Ah, Fadili, comment ça va ? Ouais, ça va, ça fait longtemps, ça va. Très bâtard. Écoute, je suis obligée de... Je suis désolée de te déranger. Alors en fait, là, on participe à l'émission qui veut gagner des millions. Et on a une question rapide. La question est, qui a été le premier à gagner un César dans cette émission ? Donc, réponse C, Jean-Pascal Zaddy. Et réponse D, une autre personne dans l'émission. Ben, réponse D, évidemment. Une autre personne. Merci, merci Omar. Merci, merci, merci. Avec plaisir. Allez, bisous. A bientôt. Bisous, ciao. Et dis à nous d'arrêter de m'appeler, s'il te plaît. Ouais, t'inquiète pas, je lui dirai. De moi, merci. Merci, bisous, bisous. Je croyais que c'était ton gars. M, B, R, F. Mais en fait, je suis bête. C'est logique. Réponse D, une autre personne dans cette émission. Puisque mon Joker, en fait, c'est lui qui a eu son César en premier. Eh vas-y, c'est bon, réponse D. Et c'est mon dernier mot. C'est ton dernier mot, vraiment ? Oui, c'est mon dernier mot. C'est mon dernier mot. Alors, on regarde la réponse tout de suite. De l'or ! Circulé ! Alors, hein ? Tu sais quoi, je vais te dire un truc. Je suis même pas vexé. Je m'en fous. En plus, Omar, je l'aime pas. Mais il te connaît même pas, de toute façon. Donc, on s'en fout. Attends, et je vais te dire un autre truc. Moi aussi, je peux être méchant. Ah ! Omar Sy, un jour je l'ai vu, son lacet était défait. Applaudissements. Et puis, je vais te dire un autre truc. Merci. Merci.",
+  "chunks": [
+    {
+      "text": " C'est parti !",
+      "start": 6.78,
+      "end": 8.78
+    },
+    {
+      "text": " Non mais ça va, c'est pas son gars là non plus en fait.",
+      "start": 37.88,
+      "end": 39.84
+    },
+    {
+      "text": " Arrêtez, arrêtez, j'ai des défauts aussi.",
+      "start": 41.7,
+      "end": 43.3
+    },
+    {
+      "text": " Je suis pas parfait, je suis pas parfait.",
+      "start": 43.44,
+      "end": 44.68
+    },
+    {
+      "text": " Bonsoir et bienvenue à qui veut gagner des millions",
+      "start": 46.66,
+      "end": 48.86
+    },
+    {
+      "text": " ou comme on dit en Suisse, qui veut gagner trois mois de salaire.",
+      "start": 48.86,
+      "end": 51.8
+    },
+    {
+      "text": " Alors ce soir en joue avec la sublimissime,",
+      "start": 53.92,
+      "end": 57.8
+    },
+    {
+      "text": " la belle, la craquante, la pimpante,",
+      "start": 58.36,
+      "end": 60.800000000000004
+    },
+    {
+      "text": " l'actrice qui joue mieux que Catherine Deneuve",
+      "start": 61.7,
+      "end": 64.12
+    },
+    {
+      "text": " quand elle joue dans des films.",
+      "start": 64.12,
+      "end": 64.96
+    },
+    {
+      "text": " C'est toi qui as écrit ça ?",
+      "start": 65.1,
+      "end": 66.8
+    },
+    {
+      "text": " Continue de lire, continue de lire.",
+      "start": 67.69999999999999,
+      "end": 68.96
+    },
+    {
+      "text": " C'est un peu abusé quand même, non ?",
+      "start": 69.0,
+      "end": 70.68
+    },
+    {
+      "text": " Parce que les gens ils t'aiment bien",
+      "start": 71.4,
+      "end": 72.8
+    },
+    {
+      "text": " mais t'es pas connu, connu non plus.",
+      "start": 72.8,
+      "end": 74.6
+    },
+    {
+      "text": " Je vois bien les gens, depuis tout à l'heure",
+      "start": 77.48,
+      "end": 79.18
+    },
+    {
+      "text": " ils regardent le truc, ils disent",
+      "start": 79.18,
+      "end": 80.28
+    },
+    {
+      "text": " mais c'est le montreux de qui en fait ?",
+      "start": 80.28,
+      "end": 82.28
+    },
+    {
+      "text": " Et qui est cette femme noire qui parle beaucoup ?",
+      "start": 82.28,
+      "end": 85.14
+    },
+    {
+      "text": " Enfoiré, c'est quoi ton problème ?",
+      "start": 88.41999999999999,
+      "end": 90.0
+    },
+    {
+      "text": " Allez, enchaîne là, c'est beau.",
+      "start": 90.0,
+      "end": 90.84
+    },
+    {
+      "text": " Ok, ok, allez, vas-y alors.",
+      "start": 91.12,
+      "end": 92.06
+    },
+    {
+      "text": " Ce soir on joue avec Fadili Kamara",
+      "start": 92.56,
+      "end": 95.16
+    },
+    {
+      "text": " qui joue pour une association caritative.",
+      "start": 95.16,
+      "end": 96.92
+    },
+    {
+      "text": " Alors on commence avec la première question",
+      "start": 97.9,
+      "end": 100.02
+    },
+    {
+      "text": " pour 500 euros.",
+      "start": 100.02,
+      "end": 101.14
+    },
+    {
+      "text": " En fait c'est le prix d'un club sandwich",
+      "start": 101.82,
+      "end": 104.08
+    },
+    {
+      "text": " à la gare de Genève.",
+      "start": 104.08,
+      "end": 105.14
+    },
+    {
+      "text": " Vous rigolez parce que vous savez que c'est vrai.",
+      "start": 107.14,
+      "end": 109.58
+    },
+    {
+      "text": " Qui a été le premier à gagner un César ?",
+      "start": 111.16,
+      "end": 116.2
+    },
+    {
+      "text": " Alors, réponse A, Fadili Kamara.",
+      "start": 116.2,
+      "end": 119.76
+    },
+    {
+      "text": " Ça m'étonnerait.",
+      "start": 121.0,
+      "end": 121.96
+    },
+    {
+      "text": " Réponse B, Roger Federer.",
+      "start": 122.54,
+      "end": 124.88
+    },
+    {
+      "text": " Réponse C, Jean-Pascal Zaddy.",
+      "start": 126.04,
+      "end": 129.42
+    },
+    {
+      "text": " Réponse D, une autre personne dans cette émission.",
+      "start": 130.64,
+      "end": 133.8
+    },
+    {
+      "text": " Alors ça peut peut-être être un cadreur",
+      "start": 133.8,
+      "end": 135.58
+    },
+    {
+      "text": " ou quelqu'un dans le public.",
+      "start": 135.58,
+      "end": 136.7
+    },
+    {
+      "text": " Non mais c'est une dinguerie.",
+      "start": 137.24,
+      "end": 138.42
+    },
+    {
+      "text": " En vrai tu voulais juste parler toi.",
+      "start": 138.54,
+      "end": 139.46
+    },
+    {
+      "text": " On sait, on a compris que t'es un César.",
+      "start": 139.54,
+      "end": 140.88
+    },
+    {
+      "text": " Ça y est.",
+      "start": 140.96,
+      "end": 141.42
+    },
+    {
+      "text": " Ça y est.",
+      "start": 142.24,
+      "end": 142.88
+    },
+    {
+      "text": " Non.",
+      "start": 143.3,
+      "end": 143.6
+    },
+    {
+      "text": " C'est une question de culture générale.",
+      "start": 144.70000000000002,
+      "end": 146.72
+    },
+    {
+      "text": " Je suis désolé.",
+      "start": 146.8,
+      "end": 147.2
+    },
+    {
+      "text": " Alors un joker peut-être, Fadili ?",
+      "start": 148.74,
+      "end": 150.8
+    },
+    {
+      "text": " Je sais pas, je...",
+      "start": 152.66,
+      "end": 153.86
+    },
+    {
+      "text": " J'hésite.",
+      "start": 155.12,
+      "end": 155.76
+    },
+    {
+      "text": " Bon allez, je vais être sympa.",
+      "start": 156.18,
+      "end": 157.32
+    },
+    {
+      "text": " Je vais être sympa.",
+      "start": 157.44,
+      "end": 157.92
+    },
+    {
+      "text": " Allez, je te donne un 50-50.",
+      "start": 158.0,
+      "end": 159.18
+    },
+    {
+      "text": " C'est pour moi.",
+      "start": 159.36,
+      "end": 159.78
+    },
+    {
+      "text": " C'est pas la réponse A ni la réponse B.",
+      "start": 160.1,
+      "end": 162.2
+    },
+    {
+      "text": " Non, c'est vrai.",
+      "start": 162.4,
+      "end": 163.42
+    },
+    {
+      "text": " Oui.",
+      "start": 163.8,
+      "end": 163.98
+    },
+    {
+      "text": " Non mais tu sais quoi, j'ai un doute.",
+      "start": 165.9,
+      "end": 167.42
+    },
+    {
+      "text": " Ouais.",
+      "start": 167.88,
+      "end": 168.1
+    },
+    {
+      "text": " Je vais faire l'appel à un ami.",
+      "start": 168.36,
+      "end": 169.5
+    },
+    {
+      "text": " On appelle qui ?",
+      "start": 170.18,
+      "end": 172.14
+    },
+    {
+      "text": " Ben, je vais appeler un ami proche à moi.",
+      "start": 172.14,
+      "end": 176.04
+    },
+    {
+      "text": " Omar Sy.",
+      "start": 176.34,
+      "end": 176.76
+    },
+    {
+      "text": " On va appeler Omar Sy.",
+      "start": 176.94,
+      "end": 177.94
+    },
+    {
+      "text": " Oui, oui, on va appeler Omar Sy.",
+      "start": 178.58,
+      "end": 179.9
+    },
+    {
+      "text": " En fait, le but du jeu, c'est que la personne que t'appelles décroche.",
+      "start": 180.02,
+      "end": 183.58
+    },
+    {
+      "text": " Parce que même moi je le connais et il décroche pas souvent.",
+      "start": 184.84,
+      "end": 187.92
+    },
+    {
+      "text": " Pour toi.",
+      "start": 188.35999999999999,
+      "end": 188.88
+    },
+    {
+      "text": " Ok, allez, bon, tu vas t'afficher, vas-y, pas de problème.",
+      "start": 189.5,
+      "end": 191.66
+    },
+    {
+      "text": " Oui, alors ?",
+      "start": 196.06,
+      "end": 197.26
+    },
+    {
+      "text": " Oh, très belle imitation, c'est qui ?",
+      "start": 197.26,
+      "end": 199.4
+    },
+    {
+      "text": " C'est Omar qui est à l'appareil.",
+      "start": 199.4,
+      "end": 200.72
+    },
+    {
+      "text": " C'est JP.",
+      "start": 202.36,
+      "end": 203.14
+    },
+    {
+      "text": " JP, Jean-Pascal.",
+      "start": 204.2,
+      "end": 205.16
+    },
+    {
+      "text": " Qui ça ?",
+      "start": 205.66,
+      "end": 206.56
+    },
+    {
+      "text": " Oh, wow.",
+      "start": 206.56,
+      "end": 207.12
+    },
+    {
+      "text": " Jean-Pascal Zaddy, ton gars, arrête.",
+      "start": 208.3,
+      "end": 210.16
+    },
+    {
+      "text": " Non mais Omar, c'est Fadili, ça va ? Tu vas bien ?",
+      "start": 211.38,
+      "end": 214.3
+    },
+    {
+      "text": " Ah, Fadili, comment ça va ?",
+      "start": 214.3,
+      "end": 215.42
+    },
+    {
+      "text": " Ouais, ça va, ça fait longtemps, ça va.",
+      "start": 216.24,
+      "end": 218.02
+    },
+    {
+      "text": " Très bâtard.",
+      "start": 218.18,
+      "end": 218.7
+    },
+    {
+      "text": " Écoute, je suis obligée de...",
+      "start": 218.84,
+      "end": 220.3
+    },
+    {
+      "text": " Je suis désolée de te déranger.",
+      "start": 220.78,
+      "end": 222.06
+    },
+    {
+      "text": " Alors en fait, là, on participe à l'émission qui veut gagner des millions.",
+      "start": 222.22,
+      "end": 224.8
+    },
+    {
+      "text": " Et on a une question rapide.",
+      "start": 225.06,
+      "end": 227.06
+    },
+    {
+      "text": " La question est, qui a été le premier à gagner un César dans cette émission ?",
+      "start": 227.22,
+      "end": 232.48
+    },
+    {
+      "text": " Donc, réponse C, Jean-Pascal Zaddy.",
+      "start": 232.48,
+      "end": 235.08
+    },
+    {
+      "text": " Et réponse D, une autre personne dans l'émission.",
+      "start": 236.06,
+      "end": 239.12
+    },
+    {
+      "text": " Ben, réponse D, évidemment.",
+      "start": 239.88,
+      "end": 241.3
+    },
+    {
+      "text": " Une autre personne.",
+      "start": 241.88,
+      "end": 242.56
+    },
+    {
+      "text": " Merci, merci Omar.",
+      "start": 244.84,
+      "end": 245.7
+    },
+    {
+      "text": " Merci, merci, merci.",
+      "start": 246.35999999999999,
+      "end": 247.2
+    },
+    {
+      "text": " Avec plaisir.",
+      "start": 247.42,
+      "end": 247.76
+    },
+    {
+      "text": " Allez, bisous.",
+      "start": 248.02,
+      "end": 248.38
+    },
+    {
+      "text": " A bientôt.",
+      "start": 248.48,
+      "end": 248.7
+    },
+    {
+      "text": " Bisous, ciao.",
+      "start": 248.96,
+      "end": 249.26
+    },
+    {
+      "text": " Et dis à nous d'arrêter de m'appeler, s'il te plaît.",
+      "start": 249.56,
+      "end": 251.0
+    },
+    {
+      "text": " Ouais, t'inquiète pas, je lui dirai.",
+      "start": 251.08,
+      "end": 251.86
+    },
+    {
+      "text": " De moi, merci.",
+      "start": 251.94,
+      "end": 252.64
+    },
+    {
+      "text": " Merci, bisous, bisous.",
+      "start": 253.66,
+      "end": 254.5
+    },
+    {
+      "text": " Je croyais que c'était ton gars.",
+      "start": 254.66,
+      "end": 255.36
+    },
+    {
+      "text": " M, B, R, F.",
+      "start": 255.6,
+      "end": 256.66
+    },
+    {
+      "text": " Mais en fait, je suis bête.",
+      "start": 256.86,
+      "end": 257.66
+    },
+    {
+      "text": " C'est logique.",
+      "start": 257.88,
+      "end": 258.4
+    },
+    {
+      "text": " Réponse D, une autre personne dans cette émission.",
+      "start": 259.46000000000004,
+      "end": 261.18
+    },
+    {
+      "text": " Puisque mon Joker, en fait, c'est lui qui a eu son César en premier.",
+      "start": 261.3,
+      "end": 263.96
+    },
+    {
+      "text": " Eh vas-y, c'est bon, réponse D.",
+      "start": 264.5,
+      "end": 265.5
+    },
+    {
+      "text": " Et c'est mon dernier mot.",
+      "start": 265.62,
+      "end": 266.62
+    },
+    {
+      "text": " C'est ton dernier mot, vraiment ?",
+      "start": 269.12000000000006,
+      "end": 270.58
+    },
+    {
+      "text": " Oui, c'est mon dernier mot.",
+      "start": 270.58,
+      "end": 271.42
+    },
+    {
+      "text": " C'est mon dernier mot.",
+      "start": 272.56,
+      "end": 273.68
+    },
+    {
+      "text": " Alors, on regarde la réponse tout de suite.",
+      "start": 274.08,
+      "end": 276.08
+    },
+    {
+      "text": " De l'or !",
+      "start": 285.28,
+      "end": 286.56
+    },
+    {
+      "text": " Circulé !",
+      "start": 288.21999999999997,
+      "end": 288.82
+    },
+    {
+      "text": " Alors, hein ?",
+      "start": 289.42,
+      "end": 290.56
+    },
+    {
+      "text": " Tu sais quoi, je vais te dire un truc.",
+      "start": 291.94,
+      "end": 293.38
+    },
+    {
+      "text": " Je suis même pas vexé.",
+      "start": 293.86,
+      "end": 294.86
+    },
+    {
+      "text": " Je m'en fous.",
+      "start": 295.14,
+      "end": 295.44
+    },
+    {
+      "text": " En plus, Omar, je l'aime pas.",
+      "start": 295.52,
+      "end": 296.44
+    },
+    {
+      "text": " Mais il te connaît même pas, de toute façon.",
+      "start": 297.36,
+      "end": 298.6
+    },
+    {
+      "text": " Donc, on s'en fout.",
+      "start": 298.72,
+      "end": 299.3
+    },
+    {
+      "text": " Attends, et je vais te dire un autre truc.",
+      "start": 299.46,
+      "end": 300.8
+    },
+    {
+      "text": " Moi aussi, je peux être méchant.",
+      "start": 301.3,
+      "end": 302.46
+    },
+    {
+      "text": " Ah !",
+      "start": 302.56,
+      "end": 303.7
+    },
+    {
+      "text": " Omar Sy, un jour je l'ai vu, son lacet était défait.",
+      "start": 303.7,
+      "end": 307.26
+    },
+    {
+      "text": " Applaudissements.",
+      "start": 309.92,
+      "end": 309.96
+    },
+    {
+      "text": " Et puis, je vais te dire un autre truc.",
+      "start": 313.32000000000005,
+      "end": 331.2
+    },
+    {
+      "text": " Merci.",
+      "start": 331.22,
+      "end": 331.24
+    },
+    {
+      "text": " Merci.",
+      "start": 331.24,
+      "end": 331.3
+    }
+  ],
+  "processing_time": 1.8719558715820312,
+  "language": "fr",
+  "model_id": "large-v3-turbo"
+}

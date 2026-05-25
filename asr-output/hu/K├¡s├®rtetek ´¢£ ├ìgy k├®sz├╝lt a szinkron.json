@@ -1,0 +1,204 @@
+{
+  "audio_file": "Kísértetek ｜ Így készült a szinkron.wav",
+  "full_text": "Kísértetek vagyunk. Hello! Ez a sorozat szellemekről szól. Ideje távoznotok. Fiatal házaspár megörök el egy kúriát. Mi baj lehetne vele? Elősök a lépcsőn, kicsit megsérül a nyakam, viszontcserébe látom a szellemeket. Én egy szellem vagyok. Poén? Ez így nem poén. Én vagyok a szinkron rendező. Az általam játszott karakter nagyon színes és hatalmas amplitúdói vannak. Alberta énekesnő volt, és rá tudja vetíteni az élőkre a hangját. Jól van, legyen! Imádom benne, hogy a hangja... Ti is halljátok? Ez melyik szám? Hogy az én karakterem hogyan halt meg? Mérgezés. Engem megmérgeztek. A szexualitáshoz van köze, úgy emlékszem. Beszéld hozzám! Te jó Isten! Természet feletti jelenségeknek egy részében hiszek. Hiszek abban, hogy élnek körülöttünk. Én bele vagyok őrülve a természet felettibe. Vigy nézem? Igazad volt. Lát minket. Szerintem sokkal izgalmasabb, hogyha az ember arra gondol, hogy van valami misztikusabb. Járkálok a lakásban és egyszer csak észreveszem, hogy hopp, az egyik szobában ég a villany. Tudja, ezek az... Talán hogyha ez lehet ilyen... Hogyha ez ilyen le... Hogyha ez lehet... Szelem járt a házában nyilvánított épületére. Én hiszek a természet feletti jelensége, ne csináld! Vannak bizonyos energialenyomatok. Hő! Répe, most mondtam már, hogy ne csináld! Jéj, te fésim! Kísértetek! Új sorozat hamarosan a Kamedi Centrálon! Vége?",
+  "chunks": [
+    {
+      "text": " Kísértetek vagyunk.",
+      "start": 1.1800000000000015,
+      "end": 2.0
+    },
+    {
+      "text": " Hello!",
+      "start": 3.6800000000000015,
+      "end": 4.42
+    },
+    {
+      "text": " Ez a sorozat szellemekről szól.",
+      "start": 4.72,
+      "end": 7.16
+    },
+    {
+      "text": " Ideje távoznotok.",
+      "start": 7.38,
+      "end": 8.7
+    },
+    {
+      "text": " Fiatal házaspár megörök el egy kúriát.",
+      "start": 10.940000000000001,
+      "end": 13.9
+    },
+    {
+      "text": " Mi baj lehetne vele?",
+      "start": 14.0,
+      "end": 15.06
+    },
+    {
+      "text": " Elősök a lépcsőn, kicsit megsérül a nyakam,",
+      "start": 15.22,
+      "end": 18.04
+    },
+    {
+      "text": " viszontcserébe látom a szellemeket.",
+      "start": 18.48,
+      "end": 20.98
+    },
+    {
+      "text": " Én egy szellem vagyok.",
+      "start": 21.56,
+      "end": 22.58
+    },
+    {
+      "text": " Poén? Ez így nem poén.",
+      "start": 22.8,
+      "end": 24.7
+    },
+    {
+      "text": " Én vagyok a szinkron rendező.",
+      "start": 24.84,
+      "end": 26.24
+    },
+    {
+      "text": " Az általam játszott karakter nagyon színes és hatalmas amplitúdói vannak.",
+      "start": 26.24,
+      "end": 30.82
+    },
+    {
+      "text": " Alberta énekesnő volt, és rá tudja vetíteni az élőkre a hangját.",
+      "start": 30.94,
+      "end": 34.64
+    },
+    {
+      "text": " Jól van, legyen!",
+      "start": 34.72,
+      "end": 35.86
+    },
+    {
+      "text": " Imádom benne, hogy a hangja...",
+      "start": 36.92,
+      "end": 38.24
+    },
+    {
+      "text": " Ti is halljátok?",
+      "start": 40.36,
+      "end": 41.28
+    },
+    {
+      "text": " Ez melyik szám?",
+      "start": 42.1,
+      "end": 43.14
+    },
+    {
+      "text": " Hogy az én karakterem hogyan halt meg?",
+      "start": 43.32,
+      "end": 45.32
+    },
+    {
+      "text": " Mérgezés.",
+      "start": 46.22,
+      "end": 46.74
+    },
+    {
+      "text": " Engem megmérgeztek.",
+      "start": 46.92,
+      "end": 48.16
+    },
+    {
+      "text": " A szexualitáshoz van köze, úgy emlékszem.",
+      "start": 48.32,
+      "end": 50.5
+    },
+    {
+      "text": " Beszéld hozzám! Te jó Isten!",
+      "start": 50.66,
+      "end": 53.34
+    },
+    {
+      "text": " Természet feletti jelenségeknek egy részében hiszek.",
+      "start": 53.34,
+      "end": 56.52
+    },
+    {
+      "text": " Hiszek abban, hogy élnek körülöttünk.",
+      "start": 56.62,
+      "end": 60.32
+    },
+    {
+      "text": " Én bele vagyok őrülve a természet felettibe.",
+      "start": 60.48,
+      "end": 62.84
+    },
+    {
+      "text": " Vigy nézem? Igazad volt. Lát minket.",
+      "start": 63.06,
+      "end": 66.26
+    },
+    {
+      "text": " Szerintem sokkal izgalmasabb, hogyha az ember arra gondol, hogy van valami misztikusabb.",
+      "start": 67.68,
+      "end": 73.34
+    },
+    {
+      "text": " Járkálok a lakásban és egyszer csak észreveszem, hogy hopp, az egyik szobában ég a villany.",
+      "start": 73.98,
+      "end": 78.66
+    },
+    {
+      "text": " Tudja, ezek az...",
+      "start": 78.76,
+      "end": 79.74
+    },
+    {
+      "text": " Talán hogyha ez lehet ilyen...",
+      "start": 80.60000000000001,
+      "end": 82.34
+    },
+    {
+      "text": " Hogyha ez ilyen le... Hogyha ez lehet...",
+      "start": 83.34,
+      "end": 85.82
+    },
+    {
+      "text": " Szelem járt a házában nyilvánított épületére.",
+      "start": 85.82,
+      "end": 89.38
+    },
+    {
+      "text": " Én hiszek a természet feletti jelensége, ne csináld!",
+      "start": 89.54,
+      "end": 92.82
+    },
+    {
+      "text": " Vannak bizonyos energialenyomatok.",
+      "start": 93.44000000000001,
+      "end": 95.84
+    },
+    {
+      "text": " Hő!",
+      "start": 98.6,
+      "end": 99.44
+    },
+    {
+      "text": " Répe, most mondtam már, hogy ne csináld!",
+      "start": 99.88,
+      "end": 101.92
+    },
+    {
+      "text": " Jéj, te fésim!",
+      "start": 103.7,
+      "end": 105.24
+    },
+    {
+      "text": " Kísértetek! Új sorozat hamarosan a Kamedi Centrálon!",
+      "start": 112.42,
+      "end": 116.26
+    },
+    {
+      "text": " Vége?",
+      "start": 116.5,
+      "end": 116.92
+    }
+  ],
+  "processing_time": 0.7294368743896484,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

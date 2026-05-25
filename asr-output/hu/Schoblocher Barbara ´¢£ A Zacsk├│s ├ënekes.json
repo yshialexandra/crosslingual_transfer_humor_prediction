@@ -1,0 +1,64 @@
+{
+  "audio_file": "Schoblocher Barbara ｜ A Zacskós Énekes.wav",
+  "full_text": "Végre megérkezett a show, amire mindenki bánt! Az internetes videók legjobban őrzött titka. Ki van a zacskó alap? Soha nem látott jelmezek! Változatos díszlek! Tíz ember, aki hajlandó hülyét csinálni magából! És akkor lássuk az ehetű zacskós énekest! A tévében már nincs semmi más, csak szex meg bűnez lett a szórakozás. A régi jó dolgok úgy eltűntek, hogy tátva marad a száj. Még jó, hogy van a Family Guy! Megmutatjuk neked, foghatod a fejed, sész vagy elvetsz rajta, masad fáj! Itt a Family Guy! Ez találó!",
+  "chunks": [
+    {
+      "text": " Végre megérkezett a show, amire mindenki bánt!",
+      "start": 0.0,
+      "end": 2.9
+    },
+    {
+      "text": " Az internetes videók legjobban őrzött titka.",
+      "start": 3.08,
+      "end": 5.82
+    },
+    {
+      "text": " Ki van a zacskó alap? Soha nem látott jelmezek!",
+      "start": 6.06,
+      "end": 9.24
+    },
+    {
+      "text": " Változatos díszlek! Tíz ember, aki hajlandó hülyét csinálni magából!",
+      "start": 10.0,
+      "end": 14.4
+    },
+    {
+      "text": " És akkor lássuk az ehetű zacskós énekest!",
+      "start": 14.66,
+      "end": 17.3
+    },
+    {
+      "text": " A tévében már nincs semmi más, csak szex meg bűnez lett a szórakozás.",
+      "start": 18.200000000000003,
+      "end": 24.78
+    },
+    {
+      "text": " A régi jó dolgok úgy eltűntek, hogy tátva marad a száj.",
+      "start": 24.78,
+      "end": 30.78
+    },
+    {
+      "text": " Még jó, hogy van a Family Guy!",
+      "start": 31.52,
+      "end": 33.82
+    },
+    {
+      "text": " Megmutatjuk neked, foghatod a fejed, sész vagy elvetsz rajta, masad fáj!",
+      "start": 35.06,
+      "end": 41.4
+    },
+    {
+      "text": " Itt a Family Guy!",
+      "start": 41.62,
+      "end": 45.6
+    },
+    {
+      "text": " Ez találó!",
+      "start": 54.78,
+      "end": 55.3
+    }
+  ],
+  "processing_time": 1.3698375225067139,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

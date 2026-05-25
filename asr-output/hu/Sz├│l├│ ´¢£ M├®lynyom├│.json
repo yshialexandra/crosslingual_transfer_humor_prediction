@@ -1,0 +1,24 @@
+{
+  "audio_file": "Szóló ｜ Mélynyomó.wav",
+  "full_text": "a csükked már magad fa terv. Én mögok a kábelnek Jimmy Hendrix-ek! Dasz! Csak ez már a koncert, tudod?",
+  "chunks": [
+    {
+      "text": " a",
+      "start": 0.0,
+      "end": 0.84
+    },
+    {
+      "text": " csükked már magad fa terv. Én mögok a kábelnek Jimmy Hendrix-ek! Dasz!",
+      "start": 25.500000000000004,
+      "end": 29.76
+    },
+    {
+      "text": " Csak ez már a koncert, tudod?",
+      "start": 30.0,
+      "end": 31.74
+    }
+  ],
+  "processing_time": 1.1817901134490967,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,204 @@
+{
+  "audio_file": "Gobbi Hilda 🆚 Németh Szilárd ｜ Dumaaktuál ｜ Comedy Club.wav",
+  "full_text": "Az idei országgyűlési választások nagy kérdés egyébként az összefogás volt. Csepelen például, ahol egyébként Németh Szilárd, Rezsi biztos a Fidesz alelnöke indult, ott nem volt közös jelölt, több jelölt is indult ellenzéki oldalról. Erre Németh Szilárd egyébként annak idején, amikor ez kiderült, annyit reagált, hogy én neki aztán teljesen mindegy, indulhat bárki, ő úgyis mindenkit legyőz felőle, aztán indulhat ellene a Gobbi Hilda is. Igen, és én komolyan veszem mindig, amit Németh Szilárd mond, mert ha rám néz, nem menek nem komoly dolgokra gondolni, és elkészítettem a Gobbi Hilda, velmi színe Szilárd. De tényleg nézd meg azt a Rezsi csökkentő nézést. Igen. Ránéz a gázra, visszafordul a csőben Ukrajnában. Szilárd az nem lekapcsolja a lámpát, lekacsintja. Na de ugye lássuk, nem tudja csökkenteni a Rezsit, a Gobbi Hilda, ő meg tudja csökkenteni a Rezit. Ugye egy nyuszi, máris a németh Szilárdnak. Nem Szilárd, ugye? Szilárd. Egyben lehet látni, hogy kettő nulla. A Szilárdnak színészkedik a Gobbi Hilda. Mindig őszinte a Szilárd. Ne őszinte szó el, nem hagyja a száját. Nem cseppeli. Ugye ráadásul. Cseppeli a Szilárd, tehát ő ismeri a helyieket. Ugye meghalt, él. Mondja, ezzel elbőrt a küzdelem. 5-0. De nem tudom, hogy tudja-e valaki, hogy mi németh Szilárd iskolai végzettsége? Könyvtárszakon végzett. Hogy akkor miért nem látszik rajta, ugye? Illetve lehet, hogy ott kétféle módon leheted átmenni a vizsgán. Vagy elolvastad a könyvet, vagy elbírod. De az, hogy könyvtáros vagy nem azt jelentő, hogy minden könyvet olvastál, hanem, hogy tudod, hol van. Szilárd ott nem láttátok? Ott áll az S betűnél. De azért ott a nálad a helyi Szabó Ervin fiókban ő lenne a könyvtáros. Visszavinéd a könyvet, nem? Két napot késett a kétlott. Ne, ne, a lábom ne.",
+  "chunks": [
+    {
+      "text": " Az idei országgyűlési választások nagy kérdés egyébként az összefogás volt.",
+      "start": 0.0,
+      "end": 3.66
+    },
+    {
+      "text": " Csepelen például, ahol egyébként Németh Szilárd, Rezsi biztos a Fidesz alelnöke indult,",
+      "start": 3.82,
+      "end": 8.16
+    },
+    {
+      "text": " ott nem volt közös jelölt, több jelölt is indult ellenzéki oldalról.",
+      "start": 8.5,
+      "end": 12.46
+    },
+    {
+      "text": " Erre Németh Szilárd egyébként annak idején, amikor ez kiderült, annyit reagált,",
+      "start": 12.66,
+      "end": 15.96
+    },
+    {
+      "text": " hogy én neki aztán teljesen mindegy, indulhat bárki, ő úgyis mindenkit legyőz felőle,",
+      "start": 16.04,
+      "end": 20.78
+    },
+    {
+      "text": " aztán indulhat ellene a Gobbi Hilda is.",
+      "start": 20.88,
+      "end": 22.88
+    },
+    {
+      "text": " Igen, és én komolyan veszem mindig, amit Németh Szilárd mond,",
+      "start": 22.88,
+      "end": 26.42
+    },
+    {
+      "text": " mert ha rám néz, nem menek nem komoly dolgokra gondolni,",
+      "start": 26.52,
+      "end": 31.1
+    },
+    {
+      "text": " és elkészítettem a Gobbi Hilda, velmi színe Szilárd.",
+      "start": 31.26,
+      "end": 35.22
+    },
+    {
+      "text": " De tényleg nézd meg azt a Rezsi csökkentő nézést.",
+      "start": 36.24,
+      "end": 39.02
+    },
+    {
+      "text": " Igen.",
+      "start": 39.36,
+      "end": 39.66
+    },
+    {
+      "text": " Ránéz a gázra, visszafordul a csőben Ukrajnában.",
+      "start": 40.38,
+      "end": 43.04
+    },
+    {
+      "text": " Szilárd az nem lekapcsolja a lámpát, lekacsintja.",
+      "start": 44.1,
+      "end": 47.06
+    },
+    {
+      "text": " Na de ugye lássuk, nem tudja csökkenteni a Rezsit, a Gobbi Hilda,",
+      "start": 48.14,
+      "end": 52.56
+    },
+    {
+      "text": " ő meg tudja csökkenteni a Rezit.",
+      "start": 52.88,
+      "end": 55.44
+    },
+    {
+      "text": " Ugye egy nyuszi, máris a németh Szilárdnak.",
+      "start": 55.54,
+      "end": 58.32
+    },
+    {
+      "text": " Nem Szilárd, ugye?",
+      "start": 58.88,
+      "end": 59.94
+    },
+    {
+      "text": " Szilárd.",
+      "start": 60.48,
+      "end": 61.2
+    },
+    {
+      "text": " Egyben lehet látni, hogy kettő nulla.",
+      "start": 61.56,
+      "end": 64.4
+    },
+    {
+      "text": " A Szilárdnak színészkedik a Gobbi Hilda.",
+      "start": 65.5,
+      "end": 69.4
+    },
+    {
+      "text": " Mindig őszinte a Szilárd.",
+      "start": 69.68,
+      "end": 71.32
+    },
+    {
+      "text": " Ne őszinte szó el, nem hagyja a száját.",
+      "start": 71.44,
+      "end": 74.3
+    },
+    {
+      "text": " Nem cseppeli.",
+      "start": 74.76,
+      "end": 75.92
+    },
+    {
+      "text": " Ugye ráadásul.",
+      "start": 76.12,
+      "end": 77.7
+    },
+    {
+      "text": " Cseppeli a Szilárd, tehát ő ismeri a helyieket.",
+      "start": 78.7,
+      "end": 81.72
+    },
+    {
+      "text": " Ugye meghalt, él.",
+      "start": 81.72,
+      "end": 83.26
+    },
+    {
+      "text": " Mondja, ezzel elbőrt a küzdelem.",
+      "start": 83.5,
+      "end": 86.02
+    },
+    {
+      "text": " 5-0.",
+      "start": 86.28,
+      "end": 86.72
+    },
+    {
+      "text": " De nem tudom, hogy tudja-e valaki, hogy mi németh Szilárd iskolai végzettsége?",
+      "start": 92.02000000000001,
+      "end": 96.9
+    },
+    {
+      "text": " Könyvtárszakon végzett.",
+      "start": 97.48,
+      "end": 98.54
+    },
+    {
+      "text": " Hogy akkor miért nem látszik rajta, ugye?",
+      "start": 98.92,
+      "end": 100.6
+    },
+    {
+      "text": " Illetve lehet, hogy ott kétféle módon leheted átmenni a vizsgán.",
+      "start": 102.54,
+      "end": 106.8
+    },
+    {
+      "text": " Vagy elolvastad a könyvet, vagy elbírod.",
+      "start": 106.88,
+      "end": 108.68
+    },
+    {
+      "text": " De az, hogy könyvtáros vagy nem azt jelentő, hogy minden könyvet olvastál, hanem, hogy tudod, hol van.",
+      "start": 110.92,
+      "end": 115.52
+    },
+    {
+      "text": " Szilárd ott nem láttátok? Ott áll az S betűnél.",
+      "start": 117.58,
+      "end": 119.76
+    },
+    {
+      "text": " De azért ott a nálad a helyi Szabó Ervin fiókban ő lenne a könyvtáros.",
+      "start": 120.74000000000001,
+      "end": 124.92
+    },
+    {
+      "text": " Visszavinéd a könyvet, nem?",
+      "start": 125.68,
+      "end": 126.86
+    },
+    {
+      "text": " Két napot késett a kétlott.",
+      "start": 128.08,
+      "end": 129.8
+    },
+    {
+      "text": " Ne, ne, a lábom ne.",
+      "start": 129.9,
+      "end": 132.72
+    }
+  ],
+  "processing_time": 0.9963452816009521,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

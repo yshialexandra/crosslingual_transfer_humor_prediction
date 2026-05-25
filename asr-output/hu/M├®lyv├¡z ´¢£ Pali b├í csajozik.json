@@ -1,0 +1,29 @@
+{
+  "audio_file": "Mélyvíz ｜ Pali bá csajozik.wav",
+  "full_text": "Kis lány, haló! Te! Na figyelj, nem vagyok a szavak embere, de hogy így válthatnánk néhány szót. Magyar? Deutsch? Ja, vágom. Hola! Na, ich bin ungarische David Hasselhoff. Érted? Kimentelek, mesterséges légzés. Mi? Hallon? Kimentelek. Mi? Eine kleine Nachtmusik. Jó van. Jó van, nem muszáj. Úgy varoljon akkor neked a Helmut Kohl. Jöjjj a tyók!",
+  "chunks": [
+    {
+      "text": " Kis lány, haló! Te! Na figyelj, nem vagyok a szavak embere, de hogy így válthatnánk néhány szót.",
+      "start": 8.839999999999998,
+      "end": 19.1
+    },
+    {
+      "text": " Magyar? Deutsch? Ja, vágom. Hola!",
+      "start": 22.019999999999996,
+      "end": 28.32
+    },
+    {
+      "text": " Na, ich bin ungarische David Hasselhoff. Érted? Kimentelek, mesterséges légzés. Mi? Hallon? Kimentelek. Mi? Eine kleine Nachtmusik. Jó van.",
+      "start": 30.0,
+      "end": 59.16
+    },
+    {
+      "text": " Jó van, nem muszáj. Úgy varoljon akkor neked a Helmut Kohl. Jöjjj a tyók!",
+      "start": 60.12,
+      "end": 67.1
+    }
+  ],
+  "processing_time": 0.28194475173950195,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,144 @@
+{
+  "audio_file": "Amerikai stand-up klasszikusok Június 1-től.wav",
+  "full_text": "A gyerekkor kegyetlen drámáit, a sötét humor legfeketébb tátosának hátán megülő Staten Island-i botrányhős, a kereszténységet és Isten színpadi anyagá átlényegítő, és a szürreálista vulgaritással ötvöző harapós szájú stand-up amazon, minden héten a Comedy Central műsorán. Na? Jó volt? Jó volt, Ádám. Miért az akkumulátorból jó meginni a folyadékot, ha? Az agyam kiéget, komolyan. Szürreálitás, tátosok, nem irodalom óra b****ját, jó, hogy nem hexameterekben mondtad. Na, egyszerűbben. Amerikai számrakozok a Magyar TV-ben! Juhú! Így kéne, érted? Hát akkor... A fekete komédia koronázatlan királya Pete Davidson. Tényleg nem vagy képes repülőgép üzemútba tenni a telefonodat? Bocsacsak, most mitik a kiskutánkot? Ja, az már semmi gond van, korrigodtam telefonáljál. Te meg egyszerűbben, emojikkal kommunikálnak az óriás plakátokon. Mit nem értesz ezzel? Na, gyerünk! A legnagyobb stand-up-osok a komediszt... Mi a f*** ez? Ki a f***r rakt te ezt ide f***r meg? Miért nem rakod bele a cipőmbe, mi? Hülye gyerek! Ha ez kapcsolata, vagyok? A PFB Brazl Mac्any ShopENT. Akkor megvárjuk. Ad id a listát! Ez mi? Törpapa bevásárló listája? Tudj, ezt az ide tiedet? Így kéne, hogy végre a Kamedi-Szentrálon, Viddy Cumings a jócsany, Kumil... Kumai... Nunchaku a kimondhatatlan nevű meg, Jamie Oliver, a mesztelen szakás! John Oliver, az öltönyös showmender tök mindegy végül. Leszarom. A lényeg, hogy így kéne, oké? Na, csináld, nem egy nagy ördöngösség. Léptem, vegyétek fel egyet. Klasszikus stand-up estek az USA-ból. Június 1-től a Kamedi-Szentrálon.",
+  "chunks": [
+    {
+      "text": " A gyerekkor kegyetlen drámáit, a sötét humor legfeketébb tátosának hátán megülő",
+      "start": 0.0,
+      "end": 4.98
+    },
+    {
+      "text": " Staten Island-i botrányhős, a kereszténységet és Isten színpadi anyagá átlényegítő,",
+      "start": 4.98,
+      "end": 10.32
+    },
+    {
+      "text": " és a szürreálista vulgaritással ötvöző harapós szájú stand-up amazon,",
+      "start": 10.44,
+      "end": 14.44
+    },
+    {
+      "text": " minden héten a Comedy Central műsorán.",
+      "start": 14.84,
+      "end": 16.9
+    },
+    {
+      "text": " Na? Jó volt?",
+      "start": 18.36,
+      "end": 20.3
+    },
+    {
+      "text": " Jó volt, Ádám.",
+      "start": 22.22,
+      "end": 23.68
+    },
+    {
+      "text": " Miért az akkumulátorból jó meginni a folyadékot, ha?",
+      "start": 25.1,
+      "end": 27.96
+    },
+    {
+      "text": " Az agyam kiéget, komolyan. Szürreálitás, tátosok, nem irodalom óra b****ját, jó, hogy nem hexameterekben mondtad. Na, egyszerűbben.",
+      "start": 30.0,
+      "end": 39.2
+    },
+    {
+      "text": " Amerikai számrakozok a Magyar TV-ben! Juhú!",
+      "start": 39.68,
+      "end": 42.24
+    },
+    {
+      "text": " Így kéne, érted? Hát akkor...",
+      "start": 43.620000000000005,
+      "end": 46.48
+    },
+    {
+      "text": " A fekete komédia koronázatlan királya Pete Davidson.",
+      "start": 47.68,
+      "end": 51.36
+    },
+    {
+      "text": " Tényleg nem vagy képes repülőgép üzemútba tenni a telefonodat?",
+      "start": 54.900000000000006,
+      "end": 57.62
+    },
+    {
+      "text": " Bocsacsak, most mitik a kiskutánkot?",
+      "start": 57.62,
+      "end": 59.82
+    },
+    {
+      "text": " Ja, az már semmi gond van, korrigodtam telefonáljál.",
+      "start": 60.78,
+      "end": 64.22
+    },
+    {
+      "text": " Te meg egyszerűbben, emojikkal kommunikálnak az óriás plakátokon. Mit nem értesz ezzel? Na, gyerünk!",
+      "start": 64.66,
+      "end": 70.68
+    },
+    {
+      "text": " A legnagyobb stand-up-osok a komediszt...",
+      "start": 71.39999999999999,
+      "end": 74.26
+    },
+    {
+      "text": " Mi a f*** ez?",
+      "start": 74.26,
+      "end": 75.44
+    },
+    {
+      "text": " Ki a f***r rakt te ezt ide f***r meg?",
+      "start": 76.34,
+      "end": 78.64
+    },
+    {
+      "text": " Miért nem rakod bele a cipőmbe, mi?",
+      "start": 79.14,
+      "end": 80.98
+    },
+    {
+      "text": " Hülye gyerek!",
+      "start": 81.76,
+      "end": 82.64
+    },
+    {
+      "text": " Ha ez kapcsolata, vagyok?",
+      "start": 82.64,
+      "end": 82.76
+    },
+    {
+      "text": " A PFB Brazl Mac्any ShopENT.",
+      "start": 84.28,
+      "end": 86.2
+    },
+    {
+      "text": " Akkor megvárjuk.",
+      "start": 87.74,
+      "end": 88.34
+    },
+    {
+      "text": " Ad id a listát!",
+      "start": 97.86,
+      "end": 98.62
+    },
+    {
+      "text": " Ez mi? Törpapa bevásárló listája? Tudj, ezt az ide tiedet? Így kéne, hogy végre a Kamedi-Szentrálon, Viddy Cumings a jócsany, Kumil... Kumai... Nunchaku a kimondhatatlan nevű meg, Jamie Oliver, a mesztelen szakás!",
+      "start": 101.38,
+      "end": 118.16
+    },
+    {
+      "text": " John Oliver, az öltönyös showmender tök mindegy végül. Leszarom. A lényeg, hogy így kéne, oké? Na, csináld, nem egy nagy ördöngösség. Léptem, vegyétek fel egyet.",
+      "start": 118.32,
+      "end": 128.46
+    },
+    {
+      "text": " Klasszikus stand-up estek az USA-ból. Június 1-től a Kamedi-Szentrálon.",
+      "start": 132.9,
+      "end": 137.68
+    }
+  ],
+  "processing_time": 2.1857516765594482,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

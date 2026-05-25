@@ -1,0 +1,1066 @@
+{
+  "audio_file": "Eras el que sobraba en La Que Faltaba ｜ Nene vs Danny Boy ｜ Roast Battle 3.wav",
+  "full_text": " Es increíble que hayas hecho tantos largos con una mente tan corta. Todo el mundo te admira como cómico, pero también siente lástima de ti como persona. O sea que eres el cómico que todos querríamos ser con la vida que nadie quiere tener. Vienes a lista en el programa Las que faltaban. De hecho, eras justo el que sobraba. Pues mira, a lo mejor por su pinta pensáis todos que Dani es un fracasado y un perdedor, pero nada más lejos de la realidad. En Galicia cada vez que va le tratan como un dios. Se ha follado vacas que ni os creeríais. Nene, con esas pinzas y tu edad perfectamente podrías ser trapero. Hablo de vivir vendiendo trapos. Dani, tienes una voz tan asquerosa que cada vez que le hablas a Siri le dan arcadas. Yo he visto pacientes con tracheotomía que tenían una voz más bonita que tú.",
+  "chunks": [
+    {
+      "text": " Es",
+      "timestamp": [
+        0.0,
+        7.46
+      ]
+    },
+    {
+      "text": " increíble",
+      "timestamp": [
+        7.46,
+        8.26
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        8.26,
+        8.48
+      ]
+    },
+    {
+      "text": " hayas",
+      "timestamp": [
+        8.48,
+        8.82
+      ]
+    },
+    {
+      "text": " hecho",
+      "timestamp": [
+        8.82,
+        9.0
+      ]
+    },
+    {
+      "text": " tantos",
+      "timestamp": [
+        9.0,
+        9.46
+      ]
+    },
+    {
+      "text": " largos",
+      "timestamp": [
+        9.46,
+        9.9
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        9.9,
+        10.22
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        10.22,
+        10.4
+      ]
+    },
+    {
+      "text": " mente",
+      "timestamp": [
+        10.4,
+        10.62
+      ]
+    },
+    {
+      "text": " tan",
+      "timestamp": [
+        10.62,
+        10.88
+      ]
+    },
+    {
+      "text": " corta.",
+      "timestamp": [
+        10.88,
+        11.36
+      ]
+    },
+    {
+      "text": " Todo",
+      "timestamp": [
+        12.22,
+        12.58
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        12.58,
+        12.72
+      ]
+    },
+    {
+      "text": " mundo",
+      "timestamp": [
+        12.72,
+        12.88
+      ]
+    },
+    {
+      "text": " te",
+      "timestamp": [
+        12.88,
+        13.0
+      ]
+    },
+    {
+      "text": " admira",
+      "timestamp": [
+        13.0,
+        13.26
+      ]
+    },
+    {
+      "text": " como",
+      "timestamp": [
+        13.26,
+        13.4
+      ]
+    },
+    {
+      "text": " cómico,",
+      "timestamp": [
+        13.4,
+        13.88
+      ]
+    },
+    {
+      "text": " pero",
+      "timestamp": [
+        13.88,
+        14.4
+      ]
+    },
+    {
+      "text": " también",
+      "timestamp": [
+        14.4,
+        14.86
+      ]
+    },
+    {
+      "text": " siente",
+      "timestamp": [
+        14.86,
+        15.22
+      ]
+    },
+    {
+      "text": " lástima",
+      "timestamp": [
+        15.22,
+        15.64
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        15.64,
+        15.74
+      ]
+    },
+    {
+      "text": " ti",
+      "timestamp": [
+        15.74,
+        15.88
+      ]
+    },
+    {
+      "text": " como",
+      "timestamp": [
+        15.88,
+        16.06
+      ]
+    },
+    {
+      "text": " persona.",
+      "timestamp": [
+        16.06,
+        16.6
+      ]
+    },
+    {
+      "text": " O",
+      "timestamp": [
+        17.04,
+        17.06
+      ]
+    },
+    {
+      "text": " sea",
+      "timestamp": [
+        17.06,
+        17.24
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        17.24,
+        17.36
+      ]
+    },
+    {
+      "text": " eres",
+      "timestamp": [
+        17.36,
+        17.52
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        17.52,
+        17.68
+      ]
+    },
+    {
+      "text": " cómico",
+      "timestamp": [
+        17.68,
+        18.04
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        18.04,
+        18.14
+      ]
+    },
+    {
+      "text": " todos",
+      "timestamp": [
+        18.14,
+        18.34
+      ]
+    },
+    {
+      "text": " querríamos",
+      "timestamp": [
+        18.34,
+        18.7
+      ]
+    },
+    {
+      "text": " ser",
+      "timestamp": [
+        18.7,
+        18.98
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        18.98,
+        19.52
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        19.52,
+        19.64
+      ]
+    },
+    {
+      "text": " vida",
+      "timestamp": [
+        19.64,
+        19.88
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        19.88,
+        20.02
+      ]
+    },
+    {
+      "text": " nadie",
+      "timestamp": [
+        20.02,
+        20.2
+      ]
+    },
+    {
+      "text": " quiere",
+      "timestamp": [
+        20.2,
+        20.48
+      ]
+    },
+    {
+      "text": " tener.",
+      "timestamp": [
+        20.48,
+        21.98
+      ]
+    },
+    {
+      "text": " Vienes",
+      "timestamp": [
+        21.98,
+        22.44
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        22.44,
+        22.54
+      ]
+    },
+    {
+      "text": " lista",
+      "timestamp": [
+        22.54,
+        22.74
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        22.74,
+        22.88
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        22.88,
+        22.98
+      ]
+    },
+    {
+      "text": " programa",
+      "timestamp": [
+        22.98,
+        23.3
+      ]
+    },
+    {
+      "text": " Las",
+      "timestamp": [
+        23.3,
+        23.56
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        23.56,
+        23.76
+      ]
+    },
+    {
+      "text": " faltaban.",
+      "timestamp": [
+        23.76,
+        24.36
+      ]
+    },
+    {
+      "text": " De",
+      "timestamp": [
+        24.36,
+        24.8
+      ]
+    },
+    {
+      "text": " hecho,",
+      "timestamp": [
+        24.8,
+        25.02
+      ]
+    },
+    {
+      "text": " eras",
+      "timestamp": [
+        25.02,
+        25.12
+      ]
+    },
+    {
+      "text": " justo",
+      "timestamp": [
+        25.12,
+        25.4
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        25.4,
+        25.94
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        26.06,
+        26.06
+      ]
+    },
+    {
+      "text": " sobraba.",
+      "timestamp": [
+        26.06,
+        26.76
+      ]
+    },
+    {
+      "text": " Pues",
+      "timestamp": [
+        26.76,
+        27.82
+      ]
+    },
+    {
+      "text": " mira,",
+      "timestamp": [
+        27.82,
+        28.16
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        28.16,
+        28.28
+      ]
+    },
+    {
+      "text": " lo",
+      "timestamp": [
+        28.28,
+        28.3
+      ]
+    },
+    {
+      "text": " mejor",
+      "timestamp": [
+        28.3,
+        28.54
+      ]
+    },
+    {
+      "text": " por",
+      "timestamp": [
+        28.54,
+        28.7
+      ]
+    },
+    {
+      "text": " su",
+      "timestamp": [
+        28.7,
+        28.8
+      ]
+    },
+    {
+      "text": " pinta",
+      "timestamp": [
+        28.8,
+        29.1
+      ]
+    },
+    {
+      "text": " pensáis",
+      "timestamp": [
+        29.1,
+        29.42
+      ]
+    },
+    {
+      "text": " todos",
+      "timestamp": [
+        29.42,
+        29.64
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        29.64,
+        30.22
+      ]
+    },
+    {
+      "text": " Dani",
+      "timestamp": [
+        30.22,
+        30.42
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        30.42,
+        30.58
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        30.58,
+        30.7
+      ]
+    },
+    {
+      "text": " fracasado",
+      "timestamp": [
+        30.7,
+        31.2
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        31.22,
+        31.26
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        31.26,
+        31.34
+      ]
+    },
+    {
+      "text": " perdedor,",
+      "timestamp": [
+        31.34,
+        31.78
+      ]
+    },
+    {
+      "text": " pero",
+      "timestamp": [
+        31.78,
+        31.92
+      ]
+    },
+    {
+      "text": " nada",
+      "timestamp": [
+        31.92,
+        32.16
+      ]
+    },
+    {
+      "text": " más",
+      "timestamp": [
+        32.16,
+        32.34
+      ]
+    },
+    {
+      "text": " lejos",
+      "timestamp": [
+        32.34,
+        32.66
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        32.66,
+        32.78
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        32.78,
+        32.84
+      ]
+    },
+    {
+      "text": " realidad.",
+      "timestamp": [
+        32.84,
+        33.34
+      ]
+    },
+    {
+      "text": " En",
+      "timestamp": [
+        33.34,
+        33.74
+      ]
+    },
+    {
+      "text": " Galicia",
+      "timestamp": [
+        33.74,
+        34.18
+      ]
+    },
+    {
+      "text": " cada",
+      "timestamp": [
+        34.18,
+        34.34
+      ]
+    },
+    {
+      "text": " vez",
+      "timestamp": [
+        34.34,
+        34.5
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        34.5,
+        34.66
+      ]
+    },
+    {
+      "text": " va",
+      "timestamp": [
+        34.66,
+        34.74
+      ]
+    },
+    {
+      "text": " le",
+      "timestamp": [
+        34.74,
+        34.86
+      ]
+    },
+    {
+      "text": " tratan",
+      "timestamp": [
+        34.86,
+        35.16
+      ]
+    },
+    {
+      "text": " como",
+      "timestamp": [
+        35.2,
+        35.3
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        35.3,
+        35.4
+      ]
+    },
+    {
+      "text": " dios.",
+      "timestamp": [
+        35.4,
+        35.8
+      ]
+    },
+    {
+      "text": " Se",
+      "timestamp": [
+        35.8,
+        36.62
+      ]
+    },
+    {
+      "text": " ha",
+      "timestamp": [
+        36.62,
+        36.94
+      ]
+    },
+    {
+      "text": " follado",
+      "timestamp": [
+        36.94,
+        37.2
+      ]
+    },
+    {
+      "text": " vacas",
+      "timestamp": [
+        37.2,
+        37.56
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        37.56,
+        37.68
+      ]
+    },
+    {
+      "text": " ni",
+      "timestamp": [
+        37.68,
+        37.78
+      ]
+    },
+    {
+      "text": " os",
+      "timestamp": [
+        37.78,
+        37.88
+      ]
+    },
+    {
+      "text": " creeríais.",
+      "timestamp": [
+        37.88,
+        38.5
+      ]
+    },
+    {
+      "text": " Nene,",
+      "timestamp": [
+        38.5,
+        39.26
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        39.26,
+        39.48
+      ]
+    },
+    {
+      "text": " esas",
+      "timestamp": [
+        39.48,
+        39.72
+      ]
+    },
+    {
+      "text": " pinzas",
+      "timestamp": [
+        39.72,
+        40.22
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        40.22,
+        40.46
+      ]
+    },
+    {
+      "text": " tu",
+      "timestamp": [
+        40.46,
+        40.56
+      ]
+    },
+    {
+      "text": " edad",
+      "timestamp": [
+        40.56,
+        40.86
+      ]
+    },
+    {
+      "text": " perfectamente",
+      "timestamp": [
+        41.0,
+        41.72
+      ]
+    },
+    {
+      "text": " podrías",
+      "timestamp": [
+        41.72,
+        42.18
+      ]
+    },
+    {
+      "text": " ser",
+      "timestamp": [
+        42.18,
+        42.36
+      ]
+    },
+    {
+      "text": " trapero.",
+      "timestamp": [
+        42.36,
+        42.86
+      ]
+    },
+    {
+      "text": " Hablo",
+      "timestamp": [
+        43.48,
+        43.62
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        43.62,
+        43.78
+      ]
+    },
+    {
+      "text": " vivir",
+      "timestamp": [
+        43.78,
+        44.06
+      ]
+    },
+    {
+      "text": " vendiendo",
+      "timestamp": [
+        44.06,
+        44.56
+      ]
+    },
+    {
+      "text": " trapos.",
+      "timestamp": [
+        44.56,
+        45.04
+      ]
+    },
+    {
+      "text": " Dani,",
+      "timestamp": [
+        45.46,
+        45.9
+      ]
+    },
+    {
+      "text": " tienes",
+      "timestamp": [
+        45.9,
+        46.2
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        46.2,
+        46.38
+      ]
+    },
+    {
+      "text": " voz",
+      "timestamp": [
+        46.38,
+        46.56
+      ]
+    },
+    {
+      "text": " tan",
+      "timestamp": [
+        46.56,
+        46.8
+      ]
+    },
+    {
+      "text": " asquerosa",
+      "timestamp": [
+        46.8,
+        47.3
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        47.3,
+        47.88
+      ]
+    },
+    {
+      "text": " cada",
+      "timestamp": [
+        47.88,
+        48.06
+      ]
+    },
+    {
+      "text": " vez",
+      "timestamp": [
+        48.06,
+        48.18
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        48.18,
+        48.3
+      ]
+    },
+    {
+      "text": " le",
+      "timestamp": [
+        48.3,
+        48.4
+      ]
+    },
+    {
+      "text": " hablas",
+      "timestamp": [
+        48.4,
+        48.6
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        48.6,
+        48.72
+      ]
+    },
+    {
+      "text": " Siri",
+      "timestamp": [
+        48.72,
+        48.92
+      ]
+    },
+    {
+      "text": " le",
+      "timestamp": [
+        48.92,
+        49.14
+      ]
+    },
+    {
+      "text": " dan",
+      "timestamp": [
+        49.14,
+        49.34
+      ]
+    },
+    {
+      "text": " arcadas.",
+      "timestamp": [
+        49.34,
+        49.9
+      ]
+    },
+    {
+      "text": " Yo",
+      "timestamp": [
+        50.36,
+        50.44
+      ]
+    },
+    {
+      "text": " he",
+      "timestamp": [
+        50.44,
+        50.46
+      ]
+    },
+    {
+      "text": " visto",
+      "timestamp": [
+        50.46,
+        50.6
+      ]
+    },
+    {
+      "text": " pacientes",
+      "timestamp": [
+        50.6,
+        51.02
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        51.02,
+        51.14
+      ]
+    },
+    {
+      "text": " tracheotomía",
+      "timestamp": [
+        51.14,
+        51.8
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        51.8,
+        52.16
+      ]
+    },
+    {
+      "text": " tenían",
+      "timestamp": [
+        52.16,
+        52.38
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        52.38,
+        52.52
+      ]
+    },
+    {
+      "text": " voz",
+      "timestamp": [
+        52.52,
+        52.7
+      ]
+    },
+    {
+      "text": " más",
+      "timestamp": [
+        52.7,
+        52.82
+      ]
+    },
+    {
+      "text": " bonita",
+      "timestamp": [
+        52.82,
+        53.16
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        53.16,
+        53.24
+      ]
+    },
+    {
+      "text": " tú.",
+      "timestamp": [
+        53.24,
+        53.46
+      ]
+    }
+  ],
+  "processing_time": 7923.445235013962,
+  "language": "es",
+  "model_id": "openai/whisper-large-v3"
+}

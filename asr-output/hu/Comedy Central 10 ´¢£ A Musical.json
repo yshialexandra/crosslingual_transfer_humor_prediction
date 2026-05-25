@@ -1,0 +1,144 @@
+{
+  "audio_file": "Comedy Central 10 ｜ A Musical.wav",
+  "full_text": "Köszönöm szépen! Úgy alakul... A szívsebészi pályán most kezdenék, mint rezidens! Oram, Isten! Nem jötted, Kerry! De szerint ő csak Kenny halála evidess! Szemmetek! Szívig csak a napémom volt vérelt helyem, Már pilóta is lehetnék, vagy hős fejedelem! A jaktom mellett vitorlással várnám a szelet! De ehelyett csak bámultuk a fingós vicceket! Kinti bollat két fog soron mentam a sírra! Sosem tudtam meg, hogy kárt menkének a fia! Nevem város viselné vagy sportszermárkatán, Ha nem kötőlem minden időm kezdesz a tornára! Elherd állt az életünkből tíz évet de kár! Minden frankó volna az elején bezár! Éneklünk, de senki nem tud ünnepelni már! Hát közz a semmit! Comedy Central! Hát menj a procskba a Comedy Central! Hát boldog szülinapot! Hát baszódjál meg Comedy Central! Hát lát! Ha itt hát mondok, mi nem férjét, ahogy te is! De s mondját rá! Légy tintú rajta! Köszönöm, hogy megtaláltad!",
+  "chunks": [
+    {
+      "text": " Köszönöm szépen!",
+      "start": 8.1,
+      "end": 10.24
+    },
+    {
+      "text": " Úgy alakul...",
+      "start": 30.0,
+      "end": 31.12
+    },
+    {
+      "text": " A szívsebészi pályán most kezdenék, mint rezidens!",
+      "start": 32.14,
+      "end": 36.16
+    },
+    {
+      "text": " Oram, Isten!",
+      "start": 36.28,
+      "end": 36.78
+    },
+    {
+      "text": " Nem jötted, Kerry!",
+      "start": 36.94,
+      "end": 37.74
+    },
+    {
+      "text": " De szerint ő csak Kenny halála evidess!",
+      "start": 37.9,
+      "end": 41.88
+    },
+    {
+      "text": " Szemmetek!",
+      "start": 42.92,
+      "end": 43.58
+    },
+    {
+      "text": " Szívig csak a napémom volt vérelt helyem,",
+      "start": 43.82,
+      "end": 46.24
+    },
+    {
+      "text": " Már pilóta is lehetnék, vagy hős fejedelem!",
+      "start": 46.36,
+      "end": 49.04
+    },
+    {
+      "text": " A jaktom mellett vitorlással várnám a szelet!",
+      "start": 49.32,
+      "end": 51.82
+    },
+    {
+      "text": " De ehelyett csak bámultuk a fingós vicceket!",
+      "start": 52.1,
+      "end": 54.78
+    },
+    {
+      "text": " Kinti bollat két fog soron mentam a sírra!",
+      "start": 55.1,
+      "end": 57.48
+    },
+    {
+      "text": " Sosem tudtam meg, hogy kárt menkének a fia!",
+      "start": 57.48,
+      "end": 60.18
+    },
+    {
+      "text": " Nevem város viselné vagy sportszermárkatán,",
+      "start": 60.46,
+      "end": 63.2
+    },
+    {
+      "text": " Ha nem kötőlem minden időm kezdesz a tornára!",
+      "start": 63.48,
+      "end": 66.64
+    },
+    {
+      "text": " Elherd állt az életünkből tíz évet de kár!",
+      "start": 68.46,
+      "end": 73.62
+    },
+    {
+      "text": " Minden frankó volna az elején bezár!",
+      "start": 73.82,
+      "end": 78.94
+    },
+    {
+      "text": " Éneklünk, de senki nem tud ünnepelni már!",
+      "start": 79.98,
+      "end": 84.16
+    },
+    {
+      "text": " Hát közz a semmit!",
+      "start": 84.16,
+      "end": 86.16
+    },
+    {
+      "text": " Comedy Central!",
+      "start": 86.94,
+      "end": 88.04
+    },
+    {
+      "text": " Hát menj a procskba a Comedy Central!",
+      "start": 88.32,
+      "end": 90.16
+    },
+    {
+      "text": " Hát boldog szülinapot!",
+      "start": 91.16,
+      "end": 92.16
+    },
+    {
+      "text": " Hát baszódjál meg Comedy Central!",
+      "start": 95.80000000000001,
+      "end": 99.64
+    },
+    {
+      "text": " Hát lát!",
+      "start": 99.64,
+      "end": 103.48
+    },
+    {
+      "text": " Ha itt hát mondok, mi nem férjét, ahogy te is!",
+      "start": 104.02,
+      "end": 105.98
+    },
+    {
+      "text": " De s mondját rá! Légy tintú rajta!",
+      "start": 106.1,
+      "end": 107.86
+    },
+    {
+      "text": " Köszönöm, hogy megtaláltad!",
+      "start": 107.86,
+      "end": 116.68
+    }
+  ],
+  "processing_time": 1.033137321472168,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

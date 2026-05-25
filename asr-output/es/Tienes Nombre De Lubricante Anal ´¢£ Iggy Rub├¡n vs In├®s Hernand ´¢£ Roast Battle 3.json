@@ -1,0 +1,44 @@
+{
+  "audio_file": "Tienes Nombre De Lubricante Anal ｜ Iggy Rubín vs Inés Hernand ｜ Roast Battle 3.wav",
+  "full_text": "¡Suscríbete al canal! Y es tu caso, así que a ver si es posible que te lubriques algún chiste, cariño. Bla, bla, bla, bla, bla, bla. O sea, te miro a la boca y es como una más del Volcán de la Palma. No para de salir material tóxico todo el rato. Pero lo único que intoxica son tus relaciones. Bueno, para relación tóxica, cariño, la tuya. Porque fíjate que después de que mucha gente comente que no eres tan buen actor, hay que tener cojonazos y al final and the Oscars goes to Iggy Rubin para reírle las gracias a Antonio Castelo durante años. ¡Suscríbete al canal!",
+  "chunks": [
+    {
+      "text": " ¡Suscríbete al canal!",
+      "start": 24.26,
+      "end": 29.34
+    },
+    {
+      "text": " Y es tu caso, así que a ver si es posible que te lubriques algún chiste, cariño.",
+      "start": 30.0,
+      "end": 32.96
+    },
+    {
+      "text": " Bla, bla, bla, bla, bla, bla. O sea, te miro a la boca y es como una más del Volcán de la Palma.",
+      "start": 33.38,
+      "end": 37.98
+    },
+    {
+      "text": " No para de salir material tóxico todo el rato. Pero lo único que intoxica son tus relaciones.",
+      "start": 38.08,
+      "end": 44.14
+    },
+    {
+      "text": " Bueno, para relación tóxica, cariño, la tuya. Porque fíjate que después de que mucha gente comente que no eres tan buen actor,",
+      "start": 44.64,
+      "end": 50.16
+    },
+    {
+      "text": " hay que tener cojonazos y al final and the Oscars goes to Iggy Rubin para reírle las gracias a Antonio Castelo durante años.",
+      "start": 50.34,
+      "end": 58.34
+    },
+    {
+      "text": " ¡Suscríbete al canal!",
+      "start": 63.79999999999999,
+      "end": 72.74
+    }
+  ],
+  "processing_time": 1.0303256511688232,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

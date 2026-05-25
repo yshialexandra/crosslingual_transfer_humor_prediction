@@ -1,0 +1,134 @@
+{
+  "audio_file": "Újévi köszöntő vers.wav",
+  "full_text": "A fixes seen. Eltelt megint egy év. Na, mi a helyzet gyíkok? Biztos, nagyon szeretlek, is z� 호 sokan írtok. Alávágott nevetések. Állandó ismétlések. Vagy a reklámok hosszabbak, mint maguk a részek. Nincs elég új sorozat, meg az is picit fáj. Vagy az oltás mellett kiállt a family guy. Tényleg, ezek milyen arcok,版ァ, hogy felvették a harcot. Hogy együtt dobhassu el majd, Jim Carricként a mareián. Rengeteg a hozzászólás. S ó, azok a kommentek! Nekik inkább azt üzenem... Gyere, inkább mondd meg te! Kiskarácsony, nagykarácsony... Jaj, bocsi, ez nem ide! Nem vagyok nagyüzengetős, legyünk inkább happybe! Stand-upok és szitkomok, a nevetéshez mi kell még? Együtt éltük meg azt is, hogy vált Elbándi Pricserté. Mikor megy az agymenők? Arról nehogy elnyomt! Lehet, hogy ma látni fogjuk, újra a részek se eldont. Sajnos gyanús, hogy reklámok jövőre is lesznek. Különben miből vennénk meg? Még több kamedikláb estet. Emeljük most poharunkat! Legfőképpen rátok! Isz nélkületek mi se lennénk! Drága jó barátok!",
+  "chunks": [
+    {
+      "text": " A fixes seen.",
+      "start": 0.8600000000000048,
+      "end": 1.9
+    },
+    {
+      "text": " Eltelt megint egy év.",
+      "start": 3.800000000000005,
+      "end": 5.42
+    },
+    {
+      "text": " Na, mi a helyzet gyíkok?",
+      "start": 5.72,
+      "end": 7.44
+    },
+    {
+      "text": " Biztos, nagyon szeretlek, is z� 호 sokan írtok.",
+      "start": 7.74,
+      "end": 10.46
+    },
+    {
+      "text": " Alávágott nevetések.",
+      "start": 11.38000000000001,
+      "end": 12.5
+    },
+    {
+      "text": " Állandó ismétlések.",
+      "start": 12.66,
+      "end": 14.26
+    },
+    {
+      "text": " Vagy a reklámok hosszabbak, mint maguk a részek.",
+      "start": 14.48,
+      "end": 16.56
+    },
+    {
+      "text": " Nincs elég új sorozat,",
+      "start": 16.76,
+      "end": 18.24
+    },
+    {
+      "text": " meg az is picit fáj.",
+      "start": 18.48,
+      "end": 19.92
+    },
+    {
+      "text": " Vagy az oltás mellett kiállt a family guy.",
+      "start": 20.14,
+      "end": 22.36
+    },
+    {
+      "text": " Tényleg, ezek milyen arcok,版ァ,",
+      "start": 22.72,
+      "end": 24.54
+    },
+    {
+      "text": " hogy felvették a harcot.",
+      "start": 24.54,
+      "end": 26.34
+    },
+    {
+      "text": " Hogy együtt dobhassu el majd, Jim Carricként a mareián.",
+      "start": 26.46,
+      "end": 29.98
+    },
+    {
+      "text": " Rengeteg a hozzászólás. S ó, azok a kommentek!",
+      "start": 30.92,
+      "end": 34.0
+    },
+    {
+      "text": " Nekik inkább azt üzenem... Gyere, inkább mondd meg te!",
+      "start": 34.76,
+      "end": 38.44
+    },
+    {
+      "text": " Kiskarácsony, nagykarácsony... Jaj, bocsi, ez nem ide!",
+      "start": 42.760000000000005,
+      "end": 45.24
+    },
+    {
+      "text": " Nem vagyok nagyüzengetős, legyünk inkább happybe!",
+      "start": 45.8,
+      "end": 49.1
+    },
+    {
+      "text": " Stand-upok és szitkomok, a nevetéshez mi kell még?",
+      "start": 49.3,
+      "end": 52.02
+    },
+    {
+      "text": " Együtt éltük meg azt is, hogy vált Elbándi Pricserté.",
+      "start": 52.32,
+      "end": 55.0
+    },
+    {
+      "text": " Mikor megy az agymenők? Arról nehogy elnyomt!",
+      "start": 55.9,
+      "end": 58.6
+    },
+    {
+      "text": " Lehet, hogy ma látni fogjuk, újra a részek se eldont.",
+      "start": 58.6,
+      "end": 61.52
+    },
+    {
+      "text": " Sajnos gyanús, hogy reklámok jövőre is lesznek.",
+      "start": 62.06,
+      "end": 65.2
+    },
+    {
+      "text": " Különben miből vennénk meg? Még több kamedikláb estet.",
+      "start": 65.56,
+      "end": 69.08
+    },
+    {
+      "text": " Emeljük most poharunkat! Legfőképpen rátok!",
+      "start": 69.36,
+      "end": 72.48
+    },
+    {
+      "text": " Isz nélkületek mi se lennénk! Drága jó barátok!",
+      "start": 72.62,
+      "end": 76.22
+    }
+  ],
+  "processing_time": 1.7631280422210693,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

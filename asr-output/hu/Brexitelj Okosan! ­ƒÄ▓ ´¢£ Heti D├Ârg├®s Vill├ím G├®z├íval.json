@@ -1,0 +1,104 @@
+{
+  "audio_file": "Brexitelj Okosan! 🎲 ｜ Heti Dörgés Villám Gézával.wav",
+  "full_text": "Állandóan csak előre lépkedsz ki lépkedés helyett. Unod már, hogy így nagyjából minden rendben van körülötted. Itt a Brexitej Okosan! Az egyetlen társasjáték, amiben mindenki veszít. Garantált sírás, depresszió és 125 milliárd dolláros kiadás az egész családnak. Lépj ki te először az unióból! De ajaj, elhitted, hogy a Brexit után heti 350 millió font marad az egészségügyre? Ha ha ha! Milyen jól szórakozunk! A Brexitej Okosan az egyetlen társasjáték, ami száz százalékig valóság. Brexitej Okosan! Évekig tartomóka az egész családnak. Egy játék, ahol újra kötelező az útlevél használat. Most 585 oldalas egyszerűsített szabályfüzettel. Jó olvasást! De a Brexitej Okosant enélkül is játszhatod. Lépj ki gyorsan! Mégse lépj ki! Halaszd el! Bent maradsz? Nem? Szavaztasd meg ezt is, aztán vidd el a megállapotást Brüsszelbe, csak azért, hogy senki se fogadja el. Szavazd megint, hogy aztán kezdődhessen az egész újra előről, amíg le nem jár az időt. Brexitej Okosan! Az is veszít, aki nyert!",
+  "chunks": [
+    {
+      "text": " Állandóan csak előre lépkedsz ki lépkedés helyett.",
+      "start": 0.0,
+      "end": 3.36
+    },
+    {
+      "text": " Unod már, hogy így nagyjából minden rendben van körülötted.",
+      "start": 3.74,
+      "end": 7.04
+    },
+    {
+      "text": " Itt a Brexitej Okosan!",
+      "start": 7.82,
+      "end": 10.24
+    },
+    {
+      "text": " Az egyetlen társasjáték, amiben mindenki veszít.",
+      "start": 10.96,
+      "end": 14.16
+    },
+    {
+      "text": " Garantált sírás, depresszió és 125 milliárd dolláros kiadás az egész családnak.",
+      "start": 14.52,
+      "end": 20.18
+    },
+    {
+      "text": " Lépj ki te először az unióból!",
+      "start": 20.48,
+      "end": 22.68
+    },
+    {
+      "text": " De ajaj, elhitted, hogy a Brexit után heti 350 millió font marad az egészségügyre?",
+      "start": 22.88,
+      "end": 28.84
+    },
+    {
+      "text": " Ha ha ha! Milyen jól szórakozunk!",
+      "start": 30.0,
+      "end": 32.98
+    },
+    {
+      "text": " A Brexitej Okosan az egyetlen társasjáték, ami száz százalékig valóság.",
+      "start": 34.54,
+      "end": 39.16
+    },
+    {
+      "text": " Brexitej Okosan! Évekig tartomóka az egész családnak.",
+      "start": 39.36,
+      "end": 43.28
+    },
+    {
+      "text": " Egy játék, ahol újra kötelező az útlevél használat.",
+      "start": 43.5,
+      "end": 46.86
+    },
+    {
+      "text": " Most 585 oldalas egyszerűsített szabályfüzettel.",
+      "start": 47.0,
+      "end": 50.56
+    },
+    {
+      "text": " Jó olvasást!",
+      "start": 50.72,
+      "end": 51.88
+    },
+    {
+      "text": " De a Brexitej Okosant enélkül is játszhatod.",
+      "start": 52.760000000000005,
+      "end": 55.38
+    },
+    {
+      "text": " Lépj ki gyorsan! Mégse lépj ki! Halaszd el!",
+      "start": 55.58,
+      "end": 58.74
+    },
+    {
+      "text": " Bent maradsz? Nem?",
+      "start": 58.74,
+      "end": 60.44
+    },
+    {
+      "text": " Szavaztasd meg ezt is, aztán vidd el a megállapotást Brüsszelbe, csak azért, hogy senki se fogadja el.",
+      "start": 60.98,
+      "end": 66.48
+    },
+    {
+      "text": " Szavazd megint, hogy aztán kezdődhessen az egész újra előről, amíg le nem jár az időt.",
+      "start": 66.64,
+      "end": 72.1
+    },
+    {
+      "text": " Brexitej Okosan! Az is veszít, aki nyert!",
+      "start": 72.6,
+      "end": 75.6
+    }
+  ],
+  "processing_time": 0.5288107395172119,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

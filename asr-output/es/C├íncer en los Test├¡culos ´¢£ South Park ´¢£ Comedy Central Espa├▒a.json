@@ -1,0 +1,144 @@
+{
+  "audio_file": "Cáncer en los Testículos ｜ South Park ｜ Comedy Central España.wav",
+  "full_text": "¡Papá! ¡Mamá dice que no intentes pillarte un cáncer! ¡Será un cáncer pequeñito, hijo! ¡Dile que no pasa nada! Buenos días. Me han dicho que podía ayudarme. Tengo que tomar. Llevo casi una semana sin comer. KFC. Escribe tu nombre en el impreso. La hora, fecha de nacimiento y te daremos para las próximas 24 horas. ¿Eso es serio? ¡Dios! ¡Es salsa del KFC! ¡KFC bien! ¿Esto es todo? ¿Un vasito cutre de salsa? Esto es un centro para ayudarte a superar tu adicción. ¿Quién quiere solo la salsa? ¡Y el pulé de patatas! ¡Y el pulé de pollo se agujiente! Si no la quieres, déjala. ¡Qué regata! Los alimentos congelados y precocinados parecen tener relación directa con muchas formas de cáncer de estómago y de colon. Toma ya. Los ensayos muestran que sus conservantes son la principal causa. Sin embargo, la mayoría de estos cánceres... ...se forman lentamente y pueden tardar años en desarrollarse. Me cago en... Cáncer testicular. Se da sobre todo en ancianos y puede ser muy agresivo. ¡Uy! Este está bien. No se sabe qué hace que este cáncer crezca tan rápido, pero las principales causas de esta dolencia se relacionan con una exposición a altas dosis de radiación. ¡Mmm! ¡Stan! ¿Me traes una cerveza? ¡Stan!",
+  "chunks": [
+    {
+      "text": " ¡Papá! ¡Mamá dice que no intentes pillarte un cáncer!",
+      "start": 5.119999999999998,
+      "end": 7.88
+    },
+    {
+      "text": " ¡Será un cáncer pequeñito, hijo! ¡Dile que no pasa nada!",
+      "start": 8.14,
+      "end": 11.46
+    },
+    {
+      "text": " Buenos días.",
+      "start": 19.52,
+      "end": 20.34
+    },
+    {
+      "text": " Me han dicho que podía ayudarme. Tengo que tomar. Llevo casi una semana sin comer. KFC.",
+      "start": 20.64,
+      "end": 25.18
+    },
+    {
+      "text": " Escribe tu nombre en el impreso. La hora, fecha de nacimiento y te daremos para las próximas 24 horas.",
+      "start": 27.259999999999998,
+      "end": 31.86
+    },
+    {
+      "text": " ¿Eso es serio?",
+      "start": 31.9,
+      "end": 32.5
+    },
+    {
+      "text": " ¡Dios! ¡Es salsa del KFC! ¡KFC bien!",
+      "start": 35.480000000000004,
+      "end": 38.46
+    },
+    {
+      "text": " ¿Esto es todo?",
+      "start": 46.1,
+      "end": 46.9
+    },
+    {
+      "text": " ¿Un vasito cutre de salsa?",
+      "start": 47.50000000000001,
+      "end": 49.4
+    },
+    {
+      "text": " Esto es un centro para ayudarte a superar tu adicción.",
+      "start": 49.64,
+      "end": 52.5
+    },
+    {
+      "text": " ¿Quién quiere solo la salsa? ¡Y el pulé de patatas! ¡Y el pulé de pollo se agujiente!",
+      "start": 52.5,
+      "end": 56.8
+    },
+    {
+      "text": " Si no la quieres, déjala.",
+      "start": 56.96,
+      "end": 58.26
+    },
+    {
+      "text": " ¡Qué regata!",
+      "start": 60.120000000000005,
+      "end": 60.78
+    },
+    {
+      "text": " Los alimentos congelados y precocinados parecen tener relación directa con muchas formas de cáncer de estómago y de colon.",
+      "start": 65.66,
+      "end": 71.58
+    },
+    {
+      "text": " Toma ya.",
+      "start": 71.82,
+      "end": 72.26
+    },
+    {
+      "text": " Los ensayos muestran que sus conservantes son la principal causa.",
+      "start": 76.36,
+      "end": 79.56
+    },
+    {
+      "text": " Sin embargo, la mayoría de estos cánceres...",
+      "start": 79.88,
+      "end": 82.32
+    },
+    {
+      "text": " ...se forman lentamente y pueden tardar años en desarrollarse.",
+      "start": 82.32,
+      "end": 85.18
+    },
+    {
+      "text": " Me cago en...",
+      "start": 85.32,
+      "end": 85.78
+    },
+    {
+      "text": " Cáncer testicular.",
+      "start": 87.12,
+      "end": 88.0
+    },
+    {
+      "text": " Se da sobre todo en ancianos y puede ser muy agresivo.",
+      "start": 88.56,
+      "end": 91.32
+    },
+    {
+      "text": " ¡Uy! Este está bien.",
+      "start": 91.48,
+      "end": 92.2
+    },
+    {
+      "text": " No se sabe qué hace que este cáncer crezca tan rápido,",
+      "start": 92.78,
+      "end": 95.52
+    },
+    {
+      "text": " pero las principales causas de esta dolencia se relacionan con una exposición a altas dosis de radiación.",
+      "start": 95.66,
+      "end": 101.7
+    },
+    {
+      "text": " ¡Mmm!",
+      "start": 101.7,
+      "end": 102.7
+    },
+    {
+      "text": " ¡Stan! ¿Me traes una cerveza?",
+      "start": 115.46000000000001,
+      "end": 117.32
+    },
+    {
+      "text": " ¡Stan!",
+      "start": 120.22,
+      "end": 121.1
+    }
+  ],
+  "processing_time": 0.6648964881896973,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

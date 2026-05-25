@@ -1,0 +1,94 @@
+{
+  "audio_file": "Lo Malo y Lo Bueno de Castilla La Mancha Según JJ Vaquero ｜ El Roast De España 2.wav",
+  "full_text": "Todos tenemos algún amigo manchego que te habla como si fuera Ernesto Sevilla. Y yo de verdad, a mí que me hablen imitando a un humorista es que no puedo, no puedo. ¡Pecador, fistro! ¡Godenal! A ver, castellano manchego, eso os lo digo. Hay más libros. Y hay algún libro que a mí me gusta más que el Quijote. Mi libro favorito es cuando digo, hoy trabajo, pero mañana libro. Si se llama atascaburras es por algo, pero quiero aclarar una cosa. No solo atasca a las burras, también atasca a las personas. Es más, no me cago en la hostia porque he comido atascaburras, no me puedo cagar en nada. A ver, una cosita, se os ha ido la mano con las distancias, es muy extensa, kilómetros y kilómetros si no aparece un pueblo. Mi primo se ha echado una mujer del pueblo de al lado y se ven cada tres meses. No entiendo por qué levantas una piedra y te sale un monologuista bueno en Castilla-La Mancha. Goyo Jiménez, Ernesto Sevilla, Joaquín Reyes, Pablo Chapellea, Julián López, Agustín Durán, Frank Pati, Roberto Gontán, pero bueno, a lo mejor es que claro, por otro lado también está cospedal y necesitaba mucha comedia para compensar tanta tragedia. Me encanta el queso manchego, está buenísimo, buenísimo. ¿Cómo estará de bueno que ayer cogí un poco de queso manchego con la mano, luego fui al ordenador y se me volvía loco el ratón, que me comía el dedo, que me comía el dedo? ¡Pecator! ¡Pecator! ¡Pecator!",
+  "chunks": [
+    {
+      "text": " Todos tenemos algún amigo manchego que te habla como si fuera Ernesto Sevilla. Y yo de verdad,",
+      "start": 7.119999999999997,
+      "end": 12.04
+    },
+    {
+      "text": " a mí que me hablen imitando a un humorista es que no puedo, no puedo. ¡Pecador, fistro! ¡Godenal!",
+      "start": 12.32,
+      "end": 19.72
+    },
+    {
+      "text": " A ver, castellano manchego, eso os lo digo. Hay más libros. Y hay algún libro que a mí me gusta",
+      "start": 21.9,
+      "end": 27.72
+    },
+    {
+      "text": " más que el Quijote. Mi libro favorito es cuando digo, hoy trabajo, pero mañana libro.",
+      "start": 27.72,
+      "end": 33.08
+    },
+    {
+      "text": " Si se llama atascaburras es por algo, pero quiero aclarar una cosa. No solo atasca a",
+      "start": 35.3,
+      "end": 40.3
+    },
+    {
+      "text": " las burras, también atasca a las personas. Es más, no me cago en la hostia porque he",
+      "start": 40.3,
+      "end": 45.74
+    },
+    {
+      "text": " comido atascaburras, no me puedo cagar en nada.",
+      "start": 45.74,
+      "end": 47.64
+    },
+    {
+      "text": " A ver, una cosita, se os ha ido la mano con las distancias, es muy extensa, kilómetros",
+      "start": 50.02,
+      "end": 54.78
+    },
+    {
+      "text": " y kilómetros si no aparece un pueblo. Mi primo se ha echado una mujer del pueblo de al lado",
+      "start": 54.78,
+      "end": 60.04
+    },
+    {
+      "text": " y se ven cada tres meses. No entiendo por qué levantas una piedra y te sale un monologuista",
+      "start": 60.04,
+      "end": 67.74
+    },
+    {
+      "text": " bueno en Castilla-La Mancha. Goyo Jiménez, Ernesto Sevilla, Joaquín Reyes, Pablo Chapellea, Julián López,",
+      "start": 67.74,
+      "end": 73.8
+    },
+    {
+      "text": " Agustín Durán, Frank Pati, Roberto Gontán, pero bueno, a lo mejor es que claro, por otro lado",
+      "start": 74.56,
+      "end": 80.1
+    },
+    {
+      "text": " también está cospedal y necesitaba mucha comedia para compensar tanta tragedia. Me encanta",
+      "start": 80.1,
+      "end": 88.02
+    },
+    {
+      "text": " el queso manchego, está buenísimo, buenísimo. ¿Cómo estará de bueno que ayer cogí un",
+      "start": 88.02,
+      "end": 92.3
+    },
+    {
+      "text": " poco de queso manchego con la mano, luego fui al ordenador y se me volvía loco el ratón,",
+      "start": 92.3,
+      "end": 96.48
+    },
+    {
+      "text": " que me comía el dedo, que me comía el dedo? ¡Pecator!",
+      "start": 96.58,
+      "end": 99.7
+    },
+    {
+      "text": " ¡Pecator! ¡Pecator!",
+      "start": 120.46,
+      "end": 122.42000000000002
+    }
+  ],
+  "processing_time": 2.1485040187835693,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

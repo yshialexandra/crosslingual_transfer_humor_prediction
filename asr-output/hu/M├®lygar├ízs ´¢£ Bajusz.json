@@ -1,0 +1,44 @@
+{
+  "audio_file": "Mélygarázs ｜ Bajusz.wav",
+  "full_text": "Jaj, mi van? Mi van? Semmi, dudálok. De miért az én taximban? Mit csinálsz? Az már nézd meg, hogy rád állt a paraszt. Nem fogsz tudni kiállni. Héló, paraszcsíra! Menjél már onnan a fostalicskáddal mögülem! Hallod? Csincska gyerek! Látok? Neked beszélek! Vidd már onnan a szarodat! Komolyan mondom, az eszem megáll, de tényleg. A kategóriás autót kérek rendezett hősájus a főről a műpához. Ez én leszek.",
+  "chunks": [
+    {
+      "text": " Jaj, mi van? Mi van? Semmi, dudálok. De miért az én taximban?",
+      "start": 8.559999999999999,
+      "end": 12.76
+    },
+    {
+      "text": " Mit csinálsz? Az már nézd meg, hogy rád állt a paraszt. Nem",
+      "start": 12.82,
+      "end": 15.2
+    },
+    {
+      "text": " fogsz tudni kiállni. Héló, paraszcsíra! Menjél már onnan a fostalicskáddal mögülem! Hallod?",
+      "start": 15.2,
+      "end": 22.78
+    },
+    {
+      "text": " Csincska gyerek! Látok? Neked beszélek! Vidd már onnan a szarodat!",
+      "start": 23.200000000000003,
+      "end": 28.1
+    },
+    {
+      "text": " Komolyan mondom, az eszem megáll, de tényleg.",
+      "start": 30.14,
+      "end": 32.6
+    },
+    {
+      "text": " A kategóriás autót kérek rendezett hősájus a főről a műpához.",
+      "start": 34.480000000000004,
+      "end": 38.64
+    },
+    {
+      "text": " Ez én leszek.",
+      "start": 38.86,
+      "end": 40.16
+    }
+  ],
+  "processing_time": 1.305053472518921,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

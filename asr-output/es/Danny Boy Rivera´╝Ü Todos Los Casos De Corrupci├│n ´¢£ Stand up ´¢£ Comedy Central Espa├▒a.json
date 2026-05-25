@@ -1,0 +1,954 @@
+{
+  "audio_file": "Danny Boy Rivera： Todos Los Casos De Corrupción ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": " Encontré una página web donde hacen un recuento de todos los casos de corrupción que ha habido en la historia de la democracia. Evidentemente, como no tengo ADSL, no la pude ver. Y fui a otra web en la que ponen un recuento de los casos de corrupción que ha habido en esta legislatura. Ahí van los datos. PP, 177 casos de corrupción. PSOE, 128. Convergencia y Unión, 14. PNV, 13. Izquierda Unida, 8. Joder, si son los escaños que les están dando los sondeos del FIS. Está en la demostración de que a la gente le mola votar a los que roban, ¿no? Por eso en Izquierda Unida se están poniendo las pilas, tío. Dicen, hostia, con ocho casos de corrupción no vamos a gobernar en nuestra puta vida, tío. ¡Hazte respetar y roba!",
+  "chunks": [
+    {
+      "text": " Encontré",
+      "timestamp": [
+        0.0,
+        1.96
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        1.96,
+        2.06
+      ]
+    },
+    {
+      "text": " página",
+      "timestamp": [
+        2.06,
+        2.26
+      ]
+    },
+    {
+      "text": " web",
+      "timestamp": [
+        2.26,
+        2.6
+      ]
+    },
+    {
+      "text": " donde",
+      "timestamp": [
+        2.6,
+        3.46
+      ]
+    },
+    {
+      "text": " hacen",
+      "timestamp": [
+        3.46,
+        3.82
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        3.82,
+        3.98
+      ]
+    },
+    {
+      "text": " recuento",
+      "timestamp": [
+        3.98,
+        4.46
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        4.46,
+        4.6
+      ]
+    },
+    {
+      "text": " todos",
+      "timestamp": [
+        4.6,
+        4.86
+      ]
+    },
+    {
+      "text": " los",
+      "timestamp": [
+        4.86,
+        5.02
+      ]
+    },
+    {
+      "text": " casos",
+      "timestamp": [
+        5.02,
+        5.26
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        5.26,
+        5.48
+      ]
+    },
+    {
+      "text": " corrupción",
+      "timestamp": [
+        5.48,
+        5.96
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        5.96,
+        6.12
+      ]
+    },
+    {
+      "text": " ha",
+      "timestamp": [
+        6.12,
+        6.18
+      ]
+    },
+    {
+      "text": " habido",
+      "timestamp": [
+        6.18,
+        6.28
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        6.28,
+        6.4
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        6.4,
+        6.4
+      ]
+    },
+    {
+      "text": " historia",
+      "timestamp": [
+        6.4,
+        6.62
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        6.62,
+        6.8
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        6.8,
+        6.9
+      ]
+    },
+    {
+      "text": " democracia.",
+      "timestamp": [
+        6.9,
+        7.44
+      ]
+    },
+    {
+      "text": " Evidentemente,",
+      "timestamp": [
+        7.52,
+        8.08
+      ]
+    },
+    {
+      "text": " como",
+      "timestamp": [
+        8.08,
+        8.46
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        8.46,
+        8.6
+      ]
+    },
+    {
+      "text": " tengo",
+      "timestamp": [
+        8.6,
+        8.76
+      ]
+    },
+    {
+      "text": " ADSL,",
+      "timestamp": [
+        8.76,
+        9.2
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        9.2,
+        9.34
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        9.34,
+        9.4
+      ]
+    },
+    {
+      "text": " pude",
+      "timestamp": [
+        9.4,
+        9.58
+      ]
+    },
+    {
+      "text": " ver.",
+      "timestamp": [
+        9.58,
+        9.96
+      ]
+    },
+    {
+      "text": " Y",
+      "timestamp": [
+        10.48,
+        10.92
+      ]
+    },
+    {
+      "text": " fui",
+      "timestamp": [
+        10.92,
+        11.14
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        11.14,
+        11.22
+      ]
+    },
+    {
+      "text": " otra",
+      "timestamp": [
+        11.22,
+        11.38
+      ]
+    },
+    {
+      "text": " web",
+      "timestamp": [
+        11.38,
+        11.64
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        11.64,
+        11.86
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        11.86,
+        11.96
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        11.96,
+        12.06
+      ]
+    },
+    {
+      "text": " ponen",
+      "timestamp": [
+        12.06,
+        12.52
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        12.52,
+        12.76
+      ]
+    },
+    {
+      "text": " recuento",
+      "timestamp": [
+        12.76,
+        13.3
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        13.3,
+        13.42
+      ]
+    },
+    {
+      "text": " los",
+      "timestamp": [
+        13.42,
+        13.52
+      ]
+    },
+    {
+      "text": " casos",
+      "timestamp": [
+        13.52,
+        13.72
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        13.72,
+        13.9
+      ]
+    },
+    {
+      "text": " corrupción",
+      "timestamp": [
+        13.9,
+        14.3
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        14.3,
+        14.46
+      ]
+    },
+    {
+      "text": " ha",
+      "timestamp": [
+        14.46,
+        14.52
+      ]
+    },
+    {
+      "text": " habido",
+      "timestamp": [
+        14.52,
+        14.62
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        14.62,
+        14.92
+      ]
+    },
+    {
+      "text": " esta",
+      "timestamp": [
+        14.92,
+        15.18
+      ]
+    },
+    {
+      "text": " legislatura.",
+      "timestamp": [
+        15.18,
+        15.9
+      ]
+    },
+    {
+      "text": " Ahí",
+      "timestamp": [
+        16.04,
+        16.08
+      ]
+    },
+    {
+      "text": " van",
+      "timestamp": [
+        16.08,
+        16.2
+      ]
+    },
+    {
+      "text": " los",
+      "timestamp": [
+        16.2,
+        16.28
+      ]
+    },
+    {
+      "text": " datos.",
+      "timestamp": [
+        16.28,
+        16.78
+      ]
+    },
+    {
+      "text": " PP,",
+      "timestamp": [
+        17.66,
+        18.1
+      ]
+    },
+    {
+      "text": " 177",
+      "timestamp": [
+        18.1,
+        19.44
+      ]
+    },
+    {
+      "text": " casos",
+      "timestamp": [
+        19.44,
+        19.8
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        19.8,
+        20.02
+      ]
+    },
+    {
+      "text": " corrupción.",
+      "timestamp": [
+        20.02,
+        20.56
+      ]
+    },
+    {
+      "text": " PSOE,",
+      "timestamp": [
+        20.94,
+        21.42
+      ]
+    },
+    {
+      "text": " 128.",
+      "timestamp": [
+        21.42,
+        22.74
+      ]
+    },
+    {
+      "text": " Convergencia",
+      "timestamp": [
+        22.96,
+        23.48
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        23.48,
+        23.56
+      ]
+    },
+    {
+      "text": " Unión,",
+      "timestamp": [
+        23.56,
+        23.92
+      ]
+    },
+    {
+      "text": " 14.",
+      "timestamp": [
+        23.92,
+        24.36
+      ]
+    },
+    {
+      "text": " PNV,",
+      "timestamp": [
+        24.62,
+        25.08
+      ]
+    },
+    {
+      "text": " 13.",
+      "timestamp": [
+        25.08,
+        25.72
+      ]
+    },
+    {
+      "text": " Izquierda",
+      "timestamp": [
+        25.72,
+        26.26
+      ]
+    },
+    {
+      "text": " Unida,",
+      "timestamp": [
+        26.26,
+        26.68
+      ]
+    },
+    {
+      "text": " 8.",
+      "timestamp": [
+        26.68,
+        27.4
+      ]
+    },
+    {
+      "text": " Joder,",
+      "timestamp": [
+        27.4,
+        28.76
+      ]
+    },
+    {
+      "text": " si",
+      "timestamp": [
+        28.76,
+        29.26
+      ]
+    },
+    {
+      "text": " son",
+      "timestamp": [
+        29.26,
+        29.44
+      ]
+    },
+    {
+      "text": " los",
+      "timestamp": [
+        29.44,
+        29.62
+      ]
+    },
+    {
+      "text": " escaños",
+      "timestamp": [
+        29.74,
+        30.06
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        30.06,
+        30.22
+      ]
+    },
+    {
+      "text": " les",
+      "timestamp": [
+        30.22,
+        30.3
+      ]
+    },
+    {
+      "text": " están",
+      "timestamp": [
+        30.3,
+        30.54
+      ]
+    },
+    {
+      "text": " dando",
+      "timestamp": [
+        30.54,
+        30.76
+      ]
+    },
+    {
+      "text": " los",
+      "timestamp": [
+        30.76,
+        30.88
+      ]
+    },
+    {
+      "text": " sondeos",
+      "timestamp": [
+        30.88,
+        31.22
+      ]
+    },
+    {
+      "text": " del",
+      "timestamp": [
+        31.22,
+        31.32
+      ]
+    },
+    {
+      "text": " FIS.",
+      "timestamp": [
+        31.32,
+        31.86
+      ]
+    },
+    {
+      "text": " Está",
+      "timestamp": [
+        31.86,
+        33.32
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        33.32,
+        33.48
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        33.48,
+        33.56
+      ]
+    },
+    {
+      "text": " demostración",
+      "timestamp": [
+        33.56,
+        34.16
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        34.16,
+        34.36
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        34.36,
+        34.44
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        34.44,
+        34.54
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        34.54,
+        34.58
+      ]
+    },
+    {
+      "text": " gente",
+      "timestamp": [
+        34.58,
+        34.72
+      ]
+    },
+    {
+      "text": " le",
+      "timestamp": [
+        34.72,
+        34.92
+      ]
+    },
+    {
+      "text": " mola",
+      "timestamp": [
+        34.92,
+        35.1
+      ]
+    },
+    {
+      "text": " votar",
+      "timestamp": [
+        35.14,
+        35.38
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        35.38,
+        35.44
+      ]
+    },
+    {
+      "text": " los",
+      "timestamp": [
+        35.44,
+        35.56
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        35.56,
+        35.68
+      ]
+    },
+    {
+      "text": " roban,",
+      "timestamp": [
+        35.68,
+        36.24
+      ]
+    },
+    {
+      "text": " ¿no?",
+      "timestamp": [
+        36.24,
+        36.44
+      ]
+    },
+    {
+      "text": " Por",
+      "timestamp": [
+        36.44,
+        38.44
+      ]
+    },
+    {
+      "text": " eso",
+      "timestamp": [
+        38.44,
+        42.18
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        42.18,
+        42.28
+      ]
+    },
+    {
+      "text": " Izquierda",
+      "timestamp": [
+        42.28,
+        42.56
+      ]
+    },
+    {
+      "text": " Unida",
+      "timestamp": [
+        42.56,
+        42.74
+      ]
+    },
+    {
+      "text": " se",
+      "timestamp": [
+        42.74,
+        42.9
+      ]
+    },
+    {
+      "text": " están",
+      "timestamp": [
+        42.88,
+        43.04
+      ]
+    },
+    {
+      "text": " poniendo",
+      "timestamp": [
+        43.04,
+        43.28
+      ]
+    },
+    {
+      "text": " las",
+      "timestamp": [
+        43.28,
+        43.44
+      ]
+    },
+    {
+      "text": " pilas,",
+      "timestamp": [
+        43.44,
+        43.84
+      ]
+    },
+    {
+      "text": " tío.",
+      "timestamp": [
+        43.84,
+        44.02
+      ]
+    },
+    {
+      "text": " Dicen,",
+      "timestamp": [
+        44.94,
+        45.44
+      ]
+    },
+    {
+      "text": " hostia,",
+      "timestamp": [
+        45.44,
+        45.76
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        45.76,
+        45.9
+      ]
+    },
+    {
+      "text": " ocho",
+      "timestamp": [
+        45.9,
+        46.12
+      ]
+    },
+    {
+      "text": " casos",
+      "timestamp": [
+        46.12,
+        46.24
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        46.24,
+        46.4
+      ]
+    },
+    {
+      "text": " corrupción",
+      "timestamp": [
+        46.4,
+        46.72
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        46.72,
+        46.84
+      ]
+    },
+    {
+      "text": " vamos",
+      "timestamp": [
+        46.84,
+        46.94
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        46.94,
+        47.08
+      ]
+    },
+    {
+      "text": " gobernar",
+      "timestamp": [
+        47.08,
+        47.36
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        47.36,
+        47.5
+      ]
+    },
+    {
+      "text": " nuestra",
+      "timestamp": [
+        47.5,
+        47.64
+      ]
+    },
+    {
+      "text": " puta",
+      "timestamp": [
+        47.64,
+        47.88
+      ]
+    },
+    {
+      "text": " vida,",
+      "timestamp": [
+        47.88,
+        48.24
+      ]
+    },
+    {
+      "text": " tío.",
+      "timestamp": [
+        48.24,
+        48.42
+      ]
+    },
+    {
+      "text": " ¡Hazte",
+      "timestamp": [
+        49.62,
+        49.9
+      ]
+    },
+    {
+      "text": " respetar",
+      "timestamp": [
+        49.9,
+        50.34
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        50.34,
+        50.4
+      ]
+    },
+    {
+      "text": " roba!",
+      "timestamp": [
+        50.4,
+        50.76
+      ]
+    }
+  ],
+  "processing_time": 7923.445235013962,
+  "language": "es",
+  "model_id": "openai/whisper-large-v3"
+}

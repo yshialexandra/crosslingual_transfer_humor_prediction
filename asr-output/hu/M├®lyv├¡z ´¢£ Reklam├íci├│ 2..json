@@ -1,0 +1,19 @@
+{
+  "audio_file": "Mélyvíz ｜ Reklamáció 2..wav",
+  "full_text": "A Fő Ételemre Aztán bement a konyhára. Az úr már eszik, én még nem pedig ugyanazt rendeltem. Biztos, hogy ugyanazt rendelte? Igen. Hé! Parancsoljon elnézést a kellemetlenségért. Az előeszközé.",
+  "chunks": [
+    {
+      "text": " A Fő Ételemre",
+      "start": 9.68,
+      "end": 12.84
+    },
+    {
+      "text": " Aztán bement a konyhára. Az úr már eszik, én még nem pedig ugyanazt rendeltem. Biztos, hogy ugyanazt rendelte? Igen. Hé! Parancsoljon elnézést a kellemetlenségért. Az előeszközé.",
+      "start": 30.0,
+      "end": 50.12
+    }
+  ],
+  "processing_time": 0.21390533447265625,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

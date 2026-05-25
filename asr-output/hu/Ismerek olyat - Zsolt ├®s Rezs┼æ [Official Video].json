@@ -1,0 +1,69 @@
+{
+  "audio_file": "Ismerek olyat - Zsolt és Rezső [Official Video].wav",
+  "full_text": "NAMASTE Nem tudni miért, nem tudni mitől, Kinek áll az érdekében. Ismerek olyat, érti a lovat, Szonda van a végbelében. Ha leszáll az estő feláll, az erőben rájuk talál. Ismervek olyat, érti a lomat, éjszakánkért sosem hallzik. Magas a rak ezeket! Fények a tavon, titkos a vagyon, mindig sötét az utcájuk. Eljönnek megint mindenki szerint, már kese se adok rájuk. Az ür a jó szürk és sötét, belsejét a fényt ölti szét. Eljönnek megint mindenki szerint, lássátok az igazságot! NAMASTE Köszönöm szépen!",
+  "chunks": [
+    {
+      "text": " NAMASTE",
+      "start": 1.719999999999997,
+      "end": 2.58
+    },
+    {
+      "text": " Nem tudni miért, nem tudni mitől, Kinek áll az érdekében.",
+      "start": 12.239999999999997,
+      "end": 18.0
+    },
+    {
+      "text": " Ismerek olyat, érti a lovat, Szonda van a végbelében.",
+      "start": 19.12,
+      "end": 24.36
+    },
+    {
+      "text": " Ha leszáll az estő feláll, az erőben rájuk talál.",
+      "start": 24.36,
+      "end": 31.68
+    },
+    {
+      "text": " Ismervek olyat, érti a lomat, éjszakánkért sosem hallzik.",
+      "start": 31.98,
+      "end": 37.18
+    },
+    {
+      "text": " Magas a rak ezeket!",
+      "start": 41.2,
+      "end": 43.7
+    },
+    {
+      "text": " Fények a tavon, titkos a vagyon, mindig sötét az utcájuk.",
+      "start": 44.56,
+      "end": 50.02
+    },
+    {
+      "text": " Eljönnek megint mindenki szerint, már kese se adok rájuk.",
+      "start": 51.06,
+      "end": 56.5
+    },
+    {
+      "text": " Az ür a jó szürk és sötét, belsejét a fényt ölti szét.",
+      "start": 57.74,
+      "end": 63.64
+    },
+    {
+      "text": " Eljönnek megint mindenki szerint, lássátok az igazságot!",
+      "start": 63.9,
+      "end": 69.1
+    },
+    {
+      "text": " NAMASTE",
+      "start": 95.52,
+      "end": 96.92
+    },
+    {
+      "text": " Köszönöm szépen!",
+      "start": 110.02,
+      "end": 112.12
+    }
+  ],
+  "processing_time": 2.2356040477752686,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

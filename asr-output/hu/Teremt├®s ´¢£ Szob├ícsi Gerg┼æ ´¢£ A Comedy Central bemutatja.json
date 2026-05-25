@@ -1,0 +1,519 @@
+{
+  "audio_file": "Teremtés ｜ Szobácsi Gergő ｜ A Comedy Central bemutatja.wav",
+  "full_text": "Vannak nagyon jó sima könyvek is mostanában egyébként. Megjelent most a nagy ateista könyv. Hála Istennek! Én egyébként se vallásot, se ateista nem vagyok, mert nem tudom eldönteni, hogy melyiküknek van igaza. Ugye a vallás azt mondja, hogy mindent Isten teremtett. Viszont ő nem ez a kísérletező típus. Tehát ő nem így terem dolgokat, hogy mi van, ha ezt a két hidrogént meg ezt az oxigént összerakom, hanem így... tóp. halak. És még szerencsé, hogy ezek a szerencsétlenek tudnak lélegezni a víz alatt, mert Istennek fogalmas nincs mi az a halt, akkor jut eszébe, csak telekúrja bele a tavat. Ennyi erővel, szarvasokkal is telekúrhatna egészen nyugodtan. És mikor így nagyjából megteremtett mindent, akkor van egy olyan lépés, amit nem értek. Megteremti az embert, aki mindezeket elpusztítja. És amit nem tudunk elpusztítani, annak a hátára építünk egy várost, bár nem minden állattal szúrtunk ki, szerintem, hogy városokat építünk. Ott van például a gólya. Őt elképzelni nem tudom, hogy hova fészkeltek, amíg nem voltak kémények meg villanyoszlopok, hogy nem, így évmilliókig szálltak gajjakkal a csőrükbe, hogy hova tegyem, hova tegyem, hova tegyem. A másik állat, akinek jól jött a civilizáció, ezek az akvárium takarító halak. Azok természetes környezetükben mi a lófasz tesznek, de tényleg, hogy alig várják, hogy elsüllyedjenek, egy hajó így rátapadjanak az üvegére, így lenyalják. Ami még gusztusanul eszik, az a galamb. Nem tudom, láttunk-e már galambot, kiflicsücsököt enni? Senki se pesti. Akkor elmondom, nem úgy esznek a galambok kiflicsücsököt, hogy ilyen partedléval a nyakukba körbálják, hogy ne haragudj, kérlek, átnyújtanád a sót? Hanem így... állnak így a kiflicsücsökkel szemben, és így... Ettől a kiflicsücsök egy ilyen 3,5 métert repül hátra, majd megnézi, mert hogy itt van a szeme a hülyéjének, megnézi, nem találja, utána megy. A galamnak a nyakidege össze van kötve a lábával, ez egészen biztos. Isten már akkor teremtette, amikor fáradt volt, így este volt, így húzta be a nyakideget, így elvágta, ú, basz! Kicsit hosszúra vágtam, mindegy, hát ide kötöm, még ezt a két szemet kéne belerakni valahova, hát így előre nem fér, így benyomom oldalra, mindegy, elég szarul néz ki, szerencsétlen, de mára elegen van a galambokból, még csinálok pár kígyót, mert azt könnyű csinálni, és akkor mára elég volt. Szegény galamb meg ott áll, hogy ú, hát basszus, így jó, hogy látom ki ön oldalról, de így pont arra nem látok, amerre megyek, meg a lába, meg... mozgatja a nyakamat, hát posszúból az összeszobrot leszarom. Visszatérve az ateistákra, ők viszont mindent az evolúcióval magyaráznak, hogy nekünk embereknek például az óriási előnyünk, hogy van hüvelykújunk. De az szerintem nem elég, hogy van, azt használni is tudni kell, mint nagyanyám, ez a... valami van a szárdon. Egyébként szerintem nem minden állat... nem minden állat tudna bármit is kezdeni, hogyha lenne hüvelykúja. Ott van például a csiga. Hogy ugyanúgy néz neki, mint most, aki kiállna az aljából egy hüvelykúj, hogy nemhogy okosabb nem lenne, ott dög lenne meg mindenhol megszületni, így felborul, aztán kész. A delfin meg például tök okos hüvelykúj nélkül is. Mondjuk rá nem is tudom elképzelni, hova raknék hüvelykújat. Ezt a lukattó, amit elképzelni a háttal, de ebben így beledugod, megfullad. Csenki Attilának vetettem fel a kérdést, azt mondta, hogy egy delfin mit kezdhetne egy hüvelykújjal, azt mondta, lehetne rá szatyrotakasztani.",
+  "chunks": [
+    {
+      "text": " Vannak nagyon jó sima könyvek is mostanában egyébként.",
+      "start": 2.7000000000000015,
+      "end": 5.32
+    },
+    {
+      "text": " Megjelent most a nagy ateista könyv.",
+      "start": 5.42,
+      "end": 7.08
+    },
+    {
+      "text": " Hála Istennek!",
+      "start": 7.720000000000002,
+      "end": 8.52
+    },
+    {
+      "text": " Én egyébként se vallásot, se ateista nem vagyok,",
+      "start": 11.040000000000003,
+      "end": 13.74
+    },
+    {
+      "text": " mert nem tudom eldönteni, hogy melyiküknek van igaza.",
+      "start": 13.82,
+      "end": 15.74
+    },
+    {
+      "text": " Ugye a vallás azt mondja, hogy mindent Isten teremtett.",
+      "start": 15.96,
+      "end": 19.22
+    },
+    {
+      "text": " Viszont ő nem ez a kísérletező típus.",
+      "start": 19.3,
+      "end": 21.08
+    },
+    {
+      "text": " Tehát ő nem így terem dolgokat, hogy mi van,",
+      "start": 21.26,
+      "end": 22.8
+    },
+    {
+      "text": " ha ezt a két hidrogént meg ezt az oxigént összerakom,",
+      "start": 22.86,
+      "end": 25.04
+    },
+    {
+      "text": " hanem így... tóp.",
+      "start": 25.1,
+      "end": 26.06
+    },
+    {
+      "text": " halak.",
+      "start": 30.96,
+      "end": 31.36
+    },
+    {
+      "text": " És még szerencsé, hogy ezek a szerencsétlenek",
+      "start": 32.6,
+      "end": 34.52
+    },
+    {
+      "text": " tudnak lélegezni a víz alatt, mert Istennek",
+      "start": 34.52,
+      "end": 36.36
+    },
+    {
+      "text": " fogalmas nincs mi az a halt, akkor jut eszébe,",
+      "start": 36.36,
+      "end": 38.46
+    },
+    {
+      "text": " csak telekúrja bele a tavat.",
+      "start": 38.54,
+      "end": 39.76
+    },
+    {
+      "text": " Ennyi erővel, szarvasokkal is",
+      "start": 41.42,
+      "end": 42.94
+    },
+    {
+      "text": " telekúrhatna egészen nyugodtan.",
+      "start": 42.94,
+      "end": 44.5
+    },
+    {
+      "text": " És mikor így nagyjából megteremtett mindent,",
+      "start": 46.64,
+      "end": 48.72
+    },
+    {
+      "text": " akkor van egy olyan lépés, amit nem értek.",
+      "start": 48.8,
+      "end": 50.58
+    },
+    {
+      "text": " Megteremti az embert, aki mindezeket",
+      "start": 50.88,
+      "end": 52.58
+    },
+    {
+      "text": " elpusztítja.",
+      "start": 52.58,
+      "end": 53.26
+    },
+    {
+      "text": " És amit nem tudunk elpusztítani, annak a hátára",
+      "start": 54.24,
+      "end": 56.52
+    },
+    {
+      "text": " építünk egy várost, bár",
+      "start": 56.52,
+      "end": 58.3
+    },
+    {
+      "text": " nem minden állattal szúrtunk ki, szerintem,",
+      "start": 58.3,
+      "end": 60.42
+    },
+    {
+      "text": " hogy városokat építünk. Ott van például a gólya.",
+      "start": 60.5,
+      "end": 62.88
+    },
+    {
+      "text": " Őt elképzelni nem tudom,",
+      "start": 63.22,
+      "end": 64.62
+    },
+    {
+      "text": " hogy hova fészkeltek, amíg nem voltak kémények",
+      "start": 64.68,
+      "end": 66.66
+    },
+    {
+      "text": " meg villanyoszlopok, hogy",
+      "start": 66.66,
+      "end": 67.8
+    },
+    {
+      "text": " nem, így évmilliókig szálltak gajjakkal a csőrükbe,",
+      "start": 68.24000000000001,
+      "end": 70.8
+    },
+    {
+      "text": " hogy hova tegyem, hova tegyem, hova tegyem.",
+      "start": 70.82,
+      "end": 72.64
+    },
+    {
+      "text": " A másik állat, akinek",
+      "start": 75.06,
+      "end": 76.52
+    },
+    {
+      "text": " jól jött a civilizáció, ezek az akvárium",
+      "start": 76.52,
+      "end": 78.56
+    },
+    {
+      "text": " takarító halak.",
+      "start": 78.56,
+      "end": 79.52
+    },
+    {
+      "text": " Azok természetes környezetükben",
+      "start": 81.08,
+      "end": 82.6
+    },
+    {
+      "text": " mi a lófasz tesznek, de tényleg, hogy",
+      "start": 82.6,
+      "end": 84.46
+    },
+    {
+      "text": " alig várják, hogy elsüllyedjenek,",
+      "start": 86.56,
+      "end": 88.28
+    },
+    {
+      "text": " egy hajó így rátapadjanak az üvegére, így lenyalják.",
+      "start": 88.3,
+      "end": 90.6
+    },
+    {
+      "text": " Ami még",
+      "start": 92.22,
+      "end": 92.74
+    },
+    {
+      "text": " gusztusanul eszik, az a galamb.",
+      "start": 92.74,
+      "end": 94.16
+    },
+    {
+      "text": " Nem tudom, láttunk-e már galambot,",
+      "start": 94.52,
+      "end": 96.16
+    },
+    {
+      "text": " kiflicsücsököt enni?",
+      "start": 96.24,
+      "end": 97.22
+    },
+    {
+      "text": " Senki se pesti.",
+      "start": 98.78,
+      "end": 99.72
+    },
+    {
+      "text": " Akkor elmondom, nem úgy esznek",
+      "start": 101.34,
+      "end": 102.82
+    },
+    {
+      "text": " a galambok kiflicsücsököt, hogy ilyen partedléval",
+      "start": 102.82,
+      "end": 104.78
+    },
+    {
+      "text": " a nyakukba körbálják, hogy ne haragudj,",
+      "start": 104.78,
+      "end": 106.56
+    },
+    {
+      "text": " kérlek, átnyújtanád a sót?",
+      "start": 106.68,
+      "end": 107.82
+    },
+    {
+      "text": " Hanem így... állnak így a kiflicsücsökkel",
+      "start": 107.92,
+      "end": 110.48
+    },
+    {
+      "text": " szemben, és így...",
+      "start": 110.48,
+      "end": 112.24
+    },
+    {
+      "text": " Ettől a kiflicsücsök egy ilyen",
+      "start": 114.74000000000001,
+      "end": 116.22
+    },
+    {
+      "text": " 3,5 métert repül hátra,",
+      "start": 116.22,
+      "end": 117.96
+    },
+    {
+      "text": " majd megnézi,",
+      "start": 119.14,
+      "end": 119.86
+    },
+    {
+      "text": " mert hogy itt van a szeme a hülyéjének,",
+      "start": 121.12,
+      "end": 122.64
+    },
+    {
+      "text": " megnézi,",
+      "start": 124.2,
+      "end": 124.88
+    },
+    {
+      "text": " nem találja, utána megy.",
+      "start": 125.8,
+      "end": 127.44
+    },
+    {
+      "text": " A galamnak a nyakidege össze van kötve a lábával,",
+      "start": 136.14000000000001,
+      "end": 139.76
+    },
+    {
+      "text": " ez egészen biztos.",
+      "start": 139.9,
+      "end": 140.94
+    },
+    {
+      "text": " Isten már akkor teremtette, amikor fáradt volt,",
+      "start": 142.6,
+      "end": 145.34
+    },
+    {
+      "text": " így este volt, így húzta be a nyakideget, így elvágta,",
+      "start": 145.34,
+      "end": 148.36
+    },
+    {
+      "text": " ú, basz!",
+      "start": 148.42,
+      "end": 149.04
+    },
+    {
+      "text": " Kicsit hosszúra vágtam,",
+      "start": 150.6,
+      "end": 152.06
+    },
+    {
+      "text": " mindegy, hát ide kötöm,",
+      "start": 153.08,
+      "end": 155.22
+    },
+    {
+      "text": " még ezt a két szemet kéne belerakni valahova,",
+      "start": 155.46,
+      "end": 158.12
+    },
+    {
+      "text": " hát így előre nem fér,",
+      "start": 158.18,
+      "end": 159.52
+    },
+    {
+      "text": " így benyomom oldalra,",
+      "start": 161.52,
+      "end": 162.96
+    },
+    {
+      "text": " mindegy, elég szarul néz ki, szerencsétlen,",
+      "start": 164.96,
+      "end": 166.66
+    },
+    {
+      "text": " de mára elegen van a galambokból,",
+      "start": 166.76,
+      "end": 168.82
+    },
+    {
+      "text": " még csinálok pár kígyót,",
+      "start": 168.96,
+      "end": 170.54
+    },
+    {
+      "text": " mert azt könnyű csinálni,",
+      "start": 170.64,
+      "end": 171.58
+    },
+    {
+      "text": " és akkor mára elég volt.",
+      "start": 171.62,
+      "end": 174.62
+    },
+    {
+      "text": " Szegény galamb meg ott áll,",
+      "start": 179.66,
+      "end": 180.98
+    },
+    {
+      "text": " hogy ú, hát basszus,",
+      "start": 181.2,
+      "end": 182.36
+    },
+    {
+      "text": " így jó, hogy látom ki ön oldalról,",
+      "start": 182.48,
+      "end": 184.16
+    },
+    {
+      "text": " de így pont arra nem látok,",
+      "start": 184.24,
+      "end": 186.46
+    },
+    {
+      "text": " amerre megyek,",
+      "start": 186.46,
+      "end": 187.24
+    },
+    {
+      "text": " meg a lába, meg...",
+      "start": 188.57999999999998,
+      "end": 190.4
+    },
+    {
+      "text": " mozgatja a nyakamat,",
+      "start": 191.85999999999999,
+      "end": 192.96
+    },
+    {
+      "text": " hát posszúból az összeszobrot leszarom.",
+      "start": 196.24,
+      "end": 198.1
+    },
+    {
+      "text": " Visszatérve az ateistákra,",
+      "start": 204.10000000000002,
+      "end": 205.32
+    },
+    {
+      "text": " ők viszont mindent az evolúcióval magyaráznak,",
+      "start": 205.42,
+      "end": 207.6
+    },
+    {
+      "text": " hogy nekünk embereknek például az óriási előnyünk,",
+      "start": 207.72,
+      "end": 210.08
+    },
+    {
+      "text": " hogy van hüvelykújunk.",
+      "start": 210.14,
+      "end": 211.24
+    },
+    {
+      "text": " De az szerintem nem elég, hogy van,",
+      "start": 211.44,
+      "end": 213.02
+    },
+    {
+      "text": " azt használni is tudni kell,",
+      "start": 213.08,
+      "end": 214.16
+    },
+    {
+      "text": " mint nagyanyám, ez a...",
+      "start": 214.24,
+      "end": 215.08
+    },
+    {
+      "text": " valami van a szárdon.",
+      "start": 215.08,
+      "end": 216.52
+    },
+    {
+      "text": " Egyébként szerintem nem minden állat...",
+      "start": 218.66,
+      "end": 220.6
+    },
+    {
+      "text": " nem minden állat tudna bármit is kezdeni,",
+      "start": 221.45999999999998,
+      "end": 223.68
+    },
+    {
+      "text": " hogyha lenne hüvelykúja.",
+      "start": 223.74,
+      "end": 224.9
+    },
+    {
+      "text": " Ott van például a csiga.",
+      "start": 225.0,
+      "end": 226.06
+    },
+    {
+      "text": " Hogy ugyanúgy néz neki,",
+      "start": 227.57999999999998,
+      "end": 228.84
+    },
+    {
+      "text": " mint most, aki kiállna az aljából egy hüvelykúj,",
+      "start": 228.96,
+      "end": 230.86
+    },
+    {
+      "text": " hogy nemhogy okosabb nem lenne,",
+      "start": 230.94,
+      "end": 233.26
+    },
+    {
+      "text": " ott dög lenne meg mindenhol megszületni,",
+      "start": 233.36,
+      "end": 234.82
+    },
+    {
+      "text": " így felborul, aztán kész.",
+      "start": 234.84,
+      "end": 236.5
+    },
+    {
+      "text": " A delfin meg például tök okos hüvelykúj nélkül is.",
+      "start": 238.42,
+      "end": 241.74
+    },
+    {
+      "text": " Mondjuk rá nem is tudom elképzelni,",
+      "start": 241.9,
+      "end": 243.14
+    },
+    {
+      "text": " hova raknék hüvelykújat.",
+      "start": 243.26,
+      "end": 245.16
+    },
+    {
+      "text": " Ezt a lukattó, amit elképzelni a háttal,",
+      "start": 245.24,
+      "end": 247.02
+    },
+    {
+      "text": " de ebben így beledugod, megfullad.",
+      "start": 247.08,
+      "end": 248.6
+    },
+    {
+      "text": " Csenki Attilának vetettem fel a kérdést,",
+      "start": 249.78,
+      "end": 251.9
+    },
+    {
+      "text": " azt mondta, hogy egy delfin mit kezdhetne egy hüvelykújjal,",
+      "start": 251.92,
+      "end": 255.06
+    },
+    {
+      "text": " azt mondta, lehetne rá szatyrotakasztani.",
+      "start": 255.14,
+      "end": 256.94
+    }
+  ],
+  "processing_time": 3.4341466426849365,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

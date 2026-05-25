@@ -1,0 +1,54 @@
+{
+  "audio_file": "Ignatius Farray： Acento Sudamericano ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "¿Qué pasa con los atentados terroristas? ¿Qué pasa con los atentados terroristas? ¿Qué pasa con los atentados terroristas? ¿Qué pasa con los atentados terroristas? ¿Qué pasa con los atentados terroristas? ¿Qué pasa con los atentados terroristas? ¿Qué pasa con los atentados terroristas? ¿Qué pasa con los atentados terroristas? ¿Qué pasa con los atentados terroristas?",
+  "chunks": [
+    {
+      "text": " ¿Qué pasa con los atentados terroristas?",
+      "start": 12.7,
+      "end": 15.8
+    },
+    {
+      "text": " ¿Qué pasa con los atentados terroristas?",
+      "start": 35.52,
+      "end": 57.92
+    },
+    {
+      "text": " ¿Qué pasa con los atentados terroristas?",
+      "start": 71.0,
+      "end": 76.76
+    },
+    {
+      "text": " ¿Qué pasa con los atentados terroristas?",
+      "start": 76.78,
+      "end": 84.92
+    },
+    {
+      "text": " ¿Qué pasa con los atentados terroristas?",
+      "start": 85.74,
+      "end": 89.82
+    },
+    {
+      "text": " ¿Qué pasa con los atentados terroristas?",
+      "start": 89.82,
+      "end": 118.76
+    },
+    {
+      "text": " ¿Qué pasa con los atentados terroristas?",
+      "start": 120.96000000000001,
+      "end": 124.72
+    },
+    {
+      "text": " ¿Qué pasa con los atentados terroristas?",
+      "start": 124.74,
+      "end": 144.22
+    },
+    {
+      "text": " ¿Qué pasa con los atentados terroristas?",
+      "start": 144.22,
+      "end": 144.5
+    }
+  ],
+  "processing_time": 0.8793485164642334,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

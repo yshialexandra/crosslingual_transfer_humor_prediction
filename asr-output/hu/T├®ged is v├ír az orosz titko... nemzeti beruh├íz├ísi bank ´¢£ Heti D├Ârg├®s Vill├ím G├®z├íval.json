@@ -1,0 +1,159 @@
+{
+  "audio_file": "Téged is vár az orosz titko... nemzeti beruházási bank ｜ Heti Dörgés Villám Gézával.wav",
+  "full_text": "Eleg egyet van ábol vagy félnek ugráltat. Unod már vornézé lákotéle. Kivágy tiltva Magyarországról. Nem problémá. Kérem vissza bátra. Dolgozni nemzeti beruházási bán. Ligyeltágyat gyínyomikusen felidő oroszítkozszolga. Ugyertem bankhalózatnak. Szabályok. Nemzámi. Adó. Adó kemány neked. Rendőr nem jöhet be. Ebben az országban, akarom mondani, ebben a bankban mindent lehet. Megtetszik nyáráló? Csak egy telefon. Kél foci csapat? Néz is csak egy telefon. Kél benzin? Ne hívogás senkit, kapsz egész benzinkút. Nálunk te leszel nem dolgozó, te leszel diplomát. Evgenyi nagybácsik. Nem rokon, szákértő. Jöhet ő is. A befektetési bank csak kiváltság. Zero probléma. Nemzeti befektetési bank. Befektetés a szovjet. Misha, jösenyét! Ugyertem az Europai Unióba.",
+  "chunks": [
+    {
+      "text": " Eleg egyet van ábol vagy félnek ugráltat.",
+      "start": 0.0,
+      "end": 2.34
+    },
+    {
+      "text": " Unod már vornézé lákotéle.",
+      "start": 2.6,
+      "end": 4.92
+    },
+    {
+      "text": " Kivágy tiltva Magyarországról.",
+      "start": 5.12,
+      "end": 6.98
+    },
+    {
+      "text": " Nem problémá.",
+      "start": 7.08,
+      "end": 7.94
+    },
+    {
+      "text": " Kérem vissza bátra.",
+      "start": 8.06,
+      "end": 9.3
+    },
+    {
+      "text": " Dolgozni nemzeti beruházási bán.",
+      "start": 9.52,
+      "end": 12.32
+    },
+    {
+      "text": " Ligyeltágyat gyínyomikusen felidő oroszítkozszolga.",
+      "start": 12.56,
+      "end": 15.7
+    },
+    {
+      "text": " Ugyertem bankhalózatnak.",
+      "start": 16.32,
+      "end": 18.38
+    },
+    {
+      "text": " Szabályok.",
+      "start": 18.74,
+      "end": 19.54
+    },
+    {
+      "text": " Nemzámi.",
+      "start": 19.96,
+      "end": 20.74
+    },
+    {
+      "text": " Adó.",
+      "start": 20.96,
+      "end": 21.44
+    },
+    {
+      "text": " Adó kemány neked.",
+      "start": 21.6,
+      "end": 22.78
+    },
+    {
+      "text": " Rendőr nem jöhet be.",
+      "start": 23.08,
+      "end": 24.54
+    },
+    {
+      "text": " Ebben az országban, akarom mondani, ebben a bankban mindent lehet.",
+      "start": 24.8,
+      "end": 29.44
+    },
+    {
+      "text": " Megtetszik nyáráló?",
+      "start": 30.0,
+      "end": 31.04
+    },
+    {
+      "text": " Csak egy telefon.",
+      "start": 31.2,
+      "end": 32.2
+    },
+    {
+      "text": " Kél foci csapat?",
+      "start": 32.5,
+      "end": 33.76
+    },
+    {
+      "text": " Néz is csak egy telefon.",
+      "start": 33.96,
+      "end": 35.16
+    },
+    {
+      "text": " Kél benzin?",
+      "start": 35.58,
+      "end": 36.42
+    },
+    {
+      "text": " Ne hívogás senkit, kapsz egész benzinkút.",
+      "start": 36.64,
+      "end": 39.18
+    },
+    {
+      "text": " Nálunk te leszel nem dolgozó, te leszel diplomát.",
+      "start": 39.78,
+      "end": 43.0
+    },
+    {
+      "text": " Evgenyi nagybácsik.",
+      "start": 43.78,
+      "end": 45.16
+    },
+    {
+      "text": " Nem rokon, szákértő.",
+      "start": 45.48,
+      "end": 47.08
+    },
+    {
+      "text": " Jöhet ő is.",
+      "start": 47.28,
+      "end": 48.12
+    },
+    {
+      "text": " A befektetési bank csak kiváltság.",
+      "start": 48.38,
+      "end": 50.94
+    },
+    {
+      "text": " Zero probléma.",
+      "start": 51.34,
+      "end": 52.28
+    },
+    {
+      "text": " Nemzeti befektetési bank.",
+      "start": 52.76,
+      "end": 54.4
+    },
+    {
+      "text": " Befektetés a szovjet.",
+      "start": 54.92,
+      "end": 56.24
+    },
+    {
+      "text": " Misha, jösenyét!",
+      "start": 56.8,
+      "end": 58.26
+    },
+    {
+      "text": " Ugyertem az Europai Unióba.",
+      "start": 58.26,
+      "end": 60.62
+    }
+  ],
+  "processing_time": 0.4653916358947754,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

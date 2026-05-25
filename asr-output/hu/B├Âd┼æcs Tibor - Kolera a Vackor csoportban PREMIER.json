@@ -1,0 +1,34 @@
+{
+  "audio_file": "Bödőcs Tibor - Kolera a Vackor csoportban PREMIER.wav",
+  "full_text": "Jó estét kívánok! 2022 bolondok napján... Remélem, most már mindenki be van oltakosztatódva. Lesz miről beszélni. Angyi éhes vagy, Angyi? Ott egy büfé, kérd? Ne maradj le! Most jöttök, hát, na, nem maradszatok le a közéletről, még lesz róla szó, nem úsz tátok meg. Pegasus kapcsolt ki vagy kapcsolt be, *** a mindegy. Egyen, ha hava? Ödöcs Tibor, kolera a Vackor csoportban, premier április elsőjén a Kamedi Centrálon. Nem zavar, engem lehallgathatnak, mert én nem mondok mást a telefonba, mint a mikrofonba, úgyhogy nyugodtan lehallgathatnak. Csak menjenek jegyet, ha kapnak.",
+  "chunks": [
+    {
+      "text": " Jó estét kívánok! 2022 bolondok napján... Remélem, most már mindenki be van oltakosztatódva.",
+      "start": 0.0,
+      "end": 5.72
+    },
+    {
+      "text": " Lesz miről beszélni. Angyi éhes vagy, Angyi? Ott egy büfé, kérd? Ne maradj le!",
+      "start": 6.02,
+      "end": 13.66
+    },
+    {
+      "text": " Most jöttök, hát, na, nem maradszatok le a közéletről, még lesz róla szó, nem úsz tátok meg. Pegasus kapcsolt ki vagy kapcsolt be, *** a mindegy. Egyen, ha hava?",
+      "start": 14.3,
+      "end": 23.12
+    },
+    {
+      "text": " Ödöcs Tibor, kolera a Vackor csoportban, premier április elsőjén a Kamedi Centrálon.",
+      "start": 23.12,
+      "end": 29.14
+    },
+    {
+      "text": " Nem zavar, engem lehallgathatnak, mert én nem mondok mást a telefonba, mint a mikrofonba, úgyhogy nyugodtan lehallgathatnak. Csak menjenek jegyet, ha kapnak.",
+      "start": 30.22,
+      "end": 37.66
+    }
+  ],
+  "processing_time": 0.349348783493042,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

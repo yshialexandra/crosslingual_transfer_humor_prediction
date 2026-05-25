@@ -1,0 +1,179 @@
+{
+  "audio_file": "Pakolj ki! ｜ Télvíz.wav",
+  "full_text": "Köszönöm! Szevasztok Miky vagyok! Látom te is! Nem, Palibán! Bármi Nikulás, nem kell beszarni! Sziasztok, szevasztok! Jó nyomása! Jó, szerekó! Itt nyomadjuk! Fűtjük! Egy fénykéos ponnyaimmal? Persze, nyomás! Persze úgy van! Köszönöm! Köszönöm! Karácsok gyertek! Hello, hello, ciao, szevasz, hello, Vali, hello, hello, hello, hello, hello, sziasztok. Vali, Sanyi, hello, hello. Na, akkor csináljuk a foton? Add ide a telefon. Te is kokolják meg. Bing-kód? 4624. Mennyi lóvé van a Mikulásnál? 25. Igen. Még egy utolsó fotósácok. Csízz. Csízz. Köszi. Szavazsztok. Szavazsztok. Ezt a két csincskát. Költségük. Megúszta. Köszönöm. Köszönöm. Köszönöm. A fi Чтоz? Köszönöm. Köszönöm szépen!",
+  "chunks": [
+    {
+      "text": " Köszönöm!",
+      "start": 1.1999999999999988,
+      "end": 1.98
+    },
+    {
+      "text": " Szevasztok Miky vagyok! Látom te is!",
+      "start": 7.9,
+      "end": 10.16
+    },
+    {
+      "text": " Nem, Palibán!",
+      "start": 10.3,
+      "end": 11.16
+    },
+    {
+      "text": " Bármi Nikulás, nem kell beszarni! Sziasztok, szevasztok! Jó nyomása!",
+      "start": 11.8,
+      "end": 16.62
+    },
+    {
+      "text": " Jó, szerekó!",
+      "start": 17.12,
+      "end": 18.72
+    },
+    {
+      "text": " Itt nyomadjuk! Fűtjük!",
+      "start": 18.86,
+      "end": 20.32
+    },
+    {
+      "text": " Egy fénykéos ponnyaimmal?",
+      "start": 23.2,
+      "end": 24.16
+    },
+    {
+      "text": " Persze, nyomás! Persze úgy van!",
+      "start": 24.28,
+      "end": 26.68
+    },
+    {
+      "text": " Köszönöm! Köszönöm! Karácsok gyertek!",
+      "start": 26.68,
+      "end": 28.26
+    },
+    {
+      "text": " Hello, hello, ciao, szevasz, hello, Vali, hello, hello, hello, hello, hello, sziasztok.",
+      "start": 30.0,
+      "end": 35.84
+    },
+    {
+      "text": " Vali, Sanyi, hello, hello.",
+      "start": 36.02,
+      "end": 37.34
+    },
+    {
+      "text": " Na, akkor csináljuk a foton?",
+      "start": 37.5,
+      "end": 40.56
+    },
+    {
+      "text": " Add ide a telefon.",
+      "start": 40.76,
+      "end": 41.52
+    },
+    {
+      "text": " Te is kokolják meg.",
+      "start": 47.7,
+      "end": 48.94
+    },
+    {
+      "text": " Bing-kód?",
+      "start": 51.3,
+      "end": 52.16
+    },
+    {
+      "text": " 4624.",
+      "start": 53.06,
+      "end": 53.56
+    },
+    {
+      "text": " Mennyi lóvé van a Mikulásnál?",
+      "start": 54.06,
+      "end": 55.46
+    },
+    {
+      "text": " 25.",
+      "start": 60.0,
+      "end": 60.88
+    },
+    {
+      "text": " Igen.",
+      "start": 61.24,
+      "end": 62.3
+    },
+    {
+      "text": " Még egy utolsó fotósácok.",
+      "start": 63.08,
+      "end": 65.24
+    },
+    {
+      "text": " Csízz.",
+      "start": 66.54,
+      "end": 67.0
+    },
+    {
+      "text": " Csízz.",
+      "start": 67.86,
+      "end": 68.42
+    },
+    {
+      "text": " Köszi.",
+      "start": 70.2,
+      "end": 71.4
+    },
+    {
+      "text": " Szavazsztok.",
+      "start": 71.84,
+      "end": 72.46
+    },
+    {
+      "text": " Szavazsztok.",
+      "start": 72.68,
+      "end": 73.3
+    },
+    {
+      "text": " Ezt a két csincskát.",
+      "start": 74.04,
+      "end": 75.6
+    },
+    {
+      "text": " Költségük.",
+      "start": 76.42,
+      "end": 77.0
+    },
+    {
+      "text": " Megúszta.",
+      "start": 85.42,
+      "end": 86.62
+    },
+    {
+      "text": " Köszönöm.",
+      "start": 87.22,
+      "end": 88.42
+    },
+    {
+      "text": " Köszönöm.",
+      "start": 89.4,
+      "end": 89.64
+    },
+    {
+      "text": " Köszönöm.",
+      "start": 90.36,
+      "end": 90.48
+    },
+    {
+      "text": " A fi Чтоz?",
+      "start": 90.5,
+      "end": 91.02
+    },
+    {
+      "text": " Köszönöm.",
+      "start": 91.28,
+      "end": 91.4
+    },
+    {
+      "text": " Köszönöm szépen!",
+      "start": 91.4,
+      "end": 91.46
+    }
+  ],
+  "processing_time": 3.9667561054229736,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,119 @@
+{
+  "audio_file": "SPANOK ｜ Blokk.wav",
+  "full_text": "Köszönjük a��őnkшейésen! S mit írt pontosan? Szia! Ki vagy? Jó, ez már félsiker visszaigazolt... ... én már meglássmokat, most nem szabad hibázni. Jó, de ezt nem most írt, hanem 10 perc. Most valamit kell reagálnod. Íron meg azt, hogy szia. Bár! Bár! Bár! Bár! Hát nem mindegy, hogy hogy köszönsz, beírsz egy csát egyből de barátszóra... Vagy azt írod, hogy jó napot, mert túl hivatalos. És Szia, miért nem jó? Te életed azt csinálsz, amit akarsz. Ezen nem új van. Na, elmen. Holod, már írt is a nő. Azt kérdezi, hogy honnan ismerjük egymást? Ezt mondtam, mert te mindig kapkodsz. Várjál, mert rendes, görcsöl a hason. Nem bírolom ezt, hogy üljél le, szarul vagyok a cikat. Jó, nem baj. Ezt visszahozzuk, megfordítjuk. Egy jó válasz, kész. Mit írjük neki? Írjuk azt, hogy ki dobta a fész. Várj, bel, bel, bel. Még ír az, hogy szimpatikus. Meg várjál, várjál, várjál. Kacsintójált a végére. Meg várj, ne, ne, ne, ne. Meg miért szívedsék? Döldsd már, most akkor melyiket írja? Írd mind a kettőt. Elküldj. Nem ér ennyit ez az egész, tiszta stressz. Írd a nő, írd a nő. Letiltott. Mondtam, hogy Nessi átírjál. Mondtam. Mondtam. Mondtam. Mondtam.",
+  "chunks": [
+    {
+      "text": " Köszönjük a��őnkшейésen!",
+      "start": 2.360000000000001,
+      "end": 3.08
+    },
+    {
+      "text": " S mit írt pontosan?",
+      "start": 8.620000000000001,
+      "end": 10.08
+    },
+    {
+      "text": " Szia! Ki vagy?",
+      "start": 10.56,
+      "end": 11.24
+    },
+    {
+      "text": " Jó, ez már félsiker visszaigazolt...",
+      "start": 13.22,
+      "end": 15.42
+    },
+    {
+      "text": " ... én már meglássmokat, most nem szabad hibázni.",
+      "start": 15.42,
+      "end": 17.62
+    },
+    {
+      "text": " Jó, de ezt nem most írt, hanem 10 perc.",
+      "start": 17.78,
+      "end": 19.42
+    },
+    {
+      "text": " Most valamit kell reagálnod.",
+      "start": 19.44,
+      "end": 20.68
+    },
+    {
+      "text": " Íron meg azt, hogy szia.",
+      "start": 20.78,
+      "end": 21.46
+    },
+    {
+      "text": " Bár! Bár! Bár! Bár!",
+      "start": 21.56,
+      "end": 22.76
+    },
+    {
+      "text": " Hát nem mindegy, hogy hogy köszönsz, beírsz egy csát egyből de barátszóra...",
+      "start": 23.14,
+      "end": 27.26
+    },
+    {
+      "text": " Vagy azt írod, hogy jó napot, mert túl hivatalos.",
+      "start": 27.26,
+      "end": 30.02
+    },
+    {
+      "text": " És Szia, miért nem jó?",
+      "start": 30.28,
+      "end": 31.24
+    },
+    {
+      "text": " Te életed azt csinálsz, amit akarsz.",
+      "start": 32.440000000000005,
+      "end": 34.42
+    },
+    {
+      "text": " Ezen nem új van. Na, elmen. Holod, már írt is a nő.",
+      "start": 35.6,
+      "end": 39.12
+    },
+    {
+      "text": " Azt kérdezi, hogy honnan ismerjük egymást? Ezt mondtam, mert te mindig kapkodsz.",
+      "start": 40.6,
+      "end": 44.82
+    },
+    {
+      "text": " Várjál, mert rendes, görcsöl a hason. Nem bírolom ezt, hogy üljél le, szarul vagyok a cikat.",
+      "start": 45.16,
+      "end": 48.7
+    },
+    {
+      "text": " Jó, nem baj. Ezt visszahozzuk, megfordítjuk. Egy jó válasz, kész.",
+      "start": 50.28,
+      "end": 54.56
+    },
+    {
+      "text": " Mit írjük neki? Írjuk azt, hogy ki dobta a fész. Várj, bel, bel, bel. Még ír az, hogy szimpatikus.",
+      "start": 56.02,
+      "end": 63.64
+    },
+    {
+      "text": " Meg várjál, várjál, várjál. Kacsintójált a végére. Meg várj, ne, ne, ne, ne.",
+      "start": 64.24,
+      "end": 69.94
+    },
+    {
+      "text": " Meg miért szívedsék? Döldsd már, most akkor melyiket írja? Írd mind a kettőt. Elküldj.",
+      "start": 71.1,
+      "end": 76.58
+    },
+    {
+      "text": " Nem ér ennyit ez az egész, tiszta stressz.",
+      "start": 78.46000000000001,
+      "end": 80.32
+    },
+    {
+      "text": " Írd a nő, írd a nő. Letiltott. Mondtam, hogy Nessi átírjál. Mondtam. Mondtam. Mondtam. Mondtam.",
+      "start": 86.64,
+      "end": 100.68
+    }
+  ],
+  "processing_time": 1.9473145008087158,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

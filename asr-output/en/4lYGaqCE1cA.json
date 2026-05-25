@@ -1,0 +1,254 @@
+{
+  "audio_file": "4lYGaqCE1cA.wav",
+  "full_text": "Oh, snap. Now, let's talk about the procedure. Mr. Lewis, thank you for coming in with your associates. I know this is hard to hear, but we need to make some serious decisions about your mother's health. Let's be honest. She is getting on in years. Oh, snap. Okay, I see how it is. I see how it is. Well, yo, mama, so old, her last name is Asaurus. No, Mr. Lewis, it wasn't an insult. I was just saying that your mother's condition is deteriorating because she's getting older. Oh, see, that's cold, though. That's a cold one. Okay. Okay, I see how it is. Hey, yo, mama, so old, in her history class, they just wrote down what they was doing. Oh! Not only is your mother elderly, but also her ability to walk is currently being affected by her weight. Oh, see. Okay, it just got real. No, I'm not insulting her. I'm trying to tell you. Yo, mama, is so fat, when she go to the movie theater, next to everyone. Oh! Oh, no! Listen to me, okay? Your mother needs to manage her weight or there can be some real problems. Oh, okay. All right, yeah, yeah. Yo, mama, is so fat, she need a latitude and longitude number to find her old ass. Oh! Look at his face! Look at his face! Oh! Yeah! Look at his face! Oh! Oh! Oh! Give it to him! Oh! Give it to him! That's coordinates, son! Coordins! Now who's the doctor? I am the doctor. Mr. Lewis, I am. And it is my job to make sure that your mother is getting the care that she needs. We are talking about the woman who took care of you your whole life. The least you can do is take care of her and her old age and take this seriously. I'm sorry. I'm sorry that I lost my temper. No, really, doctor. I guess I was just joking around because I know her condition is really serious and I don't know. I guess humor is the only way I can really deal with it. I just know that she says so many times she doesn't want anything invasive done. Really? I was not aware of that. That's interesting because she did not mention that to me in our previous conversation. Of course, it was difficult to hear her with my in her mouth. Snap, Mr. Lewis. Oh, snap. Now let's talk about the procedure. Hello, everybody out there. This is Brock Favors with Traffic on the Ones. Chad Armstrong is out sick today. So I am filling in for my usual land reports and I'm up here at the chopper. But I got to tell you guys, I am loving the view. Oh, oh, oh, oh, no, stop, stop, stop, stop. Oh. All right. Well, we are, um, uh, we are over the 10 and it's massively clogged down there like a pint of maple syrup on a cool November morning. And we do it. Oh, . Goddamn! We're gonna die in this mother . Oh, . Oh, . Oh, my God! Woo! Woo! Woo! Okay. Okay. I am, uh, I am very sorry, folks. It's a little bit of a bumpy ride up here. We are now approaching the 405, where the left lane is blocked by a mattress. So somebody is, uh, gonna be doing a little return to Ikea later today. You know what I'm saying? Oh, no, please, . Oh, goddamn! Oh, get me out this mother . . . machine right now! Oh, no, black people ain't meant to be in the sky! We ain't meant to be in the sky, man! Oh, mama, help me, mother . Oh, . For the 405 is up right now. Ain't nobody going down this . . . I'm sorry. I'm sorry. I'm very sorry, folks. I'm very sorry, but I'm losing my . . . up here. Actually, you have every ride, too. We're about to crash. Oh, . . . Oh, my God, . . . Oh, my God, . . . Mama, please . . . Mama, help! Help! . . . All I want . . . All I want , all I want . . . Yeah . . . All I want . . . Yeah . . Thank you.",
+  "chunks": [
+    {
+      "text": " Oh, snap.",
+      "start": 0.0,
+      "end": 1.0
+    },
+    {
+      "text": " Now, let's talk about the procedure.",
+      "start": 2.2200000000000024,
+      "end": 3.66
+    },
+    {
+      "text": " Mr. Lewis, thank you for coming in with your associates.",
+      "start": 4.100000000000002,
+      "end": 9.74
+    },
+    {
+      "text": " I know this is hard to hear, but we need to make some serious decisions about your mother's health.",
+      "start": 10.540000000000003,
+      "end": 15.54
+    },
+    {
+      "text": " Let's be honest. She is getting on in years.",
+      "start": 16.020000000000003,
+      "end": 18.1
+    },
+    {
+      "text": " Oh, snap.",
+      "start": 18.3,
+      "end": 20.4
+    },
+    {
+      "text": " Okay, I see how it is. I see how it is.",
+      "start": 21.020000000000003,
+      "end": 23.4
+    },
+    {
+      "text": " Well, yo, mama, so old, her last name is Asaurus.",
+      "start": 23.5,
+      "end": 27.48
+    },
+    {
+      "text": " No, Mr. Lewis, it wasn't an insult.",
+      "start": 32.58,
+      "end": 34.48
+    },
+    {
+      "text": " I was just saying that your mother's condition is deteriorating because she's getting older.",
+      "start": 34.78,
+      "end": 39.76
+    },
+    {
+      "text": " Oh, see, that's cold, though. That's a cold one. Okay. Okay, I see how it is.",
+      "start": 40.04,
+      "end": 45.0
+    },
+    {
+      "text": " Hey, yo, mama, so old, in her history class, they just wrote down what they was doing.",
+      "start": 45.2,
+      "end": 50.74
+    },
+    {
+      "text": " Oh!",
+      "start": 51.38,
+      "end": 51.78
+    },
+    {
+      "text": " Not only is your mother elderly, but also her ability to walk is currently being affected by her weight.",
+      "start": 60.0,
+      "end": 65.32
+    },
+    {
+      "text": " Oh, see. Okay, it just got real.",
+      "start": 65.54,
+      "end": 69.2
+    },
+    {
+      "text": " No, I'm not insulting her. I'm trying to tell you.",
+      "start": 69.34,
+      "end": 71.56
+    },
+    {
+      "text": " Yo, mama, is so fat, when she go to the movie theater, next to everyone.",
+      "start": 71.64,
+      "end": 76.7
+    },
+    {
+      "text": " Oh!",
+      "start": 76.96,
+      "end": 77.4
+    },
+    {
+      "text": " Oh, no!",
+      "start": 78.74000000000001,
+      "end": 79.44
+    },
+    {
+      "text": " Listen to me, okay? Your mother needs to manage her weight or there can be some real problems.",
+      "start": 79.92,
+      "end": 84.82
+    },
+    {
+      "text": " Oh, okay. All right, yeah, yeah.",
+      "start": 85.2,
+      "end": 88.26
+    },
+    {
+      "text": " Yo, mama, is so fat, she need a latitude and longitude number to find her old ass.",
+      "start": 88.5,
+      "end": 93.7
+    },
+    {
+      "text": " Oh!",
+      "start": 94.02,
+      "end": 94.36
+    },
+    {
+      "text": " Look at his face! Look at his face!",
+      "start": 95.48,
+      "end": 97.52
+    },
+    {
+      "text": " Oh!",
+      "start": 97.8,
+      "end": 98.2
+    },
+    {
+      "text": " Yeah! Look at his face!",
+      "start": 98.22,
+      "end": 99.24
+    },
+    {
+      "text": " Oh!",
+      "start": 99.72,
+      "end": 100.0
+    },
+    {
+      "text": " Oh!",
+      "start": 100.52,
+      "end": 100.64
+    },
+    {
+      "text": " Oh!",
+      "start": 101.38,
+      "end": 101.48
+    },
+    {
+      "text": " Give it to him!",
+      "start": 101.48,
+      "end": 101.78
+    },
+    {
+      "text": " Oh!",
+      "start": 101.86,
+      "end": 102.18
+    },
+    {
+      "text": " Give it to him!",
+      "start": 102.34,
+      "end": 102.48
+    },
+    {
+      "text": " That's coordinates, son! Coordins!",
+      "start": 102.7,
+      "end": 104.8
+    },
+    {
+      "text": " Now who's the doctor?",
+      "start": 104.8,
+      "end": 106.34
+    },
+    {
+      "text": " I am the doctor. Mr. Lewis, I am. And it is my job to make sure that your mother is getting the care that she needs.",
+      "start": 106.54,
+      "end": 112.16
+    },
+    {
+      "text": " We are talking about the woman who took care of you your whole life. The least you can do is take care of her and her old age and take this seriously.",
+      "start": 112.32,
+      "end": 118.48
+    },
+    {
+      "text": " I'm sorry.",
+      "start": 124.84,
+      "end": 125.52
+    },
+    {
+      "text": " I'm sorry that I lost my temper.",
+      "start": 126.0,
+      "end": 128.08
+    },
+    {
+      "text": " No, really, doctor. I guess I was just joking around because I know her condition is really serious and I don't know. I guess humor is the only way I can really deal with it. I just know that she says so many times she doesn't want anything invasive done.",
+      "start": 128.84,
+      "end": 150.38
+    },
+    {
+      "text": " Really? I was not aware of that. That's interesting because she did not mention that to me in our previous conversation. Of course, it was difficult to hear her with my in her mouth.",
+      "start": 150.38,
+      "end": 161.82
+    },
+    {
+      "text": " Snap, Mr. Lewis. Oh, snap. Now let's talk about the procedure.",
+      "start": 171.86,
+      "end": 178.38
+    },
+    {
+      "text": " Hello, everybody out there. This is Brock Favors with Traffic on the Ones. Chad Armstrong is out sick today. So I am filling in for my usual land reports and I'm up here at the chopper. But I got to tell you guys, I am loving the view.",
+      "start": 179.26,
+      "end": 192.36
+    },
+    {
+      "text": " Oh, oh, oh, oh, no, stop, stop, stop, stop. Oh.",
+      "start": 194.16,
+      "end": 198.7
+    },
+    {
+      "text": " All right. Well, we are, um, uh, we are over the 10 and it's massively clogged down there like a pint of maple syrup on a cool November morning.",
+      "start": 202.98,
+      "end": 212.94
+    },
+    {
+      "text": " And we do it. Oh, . Goddamn! We're gonna die in this mother . Oh, . Oh, . Oh, my God! Woo! Woo! Woo! Okay. Okay. I am, uh, I am very sorry, folks. It's a little bit of a bumpy ride up here. We are now approaching the 405, where the left lane is blocked by a mattress.",
+      "start": 212.94,
+      "end": 242.16
+    },
+    {
+      "text": " So somebody is, uh, gonna be doing a little return to Ikea later today. You know what I'm saying? Oh, no, please, . Oh, goddamn! Oh, get me out this mother . . . machine right now! Oh, no, black people ain't meant to be in the sky! We ain't meant to be in the sky, man! Oh, mama, help me, mother . Oh, . For the 405 is up right now. Ain't nobody going down this . . .",
+      "start": 242.16,
+      "end": 272.12
+    },
+    {
+      "text": " I'm sorry. I'm sorry. I'm very sorry, folks. I'm very sorry, but I'm losing my . . . up here. Actually, you have every ride, too. We're about to crash. Oh, . . . Oh, my God, . . . Oh, my God, . . . Mama, please . . . Mama, help!",
+      "start": 272.12,
+      "end": 291.9
+    },
+    {
+      "text": " Help! . . . All I want . . . All I want , all I want . . . Yeah . . . All I want . . . Yeah . .",
+      "start": 291.9,
+      "end": 298.06
+    },
+    {
+      "text": " Thank you.",
+      "start": 298.06,
+      "end": 298.14
+    }
+  ],
+  "processing_time": 4.199164628982544,
+  "language": "en",
+  "model_id": "large-v3-turbo"
+}

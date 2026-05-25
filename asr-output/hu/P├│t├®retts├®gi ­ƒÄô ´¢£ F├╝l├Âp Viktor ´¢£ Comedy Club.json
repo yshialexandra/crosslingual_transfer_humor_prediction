@@ -1,0 +1,159 @@
+{
+  "audio_file": "Pótérettségi 🎓 ｜ Fülöp Viktor ｜ Comedy Club.wav",
+  "full_text": "Ilyenkor meg ősztel a pótérettségig szoktak lenni. Azért oda nem a legjobbak jönnek, na, tehát azért legyünk őszinték. Tehát, hogy is mondjam csak, és azért az egy nagy izgalom egy tanárnak, hogy mégis hogy szerepelnek a diákjai, stb. És én úgy állítottam össze a tételsort, hogy van 20 tétel, vagy volt 20 tétel, az magáról a tananyagról szólt, és volt egy Joker tétel, hogyha valaki azt húzta, akkor elmondhatta a kedvenc tételét. Bejön a gyerek, hát Dénes, akkor tessék, húzzál. Kihúzza. Ú, köszönöm tanár úr, a Joker úgyhogy viszontlátása. Azonnal gyere vissza, te, mit képzelsz magadra? Van egy kihúzor a Joker, megúsztad a négy éves izi, hát ne szórakozz már vele. Melyik a kedvenc tételed? Nekem, hát nekem így se kedvenc tételem, tanár úr. Ha melyiket tudod legjobban? Ha mit, hát én tudom mindegyiket, hát egész hétvégén tanultam. Hanyas szeretnél kapni? Ha ötöst, mondom, itt az ötöstétel. Az ötöstétel egy vállalkozás életében az özbevétel és az özköltség kapcsolatáról szólt. Leül a gyerek, látom, ráírja a nevét, de többet nem. Kiment az elnök kávézni, oda megyek hozzá, mondom, figyelj, már nem hiszem, hogy ekkora szégyent hozó orránk, mondom, komolyan van pofárdi, így idejönni, hogy egy betűt se ér. Hát nem azt tanáról, csak nem ugrik be, mert az én annyira izgulok meg, áh, annyira durva. Én amúgy mindig csípem tanárólat, szóval én mindig is szerettem, tehát én a többiek nem, de én tényleg nagyon csíptem. Tanáról valamit, az én egy mondatot mondjam már, és akkor ízé mondom, hogy figyelj ide, az a legfontosabb egy vállalkozás életében, hogy az özbevétel haladja meg az özköltséget. Ú, köszönöm tanáról, akkor már valamit megiszunk. Hát, mi, mi, mi. Eljött a felelet, annak halljuk a feleletet. Hát egy vállalkozás életében az a legfontosabb, hogy az özbevétel haladja meg az özköltséget. Na, ezt egy kicsit gondoljuk már, hát hát tanár úr mondta. Köszönöm.",
+  "chunks": [
+    {
+      "text": " Ilyenkor meg ősztel a pótérettségig szoktak lenni.",
+      "start": 0.0,
+      "end": 2.34
+    },
+    {
+      "text": " Azért oda nem a legjobbak jönnek, na, tehát azért legyünk őszinték.",
+      "start": 2.9200000000000013,
+      "end": 6.1
+    },
+    {
+      "text": " Tehát, hogy is mondjam csak, és azért az egy nagy izgalom egy tanárnak,",
+      "start": 6.46,
+      "end": 10.38
+    },
+    {
+      "text": " hogy mégis hogy szerepelnek a diákjai, stb.",
+      "start": 10.5,
+      "end": 13.18
+    },
+    {
+      "text": " És én úgy állítottam össze a tételsort, hogy van 20 tétel, vagy volt 20 tétel,",
+      "start": 13.42,
+      "end": 17.28
+    },
+    {
+      "text": " az magáról a tananyagról szólt, és volt egy Joker tétel,",
+      "start": 17.36,
+      "end": 20.1
+    },
+    {
+      "text": " hogyha valaki azt húzta, akkor elmondhatta a kedvenc tételét.",
+      "start": 20.28,
+      "end": 23.08
+    },
+    {
+      "text": " Bejön a gyerek, hát Dénes, akkor tessék, húzzál.",
+      "start": 23.9,
+      "end": 26.3
+    },
+    {
+      "text": " Kihúzza.",
+      "start": 27.34,
+      "end": 27.74
+    },
+    {
+      "text": " Ú, köszönöm tanár úr, a Joker úgyhogy viszontlátása.",
+      "start": 27.74,
+      "end": 30.94
+    },
+    {
+      "text": " Azonnal gyere vissza, te, mit képzelsz magadra?",
+      "start": 35.300000000000004,
+      "end": 37.96
+    },
+    {
+      "text": " Van egy kihúzor a Joker, megúsztad a négy éves izi, hát ne szórakozz már vele.",
+      "start": 38.08,
+      "end": 41.76
+    },
+    {
+      "text": " Melyik a kedvenc tételed?",
+      "start": 42.72,
+      "end": 43.92
+    },
+    {
+      "text": " Nekem, hát nekem így se kedvenc tételem, tanár úr.",
+      "start": 44.32,
+      "end": 46.6
+    },
+    {
+      "text": " Ha melyiket tudod legjobban?",
+      "start": 47.3,
+      "end": 48.42
+    },
+    {
+      "text": " Ha mit, hát én tudom mindegyiket, hát egész hétvégén tanultam.",
+      "start": 48.5,
+      "end": 51.08
+    },
+    {
+      "text": " Hanyas szeretnél kapni?",
+      "start": 53.160000000000004,
+      "end": 54.36
+    },
+    {
+      "text": " Ha ötöst, mondom, itt az ötöstétel.",
+      "start": 54.42,
+      "end": 56.0
+    },
+    {
+      "text": " Az ötöstétel egy vállalkozás életében az özbevétel és az özköltség kapcsolatáról szólt.",
+      "start": 60.160000000000004,
+      "end": 66.0
+    },
+    {
+      "text": " Leül a gyerek, látom, ráírja a nevét, de többet nem.",
+      "start": 66.2,
+      "end": 70.2
+    },
+    {
+      "text": " Kiment az elnök kávézni, oda megyek hozzá, mondom, figyelj, már nem hiszem, hogy ekkora szégyent hozó orránk, mondom, komolyan van pofárdi, így idejönni, hogy egy betűt se ér.",
+      "start": 71.44,
+      "end": 78.3
+    },
+    {
+      "text": " Hát nem azt tanáról, csak nem ugrik be, mert az én annyira izgulok meg, áh, annyira durva.",
+      "start": 78.3,
+      "end": 81.44
+    },
+    {
+      "text": " Én amúgy mindig csípem tanárólat, szóval én mindig is szerettem, tehát én a többiek nem, de én tényleg nagyon csíptem.",
+      "start": 81.5,
+      "end": 85.28
+    },
+    {
+      "text": " Tanáról valamit, az én egy mondatot mondjam már, és akkor ízé mondom, hogy figyelj ide, az a legfontosabb egy vállalkozás életében, hogy az özbevétel haladja meg az özköltséget.",
+      "start": 85.52,
+      "end": 94.06
+    },
+    {
+      "text": " Ú, köszönöm tanáról, akkor már valamit megiszunk.",
+      "start": 94.14,
+      "end": 95.84
+    },
+    {
+      "text": " Hát, mi, mi, mi.",
+      "start": 97.82,
+      "end": 98.58
+    },
+    {
+      "text": " Eljött a felelet, annak halljuk a feleletet.",
+      "start": 98.58,
+      "end": 101.58
+    },
+    {
+      "text": " Hát egy vállalkozás életében az a legfontosabb, hogy az özbevétel haladja meg az özköltséget.",
+      "start": 102.1,
+      "end": 108.08
+    },
+    {
+      "text": " Na, ezt egy kicsit gondoljuk már, hát hát tanár úr mondta.",
+      "start": 110.30000000000001,
+      "end": 113.38
+    },
+    {
+      "text": " Köszönöm.",
+      "start": 128.6,
+      "end": 130.0
+    }
+  ],
+  "processing_time": 1.8022308349609375,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

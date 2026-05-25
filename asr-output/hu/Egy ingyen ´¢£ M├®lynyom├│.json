@@ -1,0 +1,79 @@
+{
+  "audio_file": "Egy ingyen ｜ Mélynyomó.wav",
+  "full_text": "FEYER NEWSZTOS스� Figyelj már, paliba, kérdezhetek valamit? Eszem, ellike. Te így mennyire vagy zöld párti? Kiskówi úbit elbírna ez a cucc. De nem úgy, hanem így környezetvédelmi. Mert? Me teged nem zavar, hogy minden ilyen fesztiválon térdig járunk a Műanyag Pohár? Szerintem ez csak téged zavar. Köszönöm! Mások után akkor lesz egy ingyenső? Igen. És de hányat gyűjtöttél össze? Mi? 14-et. 15-öt. Kicsit langyos, kicsit vegyes, de ingyen.",
+  "chunks": [
+    {
+      "text": " FEYER NEWSZTOS스�",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "text": " Figyelj már, paliba, kérdezhetek valamit? Eszem, ellike.",
+      "start": 6.5,
+      "end": 9.5
+    },
+    {
+      "text": " Te így mennyire vagy zöld párti?",
+      "start": 10.0,
+      "end": 12.5
+    },
+    {
+      "text": " Kiskówi úbit elbírna ez a cucc.",
+      "start": 14.0,
+      "end": 16.5
+    },
+    {
+      "text": " De nem úgy, hanem így környezetvédelmi.",
+      "start": 16.5,
+      "end": 18.5
+    },
+    {
+      "text": " Mert? Me teged nem zavar, hogy minden ilyen fesztiválon térdig járunk a Műanyag Pohár?",
+      "start": 19.5,
+      "end": 23.5
+    },
+    {
+      "text": " Szerintem ez csak téged zavar.",
+      "start": 25.0,
+      "end": 27.5
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 28.18,
+      "end": 29.58
+    },
+    {
+      "text": " Mások után akkor lesz egy ingyenső?",
+      "start": 30.24,
+      "end": 31.72
+    },
+    {
+      "text": " Igen.",
+      "start": 32.64,
+      "end": 33.26
+    },
+    {
+      "text": " És de hányat gyűjtöttél össze? Mi?",
+      "start": 33.54,
+      "end": 35.64
+    },
+    {
+      "text": " 14-et.",
+      "start": 35.82,
+      "end": 36.56
+    },
+    {
+      "text": " 15-öt.",
+      "start": 39.04,
+      "end": 40.02
+    },
+    {
+      "text": " Kicsit langyos, kicsit vegyes, de ingyen.",
+      "start": 44.06,
+      "end": 46.48
+    }
+  ],
+  "processing_time": 1.254838466644287,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

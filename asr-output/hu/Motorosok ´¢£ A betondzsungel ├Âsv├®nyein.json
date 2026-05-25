@@ -1,0 +1,209 @@
+{
+  "audio_file": "Motorosok ｜ A betondzsungel ösvényein.wav",
+  "full_text": "A beton dzsungelösvényein. Motorosok. Üdvözlöm Önöket! Ma a beton dzsungel vad törzsét a motorosokat mutatjuk be közelről, akik erre a kis településre érkeztek most, hogy megtartsák törzsi ünnepüket. A motorosok a kétkerekűek csoportjába tartoznak. Ezen belül a dupla bőrűek közé soroljuk őket, mivel előszeretettel veszik magukra más lények bőrét. Gépeik hangos bömböltetésével dominanciájukat fejezik ki a terület más csoportjai felett. A közeledés veszélyes lehet, ezért most az általuk mindenhová úrcolt harci sisakot én is magamnál tartom álcázás gyanánt. Sziasztázó harci egyedek mellett elhaladva próbálom felmérni, hogyan reagálnak a közelségemre. Megúgottak. Biztonságosnak tűnik, a sisak ezek szerint segített. Ezt a motort egy elejtett repülőrobot skarpja díszíti. A beton dzsungel motivumai is felfedezhetőek vasparipáikon. A sárkányfarkas díszítés hiedelmük szerint félelmetes erővel ruházza fel viselőjét. Itt vagyunk a beavatási szertartáson. A fiatal férfiaknak az egész törzselőt bizonyítani kell, hogy harcos válhasson belőli. Nézni is félelmetes. Láthatólag a vadak szeretik a húst. Ezért sült zsírgolyót hoztunk nekik, hogy a közelükbe férközhessünk. Ízlik neki a csemege. Vegyél még! Ó, megkínált a kulacsából! Óriási megtisztáltatás! A külső bőrt kitüntetések díszítik. Tösfőnök lehet. A zsírgolyó bevált. Most nézzük az igazi csemegét. Egy pillanat, kérem! Fogadja el! Ajándék! Ajándék! Önnek! A hasonlóság segített az elfogadásban. Most indulnak, és új vadászmezők után néznek. Várjon! Várjon! A tőrünk kapott hús láthatólag vasparipája kiemelt díszeként hordozza körbe a törzsbe. Tetszik neki. Égágya. A jelek szerint testvérének fogadott. Hihetetlen. Mint láthattuk, a motorosok vadak, de a kellő csemegével megszelítíthetők. Már a ennyi fért műsorunkba. A kérem, a kérem, a kérem. A kérem, a kérem.",
+  "chunks": [
+    {
+      "text": " A beton dzsungelösvényein. Motorosok.",
+      "start": 5.859999999999999,
+      "end": 9.54
+    },
+    {
+      "text": " Üdvözlöm Önöket! Ma a beton dzsungel vad törzsét a motorosokat mutatjuk be közelről,",
+      "start": 11.54,
+      "end": 16.72
+    },
+    {
+      "text": " akik erre a kis településre érkeztek most, hogy megtartsák törzsi ünnepüket.",
+      "start": 16.84,
+      "end": 21.12
+    },
+    {
+      "text": " A motorosok a kétkerekűek csoportjába tartoznak.",
+      "start": 22.44,
+      "end": 25.7
+    },
+    {
+      "text": " Ezen belül a dupla bőrűek közé soroljuk őket, mivel előszeretettel veszik magukra más lények bőrét.",
+      "start": 25.7,
+      "end": 31.76
+    },
+    {
+      "text": " Gépeik hangos bömböltetésével dominanciájukat fejezik ki a terület más csoportjai felett.",
+      "start": 33.24,
+      "end": 38.66
+    },
+    {
+      "text": " A közeledés veszélyes lehet, ezért most az általuk mindenhová úrcolt harci sisakot én is magamnál tartom álcázás gyanánt.",
+      "start": 38.74,
+      "end": 46.32
+    },
+    {
+      "text": " Sziasztázó harci egyedek mellett elhaladva próbálom felmérni, hogyan reagálnak a közelségemre.",
+      "start": 47.660000000000004,
+      "end": 53.1
+    },
+    {
+      "text": " Megúgottak.",
+      "start": 55.7,
+      "end": 56.12
+    },
+    {
+      "text": " Biztonságosnak tűnik, a sisak ezek szerint segített.",
+      "start": 59.260000000000005,
+      "end": 62.02
+    },
+    {
+      "text": " Ezt a motort egy elejtett repülőrobot skarpja díszíti.",
+      "start": 62.6,
+      "end": 66.04
+    },
+    {
+      "text": " A beton dzsungel motivumai is felfedezhetőek vasparipáikon.",
+      "start": 67.52,
+      "end": 71.52
+    },
+    {
+      "text": " A sárkányfarkas díszítés hiedelmük szerint félelmetes erővel ruházza fel viselőjét.",
+      "start": 71.52,
+      "end": 77.84
+    },
+    {
+      "text": " Itt vagyunk a beavatási szertartáson.",
+      "start": 80.5,
+      "end": 83.28
+    },
+    {
+      "text": " A fiatal férfiaknak az egész törzselőt bizonyítani kell, hogy harcos válhasson belőli.",
+      "start": 84.44000000000001,
+      "end": 90.12
+    },
+    {
+      "text": " Nézni is félelmetes.",
+      "start": 91.14,
+      "end": 92.54
+    },
+    {
+      "text": " Láthatólag a vadak szeretik a húst.",
+      "start": 95.02000000000001,
+      "end": 96.96
+    },
+    {
+      "text": " Ezért sült zsírgolyót hoztunk nekik, hogy a közelükbe férközhessünk.",
+      "start": 97.18,
+      "end": 100.68
+    },
+    {
+      "text": " Ízlik neki a csemege.",
+      "start": 107.24000000000001,
+      "end": 108.62
+    },
+    {
+      "text": " Vegyél még!",
+      "start": 109.68,
+      "end": 110.54
+    },
+    {
+      "text": " Ó, megkínált a kulacsából!",
+      "start": 113.72,
+      "end": 117.22
+    },
+    {
+      "text": " Óriási megtisztáltatás!",
+      "start": 120.24,
+      "end": 122.2
+    },
+    {
+      "text": " A külső bőrt kitüntetések díszítik.",
+      "start": 124.36,
+      "end": 127.46
+    },
+    {
+      "text": " Tösfőnök lehet.",
+      "start": 128.02,
+      "end": 129.16
+    },
+    {
+      "text": " A zsírgolyó bevált.",
+      "start": 131.32,
+      "end": 132.58
+    },
+    {
+      "text": " Most nézzük az igazi csemegét.",
+      "start": 132.7,
+      "end": 134.62
+    },
+    {
+      "text": " Egy pillanat, kérem! Fogadja el!",
+      "start": 134.96,
+      "end": 137.02
+    },
+    {
+      "text": " Ajándék!",
+      "start": 137.24,
+      "end": 137.94
+    },
+    {
+      "text": " Ajándék! Önnek!",
+      "start": 139.94,
+      "end": 141.44
+    },
+    {
+      "text": " A hasonlóság segített az elfogadásban.",
+      "start": 146.28,
+      "end": 149.34
+    },
+    {
+      "text": " Most indulnak, és új vadászmezők után néznek.",
+      "start": 150.5,
+      "end": 153.94
+    },
+    {
+      "text": " Várjon! Várjon!",
+      "start": 157.54,
+      "end": 159.12
+    },
+    {
+      "text": " A tőrünk kapott hús láthatólag vasparipája kiemelt díszeként hordozza körbe a törzsbe.",
+      "start": 159.6,
+      "end": 165.26
+    },
+    {
+      "text": " Tetszik neki.",
+      "start": 165.54,
+      "end": 166.46
+    },
+    {
+      "text": " Égágya.",
+      "start": 169.7,
+      "end": 170.34
+    },
+    {
+      "text": " A jelek szerint testvérének fogadott. Hihetetlen.",
+      "start": 174.06,
+      "end": 177.24
+    },
+    {
+      "text": " Mint láthattuk, a motorosok vadak, de a kellő csemegével megszelítíthetők.",
+      "start": 183.60000000000002,
+      "end": 187.96
+    },
+    {
+      "text": " Már a ennyi fért műsorunkba.",
+      "start": 188.12,
+      "end": 189.58
+    },
+    {
+      "text": " A kérem, a kérem, a kérem.",
+      "start": 189.58,
+      "end": 190.6
+    },
+    {
+      "text": " A kérem, a kérem.",
+      "start": 190.64,
+      "end": 207.46
+    }
+  ],
+  "processing_time": 1.1663916110992432,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

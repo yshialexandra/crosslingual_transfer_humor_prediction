@@ -1,0 +1,64 @@
+{
+  "audio_file": "Ellenzéki kaszkadőr iskola ｜ Heti Dörgés Villám Gézával.wav",
+  "full_text": "Öldjém és uraim! Ma este egy rövid oktató videóval kedveskedünk a magyar ellenzéknek. Hello, ellenzékiek! Ági, Berni, ez most különösen nektek szól. Megmutatom, hogy kell profin neki rohanni egy ajtónak. Beállsz a pozícióba, az ott az ajtó. Nagyon felszívod magad, mert mindenképp be kell jutnod az ajtón, mintha kakálni kéne. Jaj, Istenem Ági! Na most a lépcsőn legurulásnál nagyon fontos, hogy mindig a megfelelő lábba lépjünk előre, hogy a végén kurva erős kép legyen. Jaj, Istenem Ági! Nem mondjátok komolyan, menjetek már a ***ába. Arról volt az, hogy a tüzet utómunkába csináljátok. A ***at locsó a ***nek! Jaj, Jaj. Arról volt az angolközésre, a 3-3-5-5-6-6-5-6-6-7-6-6-6-6-7-6-6-7-6-6-7-6-6-7-6-7-7-7-8-6-7-7-7-1.9-6-7-7-7-7-7-7-7-7k, S-H-8-7-7-7-7-7-9-7-7-7-7-8-8-7-8-7-7-7-7-7-7-8-7-7-9-7-7-7-7-9-9-8-7-7-7-7-7-7-9-7-9-7-9-7-7-8-7-7-7-7-8-7-8-7-8",
+  "chunks": [
+    {
+      "text": " Öldjém és uraim! Ma este egy rövid oktató videóval kedveskedünk a magyar ellenzéknek.",
+      "start": 0.0,
+      "end": 5.62
+    },
+    {
+      "text": " Hello, ellenzékiek! Ági, Berni, ez most különösen nektek szól.",
+      "start": 8.059999999999999,
+      "end": 12.46
+    },
+    {
+      "text": " Megmutatom, hogy kell profin neki rohanni egy ajtónak.",
+      "start": 12.88,
+      "end": 15.92
+    },
+    {
+      "text": " Beállsz a pozícióba, az ott az ajtó.",
+      "start": 19.1,
+      "end": 21.86
+    },
+    {
+      "text": " Nagyon felszívod magad, mert mindenképp be kell jutnod az ajtón, mintha kakálni kéne.",
+      "start": 22.66,
+      "end": 28.36
+    },
+    {
+      "text": " Jaj, Istenem Ági!",
+      "start": 30.740000000000002,
+      "end": 32.26
+    },
+    {
+      "text": " Na most a lépcsőn legurulásnál nagyon fontos, hogy mindig a megfelelő lábba lépjünk előre, hogy a végén kurva erős kép legyen.",
+      "start": 35.04,
+      "end": 43.76
+    },
+    {
+      "text": " Jaj, Istenem Ági!",
+      "start": 48.44,
+      "end": 49.96
+    },
+    {
+      "text": " Nem mondjátok komolyan, menjetek már a ***ába. Arról volt az, hogy a tüzet utómunkába csináljátok.",
+      "start": 52.94,
+      "end": 57.52
+    },
+    {
+      "text": " A ***at locsó a ***nek!",
+      "start": 57.68,
+      "end": 59.56
+    },
+    {
+      "text": " Jaj, Jaj. Arról volt az angolközésre, a 3-3-5-5-6-6-5-6-6-7-6-6-6-6-7-6-6-7-6-6-7-6-6-7-6-7-7-7-8-6-7-7-7-1.9-6-7-7-7-7-7-7-7-7k, S-H-8-7-7-7-7-7-9-7-7-7-7-8-8-7-8-7-7-7-7-7-7-8-7-7-9-7-7-7-7-9-9-8-7-7-7-7-7-7-9-7-9-7-9-7-7-8-7-7-7-7-8-7-8-7-8",
+      "start": 61.38,
+      "end": 79.64
+    }
+  ],
+  "processing_time": 1.11570405960083,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

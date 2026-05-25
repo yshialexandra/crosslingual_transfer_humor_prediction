@@ -1,0 +1,84 @@
+{
+  "audio_file": "Mélyvíz ｜ Pultos lány.wav",
+  "full_text": "A KORSÓS SÖR, EGY LIMONÁDÉS, EGY ALMAFRÖTCS Erika drága, lenne egy korsós sör, egy limonádé és egy almafröccs? Milyen nálunk dolgozni, Erika? Nagyon jól áll magának a zsabós blúz, mondták már? OKésnek tetszik lenni, Erika? Főiskola, két ér. Aztán az életi iskolájában tanultam tovább. Erika drága, lesz még két martini is. Egy magának és egy nekem. Rázva, nem keverve. Én rázva szeretem. És maga, Erika? Pillanat! Na, töltsek ki drága nyugodtan, lejattoltatok és jövök vissza. Szeretnék kérni egy cappuccino-t és egy eszpresszót a hatos asztalhoz, jó? És ne haragudjon már palibára, orsika drága. Jövő hétre már tudni fogja a nevét.",
+  "chunks": [
+    {
+      "text": " A KORSÓS SÖR, EGY LIMONÁDÉS, EGY ALMAFRÖTCS",
+      "start": 0.0,
+      "end": 3.8
+    },
+    {
+      "text": " Erika drága, lenne egy korsós sör, egy limonádé és egy almafröccs?",
+      "start": 8.220000000000002,
+      "end": 13.22
+    },
+    {
+      "text": " Milyen nálunk dolgozni, Erika?",
+      "start": 13.94,
+      "end": 15.94
+    },
+    {
+      "text": " Nagyon jól áll magának a zsabós blúz, mondták már?",
+      "start": 17.6,
+      "end": 20.88
+    },
+    {
+      "text": " OKésnek tetszik lenni, Erika?",
+      "start": 22.320000000000004,
+      "end": 24.06
+    },
+    {
+      "text": " Főiskola, két ér.",
+      "start": 25.6,
+      "end": 27.82
+    },
+    {
+      "text": " Aztán az életi iskolájában tanultam tovább.",
+      "start": 27.82,
+      "end": 31.36
+    },
+    {
+      "text": " Erika drága, lesz még két martini is. Egy magának és egy nekem.",
+      "start": 32.72,
+      "end": 36.68
+    },
+    {
+      "text": " Rázva, nem keverve.",
+      "start": 37.36,
+      "end": 38.96
+    },
+    {
+      "text": " Én rázva szeretem. És maga, Erika?",
+      "start": 40.06,
+      "end": 42.84
+    },
+    {
+      "text": " Pillanat!",
+      "start": 43.96,
+      "end": 44.7
+    },
+    {
+      "text": " Na, töltsek ki drága nyugodtan, lejattoltatok és jövök vissza.",
+      "start": 45.3,
+      "end": 50.26
+    },
+    {
+      "text": " Szeretnék kérni egy cappuccino-t és egy eszpresszót a hatos asztalhoz, jó?",
+      "start": 55.339999999999996,
+      "end": 58.66
+    },
+    {
+      "text": " És ne haragudjon már palibára, orsika drága.",
+      "start": 60.62,
+      "end": 63.66
+    },
+    {
+      "text": " Jövő hétre már tudni fogja a nevét.",
+      "start": 64.68,
+      "end": 66.72
+    }
+  ],
+  "processing_time": 0.4291543960571289,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

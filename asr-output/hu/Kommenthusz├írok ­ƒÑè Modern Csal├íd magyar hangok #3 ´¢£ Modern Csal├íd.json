@@ -1,0 +1,29 @@
+{
+  "audio_file": "Kommenthuszárok 🥊 Modern Család magyar hangok #3 ｜ Modern Család.wav",
+  "full_text": "És most jövök én. Na, lássak! Erkölcsi no go zóna. Itt mindig jó a zóna. És ha sem fillent. Ez tényleg jó volt? Indítottak ellenne petíciót, és csak 97-en írták alá? A film ellen írtak petíciót. Ellened írták petíciót, te. A szereplők... Most rólatok beszélek meg. Igen, igen. Nem róla. A szereplők idegesítőek. Főleg a homárok. Nagymama. Szívtelen nagyik. Nekünk ekkora szívünk van, tudod? Nem csak a szíve akkora. Ha ez bárkinek tetszik, annak el lehet menni ebből az országból. De hála Istennek elég sokan maradtak itt, ebben az országban. Kalandvágyban. Így van. Kerekes tuti homár. Igazadban semmit nem jelent. Mind a négy gyerekemmel hazamegyek és át fogok beszélni ezt a témát, hogy apu akkor átmegy a másik térfélre. Hogyha únod, akkor nézi mást. Legközelebb ne kapcsolj, ott. Oda, hanem eleve menje másikra. Taplopó. Szerinted? Habár... Homár. Oltás stílus. Míg annál is jobb. Annál is. Jó a féling. Igen. Megyek a homárok közé. A szerelem dalára elindult, te már nuén. Ennyi. Ha tetszett. Hát.",
+  "chunks": [
+    {
+      "text": " És most jövök én. Na, lássak! Erkölcsi no go zóna. Itt mindig jó a zóna. És ha sem fillent. Ez tényleg jó volt? Indítottak ellenne petíciót, és csak 97-en írták alá? A film ellen írtak petíciót. Ellened írták petíciót, te. A szereplők... Most rólatok beszélek meg. Igen, igen. Nem róla. A szereplők idegesítőek.",
+      "start": 0.0,
+      "end": 27.04
+    },
+    {
+      "text": " Főleg a homárok. Nagymama. Szívtelen nagyik. Nekünk ekkora szívünk van, tudod? Nem csak a szíve akkora. Ha ez bárkinek tetszik, annak el lehet menni ebből az országból. De hála Istennek elég sokan maradtak itt, ebben az országban. Kalandvágyban. Így van. Kerekes tuti homár. Igazadban semmit nem jelent. Mind a négy gyerekemmel hazamegyek és át fogok beszélni ezt a témát, hogy apu akkor átmegy a másik térfélre. Hogyha únod, akkor nézi mást. Legközelebb ne kapcsolj, ott.",
+      "start": 29.12,
+      "end": 57.02
+    },
+    {
+      "text": " Oda, hanem eleve menje másikra. Taplopó. Szerinted? Habár... Homár. Oltás stílus. Míg annál is jobb. Annál is. Jó a féling. Igen. Megyek a homárok közé. A szerelem dalára elindult, te már nuén. Ennyi. Ha tetszett.",
+      "start": 57.04,
+      "end": 76.14
+    },
+    {
+      "text": " Hát.",
+      "start": 87.04,
+      "end": 87.36
+    }
+  ],
+  "processing_time": 1.7112231254577637,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

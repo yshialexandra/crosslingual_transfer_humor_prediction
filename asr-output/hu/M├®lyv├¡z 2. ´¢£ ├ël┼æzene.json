@@ -1,0 +1,109 @@
+{
+  "audio_file": "Mélyvíz 2. ｜ Élőzene.wav",
+  "full_text": "The Vigyek? Meddig nyomja még!? Délután négyig! Nem fogom kibírni. Ez csak egy gitár. Az a baj. És mi a baj, élő zene? Az, ha a baj, hogy él! Miért szeretem? Azt nem mondd, hogy ez neked tetszik. Hát azt azért nem mondanám, de legalább a vendégeket távol tartnék. Ugyan már arra a szakács is képes. Látod? Hille. Na jól van, ebből elég. Hallod? Lehet kérni? Persze. Akkor nagyon szépen megkérlek, hogy ezt fejezd be nagyon sürgősen, jó? Meg gitárral a szádba fogsz távozni. Világos? Szerenációs volt a dolog. Brávó.",
+  "chunks": [
+    {
+      "text": " The Vigyek?",
+      "start": 0.0,
+      "end": 1.0
+    },
+    {
+      "text": " Meddig nyomja még!?",
+      "start": 8.62,
+      "end": 9.98
+    },
+    {
+      "text": " Délután négyig!",
+      "start": 9.98,
+      "end": 11.3
+    },
+    {
+      "text": " Nem fogom kibírni.",
+      "start": 11.98,
+      "end": 13.42
+    },
+    {
+      "text": " Ez csak egy gitár.",
+      "start": 13.54,
+      "end": 14.54
+    },
+    {
+      "text": " Az a baj.",
+      "start": 14.8,
+      "end": 15.72
+    },
+    {
+      "text": " És mi a baj, élő zene?",
+      "start": 18.28,
+      "end": 19.84
+    },
+    {
+      "text": " Az, ha a baj, hogy él!",
+      "start": 20.559999999999995,
+      "end": 22.48
+    },
+    {
+      "text": " Miért szeretem?",
+      "start": 22.7,
+      "end": 23.62
+    },
+    {
+      "text": " Azt nem mondd, hogy ez neked tetszik.",
+      "start": 23.84,
+      "end": 25.52
+    },
+    {
+      "text": " Hát azt azért nem mondanám, de legalább a vendégeket távol tartnék.",
+      "start": 25.76,
+      "end": 28.9
+    },
+    {
+      "text": " Ugyan már arra a szakács is képes.",
+      "start": 28.9,
+      "end": 30.84
+    },
+    {
+      "text": " Látod?",
+      "start": 38.36,
+      "end": 38.92
+    },
+    {
+      "text": " Hille.",
+      "start": 39.82,
+      "end": 40.38
+    },
+    {
+      "text": " Na jól van, ebből elég. Hallod? Lehet kérni?",
+      "start": 42.26,
+      "end": 46.22
+    },
+    {
+      "text": " Persze.",
+      "start": 46.74,
+      "end": 47.3
+    },
+    {
+      "text": " Akkor nagyon szépen megkérlek, hogy ezt fejezd be nagyon sürgősen, jó?",
+      "start": 47.38,
+      "end": 50.34
+    },
+    {
+      "text": " Meg gitárral a szádba fogsz távozni. Világos?",
+      "start": 50.44,
+      "end": 52.76
+    },
+    {
+      "text": " Szerenációs volt a dolog.",
+      "start": 59.54,
+      "end": 60.52
+    },
+    {
+      "text": " Brávó.",
+      "start": 62.120000000000005,
+      "end": 62.56
+    }
+  ],
+  "processing_time": 1.4991106986999512,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

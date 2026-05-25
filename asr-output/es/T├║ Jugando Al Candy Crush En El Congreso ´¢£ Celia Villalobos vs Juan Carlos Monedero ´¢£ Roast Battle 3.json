@@ -1,0 +1,179 @@
+{
+  "audio_file": "Tú Jugando Al Candy Crush En El Congreso ｜ Celia Villalobos vs Juan Carlos Monedero ｜ Roast Battle 3.wav",
+  "full_text": "Yo te he visto rapear. ¿Y sabes qué te digo? Que no lo puedes hacer peor. Hubiera preferido que el Bartoni estuviera en la calle y tú condenado en la cárcel. Por lo menos te aguantarán. ¿Qué fijación tenéis en el PP en meterme en la cárcel? Estudiaste Derecho, pero no terminaste la carrera. Al contrario que Pablo Casado y Cifuentes, que esos no estudiaron pero sí la terminaron. Y también al contrario que tus excompañeros no has acabado en una compañía eléctrica. Y mira que para terminar trabajando desde la política en una compañía eléctrica no hace falta ni tener muchas luces y es mejor que las tengas fundidas. Vamos, que dabas para el cargo. Pero han dicho que no. ¿Sabes qué te digo? Os queda poquísimo para entrar en las compañías eléctricas. Lo que tarde la velarra en dejar gobierno. Ahí acabará. Yo no, porque no me gustaba a mí eso de la eléctrica. Me daba como calambre. Este hombre, sus padres tenían una tienda de ultramarino, cosa que es profundamente honesta. Y quién de aquí no va a una tienda de ultramarino. Todos vamos a la tienda de ultramarino. Pero ¿sabes qué pasa? Lo único que aprendiste es cómo vender. Tus padres vendían bien ultramarino. Y tú, moto, querido. Mi querida Celia, tú sí que tienes una vida edificante. Como edificante es en la historia del parlamentarismo, pues Churchill diciendo aquello de sangre, sudor y lágrimas. Y tú jugando al Candy Crush en el Congreso. Lo único que me gustaba por aquí es absolutamente natural. Ya no, la misma Yep Jaime. Lo único que me gustaba, siempre verdad. Y tú, quiero sentirnos,... me gustables, si Bernal, ya no",
+  "chunks": [
+    {
+      "text": " Yo te he visto rapear.",
+      "start": 1.3400000000000005,
+      "end": 2.98
+    },
+    {
+      "text": " ¿Y sabes qué te digo?",
+      "start": 3.7800000000000002,
+      "end": 4.98
+    },
+    {
+      "text": " Que no lo puedes hacer peor.",
+      "start": 5.16,
+      "end": 6.38
+    },
+    {
+      "text": " Hubiera preferido que el Bartoni estuviera en la calle y tú condenado en la cárcel.",
+      "start": 7.16,
+      "end": 10.28
+    },
+    {
+      "text": " Por lo menos te aguantarán.",
+      "start": 10.34,
+      "end": 11.34
+    },
+    {
+      "text": " ¿Qué fijación tenéis en el PP en meterme en la cárcel?",
+      "start": 20.160000000000004,
+      "end": 23.44
+    },
+    {
+      "text": " Estudiaste Derecho, pero no terminaste la carrera.",
+      "start": 24.880000000000003,
+      "end": 27.48
+    },
+    {
+      "text": " Al contrario que Pablo Casado y Cifuentes, que esos no estudiaron pero sí la terminaron.",
+      "start": 27.48,
+      "end": 31.9
+    },
+    {
+      "text": " Y también al contrario que tus excompañeros no has acabado en una compañía eléctrica.",
+      "start": 32.82,
+      "end": 36.86
+    },
+    {
+      "text": " Y mira que para terminar trabajando desde la política en una compañía eléctrica",
+      "start": 37.0,
+      "end": 40.9
+    },
+    {
+      "text": " no hace falta ni tener muchas luces y es mejor que las tengas fundidas.",
+      "start": 40.9,
+      "end": 44.36
+    },
+    {
+      "text": " Vamos, que dabas para el cargo.",
+      "start": 44.6,
+      "end": 45.98
+    },
+    {
+      "text": " Pero han dicho que no.",
+      "start": 46.14,
+      "end": 46.9
+    },
+    {
+      "text": " ¿Sabes qué te digo?",
+      "start": 57.96,
+      "end": 58.84
+    },
+    {
+      "text": " Os queda poquísimo para entrar en las compañías eléctricas.",
+      "start": 59.46,
+      "end": 62.3
+    },
+    {
+      "text": " Lo que tarde la velarra en dejar gobierno.",
+      "start": 62.46,
+      "end": 64.32
+    },
+    {
+      "text": " Ahí acabará.",
+      "start": 64.82,
+      "end": 65.56
+    },
+    {
+      "text": " Yo no, porque no me gustaba a mí eso de la eléctrica.",
+      "start": 66.44,
+      "end": 69.0
+    },
+    {
+      "text": " Me daba como calambre.",
+      "start": 69.04,
+      "end": 70.02
+    },
+    {
+      "text": " Este hombre, sus padres tenían una tienda de ultramarino, cosa que es profundamente honesta.",
+      "start": 78.06,
+      "end": 82.52
+    },
+    {
+      "text": " Y quién de aquí no va a una tienda de ultramarino.",
+      "start": 82.64,
+      "end": 84.66
+    },
+    {
+      "text": " Todos vamos a la tienda de ultramarino.",
+      "start": 84.9,
+      "end": 86.22
+    },
+    {
+      "text": " Pero ¿sabes qué pasa?",
+      "start": 86.42,
+      "end": 87.4
+    },
+    {
+      "text": " Lo único que aprendiste es cómo vender.",
+      "start": 87.8,
+      "end": 89.54
+    },
+    {
+      "text": " Tus padres vendían bien ultramarino.",
+      "start": 89.54,
+      "end": 91.6
+    },
+    {
+      "text": " Y tú, moto, querido.",
+      "start": 91.74,
+      "end": 93.36
+    },
+    {
+      "text": " Mi querida Celia, tú sí que tienes una vida edificante.",
+      "start": 101.24000000000001,
+      "end": 104.66
+    },
+    {
+      "text": " Como edificante es en la historia del parlamentarismo, pues Churchill diciendo aquello de sangre, sudor y lágrimas.",
+      "start": 105.06,
+      "end": 111.14
+    },
+    {
+      "text": " Y tú jugando al Candy Crush en el Congreso.",
+      "start": 111.26,
+      "end": 113.88
+    },
+    {
+      "text": " Lo único que me gustaba por aquí es absolutamente natural.",
+      "start": 120.4,
+      "end": 124.48
+    },
+    {
+      "text": " Ya no, la misma Yep Jaime.",
+      "start": 124.6,
+      "end": 124.82
+    },
+    {
+      "text": " Lo único que me gustaba, siempre verdad.",
+      "start": 124.82,
+      "end": 124.94
+    },
+    {
+      "text": " Y tú, quiero sentirnos,...",
+      "start": 124.96,
+      "end": 126.54
+    },
+    {
+      "text": " me gustables, si Bernal, ya no",
+      "start": 129.46,
+      "end": 129.62
+    }
+  ],
+  "processing_time": 2.122197389602661,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

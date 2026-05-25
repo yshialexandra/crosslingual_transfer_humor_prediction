@@ -1,0 +1,24 @@
+{
+  "audio_file": "Vihar közeleg... ⚡️ ｜ Heti Dörgés Villám Gézával.wav",
+  "full_text": "Szerus! Szóval új műsor Heti Dörgés Villám Gézával. Arra gondoltunk, hogy a bevezető spot az lehet egy buli. Menő fiatalok, mindenki jól érzi magát, ekkor belépsz. És lelassul az időt. Úristen! Ez Villám Géza, az ismert a rádiós! Oké, akkor mit szólsz ehhez? Szállsz le a motorról, leveszed a sisakot, belenézel a kamerába és szexin azt mondod, van egy jó hírem. Heti Dörgés Villám Gézával! Jajjá! Ez azért így túl abszurd.",
+  "chunks": [
+    {
+      "text": " Szerus! Szóval új műsor Heti Dörgés Villám Gézával. Arra gondoltunk, hogy a bevezető spot az lehet egy buli. Menő fiatalok, mindenki jól érzi magát, ekkor belépsz. És lelassul az időt. Úristen! Ez Villám Géza, az ismert a rádiós! Oké, akkor mit szólsz ehhez? Szállsz le a motorról, leveszed a sisakot, belenézel a kamerába és szexin azt mondod, van egy jó hírem. Heti Dörgés Villám Gézával!",
+      "start": 0.0,
+      "end": 27.46
+    },
+    {
+      "text": " Jajjá!",
+      "start": 58.56,
+      "end": 59.96
+    },
+    {
+      "text": " Ez azért így túl abszurd.",
+      "start": 60.0,
+      "end": 64.86
+    }
+  ],
+  "processing_time": 0.34727978706359863,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,429 @@
+{
+  "audio_file": "Miguel Esteban： Pitbull Es Una Puta Mierda ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "¿Cómo estáis? ¿Alguien tiene Spotify? Qué ridículo, ¿verdad? Entrar aquí, dos... No hay que decir, un montón de desconocidos y yo... ¿Tenéis Spotify? ¿Os imagináis a alguien por la calle? ¿Tienes Spotify? ¿Pero del normal o del pre...? ¿Alguien tiene del gratis? ¿Del gratis? ¡Gratis! ¿Tienes Spotify gratis? ¿Quién tiene Spotify gratis? Yo también. Es mejor, porque es gratis. ¿No os jode cuando estáis con vuestra blitz de Spotify guay, hecha, elaborada, ¿sabes? Para vuestro momento quizá de relax o de trabajo, ¿sabes? Y os lo joden con anuncios. Es que cabrones, ¿no? Hijos de puta, ¿queréis amortizar vuestro negocio? Cabrones. ¿Cuánto cuesta el Spotify Premium? Es una mierda. Son como cinco céntimos al año o algo así, ¿eh? Da igual, para mí es mucho, ¿sabes? Porque el otro es gratis, ¿sabes? El otro es menos. Es menos y por eso no hago el premio. Y los hijos de puta deben tener un algoritmo, ¿no? O algo así que tú sabes, ellos calculan, ¿no? Si tú estás... Yo escucho David Bowie, Lou Reed y tal. Si tú escuchas David Bowie, Lou Reed, pues te ponen Pitbull para joderte, ¿no? Y dices... ¡Ah, cabrones! Pero ellos deben saber lo que tú escuchas y te ponen... No, si escuchas Lou Reed te ponen Pitbull. Si escuchas Pitbull, pues te ponen Pitbull también porque sigues siendo una puta mierda. El caso es que yo soy consciente. Yo soy consciente de que el problema es mío. Soy un cerdo, soy un miserable. Por no pagar los cuatro céntimos que me piden, ¿sabes? Por tener música ilimitada para siempre, ¿sabes? Y yo aún así no. Porque el otro es nada. El otro es la nada y contra eso no se puede competir, ¿sabes? Y la nada es menos siempre, ¿sabes? Y hay un razonamiento que quizás es equívoco en mi cabeza, pero es que cuando estoy escuchando música y sale un anuncio es como si yo estuviera ganando pasta, ¿sabes? Es como, ¿sabes? Y me estáis jodiendo la lista así, pero... ¡Ah! ¡Dame más! Estoy ganando dinero, dame más. Y cuantos más anuncios es como, extrañamente, es como que más pasta estoy ganando, ¿sabes? Y me parece bien porque yo soy consciente de que soy un mierda y entonces, castígame. Castígame, dame lo peor que tengas. El peor puto anuncio que tengas. Lo más repugnante que tengas, pitbull o asquer. Yo qué sé. Laxantes. Danúnciame laxantes. Dámelo todo, me lo merezco. Me fustigaré. Es una especie de expiación porque yo soy consciente de que soy un mierda y no soy capaz de mejorar mi conducta. Entonces, castígame, ¿sabes? Y está ahí bien, bien. Pero el otro día escuché un anuncio en Spotify y me jodió. Porque era un anuncio de la Dirección General de Tráfico. Era un puente o Navidades o yo qué sé, ¿sabes? Y era como un anuncio de, eh, tío, si la gente te está esperando en casa, no conduzcas rápido, ¿sabes? No mires el móvil mientras conduces, no bebas, ¿sabes? Y era un anuncio bonito, ¿sabes? Emotivo, ¿sabes? Que te hacía tomar conciencia de lo que realmente importa, que es llegar a casa, ¿sabes? Y no ir rápido, ¿sabes? Y si lo estás mandando a la gente equivocada. ¿Sabes? Porque ese anuncio está llegando a la gente que tenemos Spotify gratis y la gente que paga premium no les va a llegar, ¿sabes? ¿No? Y entonces... Esa gente... Esa gente no va a saber, no va a saber. Porque ellos pagan la poca pasta que es. Ellos son conscientes y la pagan y no van a saber si pueden beber o no pueden beber, pueden acelerar o no pueden acelerar, se van a matar todos. Y si todo va bien, como tú consideras y como tú esperas, la gente que... Al final vas a conseguir un mundo de mierdas. De hijos de puta como yo tacaños, ¿sabes? Y no, no, no, no, no, no, no, no, no, no, no, no. Pon unos anuncios de... ¡Ey, bebe y conduce, sé feliz, tío, ¿sabes? Mezcla ansiolíticos con antidepresivos, ¿sabes? Vive la vida a tope, ¿sabes?",
+  "chunks": [
+    {
+      "text": " ¿Cómo estáis? ¿Alguien tiene Spotify?",
+      "start": 1.2800000000000096,
+      "end": 4.26
+    },
+    {
+      "text": " Qué ridículo, ¿verdad? Entrar aquí, dos...",
+      "start": 7.12000000000001,
+      "end": 9.72
+    },
+    {
+      "text": " No hay que decir, un montón de desconocidos y yo...",
+      "start": 9.72,
+      "end": 11.92
+    },
+    {
+      "text": " ¿Tenéis Spotify?",
+      "start": 11.92,
+      "end": 12.78
+    },
+    {
+      "text": " ¿Os imagináis a alguien por la calle?",
+      "start": 14.160000000000005,
+      "end": 15.8
+    },
+    {
+      "text": " ¿Tienes Spotify?",
+      "start": 15.88,
+      "end": 16.58
+    },
+    {
+      "text": " ¿Pero del normal o del pre...? ¿Alguien tiene del gratis?",
+      "start": 22.100000000000005,
+      "end": 24.8
+    },
+    {
+      "text": " ¿Del gratis? ¡Gratis! ¿Tienes Spotify gratis?",
+      "start": 24.94,
+      "end": 27.8
+    },
+    {
+      "text": " ¿Quién tiene Spotify gratis?",
+      "start": 28.780000000000005,
+      "end": 30.42
+    },
+    {
+      "text": " Yo también.",
+      "start": 31.860000000000007,
+      "end": 32.9
+    },
+    {
+      "text": " Es mejor, porque es gratis.",
+      "start": 33.940000000000005,
+      "end": 35.76
+    },
+    {
+      "text": " ¿No os jode cuando estáis con vuestra blitz de Spotify guay, hecha, elaborada, ¿sabes?",
+      "start": 36.900000000000006,
+      "end": 42.66
+    },
+    {
+      "text": " Para vuestro momento quizá de relax o de trabajo, ¿sabes?",
+      "start": 42.68,
+      "end": 45.24
+    },
+    {
+      "text": " Y os lo joden con anuncios.",
+      "start": 45.32,
+      "end": 46.62
+    },
+    {
+      "text": " Es que cabrones, ¿no? Hijos de puta, ¿queréis amortizar vuestro negocio?",
+      "start": 47.3,
+      "end": 50.82
+    },
+    {
+      "text": " Cabrones. ¿Cuánto cuesta el Spotify Premium?",
+      "start": 53.28,
+      "end": 55.64
+    },
+    {
+      "text": " Es una mierda. Son como cinco céntimos al año o algo así, ¿eh?",
+      "start": 55.64,
+      "end": 60.28
+    },
+    {
+      "text": " Da igual, para mí es mucho, ¿sabes?",
+      "start": 60.72,
+      "end": 62.44
+    },
+    {
+      "text": " Porque el otro es gratis, ¿sabes?",
+      "start": 62.46,
+      "end": 63.86
+    },
+    {
+      "text": " El otro es menos.",
+      "start": 63.9,
+      "end": 64.82
+    },
+    {
+      "text": " Es menos y por eso no hago el premio.",
+      "start": 65.24,
+      "end": 68.72
+    },
+    {
+      "text": " Y los hijos de puta deben tener un algoritmo, ¿no? O algo así que tú sabes, ellos calculan, ¿no?",
+      "start": 74.58000000000001,
+      "end": 80.64
+    },
+    {
+      "text": " Si tú estás... Yo escucho David Bowie, Lou Reed y tal.",
+      "start": 80.72,
+      "end": 84.24
+    },
+    {
+      "text": " Si tú escuchas David Bowie, Lou Reed, pues te ponen Pitbull para joderte, ¿no?",
+      "start": 84.4,
+      "end": 87.7
+    },
+    {
+      "text": " Y dices... ¡Ah, cabrones!",
+      "start": 87.8,
+      "end": 89.38
+    },
+    {
+      "text": " Pero ellos deben saber lo que tú escuchas y te ponen... No, si escuchas Lou Reed te ponen Pitbull.",
+      "start": 89.97999999999999,
+      "end": 94.04
+    },
+    {
+      "text": " Si escuchas Pitbull, pues te ponen Pitbull también porque sigues siendo una puta mierda.",
+      "start": 94.22,
+      "end": 98.06
+    },
+    {
+      "text": " El caso es que yo soy consciente.",
+      "start": 102.86,
+      "end": 104.58
+    },
+    {
+      "text": " Yo soy consciente de que el problema es mío.",
+      "start": 104.78,
+      "end": 106.48
+    },
+    {
+      "text": " Soy un cerdo, soy un miserable.",
+      "start": 106.58,
+      "end": 108.38
+    },
+    {
+      "text": " Por no pagar los cuatro céntimos que me piden, ¿sabes?",
+      "start": 108.82000000000001,
+      "end": 111.64
+    },
+    {
+      "text": " Por tener música ilimitada para siempre, ¿sabes?",
+      "start": 111.64,
+      "end": 114.12
+    },
+    {
+      "text": " Y yo aún así no.",
+      "start": 114.12,
+      "end": 114.84
+    },
+    {
+      "text": " Porque el otro es nada.",
+      "start": 115.18,
+      "end": 116.42
+    },
+    {
+      "text": " El otro es la nada y contra eso no se puede competir, ¿sabes?",
+      "start": 116.58,
+      "end": 119.06
+    },
+    {
+      "text": " Y la nada es menos siempre, ¿sabes?",
+      "start": 119.26,
+      "end": 121.78
+    },
+    {
+      "text": " Y hay un razonamiento que quizás es equívoco en mi cabeza,",
+      "start": 121.88,
+      "end": 125.42
+    },
+    {
+      "text": " pero es que cuando estoy escuchando música y sale un anuncio es como si yo estuviera ganando pasta, ¿sabes?",
+      "start": 125.6,
+      "end": 130.4
+    },
+    {
+      "text": " Es como, ¿sabes?",
+      "start": 130.48,
+      "end": 131.5
+    },
+    {
+      "text": " Y me estáis jodiendo la lista así, pero... ¡Ah!",
+      "start": 131.58,
+      "end": 133.38
+    },
+    {
+      "text": " ¡Dame más! Estoy ganando dinero, dame más.",
+      "start": 134.24,
+      "end": 136.44
+    },
+    {
+      "text": " Y cuantos más anuncios es como, extrañamente, es como que más pasta estoy ganando, ¿sabes?",
+      "start": 136.44,
+      "end": 142.06
+    },
+    {
+      "text": " Y me parece bien porque yo soy consciente de que soy un mierda y entonces, castígame.",
+      "start": 142.3,
+      "end": 145.78
+    },
+    {
+      "text": " Castígame, dame lo peor que tengas.",
+      "start": 146.32,
+      "end": 148.22
+    },
+    {
+      "text": " El peor puto anuncio que tengas.",
+      "start": 148.24,
+      "end": 149.7
+    },
+    {
+      "text": " Lo más repugnante que tengas, pitbull o asquer.",
+      "start": 149.74,
+      "end": 152.56
+    },
+    {
+      "text": " Yo qué sé.",
+      "start": 152.64,
+      "end": 152.96
+    },
+    {
+      "text": " Laxantes.",
+      "start": 153.6,
+      "end": 154.0
+    },
+    {
+      "text": " Danúnciame laxantes.",
+      "start": 154.22,
+      "end": 155.22
+    },
+    {
+      "text": " Dámelo todo, me lo merezco.",
+      "start": 155.4,
+      "end": 156.78
+    },
+    {
+      "text": " Me fustigaré.",
+      "start": 157.04,
+      "end": 157.72
+    },
+    {
+      "text": " Es una especie de expiación porque yo soy consciente de que soy un mierda",
+      "start": 157.82,
+      "end": 160.66
+    },
+    {
+      "text": " y no soy capaz de mejorar mi conducta.",
+      "start": 160.66,
+      "end": 163.62
+    },
+    {
+      "text": " Entonces, castígame, ¿sabes?",
+      "start": 163.7,
+      "end": 165.08
+    },
+    {
+      "text": " Y está ahí bien, bien.",
+      "start": 165.08,
+      "end": 166.58
+    },
+    {
+      "text": " Pero el otro día escuché un anuncio en Spotify y me jodió.",
+      "start": 166.84,
+      "end": 170.58
+    },
+    {
+      "text": " Porque era un anuncio de la Dirección General de Tráfico.",
+      "start": 172.44,
+      "end": 174.7
+    },
+    {
+      "text": " Era un puente o Navidades o yo qué sé, ¿sabes?",
+      "start": 174.76,
+      "end": 177.78
+    },
+    {
+      "text": " Y era como un anuncio de, eh, tío, si la gente te está esperando en casa, no conduzcas rápido, ¿sabes?",
+      "start": 177.86,
+      "end": 184.56
+    },
+    {
+      "text": " No mires el móvil mientras conduces, no bebas, ¿sabes?",
+      "start": 184.56,
+      "end": 187.68
+    },
+    {
+      "text": " Y era un anuncio bonito, ¿sabes?",
+      "start": 187.68,
+      "end": 189.36
+    },
+    {
+      "text": " Emotivo, ¿sabes?",
+      "start": 189.64,
+      "end": 190.38
+    },
+    {
+      "text": " Que te hacía tomar conciencia de lo que realmente importa, que es llegar a casa, ¿sabes?",
+      "start": 190.42,
+      "end": 194.16
+    },
+    {
+      "text": " Y no ir rápido, ¿sabes?",
+      "start": 194.18,
+      "end": 195.3
+    },
+    {
+      "text": " Y si lo estás mandando a la gente equivocada.",
+      "start": 195.56,
+      "end": 198.22
+    },
+    {
+      "text": " ¿Sabes?",
+      "start": 200.16,
+      "end": 200.52
+    },
+    {
+      "text": " Porque ese anuncio está llegando a la gente que tenemos Spotify gratis",
+      "start": 200.52,
+      "end": 204.2
+    },
+    {
+      "text": " y la gente que paga premium no les va a llegar, ¿sabes?",
+      "start": 204.2,
+      "end": 206.8
+    },
+    {
+      "text": " ¿No?",
+      "start": 206.94,
+      "end": 207.02
+    },
+    {
+      "text": " Y entonces...",
+      "start": 208.58,
+      "end": 209.34
+    },
+    {
+      "text": " Esa gente...",
+      "start": 211.5,
+      "end": 212.26
+    },
+    {
+      "text": " Esa gente no va a saber, no va a saber.",
+      "start": 213.70000000000002,
+      "end": 215.66
+    },
+    {
+      "text": " Porque ellos pagan la poca pasta que es.",
+      "start": 215.88,
+      "end": 218.62
+    },
+    {
+      "text": " Ellos son conscientes y la pagan y no van a saber si pueden beber o no pueden beber,",
+      "start": 218.7,
+      "end": 222.7
+    },
+    {
+      "text": " pueden acelerar o no pueden acelerar, se van a matar todos.",
+      "start": 222.92,
+      "end": 225.18
+    },
+    {
+      "text": " Y si todo va bien, como tú consideras y como tú esperas,",
+      "start": 225.42,
+      "end": 228.3
+    },
+    {
+      "text": " la gente que...",
+      "start": 228.64,
+      "end": 229.14
+    },
+    {
+      "text": " Al final vas a conseguir un mundo de mierdas.",
+      "start": 229.14,
+      "end": 231.14
+    },
+    {
+      "text": " De hijos de puta como yo tacaños, ¿sabes?",
+      "start": 231.62,
+      "end": 233.94
+    },
+    {
+      "text": " Y no, no, no, no, no, no, no, no, no, no, no, no.",
+      "start": 233.94,
+      "end": 236.16
+    },
+    {
+      "text": " Pon unos anuncios de...",
+      "start": 236.16,
+      "end": 237.74
+    },
+    {
+      "text": " ¡Ey, bebe y conduce, sé feliz, tío, ¿sabes?",
+      "start": 237.74,
+      "end": 240.22
+    },
+    {
+      "text": " Mezcla ansiolíticos con antidepresivos, ¿sabes?",
+      "start": 241.15999999999997,
+      "end": 243.34
+    },
+    {
+      "text": " Vive la vida a tope, ¿sabes?",
+      "start": 243.96,
+      "end": 245.54
+    }
+  ],
+  "processing_time": 1.975388526916504,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

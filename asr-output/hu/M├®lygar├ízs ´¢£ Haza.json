@@ -1,0 +1,59 @@
+{
+  "audio_file": "Mélygarázs ｜ Haza.wav",
+  "full_text": "Köszönöm! Most komoly! Na, és hogy sikerült a péntekestétek dorkáik? Ott voltak? Szabó Kincső? Jaj, de tudod milyen a Petra? Elnézést, én Szabó Kincső névre jöttem, egy nevet mondjon nekem legyen szíves! Nekem nem mondja, múltkor a kisfia Pannik, összes popsiklémét kinyomtad, ne tudd mert tajtékoztam! Miért nem indul? Hova? Hogy, hogy hova? Haza. Hogy? István. Mi? Hát de ők meg két éve elváltak. Figyelj, annyira gáz volt az a zsúr. Hát én abban a játszóházban többet biztos, hogy nem megyek. Hát tudod, hogy mit raktak abban a tortában? Pfff. Édesem, intim torna. Tudod? Zseléset? Hát mindenképp. Hülye vagy? Sok is tökre kiüti a bőrömet. Mucikám, azért, mert a Kriszti minden vacskot az arcára ken, és akkor csodálkozik, hogy kijön az aftája. Tartsd egy kicsit. Elnézést, hova hozott? Hogy, hogy hova? Haza. Itt lakom szembe. Pénzt majd tessék az üléssel hagyni. Csokkolom! NAMASTE",
+  "chunks": [
+    {
+      "text": " Köszönöm!",
+      "start": 8.059999999999999,
+      "end": 8.7
+    },
+    {
+      "text": " Most komoly!",
+      "start": 8.7,
+      "end": 9.38
+    },
+    {
+      "text": " Na, és hogy sikerült a péntekestétek dorkáik? Ott voltak?",
+      "start": 12.16,
+      "end": 16.48
+    },
+    {
+      "text": " Szabó Kincső?",
+      "start": 16.5,
+      "end": 17.4
+    },
+    {
+      "text": " Jaj, de tudod milyen a Petra?",
+      "start": 17.6,
+      "end": 19.9
+    },
+    {
+      "text": " Elnézést, én Szabó Kincső névre jöttem, egy nevet mondjon nekem legyen szíves!",
+      "start": 20.24,
+      "end": 23.9
+    },
+    {
+      "text": " Nekem nem mondja, múltkor a kisfia Pannik, összes popsiklémét kinyomtad, ne tudd mert tajtékoztam!",
+      "start": 24.04,
+      "end": 29.0
+    },
+    {
+      "text": " Miért nem indul? Hova? Hogy, hogy hova? Haza. Hogy? István. Mi? Hát de ők meg két éve elváltak. Figyelj, annyira gáz volt az a zsúr. Hát én abban a játszóházban többet biztos, hogy nem megyek. Hát tudod, hogy mit raktak abban a tortában? Pfff. Édesem, intim torna. Tudod? Zseléset? Hát mindenképp.",
+      "start": 30.0,
+      "end": 59.7
+    },
+    {
+      "text": " Hülye vagy? Sok is tökre kiüti a bőrömet. Mucikám, azért, mert a Kriszti minden vacskot az arcára ken, és akkor csodálkozik, hogy kijön az aftája. Tartsd egy kicsit. Elnézést, hova hozott? Hogy, hogy hova? Haza. Itt lakom szembe. Pénzt majd tessék az üléssel hagyni. Csokkolom!",
+      "start": 60.46000000000001,
+      "end": 80.92
+    },
+    {
+      "text": " NAMASTE",
+      "start": 90.0,
+      "end": 91.34
+    }
+  ],
+  "processing_time": 1.8635141849517822,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,19 @@
+{
+  "audio_file": "Megröccent ｜ Mélynyomó.wav",
+  "full_text": "Köszönöm szépen! Köszönöm szépen!",
+  "chunks": [
+    {
+      "text": " Köszönöm szépen!",
+      "start": 27.84,
+      "end": 28.96
+    },
+    {
+      "text": " Köszönöm szépen!",
+      "start": 41.64,
+      "end": 41.88
+    }
+  ],
+  "processing_time": 0.1676499843597412,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

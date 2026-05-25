@@ -1,0 +1,904 @@
+{
+  "audio_file": "z3njZ4L7xZY.wav",
+  "full_text": "I love everything you write. How come you didn't tell me who your brother was? Must have slipped my mind. Hey, snuggle pants. Oh, man, what a day. I had this interview with Ewing, you know, and he's late. It's three hours late and I had to wait for him. Oh, I am tired, sweetness. Oh, yeah. Oh. Oh, baby, does that feel good? Oh, God. Hmm. Give me that. What are you doing? Trying to help you relax. Oh, God. Now the dreams are gonna start again. Don't be silly. I take it this means you're not mad at me anymore. I can't stay mad at you. Have you been to Robbie's new place? No, he wants a week there to get settled. Well, when you do go, take a picture for me. I don't think I'll ever get invited. Oh. Ma, you should be happy for him. He feels good. He feels independent. Come on, guys. Ooh. Hi, Grandma. Hi, Grandma. Hey, guys. Hey, Deb. Guess what? Look who forgave me. Oh, good. There was such a hole in our lives. The only good thing about Robbie leaving me is that I get to spend more time with all of you. Oh, that's the dryer. Oh, Deborah, I noticed some new underwear in there for you. A little more revealing than usual. Mm-hmm. Get Robert back. Otherwise, it's just us and her. Are you starting to get a bad feeling here? I'm just starting to get feeling back. Coming. Hi. Oh, I must have the wrong address. I'm looking for Robert Barone. Yes. Robbie rented the room above our garage last week. Above the garage? Yes. Oh, I'm his, uh, brother Ray. Oh, Raymond. Yes. Come right in. I'm Rita Stipe. I was just about ready to call Robert down. Robbie! Dinner! Bobby! He's such a nice boy. Hey. Harry! Get down here! I'm not heating this stuff up for you. Are you hungry, dear? No. No. My wife's making me. You sit yourself right down there. We got sour cream for the potato or what? It's right in front of you. Is that the kind I like? No, I buy the kind you don't like. Who's this guy? Oh, this is Robbie's brother. Yeah, hi. We got the bake-o bits? Oh, are you blind? If this was a snake, it would have bit you. If it was a snake, I'd eat it instead of a parro. Hey, Raven, what are you doing here? I just came by. I wanted to see the place. Well, I guess you should be the first to see it, since you're the reason I'm here, huh? I'll tell you what. I'll show you around right after I eat what smells like the best dinner ever. Sit, sit, sit, sit, sit. It's all your favorite meats. Sit, sit, sit, sit, sit. So, uh, Rob, how's it going? Good. It's kind of weird being on my own, though. On your own, yeah. So, uh, does this place remind you of anywhere? Isn't it great to have a brother who's a police officer, Raymond? I know I feel much safer knowing he's around. Well, it's nice to be appreciated. Or noticed. Raymond? Barone? Not news days, right, Barone? Yeah, yeah, that's me. Holy crud! We got a celebrity in our midst. Harry Stein. Yeah, hi. How exciting a writer! Yeah, I love everything you write. How come you didn't tell me who your brother was? Must have slipped my mind. So, what's it like to write for Newsday? It's okay, I guess. Yeah. A big-time writer. And he's humble. Robert, leave some for Raymond. Well, here we are. Hey. Look at us. Yeah, I got a little more work to do on the place, but hey, at least I made the move, right? Yeah. Yeah. Shamsky loves it. Just look at him. Yeah, he's never looked happier. Boys, I'm going to the store for ice cream. Do you want some? Thank you, Mrs. S. She's one of a kind, huh? Yeah. No one else like her. Listen. Robert, I don't think... What the hell's that? Garage door opening. Scared you, huh? Yeah, I got to tell you, the first time it went off, Shamsky ruined my sheets. Hey, Robert, I think... I think... Don't pass now! I think you ought to get the hell out of here. Nah, I'm used to it. I don't even hear it anymore. Not that! Look, Robert, this place is no different than home. What are you talking about? It's totally different. I'm above a garage. I have a bathroom here. I'm allowed to bring snacks. Fiddle paddle? Those people, the snipes. You put more makeup on one and 30 pounds on the other, that's Mom and Dad. Come on, Raymond. They're nothing like Mom and Dad. They're Jewish. What does Amy think of this place? Well, Mrs. S doesn't like me having visitors with a female persuasion. You know, she kind of looks out for me a little too much, you know. And Mr. S, he doesn't like a lot of talking, except when they're fighting, and then they go on and on and on and then, oh, my God. Maybe this isn't the radical change I had planned. No, there's a change. You get to pay rent now.",
+  "chunks": [
+    {
+      "text": " I love everything you write. How come you didn't tell me who your brother was?",
+      "start": 0.0,
+      "end": 3.76
+    },
+    {
+      "text": " Must have slipped my mind.",
+      "start": 8.66,
+      "end": 10.6
+    },
+    {
+      "text": " Hey, snuggle pants.",
+      "start": 13.379999999999997,
+      "end": 15.56
+    },
+    {
+      "text": " Oh, man, what a day.",
+      "start": 18.14,
+      "end": 20.88
+    },
+    {
+      "text": " I had this interview with Ewing, you know, and he's late.",
+      "start": 22.7,
+      "end": 25.6
+    },
+    {
+      "text": " It's three hours late and I had to wait for him.",
+      "start": 25.94,
+      "end": 28.18
+    },
+    {
+      "text": " Oh, I am tired, sweetness.",
+      "start": 28.86,
+      "end": 30.56
+    },
+    {
+      "text": " Oh, yeah. Oh.",
+      "start": 33.1,
+      "end": 34.68
+    },
+    {
+      "text": " Oh, baby, does that feel good?",
+      "start": 35.94,
+      "end": 37.82
+    },
+    {
+      "text": " Oh, God.",
+      "start": 40.02,
+      "end": 41.16
+    },
+    {
+      "text": " Hmm. Give me that.",
+      "start": 42.12,
+      "end": 43.64
+    },
+    {
+      "text": " What are you doing?",
+      "start": 51.06,
+      "end": 52.16
+    },
+    {
+      "text": " Trying to help you relax.",
+      "start": 52.92,
+      "end": 54.52
+    },
+    {
+      "text": " Oh, God. Now the dreams are gonna start again.",
+      "start": 60.08,
+      "end": 63.02
+    },
+    {
+      "text": " Don't be silly.",
+      "start": 66.58,
+      "end": 67.86
+    },
+    {
+      "text": " I take it this means you're not mad at me anymore.",
+      "start": 68.68,
+      "end": 71.52
+    },
+    {
+      "text": " I can't stay mad at you.",
+      "start": 71.86,
+      "end": 73.6
+    },
+    {
+      "text": " Have you been to Robbie's new place?",
+      "start": 76.36,
+      "end": 78.1
+    },
+    {
+      "text": " No, he wants a week there to get settled.",
+      "start": 78.76,
+      "end": 80.72
+    },
+    {
+      "text": " Well, when you do go, take a picture for me.",
+      "start": 81.67999999999999,
+      "end": 84.64
+    },
+    {
+      "text": " I don't think I'll ever get invited.",
+      "start": 84.86,
+      "end": 86.56
+    },
+    {
+      "text": " Oh.",
+      "start": 86.98,
+      "end": 87.24
+    },
+    {
+      "text": " Ma, you should be happy for him.",
+      "start": 87.78,
+      "end": 89.4
+    },
+    {
+      "text": " He feels good. He feels independent.",
+      "start": 89.68,
+      "end": 91.38
+    },
+    {
+      "text": " Come on, guys.",
+      "start": 92.22,
+      "end": 92.96
+    },
+    {
+      "text": " Ooh.",
+      "start": 93.74,
+      "end": 94.1
+    },
+    {
+      "text": " Hi, Grandma.",
+      "start": 94.32,
+      "end": 95.14
+    },
+    {
+      "text": " Hi, Grandma.",
+      "start": 95.32,
+      "end": 96.02
+    },
+    {
+      "text": " Hey, guys.",
+      "start": 96.02,
+      "end": 97.42
+    },
+    {
+      "text": " Hey, Deb.",
+      "start": 97.78,
+      "end": 99.44
+    },
+    {
+      "text": " Guess what?",
+      "start": 99.66,
+      "end": 100.38
+    },
+    {
+      "text": " Look who forgave me.",
+      "start": 100.6,
+      "end": 101.58
+    },
+    {
+      "text": " Oh, good.",
+      "start": 102.62,
+      "end": 103.78
+    },
+    {
+      "text": " There was such a hole in our lives.",
+      "start": 104.58,
+      "end": 107.36
+    },
+    {
+      "text": " The only good thing about Robbie leaving me",
+      "start": 110.16,
+      "end": 112.98
+    },
+    {
+      "text": " is that I get to spend more time with all of you.",
+      "start": 112.98,
+      "end": 115.56
+    },
+    {
+      "text": " Oh, that's the dryer.",
+      "start": 122.44,
+      "end": 123.7
+    },
+    {
+      "text": " Oh, Deborah, I noticed some new underwear in there for you.",
+      "start": 124.2,
+      "end": 127.24
+    },
+    {
+      "text": " A little more revealing than usual.",
+      "start": 127.62,
+      "end": 129.42
+    },
+    {
+      "text": " Mm-hmm.",
+      "start": 130.34,
+      "end": 130.72
+    },
+    {
+      "text": " Get Robert back.",
+      "start": 133.84000000000003,
+      "end": 135.3
+    },
+    {
+      "text": " Otherwise, it's just us and her.",
+      "start": 137.7,
+      "end": 139.54
+    },
+    {
+      "text": " Are you starting to get a bad feeling here?",
+      "start": 141.12,
+      "end": 143.48
+    },
+    {
+      "text": " I'm just starting to get feeling back.",
+      "start": 145.34,
+      "end": 147.1
+    },
+    {
+      "text": " Coming.",
+      "start": 158.02,
+      "end": 158.58
+    },
+    {
+      "text": " Hi.",
+      "start": 162.06,
+      "end": 162.62
+    },
+    {
+      "text": " Oh, I must have the wrong address.",
+      "start": 162.88,
+      "end": 164.84
+    },
+    {
+      "text": " I'm looking for Robert Barone.",
+      "start": 165.14,
+      "end": 166.5
+    },
+    {
+      "text": " Yes.",
+      "start": 166.5,
+      "end": 167.22
+    },
+    {
+      "text": " Robbie rented the room above our garage last week.",
+      "start": 167.68,
+      "end": 170.52
+    },
+    {
+      "text": " Above the garage?",
+      "start": 170.76,
+      "end": 171.44
+    },
+    {
+      "text": " Yes.",
+      "start": 171.7,
+      "end": 172.0
+    },
+    {
+      "text": " Oh, I'm his, uh, brother Ray.",
+      "start": 172.96,
+      "end": 175.3
+    },
+    {
+      "text": " Oh, Raymond.",
+      "start": 175.62,
+      "end": 176.62
+    },
+    {
+      "text": " Yes.",
+      "start": 176.94,
+      "end": 177.08
+    },
+    {
+      "text": " Come right in.",
+      "start": 177.18,
+      "end": 178.16
+    },
+    {
+      "text": " I'm Rita Stipe.",
+      "start": 178.42,
+      "end": 179.88
+    },
+    {
+      "text": " I was just about ready to call Robert down.",
+      "start": 180.22,
+      "end": 182.5
+    },
+    {
+      "text": " Robbie!",
+      "start": 183.46,
+      "end": 184.06
+    },
+    {
+      "text": " Dinner!",
+      "start": 186.46,
+      "end": 187.06
+    },
+    {
+      "text": " Bobby!",
+      "start": 189.12,
+      "end": 189.72
+    },
+    {
+      "text": " He's such a nice boy.",
+      "start": 190.57999999999998,
+      "end": 192.3
+    },
+    {
+      "text": " Hey.",
+      "start": 192.84,
+      "end": 193.06
+    },
+    {
+      "text": " Harry!",
+      "start": 193.36,
+      "end": 193.88
+    },
+    {
+      "text": " Get down here!",
+      "start": 194.34,
+      "end": 195.4
+    },
+    {
+      "text": " I'm not heating this stuff up for you.",
+      "start": 195.84,
+      "end": 198.04
+    },
+    {
+      "text": " Are you hungry, dear?",
+      "start": 198.64,
+      "end": 199.94
+    },
+    {
+      "text": " No.",
+      "start": 200.44,
+      "end": 200.92
+    },
+    {
+      "text": " No.",
+      "start": 201.12,
+      "end": 201.34
+    },
+    {
+      "text": " My wife's making me.",
+      "start": 201.48,
+      "end": 202.16
+    },
+    {
+      "text": " You sit yourself right down there.",
+      "start": 202.16,
+      "end": 203.72
+    },
+    {
+      "text": " We got sour cream for the potato or what?",
+      "start": 212.86,
+      "end": 215.14
+    },
+    {
+      "text": " It's right in front of you.",
+      "start": 218.02,
+      "end": 219.62
+    },
+    {
+      "text": " Is that the kind I like?",
+      "start": 220.12,
+      "end": 221.34
+    },
+    {
+      "text": " No, I buy the kind you don't like.",
+      "start": 221.52,
+      "end": 223.4
+    },
+    {
+      "text": " Who's this guy?",
+      "start": 225.48,
+      "end": 226.24
+    },
+    {
+      "text": " Oh, this is Robbie's brother.",
+      "start": 226.58,
+      "end": 227.9
+    },
+    {
+      "text": " Yeah, hi.",
+      "start": 228.16,
+      "end": 228.48
+    },
+    {
+      "text": " We got the bake-o bits?",
+      "start": 228.82,
+      "end": 229.92
+    },
+    {
+      "text": " Oh, are you blind?",
+      "start": 230.08,
+      "end": 231.14
+    },
+    {
+      "text": " If this was a snake, it would have bit you.",
+      "start": 232.28,
+      "end": 234.08
+    },
+    {
+      "text": " If it was a snake, I'd eat it instead of a parro.",
+      "start": 234.22,
+      "end": 236.44
+    },
+    {
+      "text": " Hey, Raven, what are you doing here?",
+      "start": 241.16,
+      "end": 243.38
+    },
+    {
+      "text": " I just came by.",
+      "start": 243.56,
+      "end": 244.5
+    },
+    {
+      "text": " I wanted to see the place.",
+      "start": 244.6,
+      "end": 245.46
+    },
+    {
+      "text": " Well, I guess you should be the first to see it,",
+      "start": 246.1,
+      "end": 248.14
+    },
+    {
+      "text": " since you're the reason I'm here, huh?",
+      "start": 248.2,
+      "end": 249.86
+    },
+    {
+      "text": " I'll tell you what.",
+      "start": 250.82,
+      "end": 251.58
+    },
+    {
+      "text": " I'll show you around right after I eat",
+      "start": 251.62,
+      "end": 253.44
+    },
+    {
+      "text": " what smells like the best dinner ever.",
+      "start": 253.44,
+      "end": 256.06
+    },
+    {
+      "text": " Sit, sit, sit, sit, sit.",
+      "start": 257.82000000000005,
+      "end": 259.46
+    },
+    {
+      "text": " It's all your favorite meats.",
+      "start": 260.68,
+      "end": 262.22
+    },
+    {
+      "text": " Sit, sit, sit, sit, sit.",
+      "start": 266.08,
+      "end": 266.58
+    },
+    {
+      "text": " So, uh, Rob, how's it going?",
+      "start": 266.58,
+      "end": 271.56
+    },
+    {
+      "text": " Good.",
+      "start": 272.04,
+      "end": 272.38
+    },
+    {
+      "text": " It's kind of weird being on my own, though.",
+      "start": 273.04,
+      "end": 274.82
+    },
+    {
+      "text": " On your own, yeah.",
+      "start": 283.16,
+      "end": 284.22
+    },
+    {
+      "text": " So, uh, does this place remind you of anywhere?",
+      "start": 284.68,
+      "end": 288.16
+    },
+    {
+      "text": " Isn't it great to have a brother",
+      "start": 291.36,
+      "end": 293.16
+    },
+    {
+      "text": " who's a police officer, Raymond?",
+      "start": 293.16,
+      "end": 294.7
+    },
+    {
+      "text": " I know I feel much safer knowing he's around.",
+      "start": 295.16,
+      "end": 298.0
+    },
+    {
+      "text": " Well, it's nice to be appreciated.",
+      "start": 298.46,
+      "end": 300.3
+    },
+    {
+      "text": " Or noticed.",
+      "start": 300.82,
+      "end": 301.78
+    },
+    {
+      "text": " Raymond?",
+      "start": 303.98,
+      "end": 304.58
+    },
+    {
+      "text": " Barone?",
+      "start": 305.42,
+      "end": 306.02
+    },
+    {
+      "text": " Not news days, right, Barone?",
+      "start": 307.0,
+      "end": 308.86
+    },
+    {
+      "text": " Yeah, yeah, that's me.",
+      "start": 309.36,
+      "end": 310.4
+    },
+    {
+      "text": " Holy crud!",
+      "start": 310.8,
+      "end": 312.36
+    },
+    {
+      "text": " We got a celebrity in our midst.",
+      "start": 313.08000000000004,
+      "end": 315.2
+    },
+    {
+      "text": " Harry Stein.",
+      "start": 315.5,
+      "end": 316.24
+    },
+    {
+      "text": " Yeah, hi.",
+      "start": 316.24,
+      "end": 317.14
+    },
+    {
+      "text": " How exciting a writer!",
+      "start": 317.38,
+      "end": 319.52
+    },
+    {
+      "text": " Yeah, I love everything you write.",
+      "start": 319.68,
+      "end": 321.08
+    },
+    {
+      "text": " How come you didn't tell me who your brother was?",
+      "start": 321.32,
+      "end": 323.48
+    },
+    {
+      "text": " Must have slipped my mind.",
+      "start": 328.32,
+      "end": 330.32
+    },
+    {
+      "text": " So, what's it like to write for Newsday?",
+      "start": 332.0,
+      "end": 334.64
+    },
+    {
+      "text": " It's okay, I guess.",
+      "start": 334.86,
+      "end": 336.02
+    },
+    {
+      "text": " Yeah.",
+      "start": 336.36,
+      "end": 336.58
+    },
+    {
+      "text": " A big-time writer.",
+      "start": 336.9,
+      "end": 338.66
+    },
+    {
+      "text": " And he's humble.",
+      "start": 339.7,
+      "end": 341.1
+    },
+    {
+      "text": " Robert, leave some for Raymond.",
+      "start": 342.04,
+      "end": 343.64
+    },
+    {
+      "text": " Well, here we are.",
+      "start": 349.14,
+      "end": 350.96
+    },
+    {
+      "text": " Hey.",
+      "start": 353.16,
+      "end": 353.6
+    },
+    {
+      "text": " Look at us.",
+      "start": 354.44,
+      "end": 355.32
+    },
+    {
+      "text": " Yeah, I got a little more work to do on the place,",
+      "start": 356.32,
+      "end": 358.22
+    },
+    {
+      "text": " but hey, at least I made the move, right?",
+      "start": 358.34,
+      "end": 360.2
+    },
+    {
+      "text": " Yeah.",
+      "start": 360.52,
+      "end": 360.74
+    },
+    {
+      "text": " Yeah.",
+      "start": 360.96,
+      "end": 361.12
+    },
+    {
+      "text": " Shamsky loves it.",
+      "start": 361.76,
+      "end": 362.62
+    },
+    {
+      "text": " Just look at him.",
+      "start": 362.7,
+      "end": 363.2
+    },
+    {
+      "text": " Yeah, he's never looked happier.",
+      "start": 365.56,
+      "end": 367.16
+    },
+    {
+      "text": " Boys, I'm going to the store for ice cream.",
+      "start": 370.0,
+      "end": 372.62
+    },
+    {
+      "text": " Do you want some?",
+      "start": 372.62,
+      "end": 373.86
+    },
+    {
+      "text": " Thank you, Mrs. S.",
+      "start": 376.06,
+      "end": 377.62
+    },
+    {
+      "text": " She's one of a kind, huh?",
+      "start": 378.36,
+      "end": 379.74
+    },
+    {
+      "text": " Yeah.",
+      "start": 382.4,
+      "end": 382.96
+    },
+    {
+      "text": " No one else like her.",
+      "start": 383.38,
+      "end": 384.48
+    },
+    {
+      "text": " Listen.",
+      "start": 386.84,
+      "end": 387.4
+    },
+    {
+      "text": " Robert, I don't think...",
+      "start": 388.86,
+      "end": 390.58
+    },
+    {
+      "text": " What the hell's that?",
+      "start": 393.48,
+      "end": 395.02
+    },
+    {
+      "text": " Garage door opening.",
+      "start": 395.6,
+      "end": 397.06
+    },
+    {
+      "text": " Scared you, huh?",
+      "start": 401.84,
+      "end": 402.66
+    },
+    {
+      "text": " Yeah, I got to tell you,",
+      "start": 403.44,
+      "end": 404.26
+    },
+    {
+      "text": " the first time it went off,",
+      "start": 404.3,
+      "end": 405.34
+    },
+    {
+      "text": " Shamsky ruined my sheets.",
+      "start": 405.48,
+      "end": 406.66
+    },
+    {
+      "text": " Hey, Robert, I think...",
+      "start": 408.94,
+      "end": 410.38
+    },
+    {
+      "text": " I think...",
+      "start": 410.38,
+      "end": 411.79999999999995
+    },
+    {
+      "text": " Don't pass now!",
+      "start": 413.76,
+      "end": 414.96
+    },
+    {
+      "text": " I think you ought to get the hell out of here.",
+      "start": 424.78,
+      "end": 427.26
+    },
+    {
+      "text": " Nah, I'm used to it.",
+      "start": 429.02,
+      "end": 430.32
+    },
+    {
+      "text": " I don't even hear it anymore.",
+      "start": 430.36,
+      "end": 431.5
+    },
+    {
+      "text": " Not that!",
+      "start": 432.26,
+      "end": 433.1
+    },
+    {
+      "text": " Look, Robert,",
+      "start": 433.44,
+      "end": 434.1
+    },
+    {
+      "text": " this place is no different than home.",
+      "start": 434.52,
+      "end": 436.72
+    },
+    {
+      "text": " What are you talking about?",
+      "start": 437.38,
+      "end": 438.82
+    },
+    {
+      "text": " It's totally different.",
+      "start": 439.32,
+      "end": 440.62
+    },
+    {
+      "text": " I'm above a garage.",
+      "start": 441.5,
+      "end": 443.1
+    },
+    {
+      "text": " I have a bathroom here.",
+      "start": 444.02,
+      "end": 446.4
+    },
+    {
+      "text": " I'm allowed to bring snacks.",
+      "start": 447.0,
+      "end": 448.62
+    },
+    {
+      "text": " Fiddle paddle?",
+      "start": 450.1,
+      "end": 450.88
+    },
+    {
+      "text": " Those people, the snipes.",
+      "start": 452.14,
+      "end": 453.46
+    },
+    {
+      "text": " You put more makeup on one",
+      "start": 453.66,
+      "end": 455.36
+    },
+    {
+      "text": " and 30 pounds on the other,",
+      "start": 455.36,
+      "end": 456.66
+    },
+    {
+      "text": " that's Mom and Dad.",
+      "start": 456.84,
+      "end": 457.92
+    },
+    {
+      "text": " Come on, Raymond.",
+      "start": 460.06,
+      "end": 461.42
+    },
+    {
+      "text": " They're nothing like Mom and Dad.",
+      "start": 461.54,
+      "end": 463.04
+    },
+    {
+      "text": " They're Jewish.",
+      "start": 463.84,
+      "end": 464.66
+    },
+    {
+      "text": " What does Amy think of this place?",
+      "start": 472.2,
+      "end": 473.62
+    },
+    {
+      "text": " Well, Mrs. S doesn't like me",
+      "start": 474.22,
+      "end": 475.76
+    },
+    {
+      "text": " having visitors with a female persuasion.",
+      "start": 475.76,
+      "end": 477.94
+    },
+    {
+      "text": " You know, she kind of looks out for me",
+      "start": 478.12,
+      "end": 479.72
+    },
+    {
+      "text": " a little too much, you know.",
+      "start": 479.72,
+      "end": 480.84
+    },
+    {
+      "text": " And Mr. S, he doesn't like a lot of talking,",
+      "start": 480.94,
+      "end": 483.26
+    },
+    {
+      "text": " except when they're fighting,",
+      "start": 483.28,
+      "end": 484.64
+    },
+    {
+      "text": " and then they go on and on and on",
+      "start": 484.68,
+      "end": 488.84
+    },
+    {
+      "text": " and then, oh, my God.",
+      "start": 488.84,
+      "end": 490.74
+    },
+    {
+      "text": " Maybe this isn't the radical change I had planned.",
+      "start": 495.26,
+      "end": 498.7
+    },
+    {
+      "text": " No, there's a change.",
+      "start": 502.14,
+      "end": 503.88
+    },
+    {
+      "text": " You get to pay rent now.",
+      "start": 504.0,
+      "end": 505.04
+    }
+  ],
+  "processing_time": 2.1066224575042725,
+  "language": "en",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,89 @@
+{
+  "audio_file": "Mélyvíz 2. ｜ Lebukás.wav",
+  "full_text": "A SZÖKE HÖLGYE Na, sikerült választani? Igen, én egy erőlevest és egy rák salátát kérek. Igen, az úrnak? Szintén egy erőleves és egy hagymás rostélyos. Igen. Italt. Hozhatom ugyanazt a bort, mint a múlt héten. Mi volt a múlt héten? Az úr tudja. Nem, nem tudom. Dehogy nem, a szőkehölgye! Dehát ugye a múlt az már a múlt. Én hallgatok, mint a sír. Milyen hölgyel? Diszkréció! Milyen hölgyel? Valakivel összekever, most vagyok itt először. Most komolyan az eljegyzésünkön kell meg tudnom. Fogalmam sincs, hogy miről beszél. Te ne hazz útjál! Megyek, tisztázom! Barátja? Igen. Ha! És pont magát nem hozzál, édesúha! Hm. Na, nem kell pánikba esni, majd otthon meg tetszenek beszélni, jó? A legtöbb, amit most tehet, hogyha a fickó füzet, akkor... a feldrágában rendelni. Finom spumante? Jöhet. Kettő. A fickó? Téged keres a konyhán. És a csaj? Két üveg tokai, összesen kilenc putony, négy adag kaviár és három üveg spumante. Óriás kasza! Na, megyek, mert az ötöshöz most tudt le egy pár. Jó. Jó. Új barátnő? Jó. Köszönöm!",
+  "chunks": [
+    {
+      "text": " A SZÖKE HÖLGYE",
+      "start": 4.819999999999998,
+      "end": 5.22
+    },
+    {
+      "text": " Na, sikerült választani?",
+      "start": 5.22,
+      "end": 6.68
+    },
+    {
+      "text": " Igen, én egy erőlevest és egy rák salátát kérek.",
+      "start": 6.78,
+      "end": 9.48
+    },
+    {
+      "text": " Igen, az úrnak?",
+      "start": 9.6,
+      "end": 10.7
+    },
+    {
+      "text": " Szintén egy erőleves és egy hagymás rostélyos.",
+      "start": 10.88,
+      "end": 13.3
+    },
+    {
+      "text": " Igen. Italt.",
+      "start": 13.56,
+      "end": 14.74
+    },
+    {
+      "text": " Hozhatom ugyanazt a bort, mint a múlt héten.",
+      "start": 15.16,
+      "end": 17.04
+    },
+    {
+      "text": " Mi volt a múlt héten?",
+      "start": 19.26,
+      "end": 20.8
+    },
+    {
+      "text": " Az úr tudja.",
+      "start": 20.9,
+      "end": 21.72
+    },
+    {
+      "text": " Nem, nem tudom.",
+      "start": 21.86,
+      "end": 22.68
+    },
+    {
+      "text": " Dehogy nem, a szőkehölgye!",
+      "start": 22.86,
+      "end": 24.38
+    },
+    {
+      "text": " Dehát ugye a múlt az már a múlt.",
+      "start": 24.46,
+      "end": 26.2
+    },
+    {
+      "text": " Én hallgatok, mint a sír.",
+      "start": 27.499999999999996,
+      "end": 29.12
+    },
+    {
+      "text": " Milyen hölgyel? Diszkréció! Milyen hölgyel? Valakivel összekever, most vagyok itt először. Most komolyan az eljegyzésünkön kell meg tudnom. Fogalmam sincs, hogy miről beszél. Te ne hazz útjál! Megyek, tisztázom! Barátja? Igen. Ha! És pont magát nem hozzál, édesúha! Hm. Na, nem kell pánikba esni, majd otthon meg tetszenek beszélni, jó? A legtöbb, amit most tehet, hogyha a fickó füzet, akkor...",
+      "start": 29.12,
+      "end": 58.22
+    },
+    {
+      "text": " a feldrágában rendelni. Finom spumante? Jöhet. Kettő. A fickó? Téged keres a konyhán. És a csaj? Két üveg tokai, összesen kilenc putony, négy adag kaviár és három üveg spumante. Óriás kasza! Na, megyek, mert az ötöshöz most tudt le egy pár. Jó. Jó. Új barátnő? Jó.",
+      "start": 59.12,
+      "end": 86.9
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 89.12,
+      "end": 89.88
+    }
+  ],
+  "processing_time": 2.0547549724578857,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

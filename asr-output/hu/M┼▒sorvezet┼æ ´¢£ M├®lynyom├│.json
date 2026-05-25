@@ -1,0 +1,124 @@
+{
+  "audio_file": "Műsorvezető ｜ Mélynyomó.wav",
+  "full_text": "A TELTA HEAVYSÁRÁS VALLASIÉN! Figyelj! 16 csatornás, de úgy szara, hogy van! Sziasztok, hello! Bocsa, várhatok egy perszre! Persze, mondjad csak! Na figyelj, az van, hogy minyájén konferálom a Delta Heavy-t és hogy nem tudtok róluk valamit? Menj be, kérdezz meg tőlük! Hát, ez van ciki! Akkor Wikipedia! Figyelj, te ezért pénzt kapsz? Na, pjegyet! Felhígult ez a szakma is! Nem egy déli János. De most neki az a Delta Heavy, nem tokrók valamit? Mondjad te. 12 csatornát használnak, abból 3 D-box, a 4. és a 7. számot nyílt G hangolással játszol a gitáros, az utolsó számig 70%-os a féder a kék lámpákon, és a dobos sokat kér vissza magából a kontrollba. Nagyjából ennyi. Jó, és a frontemberről valami hasznosat, hogy fiú vagy lány vagy... Hát azt momentán én se tudom, de az biztos, hogy fantomtápos a mikrofonja, 3200 kelvines a fejlámpája, és fülbekéri a monitort. Aha. Fú, köszi. Na jó, hát azért meg lehet, hogy megkérdezek, ha akit köszi. Amatőr. Köszi.",
+  "chunks": [
+    {
+      "text": " A TELTA HEAVYSÁRÁS VALLASIÉN!",
+      "start": 0.0,
+      "end": 2.38
+    },
+    {
+      "text": " Figyelj! 16 csatornás, de úgy szara, hogy van!",
+      "start": 4.72,
+      "end": 7.48
+    },
+    {
+      "text": " Sziasztok, hello! Bocsa, várhatok egy perszre!",
+      "start": 8.08,
+      "end": 10.6
+    },
+    {
+      "text": " Persze, mondjad csak!",
+      "start": 10.62,
+      "end": 11.54
+    },
+    {
+      "text": " Na figyelj, az van, hogy minyájén konferálom a Delta Heavy-t és hogy nem tudtok róluk valamit?",
+      "start": 11.76,
+      "end": 18.34
+    },
+    {
+      "text": " Menj be, kérdezz meg tőlük!",
+      "start": 18.48,
+      "end": 19.94
+    },
+    {
+      "text": " Hát, ez van ciki!",
+      "start": 20.08,
+      "end": 21.48
+    },
+    {
+      "text": " Akkor Wikipedia!",
+      "start": 21.94,
+      "end": 22.72
+    },
+    {
+      "text": " Figyelj, te ezért pénzt kapsz?",
+      "start": 24.32,
+      "end": 26.04
+    },
+    {
+      "text": " Na, pjegyet!",
+      "start": 26.56,
+      "end": 27.68
+    },
+    {
+      "text": " Felhígult ez a szakma is!",
+      "start": 28.52,
+      "end": 29.86
+    },
+    {
+      "text": " Nem egy déli János.",
+      "start": 30.0,
+      "end": 31.22
+    },
+    {
+      "text": " De most neki az a Delta Heavy, nem tokrók valamit?",
+      "start": 31.48,
+      "end": 34.3
+    },
+    {
+      "text": " Mondjad te.",
+      "start": 35.34,
+      "end": 36.02
+    },
+    {
+      "text": " 12 csatornát használnak, abból 3 D-box, a 4. és a 7. számot nyílt G hangolással játszol a gitáros,",
+      "start": 37.699999999999996,
+      "end": 44.84
+    },
+    {
+      "text": " az utolsó számig 70%-os a féder a kék lámpákon, és a dobos sokat kér vissza magából a kontrollba.",
+      "start": 44.98,
+      "end": 51.68
+    },
+    {
+      "text": " Nagyjából ennyi.",
+      "start": 54.06,
+      "end": 54.94
+    },
+    {
+      "text": " Jó, és a frontemberről valami hasznosat, hogy fiú vagy lány vagy...",
+      "start": 55.46,
+      "end": 59.92
+    },
+    {
+      "text": " Hát azt momentán én se tudom, de az biztos, hogy fantomtápos a mikrofonja,",
+      "start": 59.92,
+      "end": 63.64
+    },
+    {
+      "text": " 3200 kelvines a fejlámpája, és fülbekéri a monitort.",
+      "start": 64.5,
+      "end": 68.3
+    },
+    {
+      "text": " Aha. Fú, köszi. Na jó, hát azért meg lehet, hogy megkérdezek, ha akit köszi.",
+      "start": 69.16,
+      "end": 73.66
+    },
+    {
+      "text": " Amatőr.",
+      "start": 76.54,
+      "end": 77.04
+    },
+    {
+      "text": " Köszi.",
+      "start": 97.24,
+      "end": 98.64
+    }
+  ],
+  "processing_time": 1.179203987121582,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,44 @@
+{
+  "audio_file": "Mélygarázs ｜ Idegenvezetés.wav",
+  "full_text": "A BASILIKA BASILIKO BASILIKUS Mert hívja? Mert hívja! Kondan a Gud? Mert hívja Mert hívja Mert hívja",
+  "chunks": [
+    {
+      "text": " A BASILIKA BASILIKO BASILIKUS",
+      "start": 8.04,
+      "end": 13.4
+    },
+    {
+      "text": " Mert hívja?",
+      "start": 30.0,
+      "end": 31.64
+    },
+    {
+      "text": " Mert hívja!",
+      "start": 31.88,
+      "end": 32.86
+    },
+    {
+      "text": " Kondan a Gud?",
+      "start": 35.3,
+      "end": 35.84
+    },
+    {
+      "text": " Mert hívja",
+      "start": 37.18,
+      "end": 38.76
+    },
+    {
+      "text": " Mert hívja",
+      "start": 38.76,
+      "end": 41.88
+    },
+    {
+      "text": " Mert hívja",
+      "start": 48.160000000000004,
+      "end": 50.96
+    }
+  ],
+  "processing_time": 1.7182793617248535,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

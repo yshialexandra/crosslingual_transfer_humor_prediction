@@ -1,0 +1,1696 @@
+{
+  "audio_file": "Mocos y Semen ｜ South Park ｜ Comedy Central España.wav",
+  "full_text": " El entrecot, por favor. Soy el yelpero de élite. Tenemos un yelpero. Trátalo de forma especial. Eso está hecho. Eres un yelpero superior Y en comida exiges lo mejor Pues tendrás lo que mereces Si todos te temen De gusta este plato va con mocos y semen. ¡Mocos y semen! ¡Es el yelpero del día! ¡Mocos y semen! ¿Qué habrá en tu galletita? Tus críticas online mucho éxito obtienen. Pues pásalo bien, come mocos y semen. ¡Mocos y semen! Toma pedo en tu ensalada. ¡Mocos y semen! Me enseña casas decoradas. Es especial, es al que todos se atienen, pues. ¿Qué más especial que a mocos y semen? Mocos y semen. ¿Qué tal las heces con lenguado? Mocos y semen. ¿Carne con flujo bien untado? ¿Cuál es la especia que le da el picor? Es pimienta negra, con mocos y semen, cómo no. Aquí tienes, señor. Gracias, David. Buen servicio. Te serviré la comida todos los días. ¿Esto es de azadeja de jalapeño? Sí, la ha hecho mi padre para ti. Me sabe de a pedo sabrosa. Mocos y semen. Criticar sí te pone. Mocos y semen. ¿O sientes retortijones? ¿Un diagnóstico quieres? El doctor ya lo tiene. Parece que tiene el estómago lleno de mocos y semen. Mocos y semen. Pisa en tus patatas. Mocos y semen. Y tomates con cagadas. Te doy crítico pijo, mis parabienes. Que te aprovechen los mocos. Mocos con semen. Mocos y semen. ¡Con semen!",
+  "chunks": [
+    {
+      "text": " El",
+      "timestamp": [
+        0.0,
+        0.36
+      ]
+    },
+    {
+      "text": " entrecot,",
+      "timestamp": [
+        0.36,
+        1.02
+      ]
+    },
+    {
+      "text": " por",
+      "timestamp": [
+        1.02,
+        1.22
+      ]
+    },
+    {
+      "text": " favor.",
+      "timestamp": [
+        1.22,
+        1.68
+      ]
+    },
+    {
+      "text": " Soy",
+      "timestamp": [
+        1.68,
+        2.02
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        2.02,
+        2.22
+      ]
+    },
+    {
+      "text": " yelpero",
+      "timestamp": [
+        2.22,
+        2.64
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        2.64,
+        2.86
+      ]
+    },
+    {
+      "text": " élite.",
+      "timestamp": [
+        2.86,
+        3.4
+      ]
+    },
+    {
+      "text": " Tenemos",
+      "timestamp": [
+        3.72,
+        4.12
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        4.12,
+        4.46
+      ]
+    },
+    {
+      "text": " yelpero.",
+      "timestamp": [
+        4.46,
+        5.12
+      ]
+    },
+    {
+      "text": " Trátalo",
+      "timestamp": [
+        5.12,
+        5.52
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        5.52,
+        5.62
+      ]
+    },
+    {
+      "text": " forma",
+      "timestamp": [
+        5.62,
+        5.84
+      ]
+    },
+    {
+      "text": " especial.",
+      "timestamp": [
+        5.84,
+        6.52
+      ]
+    },
+    {
+      "text": " Eso",
+      "timestamp": [
+        6.8,
+        7.06
+      ]
+    },
+    {
+      "text": " está",
+      "timestamp": [
+        7.06,
+        7.3
+      ]
+    },
+    {
+      "text": " hecho.",
+      "timestamp": [
+        7.3,
+        7.76
+      ]
+    },
+    {
+      "text": " Eres",
+      "timestamp": [
+        10.4,
+        11.2
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        11.2,
+        11.4
+      ]
+    },
+    {
+      "text": " yelpero",
+      "timestamp": [
+        11.4,
+        12.18
+      ]
+    },
+    {
+      "text": " superior",
+      "timestamp": [
+        12.18,
+        13.5
+      ]
+    },
+    {
+      "text": " Y",
+      "timestamp": [
+        14.2,
+        15.54
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        15.54,
+        15.7
+      ]
+    },
+    {
+      "text": " comida",
+      "timestamp": [
+        15.7,
+        16.02
+      ]
+    },
+    {
+      "text": " exiges",
+      "timestamp": [
+        16.02,
+        16.82
+      ]
+    },
+    {
+      "text": " lo",
+      "timestamp": [
+        16.82,
+        17.88
+      ]
+    },
+    {
+      "text": " mejor",
+      "timestamp": [
+        17.88,
+        18.32
+      ]
+    },
+    {
+      "text": " Pues",
+      "timestamp": [
+        18.8,
+        19.82
+      ]
+    },
+    {
+      "text": " tendrás",
+      "timestamp": [
+        19.82,
+        20.4
+      ]
+    },
+    {
+      "text": " lo",
+      "timestamp": [
+        20.4,
+        20.64
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        20.64,
+        20.84
+      ]
+    },
+    {
+      "text": " mereces",
+      "timestamp": [
+        20.84,
+        21.46
+      ]
+    },
+    {
+      "text": " Si",
+      "timestamp": [
+        21.84,
+        22.3
+      ]
+    },
+    {
+      "text": " todos",
+      "timestamp": [
+        22.3,
+        22.66
+      ]
+    },
+    {
+      "text": " te",
+      "timestamp": [
+        22.66,
+        23.1
+      ]
+    },
+    {
+      "text": " temen",
+      "timestamp": [
+        23.1,
+        23.9
+      ]
+    },
+    {
+      "text": " De",
+      "timestamp": [
+        24.94,
+        25.52
+      ]
+    },
+    {
+      "text": " gusta",
+      "timestamp": [
+        25.52,
+        25.86
+      ]
+    },
+    {
+      "text": " este",
+      "timestamp": [
+        25.86,
+        26.12
+      ]
+    },
+    {
+      "text": " plato",
+      "timestamp": [
+        26.12,
+        26.56
+      ]
+    },
+    {
+      "text": " va",
+      "timestamp": [
+        26.56,
+        26.68
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        26.68,
+        26.88
+      ]
+    },
+    {
+      "text": " mocos",
+      "timestamp": [
+        26.88,
+        27.22
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        27.22,
+        27.34
+      ]
+    },
+    {
+      "text": " semen.",
+      "timestamp": [
+        27.34,
+        27.92
+      ]
+    },
+    {
+      "text": " ¡Mocos",
+      "timestamp": [
+        28.26,
+        28.5
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        28.5,
+        28.7
+      ]
+    },
+    {
+      "text": " semen!",
+      "timestamp": [
+        28.7,
+        29.1
+      ]
+    },
+    {
+      "text": " ¡Es",
+      "timestamp": [
+        29.16,
+        29.24
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        29.24,
+        29.46
+      ]
+    },
+    {
+      "text": " yelpero",
+      "timestamp": [
+        29.46,
+        29.86
+      ]
+    },
+    {
+      "text": " del",
+      "timestamp": [
+        29.86,
+        30.12
+      ]
+    },
+    {
+      "text": " día!",
+      "timestamp": [
+        30.12,
+        30.76
+      ]
+    },
+    {
+      "text": " ¡Mocos",
+      "timestamp": [
+        30.84,
+        31.22
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        31.22,
+        31.36
+      ]
+    },
+    {
+      "text": " semen!",
+      "timestamp": [
+        31.36,
+        31.66
+      ]
+    },
+    {
+      "text": " ¿Qué",
+      "timestamp": [
+        31.76,
+        31.78
+      ]
+    },
+    {
+      "text": " habrá",
+      "timestamp": [
+        31.78,
+        32.14
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        32.14,
+        32.24
+      ]
+    },
+    {
+      "text": " tu",
+      "timestamp": [
+        32.24,
+        32.38
+      ]
+    },
+    {
+      "text": " galletita?",
+      "timestamp": [
+        32.38,
+        33.04
+      ]
+    },
+    {
+      "text": " Tus",
+      "timestamp": [
+        33.3,
+        33.4
+      ]
+    },
+    {
+      "text": " críticas",
+      "timestamp": [
+        33.4,
+        33.9
+      ]
+    },
+    {
+      "text": " online",
+      "timestamp": [
+        33.9,
+        34.16
+      ]
+    },
+    {
+      "text": " mucho",
+      "timestamp": [
+        34.16,
+        34.62
+      ]
+    },
+    {
+      "text": " éxito",
+      "timestamp": [
+        34.62,
+        35.12
+      ]
+    },
+    {
+      "text": " obtienen.",
+      "timestamp": [
+        35.12,
+        35.68
+      ]
+    },
+    {
+      "text": " Pues",
+      "timestamp": [
+        36.0,
+        36.1
+      ]
+    },
+    {
+      "text": " pásalo",
+      "timestamp": [
+        36.1,
+        36.5
+      ]
+    },
+    {
+      "text": " bien,",
+      "timestamp": [
+        36.5,
+        36.98
+      ]
+    },
+    {
+      "text": " come",
+      "timestamp": [
+        36.98,
+        37.3
+      ]
+    },
+    {
+      "text": " mocos",
+      "timestamp": [
+        37.3,
+        37.78
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        37.78,
+        37.9
+      ]
+    },
+    {
+      "text": " semen.",
+      "timestamp": [
+        37.9,
+        38.5
+      ]
+    },
+    {
+      "text": " ¡Mocos",
+      "timestamp": [
+        38.68,
+        39.0
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        39.0,
+        39.2
+      ]
+    },
+    {
+      "text": " semen!",
+      "timestamp": [
+        39.2,
+        39.66
+      ]
+    },
+    {
+      "text": " Toma",
+      "timestamp": [
+        39.74,
+        40.1
+      ]
+    },
+    {
+      "text": " pedo",
+      "timestamp": [
+        40.1,
+        40.36
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        40.36,
+        40.46
+      ]
+    },
+    {
+      "text": " tu",
+      "timestamp": [
+        40.46,
+        40.46
+      ]
+    },
+    {
+      "text": " ensalada.",
+      "timestamp": [
+        40.46,
+        41.42
+      ]
+    },
+    {
+      "text": " ¡Mocos",
+      "timestamp": [
+        41.42,
+        41.74
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        41.74,
+        41.86
+      ]
+    },
+    {
+      "text": " semen!",
+      "timestamp": [
+        41.86,
+        42.36
+      ]
+    },
+    {
+      "text": " Me",
+      "timestamp": [
+        42.38,
+        42.4
+      ]
+    },
+    {
+      "text": " enseña",
+      "timestamp": [
+        42.4,
+        42.7
+      ]
+    },
+    {
+      "text": " casas",
+      "timestamp": [
+        42.7,
+        43.08
+      ]
+    },
+    {
+      "text": " decoradas.",
+      "timestamp": [
+        43.08,
+        43.72
+      ]
+    },
+    {
+      "text": " Es",
+      "timestamp": [
+        44.3,
+        44.38
+      ]
+    },
+    {
+      "text": " especial,",
+      "timestamp": [
+        44.38,
+        44.86
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        44.86,
+        45.04
+      ]
+    },
+    {
+      "text": " al",
+      "timestamp": [
+        45.04,
+        45.16
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        45.16,
+        45.32
+      ]
+    },
+    {
+      "text": " todos",
+      "timestamp": [
+        45.32,
+        45.54
+      ]
+    },
+    {
+      "text": " se",
+      "timestamp": [
+        45.54,
+        45.72
+      ]
+    },
+    {
+      "text": " atienen,",
+      "timestamp": [
+        45.72,
+        46.22
+      ]
+    },
+    {
+      "text": " pues.",
+      "timestamp": [
+        46.22,
+        46.52
+      ]
+    },
+    {
+      "text": " ¿Qué",
+      "timestamp": [
+        46.78,
+        46.82
+      ]
+    },
+    {
+      "text": " más",
+      "timestamp": [
+        46.82,
+        46.94
+      ]
+    },
+    {
+      "text": " especial",
+      "timestamp": [
+        46.94,
+        47.4
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        47.4,
+        47.84
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        47.84,
+        47.9
+      ]
+    },
+    {
+      "text": " mocos",
+      "timestamp": [
+        47.9,
+        48.34
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        48.34,
+        48.48
+      ]
+    },
+    {
+      "text": " semen?",
+      "timestamp": [
+        48.48,
+        49.06
+      ]
+    },
+    {
+      "text": " Mocos",
+      "timestamp": [
+        49.36,
+        49.58
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        49.58,
+        49.8
+      ]
+    },
+    {
+      "text": " semen.",
+      "timestamp": [
+        49.8,
+        50.12
+      ]
+    },
+    {
+      "text": " ¿Qué",
+      "timestamp": [
+        50.2,
+        50.3
+      ]
+    },
+    {
+      "text": " tal",
+      "timestamp": [
+        50.3,
+        50.4
+      ]
+    },
+    {
+      "text": " las",
+      "timestamp": [
+        50.4,
+        50.6
+      ]
+    },
+    {
+      "text": " heces",
+      "timestamp": [
+        50.6,
+        50.86
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        50.86,
+        51.06
+      ]
+    },
+    {
+      "text": " lenguado?",
+      "timestamp": [
+        51.06,
+        51.92
+      ]
+    },
+    {
+      "text": " Mocos",
+      "timestamp": [
+        52.02,
+        52.34
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        52.34,
+        52.46
+      ]
+    },
+    {
+      "text": " semen.",
+      "timestamp": [
+        52.46,
+        52.76
+      ]
+    },
+    {
+      "text": " ¿Carne",
+      "timestamp": [
+        52.76,
+        53.06
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        53.06,
+        53.16
+      ]
+    },
+    {
+      "text": " flujo",
+      "timestamp": [
+        53.16,
+        53.58
+      ]
+    },
+    {
+      "text": " bien",
+      "timestamp": [
+        53.58,
+        53.7
+      ]
+    },
+    {
+      "text": " untado?",
+      "timestamp": [
+        53.7,
+        54.36
+      ]
+    },
+    {
+      "text": " ¿Cuál",
+      "timestamp": [
+        54.82,
+        55.28
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        55.28,
+        55.4
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        55.4,
+        55.5
+      ]
+    },
+    {
+      "text": " especia",
+      "timestamp": [
+        55.5,
+        56.0
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        56.0,
+        56.16
+      ]
+    },
+    {
+      "text": " le",
+      "timestamp": [
+        56.16,
+        56.26
+      ]
+    },
+    {
+      "text": " da",
+      "timestamp": [
+        56.26,
+        56.4
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        56.4,
+        56.54
+      ]
+    },
+    {
+      "text": " picor?",
+      "timestamp": [
+        56.54,
+        57.08
+      ]
+    },
+    {
+      "text": " Es",
+      "timestamp": [
+        57.16,
+        57.34
+      ]
+    },
+    {
+      "text": " pimienta",
+      "timestamp": [
+        57.34,
+        57.82
+      ]
+    },
+    {
+      "text": " negra,",
+      "timestamp": [
+        57.82,
+        58.06
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        58.06,
+        58.18
+      ]
+    },
+    {
+      "text": " mocos",
+      "timestamp": [
+        58.18,
+        58.48
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        58.48,
+        58.6
+      ]
+    },
+    {
+      "text": " semen,",
+      "timestamp": [
+        58.6,
+        58.86
+      ]
+    },
+    {
+      "text": " cómo",
+      "timestamp": [
+        58.86,
+        59.06
+      ]
+    },
+    {
+      "text": " no.",
+      "timestamp": [
+        59.06,
+        59.54
+      ]
+    },
+    {
+      "text": " Aquí",
+      "timestamp": [
+        60.2,
+        60.72
+      ]
+    },
+    {
+      "text": " tienes,",
+      "timestamp": [
+        60.72,
+        61.12
+      ]
+    },
+    {
+      "text": " señor.",
+      "timestamp": [
+        61.12,
+        61.5
+      ]
+    },
+    {
+      "text": " Gracias,",
+      "timestamp": [
+        61.76,
+        62.16
+      ]
+    },
+    {
+      "text": " David.",
+      "timestamp": [
+        62.16,
+        62.56
+      ]
+    },
+    {
+      "text": " Buen",
+      "timestamp": [
+        62.56,
+        62.94
+      ]
+    },
+    {
+      "text": " servicio.",
+      "timestamp": [
+        62.94,
+        63.58
+      ]
+    },
+    {
+      "text": " Te",
+      "timestamp": [
+        63.7,
+        63.8
+      ]
+    },
+    {
+      "text": " serviré",
+      "timestamp": [
+        63.8,
+        64.22
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        64.22,
+        64.28
+      ]
+    },
+    {
+      "text": " comida",
+      "timestamp": [
+        64.28,
+        64.52
+      ]
+    },
+    {
+      "text": " todos",
+      "timestamp": [
+        64.52,
+        64.74
+      ]
+    },
+    {
+      "text": " los",
+      "timestamp": [
+        64.74,
+        64.9
+      ]
+    },
+    {
+      "text": " días.",
+      "timestamp": [
+        64.9,
+        65.5
+      ]
+    },
+    {
+      "text": " ¿Esto",
+      "timestamp": [
+        65.68,
+        66.1
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        66.1,
+        66.26
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        66.26,
+        66.28
+      ]
+    },
+    {
+      "text": " azadeja",
+      "timestamp": [
+        66.28,
+        66.62
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        66.62,
+        66.68
+      ]
+    },
+    {
+      "text": " jalapeño?",
+      "timestamp": [
+        66.68,
+        67.14
+      ]
+    },
+    {
+      "text": " Sí,",
+      "timestamp": [
+        67.7,
+        67.92
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        67.92,
+        68.08
+      ]
+    },
+    {
+      "text": " ha",
+      "timestamp": [
+        68.08,
+        68.16
+      ]
+    },
+    {
+      "text": " hecho",
+      "timestamp": [
+        68.16,
+        68.38
+      ]
+    },
+    {
+      "text": " mi",
+      "timestamp": [
+        68.38,
+        68.48
+      ]
+    },
+    {
+      "text": " padre",
+      "timestamp": [
+        68.48,
+        68.74
+      ]
+    },
+    {
+      "text": " para",
+      "timestamp": [
+        68.74,
+        68.94
+      ]
+    },
+    {
+      "text": " ti.",
+      "timestamp": [
+        68.94,
+        70.42
+      ]
+    },
+    {
+      "text": " Me",
+      "timestamp": [
+        70.62,
+        71.04
+      ]
+    },
+    {
+      "text": " sabe",
+      "timestamp": [
+        71.04,
+        71.32
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        71.32,
+        71.44
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        71.44,
+        71.54
+      ]
+    },
+    {
+      "text": " pedo",
+      "timestamp": [
+        71.54,
+        71.72
+      ]
+    },
+    {
+      "text": " sabrosa.",
+      "timestamp": [
+        71.72,
+        72.18
+      ]
+    },
+    {
+      "text": " Mocos",
+      "timestamp": [
+        72.36,
+        72.68
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        72.68,
+        72.78
+      ]
+    },
+    {
+      "text": " semen.",
+      "timestamp": [
+        72.78,
+        73.28
+      ]
+    },
+    {
+      "text": " Criticar",
+      "timestamp": [
+        73.38,
+        73.74
+      ]
+    },
+    {
+      "text": " sí",
+      "timestamp": [
+        73.74,
+        73.98
+      ]
+    },
+    {
+      "text": " te",
+      "timestamp": [
+        73.98,
+        74.12
+      ]
+    },
+    {
+      "text": " pone.",
+      "timestamp": [
+        74.12,
+        74.74
+      ]
+    },
+    {
+      "text": " Mocos",
+      "timestamp": [
+        74.98,
+        75.32
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        75.32,
+        75.44
+      ]
+    },
+    {
+      "text": " semen.",
+      "timestamp": [
+        75.44,
+        75.96
+      ]
+    },
+    {
+      "text": " ¿O",
+      "timestamp": [
+        76.02,
+        76.06
+      ]
+    },
+    {
+      "text": " sientes",
+      "timestamp": [
+        76.06,
+        76.4
+      ]
+    },
+    {
+      "text": " retortijones?",
+      "timestamp": [
+        76.4,
+        77.24
+      ]
+    },
+    {
+      "text": " ¿Un",
+      "timestamp": [
+        77.3,
+        77.36
+      ]
+    },
+    {
+      "text": " diagnóstico",
+      "timestamp": [
+        77.36,
+        78.02
+      ]
+    },
+    {
+      "text": " quieres?",
+      "timestamp": [
+        78.02,
+        78.32
+      ]
+    },
+    {
+      "text": " El",
+      "timestamp": [
+        78.64,
+        78.68
+      ]
+    },
+    {
+      "text": " doctor",
+      "timestamp": [
+        78.68,
+        78.98
+      ]
+    },
+    {
+      "text": " ya",
+      "timestamp": [
+        78.98,
+        79.32
+      ]
+    },
+    {
+      "text": " lo",
+      "timestamp": [
+        79.32,
+        79.5
+      ]
+    },
+    {
+      "text": " tiene.",
+      "timestamp": [
+        79.5,
+        80.08
+      ]
+    },
+    {
+      "text": " Parece",
+      "timestamp": [
+        80.3,
+        80.56
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        80.56,
+        80.84
+      ]
+    },
+    {
+      "text": " tiene",
+      "timestamp": [
+        80.84,
+        81.04
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        81.04,
+        81.18
+      ]
+    },
+    {
+      "text": " estómago",
+      "timestamp": [
+        81.18,
+        81.5
+      ]
+    },
+    {
+      "text": " lleno",
+      "timestamp": [
+        81.5,
+        81.76
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        81.76,
+        81.92
+      ]
+    },
+    {
+      "text": " mocos",
+      "timestamp": [
+        81.92,
+        82.24
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        82.24,
+        82.44
+      ]
+    },
+    {
+      "text": " semen.",
+      "timestamp": [
+        82.44,
+        82.84
+      ]
+    },
+    {
+      "text": " Mocos",
+      "timestamp": [
+        82.94,
+        83.22
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        83.22,
+        83.34
+      ]
+    },
+    {
+      "text": " semen.",
+      "timestamp": [
+        83.34,
+        83.92
+      ]
+    },
+    {
+      "text": " Pisa",
+      "timestamp": [
+        84.04,
+        84.34
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        84.34,
+        84.48
+      ]
+    },
+    {
+      "text": " tus",
+      "timestamp": [
+        84.48,
+        84.62
+      ]
+    },
+    {
+      "text": " patatas.",
+      "timestamp": [
+        84.62,
+        85.26
+      ]
+    },
+    {
+      "text": " Mocos",
+      "timestamp": [
+        85.6,
+        85.88
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        85.88,
+        86.0
+      ]
+    },
+    {
+      "text": " semen.",
+      "timestamp": [
+        86.0,
+        86.36
+      ]
+    },
+    {
+      "text": " Y",
+      "timestamp": [
+        86.36,
+        86.38
+      ]
+    },
+    {
+      "text": " tomates",
+      "timestamp": [
+        86.38,
+        87.1
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        87.1,
+        87.28
+      ]
+    },
+    {
+      "text": " cagadas.",
+      "timestamp": [
+        87.28,
+        87.9
+      ]
+    },
+    {
+      "text": " Te",
+      "timestamp": [
+        88.26,
+        88.4
+      ]
+    },
+    {
+      "text": " doy",
+      "timestamp": [
+        88.4,
+        88.6
+      ]
+    },
+    {
+      "text": " crítico",
+      "timestamp": [
+        88.6,
+        89.06
+      ]
+    },
+    {
+      "text": " pijo,",
+      "timestamp": [
+        89.06,
+        89.5
+      ]
+    },
+    {
+      "text": " mis",
+      "timestamp": [
+        89.5,
+        89.64
+      ]
+    },
+    {
+      "text": " parabienes.",
+      "timestamp": [
+        89.64,
+        90.6
+      ]
+    },
+    {
+      "text": " Que",
+      "timestamp": [
+        90.78,
+        90.9
+      ]
+    },
+    {
+      "text": " te",
+      "timestamp": [
+        90.9,
+        91.06
+      ]
+    },
+    {
+      "text": " aprovechen",
+      "timestamp": [
+        91.06,
+        92.26
+      ]
+    },
+    {
+      "text": " los",
+      "timestamp": [
+        92.26,
+        92.84
+      ]
+    },
+    {
+      "text": " mocos.",
+      "timestamp": [
+        92.84,
+        94.04
+      ]
+    },
+    {
+      "text": " Mocos",
+      "timestamp": [
+        95.7,
+        98.98
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        98.98,
+        100.56
+      ]
+    },
+    {
+      "text": " semen.",
+      "timestamp": [
+        100.56,
+        102.26
+      ]
+    },
+    {
+      "text": " Mocos",
+      "timestamp": [
+        103.6,
+        104.42
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        104.42,
+        104.62
+      ]
+    },
+    {
+      "text": " semen.",
+      "timestamp": [
+        104.62,
+        105.18
+      ]
+    },
+    {
+      "text": " ¡Con",
+      "timestamp": [
+        100.0,
+        101.1
+      ]
+    },
+    {
+      "text": " semen!",
+      "timestamp": [
+        101.1,
+        111.28
+      ]
+    }
+  ],
+  "processing_time": 7923.445235013962,
+  "language": "es",
+  "model_id": "openai/whisper-large-v3"
+}

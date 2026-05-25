@@ -1,0 +1,64 @@
+{
+  "audio_file": "A Zacskós Énekes ｜ Janklovics Péter.wav",
+  "full_text": "Végre megérkezett a show, amire mindenki vált! Az internetes videók legjobban őrzött titka. Ki van a zacskó alap? Soha nem látott jelmezek! Változatos díszlet! Tíz ember, aki hajlandó hülyét csinálni magából! És akkor lássuk az ehetű zacskós énekest! A TV-ben már nincs semmi más, csak szex meg bűnez lett a szórakozás. A régió dolgok úgy eltűntek, hogy átva marad a száj. Még jó, hogy van a Family Guy! Megmutatjuk neked, foghatod a fejed, sírsz vagy elvetsz rajta, hasad fáj! Itt a Family Guy! Viszent Rálon!",
+  "chunks": [
+    {
+      "text": " Végre megérkezett a show, amire mindenki vált!",
+      "start": 0.0,
+      "end": 3.2
+    },
+    {
+      "text": " Az internetes videók legjobban őrzött titka.",
+      "start": 3.34,
+      "end": 6.04
+    },
+    {
+      "text": " Ki van a zacskó alap? Soha nem látott jelmezek!",
+      "start": 6.26,
+      "end": 9.48
+    },
+    {
+      "text": " Változatos díszlet! Tíz ember, aki hajlandó hülyét csinálni magából!",
+      "start": 10.22,
+      "end": 14.62
+    },
+    {
+      "text": " És akkor lássuk az ehetű zacskós énekest!",
+      "start": 14.84,
+      "end": 17.52
+    },
+    {
+      "text": " A TV-ben már nincs semmi más, csak szex meg bűnez lett a szórakozás.",
+      "start": 17.96,
+      "end": 24.82
+    },
+    {
+      "text": " A régió dolgok úgy eltűntek, hogy átva marad a száj.",
+      "start": 24.82,
+      "end": 31.0
+    },
+    {
+      "text": " Még jó, hogy van a Family Guy!",
+      "start": 31.28,
+      "end": 33.76
+    },
+    {
+      "text": " Megmutatjuk neked, foghatod a fejed, sírsz vagy elvetsz rajta, hasad fáj!",
+      "start": 35.1,
+      "end": 41.42
+    },
+    {
+      "text": " Itt a Family Guy!",
+      "start": 41.72,
+      "end": 45.78
+    },
+    {
+      "text": " Viszent Rálon!",
+      "start": 54.82,
+      "end": 55.56
+    }
+  ],
+  "processing_time": 0.34065675735473633,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

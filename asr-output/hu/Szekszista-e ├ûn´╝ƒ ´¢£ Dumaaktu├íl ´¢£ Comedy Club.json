@@ -1,0 +1,369 @@
+{
+  "audio_file": "Szekszista-e Ön？ ｜ Dumaaktuál ｜ Comedy Club.wav",
+  "full_text": "Az idei országgyűlési választásokon a Fidesz négyel több Lászlót indított, mint nőt. Mert a László jellemzően egy férfi név, ez a baj. A nőket is hívtak volna Lászlónak, ők is elindulhatak volna. És egyébként az is jól mutatja a nők helyzetét a politikában, hogy a férfi kollégáik akár a nyilvánosság előtti megnyilvánulásaikban kezelik őket. Ugye gondoljunk csak például Lázár János Szél Bernadettnek tett megjegyzéseire a parlamentben. Szexistán viselkednek a férfiak. Így van, és annak szeretnék utána járni, hogy mennyire általános ez a hétköznapokban. Tehát csak egy politikusi attitűdről van-e szó, egy rossz beidegződésről, vagy pedig tényleg ez már olyan mélyen gyökerezik társadalmunkban, hogy akár önben is megvan-e. Úgyhogy meg is kérném, hogy fáradjon fel ide azt, de mindenképpen... Egy tapson bátoríthatjuk ők. András vagyok. Szia. Roland, szervusz Roland. Egy tesztet fognak látni a nézők a kijelzőn, te pedig itt előttünk a monitoron a lehetséges választási lehetőségeket. Annak fogunk utána járni, hogy te, Roland, szexista vagy-e? Látom, hogy a párod nem hajlandó elárulni a tekintetével, hogy igen, de segélykérően néz felénk. Kimenekítünk a gondolat, kimenekítünk. Általában a szexista férfiaknak vannak más tüneteik is. Tehát például jellemzően darabosak, modortalanok, agresszívak, tufák, tuskók és előítéletekkel küzdenek, téves előítéletekkel küzdenek. Ezeknek a férfiúi tulajdonságoknak fogunk a mélyére ásni, Roland esetében készen állsz-e? Nem. Nem. Márpedig csúnyán le fog hullani a lepel, Roland. Szexista-e ön? Már a helyesíráson látszik, hogy sugaljuk a választ. Első kérdésünk rögtön. Okos-e ön? Miért? Segítünk válasz lehetőségekkel, jó? A. Ki én? B. Igen? C. Igen? Én? C. Alakul. El tudja-e olvasni a válaszokat? Segítek. A. Igen? B. Nem? C. Nem? Ha el tudtam volna olvasni a műsort, nem rátok veszek jegyet. C. C. Borítékoltam volna. Agresszív-e ön? Én nem. Anyád az igen. B. Igen? Most is nagyon veszélyesen nézek magam elé. C. Ti meg mit röhögtök? B. Elfogadjuk. Felsőbbrendű-e ön, mint férfi? Ez egy nagyon fontos eleme a szexizmusnak. A. Inkább felsőbbrendű, mint férfi. B. Igen, mert 32 centis kakaskám van. C. A B válaszon gondolkod. C? C. C. Tehát B. Ja, az a telefonod, bocsánat. Vannak-e tévhitei? A. Nincsenek. B. Nincsenek, mert állítólag napi két liter pívíz kiöli őket. C. Nem tudok napirendre térni a 32 centis kakaskám. B. Fejezze be a mondatot. Minden nőnek nem fejezem. B. 32 centis kakaskám. C. Nem értem a feladatot. C. C. Miért nem tiszteli a nőket? A. Büdösek. Ennyi. C. Jajj. C. Nincs jó válasz. C. Lehult a lepel, Roland. C. Miért szeretem ők illatát? Ezt ugorhatjuk ugye azzel, hogy... C. Megbánta-e eddigi agresszív, ostoba, szexista hozzáállását, és kedvesebb lesz-e a jövőben? A. Igen. Szeretnék kérni a számlámra minden hölgynek egy pesgőt. B. Nem. C. Nem. Fúha. Hát ez eltönt. Köszönjük szépen róladnak. Nagyon bátor voltál. Jó élet volt az a pulcsi, mert ugyanilyen színű lettél a végén. C. Napsoljuk meg végegyszer. Hát akkor a... C. A folyási volt nagyon bátor volt rá.",
+  "chunks": [
+    {
+      "text": " Az idei országgyűlési választásokon a Fidesz négyel több Lászlót indított, mint nőt.",
+      "start": 0.0,
+      "end": 5.02
+    },
+    {
+      "text": " Mert a László jellemzően egy férfi név, ez a baj.",
+      "start": 8.58,
+      "end": 11.14
+    },
+    {
+      "text": " A nőket is hívtak volna Lászlónak, ők is elindulhatak volna.",
+      "start": 11.5,
+      "end": 14.94
+    },
+    {
+      "text": " És egyébként az is jól mutatja a nők helyzetét a politikában,",
+      "start": 15.06,
+      "end": 17.78
+    },
+    {
+      "text": " hogy a férfi kollégáik akár a nyilvánosság előtti megnyilvánulásaikban kezelik őket.",
+      "start": 17.82,
+      "end": 21.78
+    },
+    {
+      "text": " Ugye gondoljunk csak például Lázár János Szél Bernadettnek tett megjegyzéseire a parlamentben.",
+      "start": 21.92,
+      "end": 26.86
+    },
+    {
+      "text": " Szexistán viselkednek a férfiak.",
+      "start": 26.86,
+      "end": 28.8
+    },
+    {
+      "text": " Így van, és annak szeretnék utána járni, hogy mennyire általános ez a hétköznapokban.",
+      "start": 28.96,
+      "end": 34.22
+    },
+    {
+      "text": " Tehát csak egy politikusi attitűdről van-e szó, egy rossz beidegződésről,",
+      "start": 34.32,
+      "end": 38.5
+    },
+    {
+      "text": " vagy pedig tényleg ez már olyan mélyen gyökerezik társadalmunkban, hogy akár önben is megvan-e.",
+      "start": 38.54,
+      "end": 43.58
+    },
+    {
+      "text": " Úgyhogy meg is kérném, hogy fáradjon fel ide azt, de mindenképpen...",
+      "start": 44.02,
+      "end": 47.62
+    },
+    {
+      "text": " Egy tapson bátoríthatjuk ők.",
+      "start": 48.22,
+      "end": 50.14
+    },
+    {
+      "text": " András vagyok.",
+      "start": 54.54,
+      "end": 55.5
+    },
+    {
+      "text": " Szia.",
+      "start": 55.6,
+      "end": 55.98
+    },
+    {
+      "text": " Roland, szervusz Roland.",
+      "start": 56.86,
+      "end": 57.7
+    },
+    {
+      "text": " Egy tesztet fognak látni a nézők a kijelzőn, te pedig itt előttünk a monitoron a lehetséges választási lehetőségeket.",
+      "start": 57.88,
+      "end": 64.94
+    },
+    {
+      "text": " Annak fogunk utána járni, hogy te, Roland, szexista vagy-e?",
+      "start": 65.1,
+      "end": 68.22
+    },
+    {
+      "text": " Látom, hogy a párod nem hajlandó elárulni a tekintetével, hogy igen, de segélykérően néz felénk.",
+      "start": 68.3,
+      "end": 74.86
+    },
+    {
+      "text": " Kimenekítünk a gondolat, kimenekítünk.",
+      "start": 76.42,
+      "end": 78.28
+    },
+    {
+      "text": " Általában a szexista férfiaknak vannak más tüneteik is.",
+      "start": 78.28,
+      "end": 82.8
+    },
+    {
+      "text": " Tehát például jellemzően darabosak, modortalanok, agresszívak, tufák, tuskók és előítéletekkel küzdenek, téves előítéletekkel küzdenek.",
+      "start": 82.8,
+      "end": 91.88
+    },
+    {
+      "text": " Ezeknek a férfiúi tulajdonságoknak fogunk a mélyére ásni, Roland esetében készen állsz-e?",
+      "start": 91.88,
+      "end": 97.7
+    },
+    {
+      "text": " Nem.",
+      "start": 97.92,
+      "end": 98.28
+    },
+    {
+      "text": " Nem.",
+      "start": 98.66,
+      "end": 98.88
+    },
+    {
+      "text": " Márpedig csúnyán le fog hullani a lepel, Roland.",
+      "start": 100.06,
+      "end": 103.08
+    },
+    {
+      "text": " Szexista-e ön?",
+      "start": 103.52,
+      "end": 104.74
+    },
+    {
+      "text": " Már a helyesíráson látszik, hogy sugaljuk a választ.",
+      "start": 104.94,
+      "end": 108.56
+    },
+    {
+      "text": " Első kérdésünk rögtön. Okos-e ön?",
+      "start": 108.66,
+      "end": 110.74
+    },
+    {
+      "text": " Miért?",
+      "start": 112.0,
+      "end": 112.6
+    },
+    {
+      "text": " Segítünk válasz lehetőségekkel, jó?",
+      "start": 112.64,
+      "end": 114.52
+    },
+    {
+      "text": " A. Ki én?",
+      "start": 117.52,
+      "end": 119.18
+    },
+    {
+      "text": " B. Igen?",
+      "start": 122.42,
+      "end": 123.52
+    },
+    {
+      "text": " C. Igen? Én?",
+      "start": 124.14,
+      "end": 125.66
+    },
+    {
+      "text": " C. Alakul.",
+      "start": 128.68,
+      "end": 131.32
+    },
+    {
+      "text": " El tudja-e olvasni a válaszokat?",
+      "start": 132.28,
+      "end": 134.82
+    },
+    {
+      "text": " Segítek.",
+      "start": 140.86,
+      "end": 141.52
+    },
+    {
+      "text": " A. Igen?",
+      "start": 143.16,
+      "end": 144.2
+    },
+    {
+      "text": " B. Nem?",
+      "start": 144.8,
+      "end": 145.76
+    },
+    {
+      "text": " C. Nem? Ha el tudtam volna olvasni a műsort, nem rátok veszek jegyet.",
+      "start": 147.22,
+      "end": 151.3
+    },
+    {
+      "text": " C. C.",
+      "start": 152.98000000000002,
+      "end": 153.9
+    },
+    {
+      "text": " Borítékoltam volna.",
+      "start": 156.04,
+      "end": 157.0
+    },
+    {
+      "text": " Agresszív-e ön?",
+      "start": 159.12,
+      "end": 160.14
+    },
+    {
+      "text": " Én nem. Anyád az igen.",
+      "start": 161.0,
+      "end": 162.42
+    },
+    {
+      "text": " B. Igen? Most is nagyon veszélyesen nézek magam elé.",
+      "start": 165.26000000000002,
+      "end": 169.32
+    },
+    {
+      "text": " C. Ti meg mit röhögtök?",
+      "start": 171.8,
+      "end": 174.28
+    },
+    {
+      "text": " B. Elfogadjuk.",
+      "start": 178.72000000000003,
+      "end": 179.68
+    },
+    {
+      "text": " Felsőbbrendű-e ön, mint férfi? Ez egy nagyon fontos eleme a szexizmusnak.",
+      "start": 180.88000000000002,
+      "end": 184.98
+    },
+    {
+      "text": " A. Inkább felsőbbrendű, mint férfi.",
+      "start": 185.42,
+      "end": 187.94
+    },
+    {
+      "text": " B. Igen, mert 32 centis kakaskám van.",
+      "start": 190.46,
+      "end": 193.34
+    },
+    {
+      "text": " C. A B válaszon gondolkod.",
+      "start": 195.22,
+      "end": 197.2
+    },
+    {
+      "text": " C? C. C. Tehát B.",
+      "start": 199.62,
+      "end": 202.06
+    },
+    {
+      "text": " Ja, az a telefonod, bocsánat.",
+      "start": 206.33999999999997,
+      "end": 208.24
+    },
+    {
+      "text": " Vannak-e tévhitei? A. Nincsenek.",
+      "start": 210.1,
+      "end": 213.26
+    },
+    {
+      "text": " B. Nincsenek, mert állítólag napi két liter pívíz kiöli őket.",
+      "start": 213.48,
+      "end": 217.32
+    },
+    {
+      "text": " C. Nem tudok napirendre térni a 32 centis kakaskám.",
+      "start": 218.44,
+      "end": 221.78
+    },
+    {
+      "text": " B. Fejezze be a mondatot. Minden nőnek nem fejezem.",
+      "start": 224.92,
+      "end": 232.22
+    },
+    {
+      "text": " B. 32 centis kakaskám.",
+      "start": 233.22,
+      "end": 236.66
+    },
+    {
+      "text": " C. Nem értem a feladatot.",
+      "start": 238.22,
+      "end": 239.74
+    },
+    {
+      "text": " C. C. Miért nem tiszteli a nőket?",
+      "start": 241.3,
+      "end": 246.56
+    },
+    {
+      "text": " A. Büdösek.",
+      "start": 246.56,
+      "end": 249.7
+    },
+    {
+      "text": " Ennyi.",
+      "start": 253.56,
+      "end": 253.96
+    },
+    {
+      "text": " C. Jajj.",
+      "start": 253.96,
+      "end": 254.5
+    },
+    {
+      "text": " C. Nincs jó válasz.",
+      "start": 254.88,
+      "end": 261.44
+    },
+    {
+      "text": " C. Lehult a lepel, Roland.",
+      "start": 261.78,
+      "end": 263.52
+    },
+    {
+      "text": " C. Miért szeretem ők illatát? Ezt ugorhatjuk ugye azzel, hogy...",
+      "start": 264.02,
+      "end": 267.96000000000004
+    },
+    {
+      "text": " C. Megbánta-e eddigi agresszív, ostoba, szexista hozzáállását, és kedvesebb lesz-e a jövőben?",
+      "start": 269.44,
+      "end": 275.06
+    },
+    {
+      "text": " A. Igen. Szeretnék kérni a számlámra minden hölgynek egy pesgőt. B. Nem.",
+      "start": 275.06,
+      "end": 280.94
+    },
+    {
+      "text": " C. Nem. Fúha.",
+      "start": 280.94,
+      "end": 283.06
+    },
+    {
+      "text": " Hát ez eltönt. Köszönjük szépen róladnak. Nagyon bátor voltál.",
+      "start": 288.94,
+      "end": 294.06
+    },
+    {
+      "text": " Jó élet volt az a pulcsi, mert ugyanilyen színű lettél a végén.",
+      "start": 295.82,
+      "end": 299.22
+    },
+    {
+      "text": " C. Napsoljuk meg végegyszer. Hát akkor a...",
+      "start": 299.22,
+      "end": 302.04
+    },
+    {
+      "text": " C. A folyási volt nagyon bátor volt rá.",
+      "start": 302.04,
+      "end": 303.38
+    }
+  ],
+  "processing_time": 2.934107542037964,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

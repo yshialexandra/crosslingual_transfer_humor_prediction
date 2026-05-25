@@ -1,0 +1,34 @@
+{
+  "audio_file": "Mélyvíz ｜ Szerb autó.wav",
+  "full_text": "A szerep rendszámú telepjárónak mit van maradt az ajtra? Akkor mondj be! Jó! A szerep rendszámú telepjárónak nyitva van az ajtaja. Brávó! Bemondtam. Hallottam. Szerintem nem értették, de a magyarok közül már többen szaladnak. És csak! Ó! A szerep rendszámú telepjárónak nyitva van az ajtaja. A szerep rendszámú telepjárónak nyitva van az ajtaja.",
+  "chunks": [
+    {
+      "text": " A szerep rendszámú telepjárónak mit van maradt az ajtra?",
+      "start": 12.440000000000003,
+      "end": 16.32
+    },
+    {
+      "text": " Akkor mondj be! Jó!",
+      "start": 18.020000000000003,
+      "end": 22.46
+    },
+    {
+      "text": " A szerep rendszámú telepjárónak nyitva van az ajtaja. Brávó!",
+      "start": 30.96,
+      "end": 37.6
+    },
+    {
+      "text": " Bemondtam. Hallottam. Szerintem nem értették, de a magyarok közül már többen szaladnak. És csak! Ó!",
+      "start": 44.6,
+      "end": 54.66
+    },
+    {
+      "text": " A szerep rendszámú telepjárónak nyitva van az ajtaja. A szerep rendszámú telepjárónak nyitva van az ajtaja.",
+      "start": 62.26,
+      "end": 64.64
+    }
+  ],
+  "processing_time": 0.7002065181732178,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

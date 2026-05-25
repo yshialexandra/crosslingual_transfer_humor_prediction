@@ -1,0 +1,79 @@
+{
+  "audio_file": "A mikulás öle ｜ Télvíz.wav",
+  "full_text": "A TORONTOZOS SZERETÉS KÉLTÉS Menjünk már haza. Ki a tököm akar a Mikulás ölébe ülni este 9-kor? Te legalább ülhetsz. Jó van, ne nyavajogjál már. Nem cserélünk egy kicsit? Nem! Nagyon elvajog, Gémbire. Akkor menjél, mozgó lépcsőzni, jó? Nem voltam. Bementem az elektrocikkbe is. És? Kifele megmotozta. Jaj, ne csináld, elhányom magam, jó? Jó. Azt tedd vissza nagyon gyorsan, mert a kezed lekeven. Eszem megáll. Ma egy kicsit. Nem! Nem mondom. Ne! Hát normális vagy! Menjél már! Menjél már illen! Hello! Szabad? Megyek cigizni. Jó, hát hazudtam neki, de hát az végül is belefér, ha az ember szerenés, nem? Bele?",
+  "chunks": [
+    {
+      "text": " A TORONTOZOS SZERETÉS KÉLTÉS",
+      "start": 0.0,
+      "end": 3.34
+    },
+    {
+      "text": " Menjünk már haza. Ki a tököm akar a Mikulás ölébe ülni este 9-kor?",
+      "start": 6.440000000000006,
+      "end": 10.86
+    },
+    {
+      "text": " Te legalább ülhetsz.",
+      "start": 11.1,
+      "end": 12.36
+    },
+    {
+      "text": " Jó van, ne nyavajogjál már.",
+      "start": 12.42,
+      "end": 13.82
+    },
+    {
+      "text": " Nem cserélünk egy kicsit?",
+      "start": 14.78,
+      "end": 15.98
+    },
+    {
+      "text": " Nem!",
+      "start": 16.0,
+      "end": 16.24
+    },
+    {
+      "text": " Nagyon elvajog, Gémbire.",
+      "start": 16.860000000000007,
+      "end": 18.14
+    },
+    {
+      "text": " Akkor menjél, mozgó lépcsőzni, jó?",
+      "start": 18.16,
+      "end": 19.74
+    },
+    {
+      "text": " Nem voltam. Bementem az elektrocikkbe is.",
+      "start": 19.74,
+      "end": 22.44
+    },
+    {
+      "text": " És?",
+      "start": 22.62,
+      "end": 22.92
+    },
+    {
+      "text": " Kifele megmotozta.",
+      "start": 23.3,
+      "end": 24.62
+    },
+    {
+      "text": " Jaj, ne csináld, elhányom magam, jó?",
+      "start": 24.74,
+      "end": 26.44
+    },
+    {
+      "text": " Jó. Azt tedd vissza nagyon gyorsan, mert a kezed lekeven. Eszem megáll. Ma egy kicsit. Nem! Nem mondom. Ne! Hát normális vagy! Menjél már! Menjél már illen! Hello! Szabad? Megyek cigizni.",
+      "start": 26.44,
+      "end": 46.84
+    },
+    {
+      "text": " Jó, hát hazudtam neki, de hát az végül is belefér, ha az ember szerenés, nem? Bele?",
+      "start": 57.64,
+      "end": 62.64
+    }
+  ],
+  "processing_time": 0.9149971008300781,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

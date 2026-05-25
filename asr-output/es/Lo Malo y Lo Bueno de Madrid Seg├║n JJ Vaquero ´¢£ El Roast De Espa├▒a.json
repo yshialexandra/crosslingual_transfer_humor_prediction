@@ -1,0 +1,249 @@
+{
+  "audio_file": "Lo Malo y Lo Bueno de Madrid Según JJ Vaquero ｜ El Roast De España.wav",
+  "full_text": "...cualquier madrileño te dirá... ...yo vivo a 15 minutos del centro... ...pero cómo va a ser... ...si yo he estado media hora en un taxi... ...para ir del centro hasta el centro... ...12 euros por una cerveza... ...eso no es un precio... ...eso es un desprecio... ...porque hay mucha gente... ...demasiada gente... ...fijaros si hay gente en el metro... ...que es el metro de Madrid... ...y en un vagón... ...yo me encontré a mi ex... ...te sientas en un bar... ...y te dan una carta... ...con 13 tipos de mojitos diferentes... ...que me dice el camarero... ...¿qué quiere tomar? ...digo una decisión... ...pero me lo estás poniendo muy difícil... ...Madrid tiene una boina de contaminación... ...que parece una chapela de alquitrán... ...cuando vengan los extraterrestres... ...abducirnos y la atraviesen... ...nos abducirán... ...pero les pondremos con el dedo en la nave... ...lávalo guarro... ...en Madrid hay tiendas de todo... ...hay tiendas de muelles... ...tiendas de alpargatas... ...hay tiendas de horquillas... ...de todo... ...hay tiendas 24 horas... ...que abren 24 horas... ...7 días a la semana... ...y tienen cerradura... ...¿pa qué? ...¿pa qué? ...yo te digo que en Madrid... ...montas una tienda... ...para depilar el huevo derecho... ...y otra para depilar el huevo izquierdo... ...y te funcionan las dos... ...y te funcionan las tres... ...¿por qué suena el seatándolo? ...alguien sucia... ...you...",
+  "chunks": [
+    {
+      "text": " ...cualquier madrileño te dirá...",
+      "start": 6.940000000000008,
+      "end": 8.66
+    },
+    {
+      "text": " ...yo vivo a 15 minutos del centro...",
+      "start": 8.66,
+      "end": 10.64
+    },
+    {
+      "text": " ...pero cómo va a ser...",
+      "start": 10.64,
+      "end": 11.8
+    },
+    {
+      "text": " ...si yo he estado media hora en un taxi...",
+      "start": 11.8,
+      "end": 13.98
+    },
+    {
+      "text": " ...para ir del centro hasta el centro...",
+      "start": 13.98,
+      "end": 16.54
+    },
+    {
+      "text": " ...12 euros por una cerveza...",
+      "start": 18.460000000000004,
+      "end": 20.78
+    },
+    {
+      "text": " ...eso no es un precio...",
+      "start": 20.78,
+      "end": 22.1
+    },
+    {
+      "text": " ...eso es un desprecio...",
+      "start": 22.1,
+      "end": 23.92
+    },
+    {
+      "text": " ...porque hay mucha gente...",
+      "start": 25.540000000000003,
+      "end": 27.08
+    },
+    {
+      "text": " ...demasiada gente...",
+      "start": 27.08,
+      "end": 28.26
+    },
+    {
+      "text": " ...fijaros si hay gente en el metro...",
+      "start": 28.26,
+      "end": 29.88
+    },
+    {
+      "text": " ...que es el metro de Madrid...",
+      "start": 29.88,
+      "end": 31.18
+    },
+    {
+      "text": " ...y en un vagón...",
+      "start": 31.18,
+      "end": 31.9
+    },
+    {
+      "text": " ...yo me encontré a mi ex...",
+      "start": 31.9,
+      "end": 33.879999999999995
+    },
+    {
+      "text": " ...te sientas en un bar...",
+      "start": 35.24,
+      "end": 36.6
+    },
+    {
+      "text": " ...y te dan una carta...",
+      "start": 36.6,
+      "end": 37.5
+    },
+    {
+      "text": " ...con 13 tipos de mojitos diferentes...",
+      "start": 37.5,
+      "end": 40.1
+    },
+    {
+      "text": " ...que me dice el camarero...",
+      "start": 40.1,
+      "end": 41.48
+    },
+    {
+      "text": " ...¿qué quiere tomar?",
+      "start": 41.48,
+      "end": 42.28
+    },
+    {
+      "text": " ...digo una decisión...",
+      "start": 42.68,
+      "end": 43.92
+    },
+    {
+      "text": " ...pero me lo estás poniendo muy difícil...",
+      "start": 43.92,
+      "end": 45.879999999999995
+    },
+    {
+      "text": " ...Madrid tiene una boina de contaminación...",
+      "start": 48.24,
+      "end": 50.6
+    },
+    {
+      "text": " ...que parece una chapela de alquitrán...",
+      "start": 50.6,
+      "end": 52.76
+    },
+    {
+      "text": " ...cuando vengan los extraterrestres...",
+      "start": 52.76,
+      "end": 54.54
+    },
+    {
+      "text": " ...abducirnos y la atraviesen...",
+      "start": 54.54,
+      "end": 56.36
+    },
+    {
+      "text": " ...nos abducirán...",
+      "start": 56.36,
+      "end": 56.879999999999995
+    },
+    {
+      "text": " ...pero les pondremos con el dedo en la nave...",
+      "start": 57.42,
+      "end": 59.2
+    },
+    {
+      "text": " ...lávalo guarro...",
+      "start": 59.2,
+      "end": 60.54
+    },
+    {
+      "text": " ...en Madrid hay tiendas de todo...",
+      "start": 61.98,
+      "end": 64.32
+    },
+    {
+      "text": " ...hay tiendas de muelles...",
+      "start": 64.32,
+      "end": 65.56
+    },
+    {
+      "text": " ...tiendas de alpargatas...",
+      "start": 65.56,
+      "end": 66.98
+    },
+    {
+      "text": " ...hay tiendas de horquillas...",
+      "start": 66.98,
+      "end": 68.82
+    },
+    {
+      "text": " ...de todo...",
+      "start": 68.82,
+      "end": 69.5
+    },
+    {
+      "text": " ...hay tiendas 24 horas...",
+      "start": 69.5,
+      "end": 71.5
+    },
+    {
+      "text": " ...que abren 24 horas...",
+      "start": 71.5,
+      "end": 72.8
+    },
+    {
+      "text": " ...7 días a la semana...",
+      "start": 72.8,
+      "end": 73.82
+    },
+    {
+      "text": " ...y tienen cerradura...",
+      "start": 73.82,
+      "end": 75.28
+    },
+    {
+      "text": " ...¿pa qué?",
+      "start": 75.28,
+      "end": 75.98
+    },
+    {
+      "text": " ...¿pa qué?",
+      "start": 76.42,
+      "end": 77.38
+    },
+    {
+      "text": " ...yo te digo que en Madrid...",
+      "start": 77.66,
+      "end": 79.56
+    },
+    {
+      "text": " ...montas una tienda...",
+      "start": 79.56,
+      "end": 80.68
+    },
+    {
+      "text": " ...para depilar el huevo derecho...",
+      "start": 80.68,
+      "end": 82.1
+    },
+    {
+      "text": " ...y otra para depilar el huevo izquierdo...",
+      "start": 82.1,
+      "end": 84.08
+    },
+    {
+      "text": " ...y te funcionan las dos...",
+      "start": 84.08,
+      "end": 86.3
+    },
+    {
+      "text": " ...y te funcionan las tres...",
+      "start": 86.3,
+      "end": 87.7
+    },
+    {
+      "text": " ...¿por qué suena el seatándolo?",
+      "start": 89.02000000000001,
+      "end": 91.06
+    },
+    {
+      "text": " ...alguien sucia...",
+      "start": 95.98,
+      "end": 97.0
+    },
+    {
+      "text": " ...you...",
+      "start": 104.8,
+      "end": 105.82
+    }
+  ],
+  "processing_time": 1.3991901874542236,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

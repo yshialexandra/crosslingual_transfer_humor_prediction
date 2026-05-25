@@ -1,0 +1,109 @@
+{
+  "audio_file": "Közsó a börtönben ｜ Heti Dörgés Villám Gézával.wav",
+  "full_text": "Miami! Január 1-én a Miami repülőtéren letartóztatták Kozsót, aki egy bürokratikus baki miatt 39 napra őrizetbe is került. Az igaz, hogy a közsó börtönben volt, de nem egy szokás börtönben, hanem egy immigráció börtönben volt és ártatlan volt. A közsó, tudják, nekem is van egy közsó 206-osabb. Tehát közsó 39 napig volt Amerikában, de már nagyon sokat felejtett magyarul. És eljöttem azért, hogy relaxezek csak koncertek. Relaxezek csak koncert. Viszont a nagy szerencsé az volt, hogy az amerikai rendőrök nem találták meg a telefonján a szomorú szamuráit. Ha jó, ha nem, ha muszáj, hívjatok úr, szomorú szamurá! Az amerikai törvények értelmében ezért akár 10 év letöltendőt is kaphatott volna. A művészt egyébként nagyon megviselték az események. A láthatóan megtört szuperztárt ügyvédje így végazdalta. Nem tudom, hogy mit csináljak. Nem tudom, nem tudom. Viselkedj férfi módra! Mi az ördög lehet téged? Ez a Hollywood belőled is buzit csinált? Neki állt bőgni, mint egy nő! Gybrota!",
+  "chunks": [
+    {
+      "text": " Miami! Január 1-én a Miami repülőtéren letartóztatták Kozsót,",
+      "start": 0.0,
+      "end": 4.06
+    },
+    {
+      "text": " aki egy bürokratikus baki miatt 39 napra őrizetbe is került.",
+      "start": 4.16,
+      "end": 8.18
+    },
+    {
+      "text": " Az igaz, hogy a közsó börtönben volt, de nem egy szokás börtönben,",
+      "start": 8.4,
+      "end": 13.96
+    },
+    {
+      "text": " hanem egy immigráció börtönben volt és ártatlan volt.",
+      "start": 15.02,
+      "end": 20.94
+    },
+    {
+      "text": " A közsó, tudják, nekem is van egy közsó 206-osabb.",
+      "start": 21.04,
+      "end": 24.54
+    },
+    {
+      "text": " Tehát közsó 39 napig volt Amerikában, de már nagyon sokat felejtett magyarul.",
+      "start": 24.84,
+      "end": 29.92
+    },
+    {
+      "text": " És eljöttem azért, hogy relaxezek csak koncertek.",
+      "start": 30.0,
+      "end": 33.46
+    },
+    {
+      "text": " Relaxezek csak koncert.",
+      "start": 33.88,
+      "end": 35.18
+    },
+    {
+      "text": " Viszont a nagy szerencsé az volt, hogy az amerikai rendőrök nem találták meg a telefonján a szomorú szamuráit.",
+      "start": 35.72,
+      "end": 41.04
+    },
+    {
+      "text": " Ha jó, ha nem, ha muszáj, hívjatok úr, szomorú szamurá!",
+      "start": 41.22,
+      "end": 44.62
+    },
+    {
+      "text": " Az amerikai törvények értelmében ezért akár 10 év letöltendőt is kaphatott volna.",
+      "start": 44.68,
+      "end": 49.3
+    },
+    {
+      "text": " A művészt egyébként nagyon megviselték az események.",
+      "start": 49.52,
+      "end": 51.98
+    },
+    {
+      "text": " A láthatóan megtört szuperztárt ügyvédje így végazdalta.",
+      "start": 57.72,
+      "end": 61.38
+    },
+    {
+      "text": " Nem tudom, hogy mit csináljak.",
+      "start": 61.5,
+      "end": 62.48
+    },
+    {
+      "text": " Nem tudom, nem tudom.",
+      "start": 62.6,
+      "end": 63.56
+    },
+    {
+      "text": " Viselkedj férfi módra!",
+      "start": 65.04,
+      "end": 66.44
+    },
+    {
+      "text": " Mi az ördög lehet téged?",
+      "start": 66.7,
+      "end": 67.98
+    },
+    {
+      "text": " Ez a Hollywood belőled is buzit csinált?",
+      "start": 68.80000000000001,
+      "end": 71.12
+    },
+    {
+      "text": " Neki állt bőgni, mint egy nő!",
+      "start": 71.28,
+      "end": 72.82
+    },
+    {
+      "text": " Gybrota!",
+      "start": 77.55999999999999,
+      "end": 78.96
+    }
+  ],
+  "processing_time": 0.553736686706543,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

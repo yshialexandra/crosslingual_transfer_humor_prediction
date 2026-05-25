@@ -1,0 +1,59 @@
+{
+  "audio_file": "Danny Boy Rivera： El Fútbol Es De Nenazas ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "Yo de pequeño estuve en Alabama. Mi madre me mandó allí a aprender inglés. ¡Alabama! No a Londres ni a Nueva York, no. ¡Alabama! Y allí me contaron una cosa que yo nunca me había visto. Sabéis que en el sur de Estados Unidos el fútbol es... bueno, el fútbol ya no le llaman ni fútbol, es el soccer. Para ellos es el fútbol americano. A mí siempre me decían, oye Dani, ¿cómo juegas al fútbol, tío? Me decían, eso es de chicas, ¿sabéis qué? En el sur de Estados Unidos el fútbol juegan las chicas. Y yo no lo entendía, ¿no? ¿Por qué? Lo asimilan como de chicas, ¿no? Y me lo explicaron... Tenéis que ver cómo piensa esta gente, ¿no? El tío me decía, a ver, todos los deportes de pelota, Dani, son iguales. Hay un equipo que quiere llevar la pelota allí y otro equipo que quiere llevar la pelota allá. ¿Cómo hacemos los hombres? ¡A hostias! Si te pones delante, ponte un casco porque voy a pasar a saco. Entonces ellos el fútbol lo ven como un poco gay. ¿No? Porque es como, no, solo vale con el pie, ¿vale? Me ha empujado. Tarjeta amarilla, la próxima fuera, ¿eh? Penalti, chicos. Ahora yo solo. Penalti. Que nadie me toque, ¿vale? ¿Dónde está mi pendiente? Este no es. Este no es. Era de diamantes. ¡Cristiano! ¡Cristiano! ¡No! ¡Cristiano!",
+  "chunks": [
+    {
+      "text": " Yo de pequeño estuve en Alabama. Mi madre me mandó allí a aprender inglés. ¡Alabama!",
+      "start": 1.1600000000000015,
+      "end": 6.24
+    },
+    {
+      "text": " No a Londres ni a Nueva York, no. ¡Alabama! Y allí me contaron una cosa que yo nunca me había visto.",
+      "start": 6.980000000000001,
+      "end": 11.82
+    },
+    {
+      "text": " Sabéis que en el sur de Estados Unidos el fútbol es... bueno, el fútbol ya no le llaman ni fútbol, es el soccer.",
+      "start": 11.92,
+      "end": 17.48
+    },
+    {
+      "text": " Para ellos es el fútbol americano. A mí siempre me decían, oye Dani, ¿cómo juegas al fútbol, tío?",
+      "start": 18.34,
+      "end": 23.76
+    },
+    {
+      "text": " Me decían, eso es de chicas, ¿sabéis qué? En el sur de Estados Unidos el fútbol juegan las chicas.",
+      "start": 24.0,
+      "end": 28.52
+    },
+    {
+      "text": " Y yo no lo entendía, ¿no? ¿Por qué? Lo asimilan como de chicas, ¿no? Y me lo explicaron... Tenéis que ver cómo piensa esta gente, ¿no?",
+      "start": 28.52,
+      "end": 35.48
+    },
+    {
+      "text": " El tío me decía, a ver, todos los deportes de pelota, Dani, son iguales. Hay un equipo que quiere llevar la pelota allí y otro equipo que quiere llevar la pelota allá.",
+      "start": 35.54,
+      "end": 44.62
+    },
+    {
+      "text": " ¿Cómo hacemos los hombres? ¡A hostias! Si te pones delante, ponte un casco porque voy a pasar a saco.",
+      "start": 45.36,
+      "end": 52.58
+    },
+    {
+      "text": " Entonces ellos el fútbol lo ven como un poco gay. ¿No? Porque es como, no, solo vale con el pie, ¿vale? Me ha empujado. Tarjeta amarilla, la próxima fuera, ¿eh? Penalti, chicos. Ahora yo solo. Penalti. Que nadie me toque, ¿vale? ¿Dónde está mi pendiente? Este no es. Este no es. Era de diamantes. ¡Cristiano!",
+      "start": 53.64,
+      "end": 68.58
+    },
+    {
+      "text": " ¡Cristiano! ¡No! ¡Cristiano!",
+      "start": 68.58,
+      "end": 70.58
+    }
+  ],
+  "processing_time": 1.4830243587493896,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

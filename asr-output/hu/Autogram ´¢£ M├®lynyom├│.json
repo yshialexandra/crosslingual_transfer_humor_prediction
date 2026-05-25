@@ -1,0 +1,99 @@
+{
+  "audio_file": "Autogram ｜ Mélynyomó.wav",
+  "full_text": "EZOK LÁSZÁDALZ Auf Mi van, Endike, minek örülsz? Ne vigyorogjál már. Hát olyan sötét vagy, hogy a Girosz eltévedt benned. Kaptam autógramot! Kitől? David Gettától. Aha, hiszi a pisszi. Esküszöm. Hagyjad már, te rajzoltad magadnak Filz Tola. Én látsz nálam Filz Tola? TAMU! Komolyan! Na jó, akkor kérek én is egyet! Azt kérte, hogy ne zavarják! Jó van, próbáljon meg elhajtani, majd megnéztünk. hogy szólnak a mélyek a koncertjén. Excuse me, Mr. Getta, can I have a... Na, mit mondtam? Hát... Végül is mit várhatunk egy olyan felnőttől, aki pendrive-ról játszik MP3-at pénzér. Nekem van szívem is. Igen, mert neked agyad nincs.",
+  "chunks": [
+    {
+      "text": " EZOK LÁSZÁDALZ Auf",
+      "start": 9.220000000000002,
+      "end": 10.02
+    },
+    {
+      "text": " Mi van, Endike, minek örülsz?",
+      "start": 10.02,
+      "end": 11.42
+    },
+    {
+      "text": " Ne vigyorogjál már. Hát olyan sötét vagy, hogy a Girosz eltévedt benned.",
+      "start": 11.5,
+      "end": 14.84
+    },
+    {
+      "text": " Kaptam autógramot!",
+      "start": 14.9,
+      "end": 15.9
+    },
+    {
+      "text": " Kitől?",
+      "start": 16.02,
+      "end": 16.42
+    },
+    {
+      "text": " David Gettától.",
+      "start": 16.64,
+      "end": 17.76
+    },
+    {
+      "text": " Aha, hiszi a pisszi.",
+      "start": 18.02,
+      "end": 19.4
+    },
+    {
+      "text": " Esküszöm.",
+      "start": 20.020000000000003,
+      "end": 20.42
+    },
+    {
+      "text": " Hagyjad már, te rajzoltad magadnak Filz Tola.",
+      "start": 20.54,
+      "end": 22.54
+    },
+    {
+      "text": " Én látsz nálam Filz Tola?",
+      "start": 22.58,
+      "end": 23.64
+    },
+    {
+      "text": " TAMU!",
+      "start": 23.72,
+      "end": 24.12
+    },
+    {
+      "text": " Komolyan!",
+      "start": 24.38,
+      "end": 24.78
+    },
+    {
+      "text": " Na jó, akkor kérek én is egyet!",
+      "start": 25.380000000000003,
+      "end": 26.92
+    },
+    {
+      "text": " Azt kérte, hogy ne zavarják!",
+      "start": 27.0,
+      "end": 28.02
+    },
+    {
+      "text": " Jó van, próbáljon meg elhajtani, majd megnéztünk.",
+      "start": 28.08,
+      "end": 29.98
+    },
+    {
+      "text": " hogy szólnak a mélyek a koncertjén. Excuse me, Mr. Getta, can I have a...",
+      "start": 30.0,
+      "end": 35.7
+    },
+    {
+      "text": " Na, mit mondtam? Hát... Végül is mit várhatunk egy olyan felnőttől,",
+      "start": 39.42,
+      "end": 56.24
+    },
+    {
+      "text": " aki pendrive-ról játszik MP3-at pénzér. Nekem van szívem is. Igen, mert neked agyad nincs.",
+      "start": 56.24,
+      "end": 64.92
+    }
+  ],
+  "processing_time": 1.1681315898895264,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

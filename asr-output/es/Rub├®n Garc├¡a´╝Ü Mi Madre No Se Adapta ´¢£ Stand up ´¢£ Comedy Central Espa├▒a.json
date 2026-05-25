@@ -1,0 +1,494 @@
+{
+  "audio_file": "Rubén García： Mi Madre No Se Adapta ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "Hola. ¿Qué tal? Buenas noches. Que no. Vengo de Valencia. Gente con tarita. Lo habréis visto por la tele. Mujeres y hombres. Eso es nuestro. Inventad por nosotros. Con lo que sobró hicimos Gandiazor con todos los unormales. Así que lo explico. Buenas noches. Buenas noches. Todos juntos. Buenas noches. Pues así se comunican en mi pueblo. ¿Qué te parece? Que la gente me dice, este no está bien pastarlo. Ni yo, ni ninguno de mi familia. Ninguno. Mira, tengo un abuelo, basto. El jamón lo corta con radial. Fíjate el hombre cómo será, de verdad. A mi abuela la lleva loca. Y eso que mi abuela otra cosa no. Pero se conserva. Yo tengo una abuela que se conserva. Tiene 80 años y aparenta 53, como lo digo. Ella dice que es de Jaén. Yo creo que es un elfo. Seguro. Mirad, también vive con nosotros mi madre. Quiero dejar claro una cosa. Yo a mi madre la quiero. Pero yo creo que la quiero porque la tengo que querer. Porque yo tengo una madre muy tradicional que no se adapta. Y yo como la quiero, se lo digo. Le digo, mamá, que no te adaptas. Dice, que qué, digo. Que no te adaptas. Que te has quedado. Que no te adaptas. Dice, que qué, digo. Que no te adaptas. Porque la quiero. No, no, no, no. La quiero mucho. Y se lo digo. Le digo, mamá, que no te adaptas. Dice, que qué, digo. Que no te adaptas. Que te has quedado. Que no te adaptas. Dice, que qué, digo. Que no te adaptas. Porque la quiero mucho a mi madre. Porque la quiero. Y esto es muy duro para un hijo. Porque yo hay veces que llego de los monólogos muy tarde, de madrugada, y yo he quedado a casa. Llego, la despierto. Dice, ¿qué? Digo, que no te adaptas, mamá. ¿No lo ves que no te adaptas? Que no se adapta. No, que no se adapta. No se adapta. Mi madre, la vitrocerámica, la enciende con cerillas. Digo, no te adaptas, mamá. Se ha quedado con sus frases de antes, de madre, de antes. Mi madre aún dice que el agua oxigenada no escuece. Digo, te reviento la cabeza. No escuece. Hombre, con las cosas blancas que me salen a mí, pues no vas a cocer eso. De pequeño me decía, hijo mío, bebe agua que aclara la vista. Hijo mío, bebe agua que aclara la vista. Mira, me lo dijo tantas veces que yo de pequeño me bebía un vaso de Coca-Cola y veía borroso. Fíjate las veces que me lo habrá dicho. Que se me ha quedado secuela de eso. Se me ha quedado secuela. Que el otro día vi en mi pueblo, al que vende los cupones bebiendo agua, digo, a buenas horas, socio, te pones tú. A buenas horas. Claro. Hombre. Hombre. Hombre. Hijo. Hombre. Gracias por ver el video.",
+  "chunks": [
+    {
+      "text": " Hola.",
+      "start": 1.240000000000004,
+      "end": 1.76
+    },
+    {
+      "text": " ¿Qué tal? Buenas noches.",
+      "start": 3.600000000000004,
+      "end": 4.84
+    },
+    {
+      "text": " Que no.",
+      "start": 6.400000000000004,
+      "end": 7.16
+    },
+    {
+      "text": " Vengo de Valencia.",
+      "start": 8.12,
+      "end": 9.14
+    },
+    {
+      "text": " Gente con tarita.",
+      "start": 10.180000000000003,
+      "end": 11.3
+    },
+    {
+      "text": " Lo habréis visto por la tele.",
+      "start": 12.140000000000004,
+      "end": 13.54
+    },
+    {
+      "text": " Mujeres y hombres. Eso es nuestro.",
+      "start": 14.46,
+      "end": 15.92
+    },
+    {
+      "text": " Inventad por nosotros.",
+      "start": 16.04,
+      "end": 16.74
+    },
+    {
+      "text": " Con lo que sobró hicimos Gandiazor con todos los unormales.",
+      "start": 17.74,
+      "end": 20.12
+    },
+    {
+      "text": " Así que lo explico. Buenas noches.",
+      "start": 21.72,
+      "end": 23.58
+    },
+    {
+      "text": " Buenas noches.",
+      "start": 25.760000000000005,
+      "end": 26.6
+    },
+    {
+      "text": " Todos juntos. Buenas noches.",
+      "start": 27.240000000000006,
+      "end": 28.68
+    },
+    {
+      "text": " Pues así se comunican en mi pueblo.",
+      "start": 29.42,
+      "end": 31.18
+    },
+    {
+      "text": " ¿Qué te parece?",
+      "start": 31.4,
+      "end": 31.72
+    },
+    {
+      "text": " Que la gente me dice, este no está bien pastarlo.",
+      "start": 33.18000000000001,
+      "end": 35.34
+    },
+    {
+      "text": " Ni yo, ni ninguno de mi familia.",
+      "start": 35.48,
+      "end": 36.9
+    },
+    {
+      "text": " Ninguno.",
+      "start": 37.08,
+      "end": 37.42
+    },
+    {
+      "text": " Mira, tengo un abuelo, basto. El jamón lo corta con radial.",
+      "start": 38.22,
+      "end": 40.76
+    },
+    {
+      "text": " Fíjate el hombre cómo será, de verdad.",
+      "start": 40.9,
+      "end": 42.04
+    },
+    {
+      "text": " A mi abuela la lleva loca. Y eso que mi abuela otra cosa no.",
+      "start": 42.36,
+      "end": 44.76
+    },
+    {
+      "text": " Pero se conserva. Yo tengo una abuela que se conserva.",
+      "start": 44.86,
+      "end": 47.28
+    },
+    {
+      "text": " Tiene 80 años",
+      "start": 48.22,
+      "end": 49.08
+    },
+    {
+      "text": " y aparenta 53, como lo digo.",
+      "start": 49.08,
+      "end": 50.54
+    },
+    {
+      "text": " Ella dice que es de Jaén. Yo creo que es un elfo.",
+      "start": 50.84,
+      "end": 53.14
+    },
+    {
+      "text": " Seguro.",
+      "start": 54.8,
+      "end": 55.14
+    },
+    {
+      "text": " Mirad, también vive con nosotros",
+      "start": 55.739999999999995,
+      "end": 57.46
+    },
+    {
+      "text": " mi madre. Quiero dejar claro una cosa.",
+      "start": 57.46,
+      "end": 59.84
+    },
+    {
+      "text": " Yo a mi madre la quiero.",
+      "start": 60.24,
+      "end": 61.3
+    },
+    {
+      "text": " Pero yo creo que la quiero",
+      "start": 62.58,
+      "end": 63.72
+    },
+    {
+      "text": " porque la tengo que querer.",
+      "start": 63.72,
+      "end": 65.02
+    },
+    {
+      "text": " Porque yo tengo una madre",
+      "start": 66.76,
+      "end": 67.8
+    },
+    {
+      "text": " muy tradicional",
+      "start": 68.42,
+      "end": 68.98
+    },
+    {
+      "text": " que no se adapta.",
+      "start": 69.46,
+      "end": 70.46
+    },
+    {
+      "text": " Y yo como la quiero,",
+      "start": 71.08,
+      "end": 72.08
+    },
+    {
+      "text": " se lo digo.",
+      "start": 72.2,
+      "end": 72.94
+    },
+    {
+      "text": " Le digo, mamá, que no te adaptas.",
+      "start": 73.36,
+      "end": 74.74
+    },
+    {
+      "text": " Dice, que qué, digo.",
+      "start": 74.84,
+      "end": 75.42
+    },
+    {
+      "text": " Que no te adaptas.",
+      "start": 75.5,
+      "end": 76.08
+    },
+    {
+      "text": " Que te has quedado.",
+      "start": 76.18,
+      "end": 76.58
+    },
+    {
+      "text": " Que no te adaptas.",
+      "start": 76.66,
+      "end": 77.22
+    },
+    {
+      "text": " Dice, que qué, digo.",
+      "start": 77.28,
+      "end": 77.82
+    },
+    {
+      "text": " Que no te adaptas.",
+      "start": 77.88,
+      "end": 78.48
+    },
+    {
+      "text": " Porque la quiero.",
+      "start": 78.48,
+      "end": 79.08
+    },
+    {
+      "text": " No, no, no, no.",
+      "start": 80.9,
+      "end": 81.62
+    },
+    {
+      "text": " La quiero mucho.",
+      "start": 83.02000000000001,
+      "end": 83.76
+    },
+    {
+      "text": " Y se lo digo.",
+      "start": 84.10000000000001,
+      "end": 84.78
+    },
+    {
+      "text": " Le digo, mamá, que no te adaptas.",
+      "start": 84.9,
+      "end": 86.08
+    },
+    {
+      "text": " Dice, que qué, digo.",
+      "start": 86.16,
+      "end": 86.66
+    },
+    {
+      "text": " Que no te adaptas.",
+      "start": 86.74,
+      "end": 87.26
+    },
+    {
+      "text": " Que te has quedado.",
+      "start": 87.34,
+      "end": 87.7
+    },
+    {
+      "text": " Que no te adaptas.",
+      "start": 87.82,
+      "end": 88.3
+    },
+    {
+      "text": " Dice, que qué, digo.",
+      "start": 88.32,
+      "end": 88.84
+    },
+    {
+      "text": " Que no te adaptas.",
+      "start": 88.92,
+      "end": 89.48
+    },
+    {
+      "text": " Porque la quiero mucho a mi madre.",
+      "start": 89.6,
+      "end": 90.78
+    },
+    {
+      "text": " Porque la quiero.",
+      "start": 90.94,
+      "end": 91.6
+    },
+    {
+      "text": " Y esto es muy duro para un hijo.",
+      "start": 92.56,
+      "end": 93.86
+    },
+    {
+      "text": " Porque yo hay veces que llego de los monólogos",
+      "start": 94.68,
+      "end": 96.28
+    },
+    {
+      "text": " muy tarde, de madrugada,",
+      "start": 96.28,
+      "end": 97.3
+    },
+    {
+      "text": " y yo he quedado a casa.",
+      "start": 97.3,
+      "end": 97.64
+    },
+    {
+      "text": " Llego, la despierto.",
+      "start": 97.84,
+      "end": 98.42
+    },
+    {
+      "text": " Dice, ¿qué?",
+      "start": 98.56,
+      "end": 98.86
+    },
+    {
+      "text": " Digo, que no te adaptas, mamá.",
+      "start": 99.04,
+      "end": 100.2
+    },
+    {
+      "text": " ¿No lo ves que no te adaptas?",
+      "start": 100.2,
+      "end": 101.2
+    },
+    {
+      "text": " Que no se adapta.",
+      "start": 102.24000000000001,
+      "end": 103.32
+    },
+    {
+      "text": " No, que no se adapta.",
+      "start": 103.52,
+      "end": 104.92
+    },
+    {
+      "text": " No se adapta.",
+      "start": 105.84,
+      "end": 106.76
+    },
+    {
+      "text": " Mi madre, la vitrocerámica,",
+      "start": 108.36000000000001,
+      "end": 109.8
+    },
+    {
+      "text": " la enciende con cerillas.",
+      "start": 109.88,
+      "end": 110.72
+    },
+    {
+      "text": " Digo, no te adaptas, mamá.",
+      "start": 110.84,
+      "end": 112.04
+    },
+    {
+      "text": " Se ha quedado con sus frases de antes,",
+      "start": 113.0,
+      "end": 114.6
+    },
+    {
+      "text": " de madre, de antes.",
+      "start": 114.72,
+      "end": 115.5
+    },
+    {
+      "text": " Mi madre aún dice que el agua oxigenada",
+      "start": 115.9,
+      "end": 117.9
+    },
+    {
+      "text": " no escuece.",
+      "start": 117.9,
+      "end": 118.82
+    },
+    {
+      "text": " Digo, te reviento la cabeza.",
+      "start": 118.92,
+      "end": 120.28
+    },
+    {
+      "text": " No escuece.",
+      "start": 120.44,
+      "end": 120.8
+    },
+    {
+      "text": " Hombre, con las cosas blancas que me salen a mí,",
+      "start": 120.94,
+      "end": 123.74
+    },
+    {
+      "text": " pues no vas a cocer eso.",
+      "start": 123.84,
+      "end": 124.7
+    },
+    {
+      "text": " De pequeño me decía, hijo mío,",
+      "start": 125.36,
+      "end": 126.86
+    },
+    {
+      "text": " bebe agua que aclara la vista.",
+      "start": 126.86,
+      "end": 128.26
+    },
+    {
+      "text": " Hijo mío, bebe agua que aclara la vista.",
+      "start": 128.44,
+      "end": 130.14
+    },
+    {
+      "text": " Mira, me lo dijo tantas veces",
+      "start": 130.24,
+      "end": 131.42
+    },
+    {
+      "text": " que yo de pequeño me bebía un vaso de Coca-Cola",
+      "start": 131.42,
+      "end": 133.7
+    },
+    {
+      "text": " y veía borroso.",
+      "start": 133.7,
+      "end": 134.62
+    },
+    {
+      "text": " Fíjate las veces que me lo habrá dicho.",
+      "start": 134.7,
+      "end": 135.66
+    },
+    {
+      "text": " Que se me ha quedado secuela de eso.",
+      "start": 136.70000000000002,
+      "end": 138.08
+    },
+    {
+      "text": " Se me ha quedado secuela.",
+      "start": 138.12,
+      "end": 138.86
+    },
+    {
+      "text": " Que el otro día vi en mi pueblo,",
+      "start": 139.1,
+      "end": 140.44
+    },
+    {
+      "text": " al que vende los cupones bebiendo agua,",
+      "start": 140.56,
+      "end": 142.02
+    },
+    {
+      "text": " digo, a buenas horas, socio, te pones tú.",
+      "start": 142.1,
+      "end": 143.78
+    },
+    {
+      "text": " A buenas horas.",
+      "start": 143.86,
+      "end": 144.44
+    },
+    {
+      "text": " Claro.",
+      "start": 145.14000000000001,
+      "end": 145.46
+    },
+    {
+      "text": " Hombre.",
+      "start": 147.14000000000001,
+      "end": 147.46
+    },
+    {
+      "text": " Hombre.",
+      "start": 156.86,
+      "end": 157.46
+    },
+    {
+      "text": " Hombre.",
+      "start": 157.48,
+      "end": 158.64
+    },
+    {
+      "text": " Hijo.",
+      "start": 158.8,
+      "end": 158.88
+    },
+    {
+      "text": " Hombre.",
+      "start": 159.82,
+      "end": 161.02
+    },
+    {
+      "text": " Gracias por ver el video.",
+      "start": 161.02,
+      "end": 165.76
+    }
+  ],
+  "processing_time": 1.8602557182312012,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

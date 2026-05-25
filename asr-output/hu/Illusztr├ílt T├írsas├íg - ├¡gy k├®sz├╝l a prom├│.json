@@ -1,0 +1,24 @@
+{
+  "audio_file": "Illusztrált Társaság - így készül a promó.wav",
+  "full_text": "K a arholt 1,5 mm. a arholt 1,5 minim IVAT",
+  "chunks": [
+    {
+      "text": " K",
+      "start": 2.2600000000000002,
+      "end": 3.66
+    },
+    {
+      "text": " a arholt 1,5 mm.",
+      "start": 34.620000000000005,
+      "end": 40.76
+    },
+    {
+      "text": " a arholt 1,5 minim IVAT",
+      "start": 42.14,
+      "end": 50.26
+    }
+  ],
+  "processing_time": 2.3485400676727295,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

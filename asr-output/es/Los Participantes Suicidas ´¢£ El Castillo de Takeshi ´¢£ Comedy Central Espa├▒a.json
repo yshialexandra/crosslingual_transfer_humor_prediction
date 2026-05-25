@@ -1,0 +1,274 @@
+{
+  "audio_file": "Los Participantes Suicidas ｜ El Castillo de Takeshi ｜ Comedy Central España.wav",
+  "full_text": "El sanatorio de Takeshi. El lugar donde puede tumbarse a descansar. Y dejar atrás, por un instante, los golpes que te da la vida. El siguiente tratamiento es... El monstruo del japonés. Esta es la consulta del doctor Careta Panceta. Una consulta muy particular. Para ver al doctor tienes que tumbarte en la camilla. Si llega donde pone gol, no te atiende. Pero si te quedas corto, estás de suerte. Porque aparece el doctor y te arregla. ¡Son cien euros! A ver, hazte aquí. ¡Leo la cuore! Ah, pues muy bien, oye. ¡Ay, qué guapo es! Vaya friki eres. ¡Venga a la camilla! ¡Sí! Lo que no sabe el mariscal es que Leo la es adicta al sexo. Por eso ha venido a la consulta. ¡Ah, ah, ah! ¡Mírala, no puede parar! ¡Que hay mariscales delante, cochinota! Menos mal que el doctor va a ayudarla enseguida. ¡Dale, dale! ¡No te cortes, libidinosa! ¡Hala, al agua! Vaya, son unos métodos un poco brujos, ¿no? No te creas, el doctor es un doctor muy reconocido. Pues ya me dirás cómo se lleva máscara. Y encima se tapa la cara con las manos. ¡Cúreme, doctor! ¡Por caridad se lo pido! ¡Allá voy! ¿Pero dónde va? ¡Que se pasa la consulta! ¡Se va a salir del edificio! Ah, déjalo, si es un suicida. Siempre que viene, se tira. A mí me ha dicho mi yerno que venga. Pues vale. ¡Me, je, je! ¡Pas mi yerno! Madre mía, qué desastre. Esta señora no se ha puesto en horizontal en su vida. Lo siento mucho por su marido. No pasa nada porque está a punto de conocer a otro hombre. ¡Ay, no, no es mi tipo este! ¡Hala! ¡Otra suicida! Pues me voy sin pagar la consulta. ¡Maldición! Me llamo así. Ya, pero ¿eres drogadicto de verdad? No, solo el nombre. Ah, vale, porque tienes toda la cara, ¿eh? ¿Tienes suelto para el bus? ¡Ah, lo sabía! Estamos ante el drama del barrio obrero. Alessandro es un buen chico, pero tiene que centrarse. Aquí vamos a solucionar eso sin hermano mayor ni leches. Tiene que centrarse y ahí lo tienes. Se ha centrado. ¡Bravo, Alessandro! Y aquí llega el último paciente. Bueno, bueno, de paciente nada, porque el tío se ha tirado enseguida. A lo mejor ese es su problema, que es muy impaciente. No, no, su problema es que tiene el baile de Sambito. Míralo. Ahí, venga, pa'lante, pa' atrás. Se mueve como una madre cuando le quiere sacar una foto. Pa'lante, pa' atrás, pa'lante, pa' atrás, pa'lante otra vez. Sí, sí, sí, sí, pero el tío lo ha hecho, ¿eh? Míralo. ¡Viva Sambito!",
+  "chunks": [
+    {
+      "text": " El sanatorio de Takeshi. El lugar donde puede tumbarse a descansar. Y dejar atrás, por un instante, los golpes que te da la vida.",
+      "start": 1.3999999999999995,
+      "end": 13.0
+    },
+    {
+      "text": " El siguiente tratamiento es... El monstruo del japonés.",
+      "start": 13.74,
+      "end": 19.64
+    },
+    {
+      "text": " Esta es la consulta del doctor Careta Panceta. Una consulta muy particular.",
+      "start": 21.54,
+      "end": 26.06
+    },
+    {
+      "text": " Para ver al doctor tienes que tumbarte en la camilla. Si llega donde pone gol, no te atiende.",
+      "start": 26.06,
+      "end": 31.16
+    },
+    {
+      "text": " Pero si te quedas corto, estás de suerte. Porque aparece el doctor y te arregla.",
+      "start": 31.42,
+      "end": 36.26
+    },
+    {
+      "text": " ¡Son cien euros!",
+      "start": 39.64,
+      "end": 40.74
+    },
+    {
+      "text": " A ver, hazte aquí. ¡Leo la cuore!",
+      "start": 42.04,
+      "end": 45.36
+    },
+    {
+      "text": " Ah, pues muy bien, oye.",
+      "start": 45.68,
+      "end": 47.18
+    },
+    {
+      "text": " ¡Ay, qué guapo es!",
+      "start": 47.74,
+      "end": 50.06
+    },
+    {
+      "text": " Vaya friki eres. ¡Venga a la camilla!",
+      "start": 50.52,
+      "end": 52.74
+    },
+    {
+      "text": " ¡Sí!",
+      "start": 52.88,
+      "end": 53.16
+    },
+    {
+      "text": " Lo que no sabe el mariscal es que Leo la es adicta al sexo. Por eso ha venido a la consulta.",
+      "start": 54.44,
+      "end": 58.44
+    },
+    {
+      "text": " ¡Ah, ah, ah! ¡Mírala, no puede parar! ¡Que hay mariscales delante, cochinota!",
+      "start": 58.54,
+      "end": 63.14
+    },
+    {
+      "text": " Menos mal que el doctor va a ayudarla enseguida.",
+      "start": 63.38,
+      "end": 65.22
+    },
+    {
+      "text": " ¡Dale, dale! ¡No te cortes, libidinosa! ¡Hala, al agua!",
+      "start": 66.1,
+      "end": 69.48
+    },
+    {
+      "text": " Vaya, son unos métodos un poco brujos, ¿no?",
+      "start": 70.64,
+      "end": 72.4
+    },
+    {
+      "text": " No te creas, el doctor es un doctor muy reconocido.",
+      "start": 72.96,
+      "end": 75.42
+    },
+    {
+      "text": " Pues ya me dirás cómo se lleva máscara. Y encima se tapa la cara con las manos.",
+      "start": 75.52,
+      "end": 78.56
+    },
+    {
+      "text": " ¡Cúreme, doctor! ¡Por caridad se lo pido!",
+      "start": 79.96,
+      "end": 82.62
+    },
+    {
+      "text": " ¡Allá voy!",
+      "start": 84.24000000000001,
+      "end": 84.9
+    },
+    {
+      "text": " ¿Pero dónde va? ¡Que se pasa la consulta! ¡Se va a salir del edificio!",
+      "start": 86.7,
+      "end": 90.62
+    },
+    {
+      "text": " Ah, déjalo, si es un suicida.",
+      "start": 90.96,
+      "end": 92.44
+    },
+    {
+      "text": " Siempre que viene, se tira.",
+      "start": 94.42,
+      "end": 96.1
+    },
+    {
+      "text": " A mí me ha dicho mi yerno que venga.",
+      "start": 98.78,
+      "end": 100.5
+    },
+    {
+      "text": " Pues vale.",
+      "start": 100.82,
+      "end": 101.46
+    },
+    {
+      "text": " ¡Me, je, je! ¡Pas mi yerno!",
+      "start": 102.76,
+      "end": 105.32
+    },
+    {
+      "text": " Madre mía, qué desastre. Esta señora no se ha puesto en horizontal en su vida. Lo siento mucho por su marido.",
+      "start": 106.0,
+      "end": 110.52
+    },
+    {
+      "text": " No pasa nada porque está a punto de conocer a otro hombre.",
+      "start": 110.76,
+      "end": 113.12
+    },
+    {
+      "text": " ¡Ay, no, no es mi tipo este!",
+      "start": 113.92,
+      "end": 115.74
+    },
+    {
+      "text": " ¡Hala! ¡Otra suicida!",
+      "start": 117.10000000000001,
+      "end": 119.26
+    },
+    {
+      "text": " Pues me voy sin pagar la consulta.",
+      "start": 120.88,
+      "end": 123.18
+    },
+    {
+      "text": " ¡Maldición!",
+      "start": 123.46,
+      "end": 123.88
+    },
+    {
+      "text": " Me llamo así.",
+      "start": 125.1,
+      "end": 126.12
+    },
+    {
+      "text": " Ya, pero ¿eres drogadicto de verdad?",
+      "start": 126.48,
+      "end": 128.26
+    },
+    {
+      "text": " No, solo el nombre.",
+      "start": 128.52,
+      "end": 129.5
+    },
+    {
+      "text": " Ah, vale, porque tienes toda la cara, ¿eh?",
+      "start": 129.84,
+      "end": 131.36
+    },
+    {
+      "text": " ¿Tienes suelto para el bus?",
+      "start": 131.52,
+      "end": 132.44
+    },
+    {
+      "text": " ¡Ah, lo sabía!",
+      "start": 132.68,
+      "end": 133.56
+    },
+    {
+      "text": " Estamos ante el drama del barrio obrero.",
+      "start": 134.7,
+      "end": 136.58
+    },
+    {
+      "text": " Alessandro es un buen chico, pero tiene que centrarse.",
+      "start": 137.0,
+      "end": 139.18
+    },
+    {
+      "text": " Aquí vamos a solucionar eso sin hermano mayor ni leches.",
+      "start": 139.3,
+      "end": 141.88
+    },
+    {
+      "text": " Tiene que centrarse y ahí lo tienes.",
+      "start": 142.22,
+      "end": 143.84
+    },
+    {
+      "text": " Se ha centrado.",
+      "start": 144.28,
+      "end": 144.92
+    },
+    {
+      "text": " ¡Bravo, Alessandro!",
+      "start": 145.12,
+      "end": 145.9
+    },
+    {
+      "text": " Y aquí llega el último paciente.",
+      "start": 147.0,
+      "end": 148.7
+    },
+    {
+      "text": " Bueno, bueno, de paciente nada, porque el tío se ha tirado enseguida.",
+      "start": 150.26,
+      "end": 153.1
+    },
+    {
+      "text": " A lo mejor ese es su problema, que es muy impaciente.",
+      "start": 153.32,
+      "end": 155.7
+    },
+    {
+      "text": " No, no, su problema es que tiene el baile de Sambito.",
+      "start": 155.84,
+      "end": 158.3
+    },
+    {
+      "text": " Míralo.",
+      "start": 158.48,
+      "end": 158.8
+    },
+    {
+      "text": " Ahí, venga, pa'lante, pa' atrás. Se mueve como una madre cuando le quiere sacar una foto.",
+      "start": 159.32,
+      "end": 162.36
+    },
+    {
+      "text": " Pa'lante, pa' atrás, pa'lante, pa' atrás, pa'lante otra vez.",
+      "start": 162.36,
+      "end": 165.08
+    },
+    {
+      "text": " Sí, sí, sí, sí, pero el tío lo ha hecho, ¿eh? Míralo.",
+      "start": 165.16,
+      "end": 166.36
+    },
+    {
+      "text": " ¡Viva Sambito!",
+      "start": 167.42,
+      "end": 167.98
+    }
+  ],
+  "processing_time": 1.0269944667816162,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,54 @@
+{
+  "audio_file": "Mélyvíz ｜ Születésnap.wav",
+  "full_text": "A simulationsztó Balludatásnak és tűnik El nem tudom mondani, mennyire rühellem ezeket a születésnapokat. Nekem, mondod. Ez a hülyeség mindig leégeti a bajszomat. Azért mert XY-nak születésnapjavan már örüljön az egész étterem? Vagy mi? Ja. Az a vacak meg mindig leégeti a bajszom. Na, megyünk túl rajta. Boldog szőri napot, boldog szőri napot, boldog szőri napot, rábor, boldog szőri napot. Jó, na füle érjen bokáig, aztán tessék most már csendesen lenni, mert a többi vendég fogyasztana. Jó, ajándékot lehet kibontani, gravírozott, öngyűjtő van benne, láttuk mikor csomagolták. Jövőre lehet házi bulit tartani. Látom, mennének van, hoznánk a számlát. Minden oké? Aha, kicsit megkapta. Érzem a szagát, ugye elhányom magam.",
+  "chunks": [
+    {
+      "text": " A simulationsztó Balludatásnak és tűnik",
+      "start": 0.0,
+      "end": 4.2
+    },
+    {
+      "text": " El nem tudom mondani, mennyire rühellem ezeket a születésnapokat.",
+      "start": 5.88,
+      "end": 9.98
+    },
+    {
+      "text": " Nekem, mondod.",
+      "start": 10.26,
+      "end": 11.28
+    },
+    {
+      "text": " Ez a hülyeség mindig leégeti a bajszomat.",
+      "start": 12.4,
+      "end": 14.34
+    },
+    {
+      "text": " Azért mert XY-nak születésnapjavan már örüljön az egész étterem?",
+      "start": 14.66,
+      "end": 18.3
+    },
+    {
+      "text": " Vagy mi? Ja.",
+      "start": 18.46,
+      "end": 19.02
+    },
+    {
+      "text": " Az a vacak meg mindig leégeti a bajszom. Na, megyünk túl rajta.",
+      "start": 19.72,
+      "end": 25.28
+    },
+    {
+      "text": " Boldog szőri napot, boldog szőri napot, boldog szőri napot, rábor, boldog szőri napot.",
+      "start": 30.0,
+      "end": 44.9
+    },
+    {
+      "text": " Jó, na füle érjen bokáig, aztán tessék most már csendesen lenni, mert a többi vendég fogyasztana. Jó, ajándékot lehet kibontani, gravírozott, öngyűjtő van benne, láttuk mikor csomagolták. Jövőre lehet házi bulit tartani. Látom, mennének van, hoznánk a számlát. Minden oké? Aha, kicsit megkapta. Érzem a szagát, ugye elhányom magam.",
+      "start": 60.0,
+      "end": 80.9
+    }
+  ],
+  "processing_time": 1.6372334957122803,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

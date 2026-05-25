@@ -1,0 +1,129 @@
+{
+  "audio_file": "Guitarhero 2 ｜ Mélynyomó.wav",
+  "full_text": "Te! Nem hiszed el, ki jön? Ki? A Zánchai legnagyobb gitárhős ever hallod? Hallom, és? Övé az Emilia, na saját bárja van! Az Emilia az nem egy bár, Emilia az a magyar rocktörténet leghíresebb gitárja. 1969-ben volt a Jimmy Blingene, tőle örökölte egy félmagyar, és onnan vigyázz jön! Szevasztok! Úristen! Tudnátok segíteni? Persze, te vagy a Jimmy bingye. Nem, de ez az ő gitárja volt, csak a G úr picit szarul szól, ki kellene cserélni, mert ható beállás. Megnézem, mit tehetek. Kösz. Hallod, legnagyobbak vagytok! Ááááááá! Figyelj, nem nagy szemtelenség, hogyha kérek az unokahugomnak egy autogramot? Persze, hol van? Ja, ilyenkor a hugommal. Úgyhogy, vagy figyelj, nem csinálnánk egy szelfit, és akkor át tudnám küldeni neki MMS-be, jó? Vagy itt a kollégám már vissza is ért, majd megcsinálja. Endike gyere, csinálj egy fotót! Na, itt is van, parancsai. Hol a gitárok? Hát tekérletet, hogy cseréljem ki. Tök Frankó, G úr szól, holland srácok nagyon rendesek voltak, meg adtak 100 eurót is.",
+  "chunks": [
+    {
+      "text": " Te! Nem hiszed el, ki jön?",
+      "start": 5.379999999999997,
+      "end": 7.4
+    },
+    {
+      "text": " Ki?",
+      "start": 7.6,
+      "end": 7.82
+    },
+    {
+      "text": " A Zánchai legnagyobb gitárhős ever hallod?",
+      "start": 8.2,
+      "end": 11.82
+    },
+    {
+      "text": " Hallom, és?",
+      "start": 11.9,
+      "end": 12.54
+    },
+    {
+      "text": " Övé az Emilia, na saját bárja van!",
+      "start": 12.72,
+      "end": 15.0
+    },
+    {
+      "text": " Az Emilia az nem egy bár, Emilia az a magyar rocktörténet leghíresebb gitárja.",
+      "start": 15.08,
+      "end": 19.78
+    },
+    {
+      "text": " 1969-ben volt a Jimmy Blingene, tőle örökölte egy félmagyar, és onnan vigyázz jön!",
+      "start": 19.86,
+      "end": 24.7
+    },
+    {
+      "text": " Szevasztok! Úristen!",
+      "start": 25.339999999999996,
+      "end": 26.74
+    },
+    {
+      "text": " Tudnátok segíteni?",
+      "start": 27.459999999999994,
+      "end": 28.38
+    },
+    {
+      "text": " Persze, te vagy a Jimmy bingye.",
+      "start": 28.38,
+      "end": 29.9
+    },
+    {
+      "text": " Nem, de ez az ő gitárja volt, csak a G úr picit szarul szól, ki kellene cserélni, mert ható beállás.",
+      "start": 30.14,
+      "end": 35.56
+    },
+    {
+      "text": " Megnézem, mit tehetek.",
+      "start": 36.1,
+      "end": 37.02
+    },
+    {
+      "text": " Kösz.",
+      "start": 37.28,
+      "end": 37.64
+    },
+    {
+      "text": " Hallod, legnagyobbak vagytok! Ááááááá!",
+      "start": 39.459999999999994,
+      "end": 41.54
+    },
+    {
+      "text": " Figyelj, nem nagy szemtelenség, hogyha kérek az unokahugomnak egy autogramot?",
+      "start": 41.7,
+      "end": 45.24
+    },
+    {
+      "text": " Persze, hol van?",
+      "start": 45.46,
+      "end": 46.26
+    },
+    {
+      "text": " Ja, ilyenkor a hugommal.",
+      "start": 46.7,
+      "end": 48.28
+    },
+    {
+      "text": " Úgyhogy, vagy figyelj, nem csinálnánk egy szelfit, és akkor át tudnám küldeni neki MMS-be, jó?",
+      "start": 48.74,
+      "end": 53.76
+    },
+    {
+      "text": " Vagy itt a kollégám már vissza is ért, majd megcsinálja.",
+      "start": 53.94,
+      "end": 56.28
+    },
+    {
+      "text": " Endike gyere, csinálj egy fotót!",
+      "start": 56.28,
+      "end": 57.7
+    },
+    {
+      "text": " Na, itt is van, parancsai.",
+      "start": 57.84,
+      "end": 59.24
+    },
+    {
+      "text": " Hol a gitárok?",
+      "start": 60.7,
+      "end": 61.76
+    },
+    {
+      "text": " Hát tekérletet, hogy cseréljem ki.",
+      "start": 61.88,
+      "end": 63.3
+    },
+    {
+      "text": " Tök Frankó, G úr szól, holland srácok nagyon rendesek voltak, meg adtak 100 eurót is.",
+      "start": 64.18,
+      "end": 69.3
+    }
+  ],
+  "processing_time": 1.5415942668914795,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

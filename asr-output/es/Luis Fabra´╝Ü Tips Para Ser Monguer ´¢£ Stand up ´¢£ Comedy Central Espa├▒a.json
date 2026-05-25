@@ -1,0 +1,609 @@
+{
+  "audio_file": "Luis Fabra： Tips Para Ser Monguer ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "¿No os guste o no? Todos somos un poco mongers. Yo el primero, ¿eh? Yo el primero. O sea, fijaros, estoy en paro. Tengo todo el tiempo del mundo. ¿Tú te crees que se me ocurre aprovecharlo? Hacer algo que me dé beneficio. Si yo trabajo para alguien, ahí estoy, de lunes a viernes, llueva o haga sol, que va a hacer sol. Pero si es para mí, que se joda la empresa. Pero si la empresa eres tú. O sea, no tiene sentido. Yo no sé si es algo inherente al ser humano o al español. Pero yo si no tengo un tío que me esté diciendo ahí, ¡eso tiene que estar para ayer! Yo no hago ni el huevo. Pero nada. Y yo creo, opino, que eso es algo que nos viene heredado de una época muy concreta. Cuando estábamos de exámenes. ¿O no os acordáis? Esos días que había que hacer un montón de cosas y no hacías nada. Todo el día metido en casa. Yo me acuerdo perfectamente de estar ahí estudiando matemáticas y estar 2x al cuadrado menos x más 5 igual a... Y ver un plastidecor. Y pensar, si yo a este plastidecor le quemo la punta con un mechero, ¿lo podré unir a otro plastidecor? Y decir, lo voy a probar, no me voy a quedar con la duda. Abro un cajón, saco un mechero ahí, soplo... Bueno, o sea, un éxito total. Había inventado un nuevo color, el perderillo. Era como... Pero digo, ¿a esto le podría añadir un tercer plastidecor? ¿O plastidecor? Pues siempre estaba la lucha. ¿Es plastidecor? No, es plastidecor. Las dos españas. No, digo, ¿le podría añadir un tercer plastidecor? No, no, no aplaudes a esta chorrada. Un poco de decencia. Bueno, al final digo, ¿hasta cuántos plastidecor sería yo capaz de...? A la media hora tenía un politro que así largo de colorines, que parecía un gondolero homosexual, ¿sabes? Era como... Y entra mi madre en casa, cariño, ya estoy aquí, te ha cundido la tarde. Y yo, coño, no cabía en ningún lado, no podía esconderlo, claro. Tampoco lo iba a romper, no iba a perder el trabajo de toda la tarde, ¿sabes? Bueno, o me acuerdo perfectamente de estar estudiando otro día latín. Bueno, latín, esa asignatura que tanto me ha servido en mi trayectoria profesional. Bueno, o sea, casi no estoy en paro por el latín, ¿eh? Estaban ahí de... Oye, mira, es que no sabe informática, no sabe inglés, ya, ya, pero sabe latín. Hostia, ¿pero en serio? Sí, sí, sí. Oye, pero eso es cojonudo, eso podría mejorar nuestra relación con la ETL de hace 20 siglos. Bueno, el caso es que ahí estaba yo, haciendo gilipollas como todos alguna vez, ¿no? Rosa, rosae, rosae. Rosa, rosae, rosae. Rosam, rosas, rosas. Rosam, rosas. Y me quedo mirando el armario. El mueble zapatero. La mesita de noche, la cama. Y digo, yo creo que puedo ir de la silla al armario, al mueble zapatero, a la mesita de noche, a la cama y de vuelta a la silla sin tocar suelo. Lo habéis hecho, ¿no? y de vuelta a la cama. Gracias.",
+  "chunks": [
+    {
+      "text": " ¿No os guste o no?",
+      "start": 1.3200000000000005,
+      "end": 2.14
+    },
+    {
+      "text": " Todos somos un poco mongers.",
+      "start": 2.5000000000000013,
+      "end": 4.08
+    },
+    {
+      "text": " Yo el primero, ¿eh? Yo el primero.",
+      "start": 5.82,
+      "end": 7.24
+    },
+    {
+      "text": " O sea, fijaros, estoy en paro.",
+      "start": 7.4,
+      "end": 8.98
+    },
+    {
+      "text": " Tengo todo el tiempo del mundo.",
+      "start": 9.12,
+      "end": 10.26
+    },
+    {
+      "text": " ¿Tú te crees que se me ocurre aprovecharlo?",
+      "start": 10.56,
+      "end": 12.04
+    },
+    {
+      "text": " Hacer algo que me dé beneficio.",
+      "start": 13.98,
+      "end": 15.26
+    },
+    {
+      "text": " Si yo trabajo para alguien,",
+      "start": 15.98,
+      "end": 17.28
+    },
+    {
+      "text": " ahí estoy, de lunes a viernes,",
+      "start": 17.66,
+      "end": 19.04
+    },
+    {
+      "text": " llueva o haga sol, que va a hacer sol.",
+      "start": 19.28,
+      "end": 20.72
+    },
+    {
+      "text": " Pero si es para mí,",
+      "start": 22.44,
+      "end": 23.26
+    },
+    {
+      "text": " que se joda la empresa.",
+      "start": 23.52,
+      "end": 24.58
+    },
+    {
+      "text": " Pero si la empresa eres tú.",
+      "start": 24.68,
+      "end": 25.6
+    },
+    {
+      "text": " O sea, no tiene sentido.",
+      "start": 25.86,
+      "end": 27.08
+    },
+    {
+      "text": " Yo no sé si es algo inherente al ser humano",
+      "start": 27.34,
+      "end": 29.92
+    },
+    {
+      "text": " o al español.",
+      "start": 29.92,
+      "end": 30.64
+    },
+    {
+      "text": " Pero yo si no tengo un tío que me esté diciendo ahí,",
+      "start": 31.22,
+      "end": 33.34
+    },
+    {
+      "text": " ¡eso tiene que estar para ayer!",
+      "start": 33.38,
+      "end": 34.74
+    },
+    {
+      "text": " Yo no hago ni el huevo.",
+      "start": 35.42,
+      "end": 36.66
+    },
+    {
+      "text": " Pero nada.",
+      "start": 39.0,
+      "end": 39.72
+    },
+    {
+      "text": " Y yo creo, opino,",
+      "start": 40.1,
+      "end": 42.68
+    },
+    {
+      "text": " que eso es algo que nos viene heredado",
+      "start": 43.24,
+      "end": 45.88
+    },
+    {
+      "text": " de una época muy concreta.",
+      "start": 45.88,
+      "end": 47.44
+    },
+    {
+      "text": " Cuando estábamos de exámenes.",
+      "start": 48.6,
+      "end": 50.5
+    },
+    {
+      "text": " ¿O no os acordáis?",
+      "start": 52.08,
+      "end": 53.16
+    },
+    {
+      "text": " Esos días que había que hacer un montón de cosas",
+      "start": 53.24,
+      "end": 55.38
+    },
+    {
+      "text": " y no hacías nada.",
+      "start": 55.38,
+      "end": 56.6
+    },
+    {
+      "text": " Todo el día metido en casa.",
+      "start": 56.88,
+      "end": 58.16
+    },
+    {
+      "text": " Yo me acuerdo perfectamente",
+      "start": 58.16,
+      "end": 59.26
+    },
+    {
+      "text": " de estar ahí estudiando matemáticas",
+      "start": 59.26,
+      "end": 60.98
+    },
+    {
+      "text": " y estar 2x al cuadrado",
+      "start": 60.98,
+      "end": 63.68
+    },
+    {
+      "text": " menos x más 5",
+      "start": 64.4,
+      "end": 66.18
+    },
+    {
+      "text": " igual a...",
+      "start": 67.5,
+      "end": 68.16
+    },
+    {
+      "text": " Y ver un plastidecor.",
+      "start": 70.94,
+      "end": 72.4
+    },
+    {
+      "text": " Y pensar,",
+      "start": 75.12,
+      "end": 76.16
+    },
+    {
+      "text": " si yo a este plastidecor",
+      "start": 76.44,
+      "end": 77.96
+    },
+    {
+      "text": " le quemo la punta con un mechero,",
+      "start": 77.96,
+      "end": 79.52
+    },
+    {
+      "text": " ¿lo podré unir a otro plastidecor?",
+      "start": 81.08,
+      "end": 83.16
+    },
+    {
+      "text": " Y decir, lo voy a probar,",
+      "start": 84.12,
+      "end": 85.28
+    },
+    {
+      "text": " no me voy a quedar con la duda.",
+      "start": 85.36,
+      "end": 86.32
+    },
+    {
+      "text": " Abro un cajón,",
+      "start": 86.88,
+      "end": 87.56
+    },
+    {
+      "text": " saco un mechero ahí,",
+      "start": 87.68,
+      "end": 88.34
+    },
+    {
+      "text": " soplo...",
+      "start": 89.47999999999999,
+      "end": 89.8
+    },
+    {
+      "text": " Bueno, o sea,",
+      "start": 89.8,
+      "end": 90.6
+    },
+    {
+      "text": " un éxito total.",
+      "start": 90.72,
+      "end": 91.46
+    },
+    {
+      "text": " Había inventado un nuevo color,",
+      "start": 92.56,
+      "end": 93.7
+    },
+    {
+      "text": " el perderillo.",
+      "start": 93.82,
+      "end": 94.46
+    },
+    {
+      "text": " Era como...",
+      "start": 94.54,
+      "end": 95.22
+    },
+    {
+      "text": " Pero digo,",
+      "start": 96.46000000000001,
+      "end": 96.94
+    },
+    {
+      "text": " ¿a esto le podría añadir un tercer plastidecor?",
+      "start": 97.02,
+      "end": 99.62
+    },
+    {
+      "text": " ¿O plastidecor?",
+      "start": 100.30000000000001,
+      "end": 100.94
+    },
+    {
+      "text": " Pues siempre estaba la lucha.",
+      "start": 101.02,
+      "end": 101.82
+    },
+    {
+      "text": " ¿Es plastidecor?",
+      "start": 102.0,
+      "end": 102.74
+    },
+    {
+      "text": " No, es plastidecor.",
+      "start": 102.8,
+      "end": 103.56
+    },
+    {
+      "text": " Las dos españas.",
+      "start": 103.62,
+      "end": 104.32
+    },
+    {
+      "text": " No, digo,",
+      "start": 105.75999999999999,
+      "end": 106.46
+    },
+    {
+      "text": " ¿le podría añadir un tercer plastidecor?",
+      "start": 106.78,
+      "end": 108.52
+    },
+    {
+      "text": " No, no, no aplaudes a esta chorrada.",
+      "start": 108.72,
+      "end": 110.12
+    },
+    {
+      "text": " Un poco de decencia.",
+      "start": 111.62,
+      "end": 113.22
+    },
+    {
+      "text": " Bueno, al final digo,",
+      "start": 120.04,
+      "end": 121.16
+    },
+    {
+      "text": " ¿hasta cuántos plastidecor sería yo capaz de...?",
+      "start": 121.24,
+      "end": 123.56
+    },
+    {
+      "text": " A la media hora tenía un politro que así largo de colorines,",
+      "start": 123.56,
+      "end": 126.48
+    },
+    {
+      "text": " que parecía un gondolero homosexual,",
+      "start": 127.22,
+      "end": 129.36
+    },
+    {
+      "text": " ¿sabes?",
+      "start": 129.82,
+      "end": 130.06
+    },
+    {
+      "text": " Era como...",
+      "start": 130.26,
+      "end": 131.04
+    },
+    {
+      "text": " Y entra mi madre en casa,",
+      "start": 131.04,
+      "end": 132.84
+    },
+    {
+      "text": " cariño, ya estoy aquí,",
+      "start": 133.66,
+      "end": 134.5
+    },
+    {
+      "text": " te ha cundido la tarde.",
+      "start": 134.66,
+      "end": 135.28
+    },
+    {
+      "text": " Y yo, coño,",
+      "start": 135.4,
+      "end": 135.92
+    },
+    {
+      "text": " no cabía en ningún lado,",
+      "start": 137.04000000000002,
+      "end": 138.1
+    },
+    {
+      "text": " no podía esconderlo,",
+      "start": 138.2,
+      "end": 138.82
+    },
+    {
+      "text": " claro.",
+      "start": 138.86,
+      "end": 138.96
+    },
+    {
+      "text": " Tampoco lo iba a romper,",
+      "start": 139.84,
+      "end": 140.8
+    },
+    {
+      "text": " no iba a perder el trabajo",
+      "start": 140.86,
+      "end": 141.7
+    },
+    {
+      "text": " de toda la tarde, ¿sabes?",
+      "start": 141.7,
+      "end": 142.96
+    },
+    {
+      "text": " Bueno,",
+      "start": 145.4,
+      "end": 145.72
+    },
+    {
+      "text": " o me acuerdo perfectamente",
+      "start": 146.14,
+      "end": 147.22
+    },
+    {
+      "text": " de estar estudiando otro día",
+      "start": 147.22,
+      "end": 149.0
+    },
+    {
+      "text": " latín.",
+      "start": 149.74,
+      "end": 150.06
+    },
+    {
+      "text": " Bueno, latín,",
+      "start": 150.22,
+      "end": 150.94
+    },
+    {
+      "text": " esa asignatura que tanto me ha servido",
+      "start": 151.04,
+      "end": 152.66
+    },
+    {
+      "text": " en mi trayectoria profesional.",
+      "start": 152.66,
+      "end": 153.98
+    },
+    {
+      "text": " Bueno, o sea,",
+      "start": 154.76,
+      "end": 155.06
+    },
+    {
+      "text": " casi no estoy en paro por el latín, ¿eh?",
+      "start": 155.26,
+      "end": 156.84
+    },
+    {
+      "text": " Estaban ahí de...",
+      "start": 156.88,
+      "end": 157.66
+    },
+    {
+      "text": " Oye, mira,",
+      "start": 157.66,
+      "end": 158.3
+    },
+    {
+      "text": " es que no sabe informática,",
+      "start": 158.4,
+      "end": 159.3
+    },
+    {
+      "text": " no sabe inglés,",
+      "start": 159.42,
+      "end": 159.88
+    },
+    {
+      "text": " ya, ya,",
+      "start": 160.0,
+      "end": 160.24
+    },
+    {
+      "text": " pero sabe latín.",
+      "start": 160.32,
+      "end": 160.9
+    },
+    {
+      "text": " Hostia, ¿pero en serio?",
+      "start": 161.32,
+      "end": 162.3
+    },
+    {
+      "text": " Sí, sí, sí.",
+      "start": 162.3,
+      "end": 162.9
+    },
+    {
+      "text": " Oye, pero eso es cojonudo,",
+      "start": 163.04,
+      "end": 164.04
+    },
+    {
+      "text": " eso podría mejorar nuestra relación",
+      "start": 164.08,
+      "end": 165.32
+    },
+    {
+      "text": " con la ETL de hace 20 siglos.",
+      "start": 165.32,
+      "end": 166.88
+    },
+    {
+      "text": " Bueno,",
+      "start": 169.20000000000002,
+      "end": 169.62
+    },
+    {
+      "text": " el caso es que ahí estaba yo,",
+      "start": 169.84,
+      "end": 170.9
+    },
+    {
+      "text": " haciendo gilipollas",
+      "start": 171.06,
+      "end": 172.12
+    },
+    {
+      "text": " como todos alguna vez, ¿no?",
+      "start": 172.12,
+      "end": 173.04
+    },
+    {
+      "text": " Rosa, rosae, rosae.",
+      "start": 173.68000000000004,
+      "end": 175.04
+    },
+    {
+      "text": " Rosa, rosae, rosae.",
+      "start": 175.86,
+      "end": 177.24
+    },
+    {
+      "text": " Rosam, rosas, rosas.",
+      "start": 178.10000000000002,
+      "end": 179.4
+    },
+    {
+      "text": " Rosam, rosas.",
+      "start": 180.16000000000003,
+      "end": 181.0
+    },
+    {
+      "text": " Y me quedo mirando el armario.",
+      "start": 185.22,
+      "end": 186.72
+    },
+    {
+      "text": " El mueble zapatero.",
+      "start": 189.48000000000002,
+      "end": 190.7
+    },
+    {
+      "text": " La mesita de noche,",
+      "start": 192.3,
+      "end": 193.14
+    },
+    {
+      "text": " la cama.",
+      "start": 193.5,
+      "end": 194.2
+    },
+    {
+      "text": " Y digo,",
+      "start": 195.32,
+      "end": 196.1
+    },
+    {
+      "text": " yo creo",
+      "start": 196.18,
+      "end": 196.68
+    },
+    {
+      "text": " que puedo ir",
+      "start": 197.24,
+      "end": 198.36
+    },
+    {
+      "text": " de la silla",
+      "start": 198.36,
+      "end": 199.26
+    },
+    {
+      "text": " al armario,",
+      "start": 200.28,
+      "end": 201.4
+    },
+    {
+      "text": " al mueble zapatero,",
+      "start": 202.2,
+      "end": 203.66
+    },
+    {
+      "text": " a la mesita de noche,",
+      "start": 203.86,
+      "end": 204.78
+    },
+    {
+      "text": " a la cama",
+      "start": 204.86,
+      "end": 205.34
+    },
+    {
+      "text": " y de vuelta a la silla",
+      "start": 205.34,
+      "end": 206.96
+    },
+    {
+      "text": " sin tocar suelo.",
+      "start": 206.96,
+      "end": 208.5
+    },
+    {
+      "text": " Lo habéis hecho, ¿no?",
+      "start": 210.7,
+      "end": 211.86
+    },
+    {
+      "text": " y de vuelta a la cama.",
+      "start": 222.70000000000002,
+      "end": 233.66
+    },
+    {
+      "text": " Gracias.",
+      "start": 233.66,
+      "end": 233.8
+    }
+  ],
+  "processing_time": 1.9637126922607422,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

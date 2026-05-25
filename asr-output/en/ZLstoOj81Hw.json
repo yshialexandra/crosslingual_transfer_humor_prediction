@@ -1,0 +1,454 @@
+{
+  "audio_file": "ZLstoOj81Hw.wav",
+  "full_text": "Whatever it is you learned about what it really means to be a mother, that maybe you got that from me. Mom, listen, I was thinking that maybe tomorrow we could go look at fabric together, because I wanted to make some new drapes for our bedroom. Well, actually, I was hoping to get into the city tomorrow to see the Renoir exhibit. Oh, yeah. Yeah, that'd be great. I just don't think the Renoir exhibit is something we could actually take all the kids to. Well, you go. I'll take care of the kids. They love their grandma. Stay down. Well, if it's going to be a problem, Deborah, I could go to the museum by myself. God, Mom. What, dear? Well, could you be interested in just one thing we're doing around here, maybe? What are you saying? I'm very interested. Well, you sure don't show it. Lemon chicken, very pretty. And, uh... The chicken is sweet. I mean, you act like you don't care about me or what's going on with the kids. You haven't asked Ray one question about his job. But the chicken of the poor lemon... Is impossible to eat... Stop it, Ray. Those aren't the words. I'm trying to talk to my mother, okay? Well, perhaps we should talk about this later. This really isn't the time, Deborah. Oh, that's right. This is your vacation. You gotta do your crossword puzzle, and then you gotta take a siesta, then you're gonna run off to see Renoir. Well, I'm sorry, Deborah. I just don't know what you want from me. Oh, here, honey. Let me get that for you. You know what I want? I want you to be a part of the family. I want you to help, or I want you to at least want to help, okay? I want you to be more like... Like her! Like who? Like mom. Why? Hey. The Zulu death mask. God. You know, I was so excited about her coming to visit. You know, I had this big, wild fantasy, oh, my mother's coming, and it's gonna be so nice, and... Yeah, well, welcome to the club. What club? The your mother comes over, and it's not-so-nice club. I'm not just a member. I'm also the president. Deborah? Ow, ow, ow, nails! Oh, Deborah. Oh, Marie. Oh, Marie. Oh, Marie. Oh, Marie. I love you so very much. Let go! Let go! Ray? What you said just now, I have to admit, the game is quite a shock. To me, too. You need to stand there in front of everyone and tell them that you wished your own mother was more like me? That I'm the mother you wish you had? That is what you were trying to say, didn't you? Well, I maybe... I mean, after all these years to find out what you really think of me... You know, you were a little rude, dear. What? You can't talk to your mother like that. No matter what she's done, she's still your mother. Yeah, but I just wanted her to be a part of the family. It's been one day and already she's... She's not doing anything. No, that's right. She's not doing anything. Nothing. Not a thing. What do you want her to do? I don't know. Just help me help the kids get involved. I mean, you know, she should know. She's a mother. Yes, dear, but she's not mother-ish. She's a nice lady, but she's not mother-ish. She's not the kind of mother we are. We? See, I'd like to think that whatever it is you didn't get from her, whatever it is you learned about what it really means to be a mother, that maybe you got that from me. It's funny, isn't it? How life gives you what you need. You gotta love life.",
+  "chunks": [
+    {
+      "text": " Whatever it is you learned about what it really means to be a mother, that maybe you got that from me.",
+      "start": 0.0,
+      "end": 6.42
+    },
+    {
+      "text": " Mom, listen, I was thinking that maybe tomorrow we could go look at fabric together,",
+      "start": 11.98,
+      "end": 16.94
+    },
+    {
+      "text": " because I wanted to make some new drapes for our bedroom.",
+      "start": 17.0,
+      "end": 19.14
+    },
+    {
+      "text": " Well, actually, I was hoping to get into the city tomorrow to see the Renoir exhibit.",
+      "start": 19.76,
+      "end": 24.5
+    },
+    {
+      "text": " Oh, yeah. Yeah, that'd be great.",
+      "start": 25.400000000000002,
+      "end": 27.2
+    },
+    {
+      "text": " I just don't think the Renoir exhibit is something we could actually take all the kids to.",
+      "start": 27.2,
+      "end": 30.94
+    },
+    {
+      "text": " Well, you go. I'll take care of the kids. They love their grandma.",
+      "start": 31.18,
+      "end": 34.92
+    },
+    {
+      "text": " Stay down.",
+      "start": 37.7,
+      "end": 38.5
+    },
+    {
+      "text": " Well, if it's going to be a problem, Deborah, I could go to the museum by myself.",
+      "start": 41.94,
+      "end": 46.94
+    },
+    {
+      "text": " God, Mom.",
+      "start": 47.72,
+      "end": 48.52
+    },
+    {
+      "text": " What, dear?",
+      "start": 49.0,
+      "end": 49.72
+    },
+    {
+      "text": " Well, could you be interested in just one thing we're doing around here, maybe?",
+      "start": 50.14,
+      "end": 53.98
+    },
+    {
+      "text": " What are you saying?",
+      "start": 55.0,
+      "end": 56.42
+    },
+    {
+      "text": " I'm very interested.",
+      "start": 56.42,
+      "end": 57.96
+    },
+    {
+      "text": " Well, you sure don't show it.",
+      "start": 58.2,
+      "end": 59.36
+    },
+    {
+      "text": " Lemon chicken, very pretty.",
+      "start": 59.62,
+      "end": 61.6
+    },
+    {
+      "text": " And, uh...",
+      "start": 61.98,
+      "end": 62.42
+    },
+    {
+      "text": " The chicken is sweet.",
+      "start": 63.34,
+      "end": 65.82
+    },
+    {
+      "text": " I mean, you act like you don't care about me or what's going on with the kids.",
+      "start": 66.1,
+      "end": 69.78
+    },
+    {
+      "text": " You haven't asked Ray one question about his job.",
+      "start": 69.98,
+      "end": 72.8
+    },
+    {
+      "text": " But the chicken of the poor lemon...",
+      "start": 73.74,
+      "end": 76.42
+    },
+    {
+      "text": " Is impossible to eat...",
+      "start": 77.62,
+      "end": 79.22
+    },
+    {
+      "text": " Stop it, Ray.",
+      "start": 79.22,
+      "end": 79.68
+    },
+    {
+      "text": " Those aren't the words.",
+      "start": 81.32,
+      "end": 82.36
+    },
+    {
+      "text": " I'm trying to talk to my mother, okay?",
+      "start": 84.52000000000001,
+      "end": 86.22
+    },
+    {
+      "text": " Well, perhaps we should talk about this later.",
+      "start": 86.44,
+      "end": 89.32
+    },
+    {
+      "text": " This really isn't the time, Deborah.",
+      "start": 89.5,
+      "end": 91.18
+    },
+    {
+      "text": " Oh, that's right. This is your vacation.",
+      "start": 91.32,
+      "end": 92.74
+    },
+    {
+      "text": " You gotta do your crossword puzzle, and then you gotta take a siesta,",
+      "start": 92.88,
+      "end": 94.8
+    },
+    {
+      "text": " then you're gonna run off to see Renoir.",
+      "start": 94.84,
+      "end": 96.44
+    },
+    {
+      "text": " Well, I'm sorry, Deborah.",
+      "start": 96.58,
+      "end": 97.74
+    },
+    {
+      "text": " I just don't know what you want from me.",
+      "start": 97.88,
+      "end": 99.96
+    },
+    {
+      "text": " Oh, here, honey. Let me get that for you.",
+      "start": 100.14,
+      "end": 101.8
+    },
+    {
+      "text": " You know what I want?",
+      "start": 101.82,
+      "end": 102.52
+    },
+    {
+      "text": " I want you to be a part of the family.",
+      "start": 104.04,
+      "end": 106.58
+    },
+    {
+      "text": " I want you to help, or I want you to at least want to help, okay?",
+      "start": 106.58,
+      "end": 109.48
+    },
+    {
+      "text": " I want you to be more like...",
+      "start": 109.88,
+      "end": 111.86
+    },
+    {
+      "text": " Like her!",
+      "start": 111.86,
+      "end": 112.84
+    },
+    {
+      "text": " Like who?",
+      "start": 128.32,
+      "end": 128.94
+    },
+    {
+      "text": " Like mom.",
+      "start": 132.52,
+      "end": 132.88
+    },
+    {
+      "text": " Why?",
+      "start": 134.78,
+      "end": 135.18
+    },
+    {
+      "text": " Hey.",
+      "start": 145.7,
+      "end": 146.1
+    },
+    {
+      "text": " The Zulu death mask.",
+      "start": 148.64,
+      "end": 149.88
+    },
+    {
+      "text": " God.",
+      "start": 152.56,
+      "end": 152.96
+    },
+    {
+      "text": " You know, I was so excited about her coming to visit.",
+      "start": 153.72,
+      "end": 156.44
+    },
+    {
+      "text": " You know, I had this big, wild fantasy,",
+      "start": 156.64,
+      "end": 158.74
+    },
+    {
+      "text": " oh, my mother's coming, and it's gonna be so nice, and...",
+      "start": 158.9,
+      "end": 161.52
+    },
+    {
+      "text": " Yeah, well, welcome to the club.",
+      "start": 161.52,
+      "end": 163.72
+    },
+    {
+      "text": " What club?",
+      "start": 165.38,
+      "end": 166.3
+    },
+    {
+      "text": " The your mother comes over, and it's not-so-nice club.",
+      "start": 167.26,
+      "end": 170.44
+    },
+    {
+      "text": " I'm not just a member. I'm also the president.",
+      "start": 172.04,
+      "end": 174.58
+    },
+    {
+      "text": " Deborah?",
+      "start": 177.78,
+      "end": 178.36
+    },
+    {
+      "text": " Ow, ow, ow, nails!",
+      "start": 179.82,
+      "end": 181.14
+    },
+    {
+      "text": " Oh, Deborah.",
+      "start": 183.22,
+      "end": 184.44
+    },
+    {
+      "text": " Oh, Marie.",
+      "start": 185.33999999999997,
+      "end": 186.62
+    },
+    {
+      "text": " Oh, Marie.",
+      "start": 187.42,
+      "end": 188.02
+    },
+    {
+      "text": " Oh, Marie.",
+      "start": 189.06,
+      "end": 189.3
+    },
+    {
+      "text": " Oh, Marie.",
+      "start": 189.3,
+      "end": 190.36
+    },
+    {
+      "text": " I love you so very much.",
+      "start": 197.07999999999998,
+      "end": 200.0
+    },
+    {
+      "text": " Let go! Let go!",
+      "start": 201.52,
+      "end": 202.52
+    },
+    {
+      "text": " Ray?",
+      "start": 205.74,
+      "end": 206.0
+    },
+    {
+      "text": " What you said just now, I have to admit, the game is quite a shock.",
+      "start": 211.65999999999997,
+      "end": 216.68
+    },
+    {
+      "text": " To me, too.",
+      "start": 217.18,
+      "end": 218.16
+    },
+    {
+      "text": " You need to stand there in front of everyone and tell them that you wished your own mother was more like me?",
+      "start": 219.26,
+      "end": 226.42
+    },
+    {
+      "text": " That I'm the mother you wish you had?",
+      "start": 227.59999999999997,
+      "end": 230.02
+    },
+    {
+      "text": " That is what you were trying to say, didn't you?",
+      "start": 232.02,
+      "end": 234.06
+    },
+    {
+      "text": " Well, I maybe...",
+      "start": 235.48,
+      "end": 236.9
+    },
+    {
+      "text": " I mean, after all these years to find out what you really think of me...",
+      "start": 236.9,
+      "end": 242.9
+    },
+    {
+      "text": " You know, you were a little rude, dear.",
+      "start": 245.44,
+      "end": 247.26
+    },
+    {
+      "text": " What?",
+      "start": 250.88,
+      "end": 251.24
+    },
+    {
+      "text": " You can't talk to your mother like that.",
+      "start": 251.38,
+      "end": 253.26
+    },
+    {
+      "text": " No matter what she's done, she's still your mother.",
+      "start": 253.98,
+      "end": 256.06
+    },
+    {
+      "text": " Yeah, but I just wanted her to be a part of the family.",
+      "start": 256.22,
+      "end": 258.6
+    },
+    {
+      "text": " It's been one day and already she's...",
+      "start": 258.72,
+      "end": 260.7
+    },
+    {
+      "text": " She's not doing anything.",
+      "start": 260.7,
+      "end": 262.3
+    },
+    {
+      "text": " No, that's right. She's not doing anything. Nothing. Not a thing.",
+      "start": 262.3,
+      "end": 265.52
+    },
+    {
+      "text": " What do you want her to do?",
+      "start": 265.7,
+      "end": 266.8
+    },
+    {
+      "text": " I don't know. Just help me help the kids get involved.",
+      "start": 267.1,
+      "end": 272.06
+    },
+    {
+      "text": " I mean, you know, she should know. She's a mother.",
+      "start": 272.36,
+      "end": 274.58
+    },
+    {
+      "text": " Yes, dear, but she's not mother-ish.",
+      "start": 275.26,
+      "end": 277.96
+    },
+    {
+      "text": " She's a nice lady, but she's not mother-ish.",
+      "start": 280.28000000000003,
+      "end": 283.38
+    },
+    {
+      "text": " She's not the kind of mother we are.",
+      "start": 286.08,
+      "end": 288.36
+    },
+    {
+      "text": " We?",
+      "start": 292.92,
+      "end": 293.36
+    },
+    {
+      "text": " See, I'd like to think that whatever it is you didn't get from her,",
+      "start": 294.52,
+      "end": 297.7
+    },
+    {
+      "text": " whatever it is you learned about what it really means to be a mother,",
+      "start": 297.9,
+      "end": 301.1
+    },
+    {
+      "text": " that maybe you got that from me.",
+      "start": 301.1,
+      "end": 304.62
+    },
+    {
+      "text": " It's funny, isn't it?",
+      "start": 312.18,
+      "end": 313.82
+    },
+    {
+      "text": " How life gives you what you need.",
+      "start": 315.92,
+      "end": 318.76
+    },
+    {
+      "text": " You gotta love life.",
+      "start": 321.62,
+      "end": 323.94
+    }
+  ],
+  "processing_time": 2.2080118656158447,
+  "language": "en",
+  "model_id": "large-v3-turbo"
+}

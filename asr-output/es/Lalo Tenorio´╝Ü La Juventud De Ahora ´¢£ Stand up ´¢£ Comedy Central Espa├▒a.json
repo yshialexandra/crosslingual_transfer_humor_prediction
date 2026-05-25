@@ -1,0 +1,179 @@
+{
+  "audio_file": "Lalo Tenorio： La Juventud De Ahora ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "No puedo, es una puta, me hago mayor, me hago viejo y no me gusta. El otro día veo a unos jovenzuelos de 15 años ahí perdiendo el tiempo. Ya me salió, les tuve que decir. Les digo, chavalería, porque así les llamamos nosotros los mayores. Les digo, chavalería, no perdáis el tiempo ahora que sois jóvenes, porque cuando tengáis mi edad ya no vais a tener la misma ilusión por las cosas. Se me quedaron mirando y me dicen, tío, ¿qué te pasa? En serio, que mírame, tengo barba, mírate a ti, gilipollas, sin verbe. Con este poco respeto nos trata la juventud de ahora, ¿no? Claro, están todo el día enganchados a la maquinita, al iPhone 6. En mi época nos conformamos con menos, teníamos el iPhone 5. Eran otros tiempos, ¿vale? Pero no sé, la música que escuchan ahora, los gemeliers y la gozadera y todas estas mierdas. En mi época íbamos más a lo clásico, ¿no? Al waka waka, al Gannon Style. No, no es lo mismo, me estoy haciendo mayor, eso me hago mayor, pero no a nivel físico. Al parecer no, me hago mayor a nivel legal, a nivel mental, pero no a nivel físico. Físicamente estoy por actualizar, ¿no? Soy una BlackBerry todavía. Y no sé por dónde puede ir, ¿no? No sé por dónde puede ir mi desarrollo, ¿no? Tengo, más o menos, me puedo hacer a la idea, tengo dos hermanos mayores, uno me saca 10 años, el otro 8. Pero es una putada, ¿no? Porque uno se está quedando calvo y el otro no. Y, ¿sabes? Hay un 50-50, un calva o cruz que me trae de cabeza. Y lo llevo fatal, ¿no? Porque miro a un lado y digo, bueno, vale, bien. Pero miro al otro y hago, uff. ¿Sabes por qué? Además a él le queda bien, a mi hermano le queda bien porque se rapa, es un tío duro y parece, no sé, Jason Statham, Bruce Willis. Pero no, a mí no me quedaría bien quedarme calvo. ¿Sabes? Me quedo calvo y empezaría a parecer una especie de Gandhi con SIDA. ¿Sabes? Gracias.",
+  "chunks": [
+    {
+      "text": " No puedo, es una puta, me hago mayor, me hago viejo y no me gusta.",
+      "start": 1.1599999999999997,
+      "end": 4.48
+    },
+    {
+      "text": " El otro día veo a unos jovenzuelos de 15 años ahí perdiendo el tiempo.",
+      "start": 4.54,
+      "end": 7.66
+    },
+    {
+      "text": " Ya me salió, les tuve que decir.",
+      "start": 8.14,
+      "end": 9.74
+    },
+    {
+      "text": " Les digo, chavalería, porque así les llamamos nosotros los mayores.",
+      "start": 10.02,
+      "end": 13.6
+    },
+    {
+      "text": " Les digo, chavalería, no perdáis el tiempo ahora que sois jóvenes,",
+      "start": 14.14,
+      "end": 17.1
+    },
+    {
+      "text": " porque cuando tengáis mi edad ya no vais a tener la misma ilusión por las cosas.",
+      "start": 17.740000000000002,
+      "end": 21.3
+    },
+    {
+      "text": " Se me quedaron mirando y me dicen, tío, ¿qué te pasa?",
+      "start": 23.98,
+      "end": 26.68
+    },
+    {
+      "text": " En serio, que mírame, tengo barba, mírate a ti, gilipollas, sin verbe.",
+      "start": 27.26,
+      "end": 31.54
+    },
+    {
+      "text": " Con este poco respeto nos trata la juventud de ahora, ¿no?",
+      "start": 32.58,
+      "end": 35.5
+    },
+    {
+      "text": " Claro, están todo el día enganchados a la maquinita, al iPhone 6.",
+      "start": 36.6,
+      "end": 39.54
+    },
+    {
+      "text": " En mi época nos conformamos con menos, teníamos el iPhone 5.",
+      "start": 40.0,
+      "end": 43.54
+    },
+    {
+      "text": " Eran otros tiempos, ¿vale?",
+      "start": 45.2,
+      "end": 46.88
+    },
+    {
+      "text": " Pero no sé, la música que escuchan ahora, los gemeliers y la gozadera y todas estas mierdas.",
+      "start": 46.98,
+      "end": 52.76
+    },
+    {
+      "text": " En mi época íbamos más a lo clásico, ¿no?",
+      "start": 53.12,
+      "end": 55.08
+    },
+    {
+      "text": " Al waka waka, al Gannon Style.",
+      "start": 55.08,
+      "end": 56.78
+    },
+    {
+      "text": " No, no es lo mismo, me estoy haciendo mayor, eso me hago mayor, pero no a nivel físico.",
+      "start": 59.42,
+      "end": 64.44
+    },
+    {
+      "text": " Al parecer no, me hago mayor a nivel legal, a nivel mental, pero no a nivel físico.",
+      "start": 64.76,
+      "end": 68.78
+    },
+    {
+      "text": " Físicamente estoy por actualizar, ¿no?",
+      "start": 69.47999999999999,
+      "end": 71.3
+    },
+    {
+      "text": " Soy una BlackBerry todavía.",
+      "start": 71.34,
+      "end": 72.5
+    },
+    {
+      "text": " Y no sé por dónde puede ir, ¿no?",
+      "start": 82.72,
+      "end": 84.58
+    },
+    {
+      "text": " No sé por dónde puede ir mi desarrollo, ¿no?",
+      "start": 84.7,
+      "end": 86.58
+    },
+    {
+      "text": " Tengo, más o menos, me puedo hacer a la idea, tengo dos hermanos mayores, uno me saca 10 años, el otro 8.",
+      "start": 86.76,
+      "end": 91.46
+    },
+    {
+      "text": " Pero es una putada, ¿no?",
+      "start": 91.9,
+      "end": 92.98
+    },
+    {
+      "text": " Porque uno se está quedando calvo y el otro no.",
+      "start": 93.04,
+      "end": 95.16
+    },
+    {
+      "text": " Y, ¿sabes? Hay un 50-50, un calva o cruz que me trae de cabeza.",
+      "start": 97.41999999999999,
+      "end": 101.6
+    },
+    {
+      "text": " Y lo llevo fatal, ¿no?",
+      "start": 110.62,
+      "end": 111.92
+    },
+    {
+      "text": " Porque miro a un lado y digo, bueno, vale, bien.",
+      "start": 112.0,
+      "end": 114.7
+    },
+    {
+      "text": " Pero miro al otro y hago, uff.",
+      "start": 114.92,
+      "end": 116.18
+    },
+    {
+      "text": " ¿Sabes por qué?",
+      "start": 116.54,
+      "end": 117.02
+    },
+    {
+      "text": " Además a él le queda bien, a mi hermano le queda bien porque se rapa, es un tío duro y parece, no sé, Jason Statham, Bruce Willis.",
+      "start": 117.34,
+      "end": 123.28
+    },
+    {
+      "text": " Pero no, a mí no me quedaría bien quedarme calvo.",
+      "start": 123.52,
+      "end": 126.16
+    },
+    {
+      "text": " ¿Sabes? Me quedo calvo y empezaría a parecer una especie de Gandhi con SIDA.",
+      "start": 126.26,
+      "end": 129.26
+    },
+    {
+      "text": " ¿Sabes?",
+      "start": 129.46,
+      "end": 129.78
+    },
+    {
+      "text": " Gracias.",
+      "start": 129.78,
+      "end": 130.76
+    }
+  ],
+  "processing_time": 0.784170389175415,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

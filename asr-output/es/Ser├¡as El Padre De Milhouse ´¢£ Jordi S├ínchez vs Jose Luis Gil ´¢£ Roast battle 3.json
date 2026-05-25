@@ -1,0 +1,39 @@
+{
+  "audio_file": "Serías El Padre De Milhouse ｜ Jordi Sánchez vs Jose Luis Gil ｜ Roast battle 3.wav",
+  "full_text": "¡Suscríbete! Serías el padre de Milhouse. En aquí no hay quien viva te llamabas Juan Cuesta, supongo que en honor a lo que te cuestan todos los personajes. Una vez de ahí en una entrevista que diste que tus padres habían ido a la catedral de Barcelona a encender una vela para que no fueras actor, ¿es útil efecto? Porque actor, actor no eres. Sé que al final te van a dar el papel de tu vida. Profesor de autoescuela divorciado. Gracias por ver el video.",
+  "chunks": [
+    {
+      "text": " ¡Suscríbete!",
+      "start": 27.220000000000002,
+      "end": 28.62
+    },
+    {
+      "text": " Serías el padre de Milhouse.",
+      "start": 30.0,
+      "end": 31.42
+    },
+    {
+      "text": " En aquí no hay quien viva te llamabas Juan Cuesta, supongo que en honor a lo que te cuestan todos los personajes.",
+      "start": 31.92,
+      "end": 38.76
+    },
+    {
+      "text": " Una vez de ahí en una entrevista que diste que tus padres habían ido a la catedral de Barcelona a encender una vela para que no fueras actor, ¿es útil efecto? Porque actor, actor no eres.",
+      "start": 39.24,
+      "end": 50.04
+    },
+    {
+      "text": " Sé que al final te van a dar el papel de tu vida. Profesor de autoescuela divorciado.",
+      "start": 50.62,
+      "end": 55.22
+    },
+    {
+      "text": " Gracias por ver el video.",
+      "start": 60.0,
+      "end": 67.0
+    }
+  ],
+  "processing_time": 0.31484246253967285,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,114 @@
+{
+  "audio_file": "Jorge Segura： La Manera Más Rápida De Dormir ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "Hay algunas, muchas parejas, independientemente de sexo, esto pasa en casi todas las parejas, siempre hay uno que duerme fenomenal y otro que no tanto. ¿No? ¿No? Entonces los que somos la parte insomne de los que no podemos dormir, pues a veces dices, pues ¿qué hago para dormir? Pues me quedo viendo un poco Cuarto Milenio hasta que me quedo dormido. Vale, vale. Pero hay días que dices, es que son las 3 y me levanto a las 7. No tengo presupuesto para ir yéndome a dormir, tengo que dormirme ya. ¿Cuál es la manera más rápida de dormir? La más rápida, la más eficaz, lo tengo comprobado. La transferencia de sueño. Buscas a alguien que esté profundamente dormido y le robas el sueño, te lo quedas para ti, y le traspasas tu desvelo. Esto es muy fácil, pues suena muy complicado, pero en realidad solo... ¡Eh! ¡Despierta, despierta, despierta! Cuando se despierta, ¿qué pasa, qué pasa? ¿Qué pasa? Pues que no me puedo dormir. Ya me despiertas a mí, que no sé qué, porque ahora yo me quedo... ¡Shh! ¡Caia, caia, caia! ¡Oh! Porque es instantáneo. Y funciona. ¡Aplausos! ¡Aplausos! Gracias por ver el video.",
+  "chunks": [
+    {
+      "text": " Hay algunas, muchas parejas, independientemente de sexo, esto pasa en casi todas las parejas,",
+      "start": 2.059999999999994,
+      "end": 10.52
+    },
+    {
+      "text": " siempre hay uno que duerme fenomenal y otro que no tanto.",
+      "start": 10.8,
+      "end": 15.62
+    },
+    {
+      "text": " ¿No? ¿No? Entonces los que somos la parte insomne de los que no podemos dormir,",
+      "start": 16.5,
+      "end": 21.82
+    },
+    {
+      "text": " pues a veces dices, pues ¿qué hago para dormir?",
+      "start": 22.439999999999998,
+      "end": 24.72
+    },
+    {
+      "text": " Pues me quedo viendo un poco Cuarto Milenio hasta que me quedo dormido.",
+      "start": 24.8,
+      "end": 27.74
+    },
+    {
+      "text": " Vale, vale. Pero hay días que dices, es que son las 3 y me levanto a las 7.",
+      "start": 28.34,
+      "end": 34.0
+    },
+    {
+      "text": " No tengo presupuesto para ir yéndome a dormir, tengo que dormirme ya.",
+      "start": 34.18,
+      "end": 37.5
+    },
+    {
+      "text": " ¿Cuál es la manera más rápida de dormir? La más rápida, la más eficaz, lo tengo comprobado.",
+      "start": 38.400000000000006,
+      "end": 44.78
+    },
+    {
+      "text": " La transferencia de sueño.",
+      "start": 44.9,
+      "end": 47.2
+    },
+    {
+      "text": " Buscas a alguien que esté profundamente dormido y le robas el sueño, te lo quedas para ti,",
+      "start": 48.82,
+      "end": 54.76
+    },
+    {
+      "text": " y le traspasas tu desvelo. Esto es muy fácil, pues suena muy complicado, pero en realidad solo...",
+      "start": 55.32,
+      "end": 58.84
+    },
+    {
+      "text": " ¡Eh! ¡Despierta, despierta, despierta!",
+      "start": 58.84,
+      "end": 60.6
+    },
+    {
+      "text": " Cuando se despierta, ¿qué pasa, qué pasa? ¿Qué pasa? Pues que no me puedo dormir.",
+      "start": 60.94,
+      "end": 63.36
+    },
+    {
+      "text": " Ya me despiertas a mí, que no sé qué, porque ahora yo me quedo...",
+      "start": 63.44,
+      "end": 65.74
+    },
+    {
+      "text": " ¡Shh! ¡Caia, caia, caia!",
+      "start": 65.74,
+      "end": 66.72
+    },
+    {
+      "text": " ¡Oh!",
+      "start": 67.92,
+      "end": 68.24
+    },
+    {
+      "text": " Porque es instantáneo.",
+      "start": 69.9,
+      "end": 71.1
+    },
+    {
+      "text": " Y funciona.",
+      "start": 73.44,
+      "end": 74.06
+    },
+    {
+      "text": " ¡Aplausos!",
+      "start": 75.38,
+      "end": 75.7
+    },
+    {
+      "text": " ¡Aplausos!",
+      "start": 83.78,
+      "end": 84.1
+    },
+    {
+      "text": " Gracias por ver el video.",
+      "start": 84.1,
+      "end": 94.06
+    }
+  ],
+  "processing_time": 1.3888969421386719,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

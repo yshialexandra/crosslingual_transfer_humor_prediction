@@ -1,0 +1,274 @@
+{
+  "audio_file": "Dolgok, amiket a karácsonyi asztalnál NE!.wav",
+  "full_text": "A Fogácsságokat Melyik a marcipános? Ez ne azok a díszak? Tényleg? Másodiköt eszem! A Fogácsságokat én mentes? Nem azon. Ejtek Fogácsát! Anyúsom sütötte. Májusban hat meg. Tavaly! A mama miért nem most között soha? Nem úgy volt, hogy fogyózol. Ne zobáljál meg a fejed így. Azért mama még a vége fele is egész jókat süt. Végre szilárd a székleten. Még a számok sem. Köszönöm! Köszönöm! De jó így együtt. Akartam mondani, hogy találtam helyeséges hibát a végrevedetben. Még a számok sem. Most így mehet. Én nem akarok gyereket. Tehát nincs is csajod? Nincs. Meg kell tudnotok, hogy egyikütöket örökbe fogadtuk. Anya, apa, vettünk felhitelt a házra, nem baj? Hogy akkor én megkezdeném az ajándékozást, hogy téged húztalak, és hogy tudom, hogy a nyomdákat mindig szeretted, és hogy... Boldog karácsonyt! Aztán majd tőlem kaptad te paraszt. Boldog karácsonyt! Én adtam neki. Megtartam. Vacsora után akartam elmondani, hogy meleg vagyok, de akkor nem érném el a gépet Bogotába, ahol a férjem családja él. Ugye? Juan, Carlos, Diego és a kisluna. Bogotába mész? Nem vinél el a csomagot? Itt egy évesek is hannak, itt pedig az obodában, első lépéset, igen, itt a Mikulás ünnepség, ez egy prágai szingert club, azt nem kell is meg... Kisfigyelet! Nem benjátok, hogyha az asztalnál szobtatok? Nem, nem. Csináltson! Ez nem. Ó, gyerekek! Szól a Mikarból! Peti, ez már az ötödik kivek délután kettőkor. Hát, ünnep! Egészség? Vezetek most, nem kérek tövények meg, ide felé már ittom. Apa, ki volt az olyan, akivel kézenfogva látolak a városban? Édesanyád, nem ismerted fel? Ja ne, ne, ne, ne! Sózzad meg a kajánat, légy szíves! Majd de szép a karácsonyfa, ragyog rajta a sok gyertje, hajj elállni a szinkrázik! Azinkrázó! Napázzam, hogy előttek voltak! Csoset vettek bele! Semmit eladó! Jégy már! Családi kép kedvesd be! Köszönöm!",
+  "chunks": [
+    {
+      "text": " A Fogácsságokat",
+      "start": 6.959999999999997,
+      "end": 7.48
+    },
+    {
+      "text": " Melyik a marcipános?",
+      "start": 7.48,
+      "end": 8.44
+    },
+    {
+      "text": " Ez ne azok a díszak?",
+      "start": 8.46,
+      "end": 9.18
+    },
+    {
+      "text": " Tényleg? Másodiköt eszem!",
+      "start": 9.38,
+      "end": 10.94
+    },
+    {
+      "text": " A Fogácsságokat én mentes?",
+      "start": 11.42,
+      "end": 12.96
+    },
+    {
+      "text": " Nem azon.",
+      "start": 14.24,
+      "end": 15.08
+    },
+    {
+      "text": " Ejtek Fogácsát! Anyúsom sütötte.",
+      "start": 16.179999999999993,
+      "end": 18.2
+    },
+    {
+      "text": " Májusban hat meg.",
+      "start": 18.9,
+      "end": 19.84
+    },
+    {
+      "text": " Tavaly!",
+      "start": 21.08,
+      "end": 21.6
+    },
+    {
+      "text": " A mama miért nem most között soha?",
+      "start": 21.86,
+      "end": 23.38
+    },
+    {
+      "text": " Nem úgy volt, hogy fogyózol.",
+      "start": 26.74,
+      "end": 28.32
+    },
+    {
+      "text": " Ne zobáljál meg a fejed így.",
+      "start": 28.32,
+      "end": 30.1
+    },
+    {
+      "text": " Azért mama még a vége fele is egész jókat süt.",
+      "start": 32.76,
+      "end": 35.48
+    },
+    {
+      "text": " Végre szilárd a székleten.",
+      "start": 47.44,
+      "end": 49.14
+    },
+    {
+      "text": " Még a számok sem.",
+      "start": 50.08,
+      "end": 50.74
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 50.74,
+      "end": 50.76
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 53.14,
+      "end": 53.78
+    },
+    {
+      "text": " De jó így együtt.",
+      "start": 56.0,
+      "end": 57.48
+    },
+    {
+      "text": " Akartam mondani, hogy találtam helyeséges hibát a végrevedetben.",
+      "start": 57.8,
+      "end": 60.74
+    },
+    {
+      "text": " Még a számok sem.",
+      "start": 62.0,
+      "end": 63.26
+    },
+    {
+      "text": " Most így mehet.",
+      "start": 63.54,
+      "end": 64.22
+    },
+    {
+      "text": " Én nem akarok gyereket.",
+      "start": 65.02,
+      "end": 66.72
+    },
+    {
+      "text": " Tehát nincs is csajod?",
+      "start": 67.52,
+      "end": 68.74
+    },
+    {
+      "text": " Nincs.",
+      "start": 69.74,
+      "end": 70.38
+    },
+    {
+      "text": " Meg kell tudnotok, hogy egyikütöket örökbe fogadtuk.",
+      "start": 74.14,
+      "end": 78.08
+    },
+    {
+      "text": " Anya, apa, vettünk felhitelt a házra, nem baj?",
+      "start": 84.12,
+      "end": 87.46
+    },
+    {
+      "text": " Hogy akkor én megkezdeném az ajándékozást, hogy téged húztalak, és hogy tudom, hogy a nyomdákat mindig szeretted, és hogy...",
+      "start": 90.4,
+      "end": 96.9
+    },
+    {
+      "text": " Boldog karácsonyt!",
+      "start": 97.46000000000001,
+      "end": 98.72
+    },
+    {
+      "text": " Aztán majd tőlem kaptad te paraszt.",
+      "start": 99.26,
+      "end": 101.2
+    },
+    {
+      "text": " Boldog karácsonyt!",
+      "start": 102.24000000000001,
+      "end": 103.52
+    },
+    {
+      "text": " Én adtam neki.",
+      "start": 103.8,
+      "end": 104.88
+    },
+    {
+      "text": " Megtartam.",
+      "start": 106.2,
+      "end": 106.88
+    },
+    {
+      "text": " Vacsora után akartam elmondani, hogy meleg vagyok, de akkor nem érném el a gépet Bogotába, ahol a férjem családja él. Ugye? Juan, Carlos, Diego és a kisluna.",
+      "start": 107.46000000000001,
+      "end": 117.1
+    },
+    {
+      "text": " Bogotába mész? Nem vinél el a csomagot?",
+      "start": 117.44,
+      "end": 120.56
+    },
+    {
+      "text": " Itt egy évesek is hannak, itt pedig az obodában, első lépéset, igen, itt a Mikulás ünnepség, ez egy prágai szingert club, azt nem kell is meg...",
+      "start": 136.22,
+      "end": 146.58
+    },
+    {
+      "text": " Kisfigyelet!",
+      "start": 146.58,
+      "end": 147.22
+    },
+    {
+      "text": " Nem benjátok, hogyha az asztalnál szobtatok?",
+      "start": 151.26000000000002,
+      "end": 153.42
+    },
+    {
+      "text": " Nem, nem.",
+      "start": 153.44,
+      "end": 153.96
+    },
+    {
+      "text": " Csináltson!",
+      "start": 154.1,
+      "end": 154.66
+    },
+    {
+      "text": " Ez nem.",
+      "start": 154.94,
+      "end": 155.58
+    },
+    {
+      "text": " Ó, gyerekek!",
+      "start": 158.46,
+      "end": 159.82
+    },
+    {
+      "text": " Szól a Mikarból!",
+      "start": 162.68,
+      "end": 163.9
+    },
+    {
+      "text": " Peti, ez már az ötödik kivek délután kettőkor.",
+      "start": 172.46,
+      "end": 175.5
+    },
+    {
+      "text": " Hát, ünnep!",
+      "start": 175.78,
+      "end": 176.74
+    },
+    {
+      "text": " Egészség?",
+      "start": 178.66,
+      "end": 179.26
+    },
+    {
+      "text": " Vezetek most, nem kérek tövények meg, ide felé már ittom.",
+      "start": 179.88,
+      "end": 182.98
+    },
+    {
+      "text": " Apa, ki volt az olyan, akivel kézenfogva látolak a városban?",
+      "start": 183.72,
+      "end": 188.38
+    },
+    {
+      "text": " Édesanyád, nem ismerted fel?",
+      "start": 189.84,
+      "end": 191.7
+    },
+    {
+      "text": " Ja ne, ne, ne, ne!",
+      "start": 192.14,
+      "end": 193.96
+    },
+    {
+      "text": " Sózzad meg a kajánat, légy szíves!",
+      "start": 196.26,
+      "end": 198.18
+    },
+    {
+      "text": " Majd de szép a karácsonyfa, ragyog rajta a sok gyertje, hajj elállni a szinkrázik! Azinkrázó!",
+      "start": 198.18,
+      "end": 210.38
+    },
+    {
+      "text": " Napázzam, hogy előttek voltak! Csoset vettek bele! Semmit eladó! Jégy már! Családi kép kedvesd be!",
+      "start": 210.52,
+      "end": 219.06
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 228.18,
+      "end": 229.22
+    }
+  ],
+  "processing_time": 3.255962371826172,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

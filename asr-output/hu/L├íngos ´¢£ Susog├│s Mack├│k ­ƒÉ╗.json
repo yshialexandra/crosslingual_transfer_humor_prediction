@@ -1,0 +1,19 @@
+{
+  "audio_file": "Lángos ｜ Susogós Mackók 🐻.wav",
+  "full_text": "Köszönjük! Köszönöm!",
+  "chunks": [
+    {
+      "text": " Köszönjük!",
+      "start": 16.400000000000002,
+      "end": 17.8
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 30.940000000000005,
+      "end": 32.34
+    }
+  ],
+  "processing_time": 1.4836761951446533,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

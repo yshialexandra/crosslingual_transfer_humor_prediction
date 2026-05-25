@@ -1,0 +1,99 @@
+{
+  "audio_file": "Luis Álvaro： Su Canción principal ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "Bueno, la siguiente canción va a principio, pero la hago ahora. Y así ganar, y así ganar más tiempo. El pez martillo es un pez muy especial, porque es el único pez que puede alimentarse de nueces. Cuando estoy en casa y me quiero orientar, me pongo una peli del oeste. Ya me veis, yo soy más guapo en persona que en animal o cosa. Y pensaba que tenía miedo escénico hasta que actúe en un escenario a ras del suelo. Y descubrí que lo que tengo es vértigo. ¡Aprendí a tocar la guitarra a distancia! Porque me dejé las uñas muy, muy largas. Cuando está un re, hago mi, hago un la. Y aquí falta un trozo, la, la, la, la. Un, dos, tres, probando. Un, dos, tres, probando. ¡Sí, sé contar! La duración que tiene esta canción es justo la que a mí me da la gana. Gracias. Gracias. Gracias.",
+  "chunks": [
+    {
+      "text": " Bueno, la siguiente canción va a principio, pero la hago ahora.",
+      "start": 1.740000000000001,
+      "end": 4.18
+    },
+    {
+      "text": " Y así ganar, y así ganar más tiempo.",
+      "start": 31.679999999999996,
+      "end": 35.86
+    },
+    {
+      "text": " El pez martillo es un pez muy especial, porque es el único pez que puede alimentarse de nueces.",
+      "start": 37.28,
+      "end": 46.84
+    },
+    {
+      "text": " Cuando estoy en casa y me quiero orientar, me pongo una peli del oeste.",
+      "start": 47.34,
+      "end": 56.58
+    },
+    {
+      "text": " Ya me veis, yo soy más guapo en persona que en animal o cosa.",
+      "start": 64.74,
+      "end": 73.82
+    },
+    {
+      "text": " Y pensaba que tenía miedo escénico hasta que actúe en un escenario a ras del suelo.",
+      "start": 74.56,
+      "end": 83.52
+    },
+    {
+      "text": " Y descubrí que lo que tengo es vértigo.",
+      "start": 84.08,
+      "end": 87.88
+    },
+    {
+      "text": " ¡Aprendí a tocar la guitarra a distancia!",
+      "start": 94.46,
+      "end": 97.76
+    },
+    {
+      "text": " Porque me dejé las uñas muy, muy largas.",
+      "start": 98.16,
+      "end": 102.7
+    },
+    {
+      "text": " Cuando está un re, hago mi, hago un la.",
+      "start": 103.28,
+      "end": 105.8
+    },
+    {
+      "text": " Y aquí falta un trozo, la, la, la, la.",
+      "start": 106.36,
+      "end": 109.42
+    },
+    {
+      "text": " Un, dos, tres, probando.",
+      "start": 112.8,
+      "end": 114.08
+    },
+    {
+      "text": " Un, dos, tres, probando.",
+      "start": 114.24,
+      "end": 115.42
+    },
+    {
+      "text": " ¡Sí, sé contar!",
+      "start": 115.62,
+      "end": 116.22
+    },
+    {
+      "text": " La duración que tiene esta canción es justo la que a mí me da la gana.",
+      "start": 119.99999999999999,
+      "end": 126.82
+    },
+    {
+      "text": " Gracias.",
+      "start": 126.94,
+      "end": 127.16
+    },
+    {
+      "text": " Gracias.",
+      "start": 128.82,
+      "end": 129.04
+    },
+    {
+      "text": " Gracias.",
+      "start": 139.42,
+      "end": 139.72
+    }
+  ],
+  "processing_time": 0.5338044166564941,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

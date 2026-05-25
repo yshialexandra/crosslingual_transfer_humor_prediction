@@ -1,0 +1,54 @@
+{
+  "audio_file": "Mélyvíz ｜ Egylevegővel.wav",
+  "full_text": "Tudom, mi a baj, Endike, hogy nincs tüdőd, vágod, hiába a muszklik, meg minden, mikor nincs tüdőd, vágod, állóképesség, apa, tudod? Állóképesség, mondod, te, aki a cigibe, nem jössz beleszínni köhögés nélkül. Jó, van, kisfiam, nekem ne dumáljál, én 17 évesen áthúztam a víz alatt az 50 méteres medencét oda-vissza, félig. Ezt már azért párszor hallottuk, most már kéne valamit villantani is. Na jó, igen, akkor figyeljél, figyelsz, figyelj! De akkor számoljál, de rendesen, úgyhogy egy, kettő, három, amúgy egy, kettő, három, nézd, amennyi egy másodperc, jó? Oké, figyelj, figyelsz? Meg? Meg? Meg? Egy, kettő, három, nézd. Mennyi volt? Harminc? Höt. Harminc öf, az sem rossz. Na most lejössz kis kajdás. Na figyeljél. Figyelek. Aladjá tovább, kísérlet folyik. Perverzi, sróp.",
+  "chunks": [
+    {
+      "text": " Tudom, mi a baj, Endike, hogy nincs tüdőd, vágod, hiába a muszklik, meg minden, mikor nincs tüdőd, vágod, állóképesség, apa, tudod?",
+      "start": 4.0,
+      "end": 10.8
+    },
+    {
+      "text": " Állóképesség, mondod, te, aki a cigibe, nem jössz beleszínni köhögés nélkül.",
+      "start": 11.6,
+      "end": 14.28
+    },
+    {
+      "text": " Jó, van, kisfiam, nekem ne dumáljál, én 17 évesen áthúztam a víz alatt az 50 méteres medencét oda-vissza, félig.",
+      "start": 14.3,
+      "end": 20.38
+    },
+    {
+      "text": " Ezt már azért párszor hallottuk, most már kéne valamit villantani is.",
+      "start": 20.9,
+      "end": 23.58
+    },
+    {
+      "text": " Na jó, igen, akkor figyeljél, figyelsz, figyelj!",
+      "start": 23.6,
+      "end": 26.06
+    },
+    {
+      "text": " De akkor számoljál, de rendesen, úgyhogy egy, kettő, három, amúgy egy, kettő, három, nézd, amennyi egy másodperc, jó?",
+      "start": 27.32,
+      "end": 35.2
+    },
+    {
+      "text": " Oké, figyelj, figyelsz? Meg? Meg? Meg? Egy, kettő, három, nézd. Mennyi volt? Harminc? Höt. Harminc öf, az sem rossz.",
+      "start": 35.32,
+      "end": 43.42
+    },
+    {
+      "text": " Na most lejössz kis kajdás. Na figyeljél. Figyelek. Aladjá tovább, kísérlet folyik.",
+      "start": 43.5,
+      "end": 52.6
+    },
+    {
+      "text": " Perverzi, sróp.",
+      "start": 65.0,
+      "end": 66.18
+    }
+  ],
+  "processing_time": 1.314382791519165,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

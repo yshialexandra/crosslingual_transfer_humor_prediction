@@ -1,0 +1,74 @@
+{
+  "audio_file": "Emlékek ｜ Mélnyomó.wav",
+  "full_text": "Köszönöm! És az ott a sokatyában az én vagyok? Bizony, hogy te. És azok ott? Azok a gyerekek és Halász Judit. De hát ő föl se lép itt. Nem, ő szombaton lépett fel Erzsébeten. És ma mi van? Ma hétfő. De még március? Figyelj, ha tudod, hogy ezt csinálja veled a narancsli, akkor minek kérsz bele vodkát, mi? Szerencsétlen. Köszönöm!",
+  "chunks": [
+    {
+      "text": " Köszönöm!",
+      "start": 28.46,
+      "end": 29.86
+    },
+    {
+      "text": " És az ott a sokatyában az én vagyok?",
+      "start": 30.799999999999997,
+      "end": 32.76
+    },
+    {
+      "text": " Bizony, hogy te.",
+      "start": 32.82,
+      "end": 33.62
+    },
+    {
+      "text": " És azok ott?",
+      "start": 34.12,
+      "end": 35.0
+    },
+    {
+      "text": " Azok a gyerekek és Halász Judit.",
+      "start": 35.14,
+      "end": 37.32
+    },
+    {
+      "text": " De hát ő föl se lép itt.",
+      "start": 37.6,
+      "end": 39.04
+    },
+    {
+      "text": " Nem, ő szombaton lépett fel Erzsébeten.",
+      "start": 39.14,
+      "end": 41.48
+    },
+    {
+      "text": " És ma mi van?",
+      "start": 41.6,
+      "end": 42.22
+    },
+    {
+      "text": " Ma hétfő.",
+      "start": 42.859999999999985,
+      "end": 43.66
+    },
+    {
+      "text": " De még március?",
+      "start": 44.34,
+      "end": 45.58
+    },
+    {
+      "text": " Figyelj, ha tudod, hogy ezt csinálja veled a narancsli, akkor minek kérsz bele vodkát, mi?",
+      "start": 46.18,
+      "end": 50.1
+    },
+    {
+      "text": " Szerencsétlen.",
+      "start": 51.72,
+      "end": 52.12
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 60.0,
+      "end": 60.74
+    }
+  ],
+  "processing_time": 1.0576331615447998,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

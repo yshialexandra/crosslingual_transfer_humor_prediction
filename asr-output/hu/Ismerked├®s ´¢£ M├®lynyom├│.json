@@ -1,0 +1,99 @@
+{
+  "audio_file": "Ismerkedés ｜ Mélynyomó.wav",
+  "full_text": "Á, 2002-ben én hangosítottam a skootert, azt vágjátok, nem? A skooter nincs meg? Hajpa, hajpa! Nem? Ez sincs meg? Senki meg ne tudja. Miért volt habis? Nincs meg esse? Hát nem hiszlek el titeket, komolyan mondom. Neked íröm a dát, neked énekelek. Táncolj velem. Táncolj velem. Hova tűntek most? Hova mentek? Figyelj ide, Polibá. Ezek a lányok 2000-ben születtek. Amikor te scootert hangosítottál, két évesek voltak. Lövésük sincs. Lejárt lemezek vagyunk, Polibá. Polibá. Polibá. Polibá. Polibá. Polibá. Polibá. Polibá. Polibá. Polibá. Polibá. Polibá. NAMASTE",
+  "chunks": [
+    {
+      "text": " Á, 2002-ben én hangosítottam a skootert, azt vágjátok, nem?",
+      "start": 4.719999999999998,
+      "end": 8.78
+    },
+    {
+      "text": " A skooter nincs meg? Hajpa, hajpa!",
+      "start": 8.94,
+      "end": 11.22
+    },
+    {
+      "text": " Nem? Ez sincs meg? Senki meg ne tudja. Miért volt habis?",
+      "start": 15.659999999999997,
+      "end": 23.44
+    },
+    {
+      "text": " Nincs meg esse? Hát nem hiszlek el titeket, komolyan mondom.",
+      "start": 23.44,
+      "end": 26.62
+    },
+    {
+      "text": " Neked íröm a dát, neked énekelek. Táncolj velem. Táncolj velem. Hova tűntek most? Hova mentek? Figyelj ide, Polibá.",
+      "start": 26.86,
+      "end": 52.36
+    },
+    {
+      "text": " Ezek a lányok 2000-ben születtek. Amikor te scootert hangosítottál, két évesek voltak. Lövésük sincs. Lejárt lemezek vagyunk, Polibá.",
+      "start": 53.480000000000004,
+      "end": 63.06
+    },
+    {
+      "text": " Polibá.",
+      "start": 64.68,
+      "end": 65.44
+    },
+    {
+      "text": " Polibá.",
+      "start": 83.69999999999999,
+      "end": 84.32
+    },
+    {
+      "text": " Polibá.",
+      "start": 84.34,
+      "end": 84.88
+    },
+    {
+      "text": " Polibá.",
+      "start": 85.62,
+      "end": 86.24
+    },
+    {
+      "text": " Polibá.",
+      "start": 86.32,
+      "end": 86.74
+    },
+    {
+      "text": " Polibá.",
+      "start": 90.1,
+      "end": 90.72
+    },
+    {
+      "text": " Polibá.",
+      "start": 90.72,
+      "end": 90.98
+    },
+    {
+      "text": " Polibá.",
+      "start": 91.0,
+      "end": 91.28
+    },
+    {
+      "text": " Polibá.",
+      "start": 91.28,
+      "end": 91.48
+    },
+    {
+      "text": " Polibá.",
+      "start": 91.5,
+      "end": 91.64
+    },
+    {
+      "text": " Polibá.",
+      "start": 91.72,
+      "end": 91.9
+    },
+    {
+      "text": " NAMASTE",
+      "start": 91.9,
+      "end": 91.94
+    }
+  ],
+  "processing_time": 2.9435830116271973,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

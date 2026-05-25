@@ -1,0 +1,94 @@
+{
+  "audio_file": "Dani Alés： Estar En Comedy Central Es Tocar Fondo ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "De hecho, hace poco tuve un dolor de garganta, me dolió la garganta y no fui ni a uno ni a otro, fui a un herbolario que está justo en medio. Y fui y pagué una medicina que era carísima para la garganta porque yo tengo una fe ciega en los herbolarios, ¿no? Yo tengo una fe ciega en las cosas que valen mucho dinero. O sea, tengo... Sí, sí, de hecho, si no se me pasa, mañana me voy de compra, se me pasa. O sea, ya está. Realmente, no, yo no creo en estas cosas porque yo fui a la universidad. O sea, y hay muchos cómicos que han ido a la universidad y han tenido que abandonar sus estudios porque sus carreras artísticas les iba tan bien que no tenían tiempo para dedicarle a estudiar y a los trabajos y tal. Mi carrera artística va tan mal que acabo el doctorado. O sea, se me ha ido la mano. Sí, sí, yo voy fatal. O sea, yo en caso de casarme solo podrá ser por amor. ¿Sabes? Esto es una tragedia. Voy tan mal que aquí estoy en Comedy Central otra vez. O sea, es... Tocando fondo, ¿sabes? De hecho, yo estudié una carrera de letras porque pensé, si estudié una carrera de letras seguro que leo muchos libros y me acuesto con muchas mujeres. Y luego no es verdad, ¿sabes? Luego no lees tantos libros. Y esto... Sí, parece que no, pero... Claro, joven. Lo mío fue vocacional totalmente. Fue vocacional. ¿Sabes? Cuando eres joven que los adultos te dicen un poco que pienses en las salidas profesionales de lo que vas a estudiar. O sea, no te centres tanto en lo que te apetece ahora. Tienes que proyectar un poco al futuro. Piensa en tu futuro laboral y tal. Y a mí esto me parece un poco triste, ¿no? O sea, renunciar a lo que de verdad te gusta solo por posibilidades, ¿no? Por tener más posibilidades. O sea, es como decir, papá, estoy enamorado de Pedro. Ya, pero María tiene más agujeros. O sea, no sé. No está bien, ¿sabes? La verdad es que... A mí me... No, gracias. Gracias.",
+  "chunks": [
+    {
+      "text": " De hecho, hace poco tuve un dolor de garganta, me dolió la garganta y no fui ni a uno ni a otro, fui a un herbolario que está justo en medio.",
+      "start": 1.240000000000001,
+      "end": 7.54
+    },
+    {
+      "text": " Y fui y pagué una medicina que era carísima para la garganta porque yo tengo una fe ciega en los herbolarios, ¿no?",
+      "start": 9.160000000000002,
+      "end": 15.58
+    },
+    {
+      "text": " Yo tengo una fe ciega en las cosas que valen mucho dinero. O sea, tengo... Sí, sí, de hecho, si no se me pasa, mañana me voy de compra, se me pasa.",
+      "start": 15.66,
+      "end": 22.18
+    },
+    {
+      "text": " O sea, ya está. Realmente, no, yo no creo en estas cosas porque yo fui a la universidad.",
+      "start": 22.32,
+      "end": 27.0
+    },
+    {
+      "text": " O sea, y hay muchos cómicos que han ido a la universidad y han tenido que abandonar sus estudios porque sus carreras artísticas les iba tan bien que no tenían tiempo para dedicarle a estudiar y a los trabajos y tal.",
+      "start": 27.0,
+      "end": 39.04
+    },
+    {
+      "text": " Mi carrera artística va tan mal que acabo el doctorado. O sea, se me ha ido la mano.",
+      "start": 39.3,
+      "end": 42.46
+    },
+    {
+      "text": " Sí, sí, yo voy fatal. O sea, yo en caso de casarme solo podrá ser por amor. ¿Sabes? Esto es una tragedia.",
+      "start": 43.6,
+      "end": 50.18
+    },
+    {
+      "text": " Voy tan mal que aquí estoy en Comedy Central otra vez. O sea, es... Tocando fondo, ¿sabes?",
+      "start": 50.46,
+      "end": 55.82
+    },
+    {
+      "text": " De hecho, yo estudié una carrera de letras porque pensé, si estudié una carrera de letras seguro que leo muchos libros y me acuesto con muchas mujeres.",
+      "start": 57.0,
+      "end": 64.24
+    },
+    {
+      "text": " Y luego no es verdad, ¿sabes? Luego no lees tantos libros. Y esto... Sí, parece que no, pero...",
+      "start": 64.56,
+      "end": 69.8
+    },
+    {
+      "text": " Claro, joven.",
+      "start": 72.66,
+      "end": 73.44
+    },
+    {
+      "text": " Lo mío fue vocacional totalmente. Fue vocacional. ¿Sabes? Cuando eres joven que los adultos te dicen un poco que pienses en las salidas profesionales de lo que vas a estudiar.",
+      "start": 75.98,
+      "end": 85.5
+    },
+    {
+      "text": " O sea, no te centres tanto en lo que te apetece ahora. Tienes que proyectar un poco al futuro. Piensa en tu futuro laboral y tal.",
+      "start": 85.62,
+      "end": 92.08
+    },
+    {
+      "text": " Y a mí esto me parece un poco triste, ¿no? O sea, renunciar a lo que de verdad te gusta solo por posibilidades, ¿no? Por tener más posibilidades.",
+      "start": 92.52000000000001,
+      "end": 100.24
+    },
+    {
+      "text": " O sea, es como decir, papá, estoy enamorado de Pedro. Ya, pero María tiene más agujeros. O sea, no sé. No está bien, ¿sabes?",
+      "start": 100.4,
+      "end": 106.7
+    },
+    {
+      "text": " La verdad es que... A mí me... No, gracias.",
+      "start": 108.60000000000001,
+      "end": 112.72
+    },
+    {
+      "text": " Gracias.",
+      "start": 122.08,
+      "end": 122.38
+    }
+  ],
+  "processing_time": 1.400515079498291,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

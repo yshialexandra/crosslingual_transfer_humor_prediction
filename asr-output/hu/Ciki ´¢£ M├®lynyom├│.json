@@ -1,0 +1,104 @@
+{
+  "audio_file": "Ciki ｜ Mélynyomó.wav",
+  "full_text": "SZARUK Szarucok, titeket kereslek! Pedig itt vagyunk. Jó, figyeljtek, ennyi volt a beállás? Ennyi. Szól, nem? Engem küldött a zenek arra, hogy szóljak, hogy szarul szól. Jó, hát Szabatérrel nem tud csodát tenni. De nincsenek mélyek a magasak meg gerjednek. Hát, mert szarok a cuccaik. Nem szarok, hát végigjátszották vele Európát, mindenhol tök jól szólt. Tondolom Szabatér. Eddig is Szabatérrel játszották. Figyeljtek, szehátok, ez nagyon cikki. Nekik. Mi a nevit? Gorilláz. Jó, figyeljtek, valami mondanom kell nekik. Jó, akkor mondjad meg nekik, hogyha a Pink meg a Mars Bruno túlélte, hogy elcsesztem, akkor ők is kibírják. Ez a baj ezekkel a vidéki fellépőkkel. Majd maga, pofán, ez szabad.",
+  "chunks": [
+    {
+      "text": " SZARUK",
+      "start": 4.859999999999999,
+      "end": 5.24
+    },
+    {
+      "text": " Szarucok, titeket kereslek!",
+      "start": 5.24,
+      "end": 6.32
+    },
+    {
+      "text": " Pedig itt vagyunk.",
+      "start": 6.44,
+      "end": 7.32
+    },
+    {
+      "text": " Jó, figyeljtek, ennyi volt a beállás?",
+      "start": 7.54,
+      "end": 9.38
+    },
+    {
+      "text": " Ennyi. Szól, nem?",
+      "start": 9.54,
+      "end": 10.56
+    },
+    {
+      "text": " Engem küldött a zenek arra, hogy szóljak, hogy szarul szól.",
+      "start": 11.12,
+      "end": 13.44
+    },
+    {
+      "text": " Jó, hát Szabatérrel nem tud csodát tenni.",
+      "start": 13.52,
+      "end": 15.38
+    },
+    {
+      "text": " De nincsenek mélyek a magasak meg gerjednek.",
+      "start": 15.7,
+      "end": 18.12
+    },
+    {
+      "text": " Hát, mert szarok a cuccaik.",
+      "start": 18.16,
+      "end": 19.3
+    },
+    {
+      "text": " Nem szarok, hát végigjátszották vele Európát, mindenhol tök jól szólt.",
+      "start": 19.42,
+      "end": 22.7
+    },
+    {
+      "text": " Tondolom Szabatér.",
+      "start": 22.82,
+      "end": 23.78
+    },
+    {
+      "text": " Eddig is Szabatérrel játszották.",
+      "start": 23.96,
+      "end": 25.48
+    },
+    {
+      "text": " Figyeljtek, szehátok, ez nagyon cikki.",
+      "start": 25.48,
+      "end": 27.06
+    },
+    {
+      "text": " Nekik. Mi a nevit?",
+      "start": 27.14,
+      "end": 28.46
+    },
+    {
+      "text": " Gorilláz.",
+      "start": 29.260000000000005,
+      "end": 29.76
+    },
+    {
+      "text": " Jó, figyeljtek, valami mondanom kell nekik.",
+      "start": 31.740000000000002,
+      "end": 33.72
+    },
+    {
+      "text": " Jó, akkor mondjad meg nekik, hogyha a Pink meg a Mars Bruno túlélte, hogy elcsesztem, akkor ők is kibírják.",
+      "start": 33.84,
+      "end": 39.46
+    },
+    {
+      "text": " Ez a baj ezekkel a vidéki fellépőkkel.",
+      "start": 41.86,
+      "end": 44.52
+    },
+    {
+      "text": " Majd maga, pofán, ez szabad.",
+      "start": 45.0,
+      "end": 47.22
+    }
+  ],
+  "processing_time": 0.44686174392700195,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,79 @@
+{
+  "audio_file": "Dzsudló ｜ A Zacskós Énekes.wav",
+  "full_text": "Végre megérkezett a show, amire mindenki vált! Az internetes videók legjobban őrzött titka. Ki van a zacskó alap? Soha nem látott jelmezek! Változatos díszlet! Tíz ember, aki hajlandó hülyét csinálni magából! És akkor lássuk az ehetű zacskós énekest! A TV-ben már nyit semmi más, csak szex meg bűn, ez lett a szórakozás. A régi jó dolgok úgy eltűntek, hogy tájtva marad a szám. Mi jó, hogy van a Family Guy! Megmutatjuk neked, foghatod a feje, sírsz vagy ne vedsz rajta, alsod fáj! Itt a Family Guy!",
+  "chunks": [
+    {
+      "text": " Végre megérkezett a show, amire mindenki vált!",
+      "start": 0.0,
+      "end": 3.16
+    },
+    {
+      "text": " Az internetes videók legjobban őrzött titka.",
+      "start": 3.34,
+      "end": 6.04
+    },
+    {
+      "text": " Ki van a zacskó alap? Soha nem látott jelmezek!",
+      "start": 6.24,
+      "end": 9.48
+    },
+    {
+      "text": " Változatos díszlet!",
+      "start": 10.2,
+      "end": 11.36
+    },
+    {
+      "text": " Tíz ember, aki hajlandó hülyét csinálni magából!",
+      "start": 11.84,
+      "end": 14.62
+    },
+    {
+      "text": " És akkor lássuk az ehetű zacskós énekest!",
+      "start": 14.84,
+      "end": 17.52
+    },
+    {
+      "text": " A TV-ben már nyit semmi más,",
+      "start": 17.92,
+      "end": 21.48
+    },
+    {
+      "text": " csak szex meg bűn, ez lett a szórakozás.",
+      "start": 21.66,
+      "end": 24.86
+    },
+    {
+      "text": " A régi jó dolgok úgy eltűntek,",
+      "start": 25.02,
+      "end": 28.48
+    },
+    {
+      "text": " hogy tájtva marad a szám.",
+      "start": 28.48,
+      "end": 31.16
+    },
+    {
+      "text": " Mi jó, hogy van a Family Guy!",
+      "start": 31.38,
+      "end": 33.64
+    },
+    {
+      "text": " Megmutatjuk neked, foghatod a feje,",
+      "start": 35.2,
+      "end": 38.16
+    },
+    {
+      "text": " sírsz vagy ne vedsz rajta, alsod fáj!",
+      "start": 38.5,
+      "end": 41.48
+    },
+    {
+      "text": " Itt a Family Guy!",
+      "start": 41.72,
+      "end": 45.34
+    }
+  ],
+  "processing_time": 0.3319528102874756,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

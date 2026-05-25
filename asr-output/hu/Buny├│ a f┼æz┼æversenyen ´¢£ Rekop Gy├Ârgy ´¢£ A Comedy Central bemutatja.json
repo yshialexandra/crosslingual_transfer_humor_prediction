@@ -1,0 +1,149 @@
+{
+  "audio_file": "Bunyó a főzőversenyen ｜ Rekop György ｜ A Comedy Central bemutatja.wav",
+  "full_text": "Most képzeldek el, elmész egy olyan főzőversenyre, műsort vezetni, és most jön a következő kérdésem, ki az, aki már volt főzőversenyen, és látott tömegverekedést? Csak én? Elmondom, miből fakadt. Föl kellett olvasnom az első három helyezettet. Harmadik helyezet, a brassói apró pecsenye. Mondták, hogy azért a brassói, mert nem tudták, hogy mivel neveznek, de úgy nézett ki, mint a brassói apró pecsenye. Második helyen végzett a türingiai vadszarvasragó álfonyával tűzdelve. Ugye? Kimondani is jobb az meg. De hogy a verekedést mi indította el? Hát beolvastam az első helyezett tökfőzeléket. És ugye a türingiai vadszarvasragó egy kicsit nehezen viselte ezt a tökfőzeléket, és én láttam is, hogy miért kapott ki. Kézzétek el, ezek a vadszarvasragó főző emberek, ezek ilyen konfliktuskezelő cég alkalmazottai. És azt vettem észre, hogy a főzőversenőrán így mindenki megkóstolja mindenkinek a kajáját, és ezek azt csinálták, ezek a parasztok kéze. De fogták a kanalkat, és így oda mentek az ellenséghez, hogy szia, megkóstolhatom. Persze, nyugodtan, akkor megkavarom egy kicsit, jó? Csak ilyenkor egy marék só van a kezébe a köcsögnek, és ahogy megkavar, így tele sózza, és ú, kurva jó, nem kell hozzá semmi, nem kell hozzá semmi, nagyon jó. De amikor a tökfőzeléket akarta megrontani az ember, akkor már nem volt só, hanem gyömbért és kurkumát vitt a parasztja, és a zsűri fel is olvasta, hogy azért nyert a tökfőzelék, mert megbolondította a gyömbér és a kurkuma.",
+  "chunks": [
+    {
+      "text": " Most képzeldek el, elmész egy olyan főzőversenyre, műsort vezetni,",
+      "start": 0.9800000000000011,
+      "end": 5.54
+    },
+    {
+      "text": " és most jön a következő kérdésem, ki az, aki már volt főzőversenyen, és látott tömegverekedést?",
+      "start": 5.76,
+      "end": 11.68
+    },
+    {
+      "text": " Csak én?",
+      "start": 15.920000000000002,
+      "end": 16.76
+    },
+    {
+      "text": " Elmondom, miből fakadt.",
+      "start": 18.46,
+      "end": 19.92
+    },
+    {
+      "text": " Föl kellett olvasnom az első három helyezettet.",
+      "start": 21.0,
+      "end": 24.52
+    },
+    {
+      "text": " Harmadik helyezet, a brassói apró pecsenye.",
+      "start": 25.48,
+      "end": 29.0
+    },
+    {
+      "text": " Mondták, hogy azért a brassói, mert nem tudták, hogy mivel neveznek,",
+      "start": 30.0,
+      "end": 33.48
+    },
+    {
+      "text": " de úgy nézett ki, mint a brassói apró pecsenye.",
+      "start": 33.64,
+      "end": 36.78
+    },
+    {
+      "text": " Második helyen végzett a türingiai vadszarvasragó álfonyával tűzdelve.",
+      "start": 37.88,
+      "end": 44.72
+    },
+    {
+      "text": " Ugye? Kimondani is jobb az meg.",
+      "start": 46.12,
+      "end": 48.2
+    },
+    {
+      "text": " De hogy a verekedést mi indította el?",
+      "start": 49.06,
+      "end": 51.26
+    },
+    {
+      "text": " Hát beolvastam az első helyezett tökfőzeléket.",
+      "start": 51.6,
+      "end": 54.06
+    },
+    {
+      "text": " És ugye a türingiai vadszarvasragó egy kicsit nehezen viselte ezt a tökfőzeléket,",
+      "start": 55.28,
+      "end": 59.98
+    },
+    {
+      "text": " és én láttam is, hogy miért kapott ki.",
+      "start": 60.38,
+      "end": 62.26
+    },
+    {
+      "text": " Kézzétek el, ezek a vadszarvasragó főző emberek,",
+      "start": 62.44,
+      "end": 65.02
+    },
+    {
+      "text": " ezek ilyen konfliktuskezelő cég alkalmazottai.",
+      "start": 65.12,
+      "end": 68.12
+    },
+    {
+      "text": " És azt vettem észre, hogy a főzőversenőrán így mindenki megkóstolja mindenkinek a kajáját,",
+      "start": 68.92,
+      "end": 74.68
+    },
+    {
+      "text": " és ezek azt csinálták, ezek a parasztok kéze.",
+      "start": 74.76,
+      "end": 76.5
+    },
+    {
+      "text": " De fogták a kanalkat, és így oda mentek az ellenséghez,",
+      "start": 76.66,
+      "end": 79.98
+    },
+    {
+      "text": " hogy szia, megkóstolhatom.",
+      "start": 80.02,
+      "end": 80.98
+    },
+    {
+      "text": " Persze, nyugodtan, akkor megkavarom egy kicsit, jó?",
+      "start": 81.12,
+      "end": 82.84
+    },
+    {
+      "text": " Csak ilyenkor egy marék só van a kezébe a köcsögnek,",
+      "start": 82.84,
+      "end": 85.52
+    },
+    {
+      "text": " és ahogy megkavar, így tele sózza, és ú, kurva jó, nem kell hozzá semmi, nem kell hozzá semmi, nagyon jó.",
+      "start": 85.96,
+      "end": 91.38
+    },
+    {
+      "text": " De amikor a tökfőzeléket akarta megrontani az ember,",
+      "start": 92.04,
+      "end": 94.74
+    },
+    {
+      "text": " akkor már nem volt só,",
+      "start": 95.18,
+      "end": 95.88
+    },
+    {
+      "text": " hanem gyömbért és kurkumát vitt a parasztja,",
+      "start": 96.34,
+      "end": 98.72
+    },
+    {
+      "text": " és a zsűri fel is olvasta, hogy azért nyert a tökfőzelék,",
+      "start": 99.42,
+      "end": 102.48
+    },
+    {
+      "text": " mert megbolondította a gyömbér és a kurkuma.",
+      "start": 102.58,
+      "end": 104.86
+    }
+  ],
+  "processing_time": 0.7222506999969482,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,159 @@
+{
+  "audio_file": "Las Cirugías Estéticas Que Te Has Hecho ｜ Celia Villalobos vs Juan Carlos Monedero ｜ Roast Battle 3.wav",
+  "full_text": "El Ejército de su vida fue cuando me hizo insumiso. ¿La del maíz, es verdad? Pues no, te has equivocado. Mi padre me quería disciplinar. Pero tú ya... ¿O eres más tan viejo? Yo soy más mayor de lo que tú crees. Ah, ¿y quién te arregla la cara? Pues yo también. Yo conocí a mi marido montando una manifestación del 1 de mayo. Yo he sido jugadora de baloncesto en mi colegio. Era buena de cojones. Todas las semanas voy al cine. Yo creo que la verdadera es que conociste a Pedro en una manifestación del 1 de mayo. Es verdad. Pero cuando se ibas te pegaban de hostias, ¿eh? Ya te digo. No como tú. No creas que yo no me he llevado a las mías, ¿eh? Sí, pero tú ya estabas en democracia, a pesar de la cirugía estética que te has hecho. en verdad, ya te veins en una Nora... Pero no creo que hay que lo 옆 personaje tiene una información. del planeta neo... Gracias.",
+  "chunks": [
+    {
+      "text": " El Ejército",
+      "start": 25.44,
+      "end": 28.24
+    },
+    {
+      "text": " de su vida fue cuando me hizo insumiso.",
+      "start": 30.0,
+      "end": 31.84
+    },
+    {
+      "text": " ¿La del maíz, es verdad?",
+      "start": 32.26,
+      "end": 33.36
+    },
+    {
+      "text": " Pues no, te has equivocado.",
+      "start": 33.64,
+      "end": 35.16
+    },
+    {
+      "text": " Mi padre me quería disciplinar.",
+      "start": 35.98,
+      "end": 38.0
+    },
+    {
+      "text": " Pero tú ya... ¿O eres más tan viejo?",
+      "start": 38.14,
+      "end": 40.02
+    },
+    {
+      "text": " Yo soy más mayor de lo que tú crees.",
+      "start": 40.1,
+      "end": 41.66
+    },
+    {
+      "text": " Ah, ¿y quién te arregla la cara? Pues yo también.",
+      "start": 41.94,
+      "end": 43.7
+    },
+    {
+      "text": " Yo conocí a mi marido",
+      "start": 44.27999999999999,
+      "end": 45.9
+    },
+    {
+      "text": " montando una manifestación",
+      "start": 46.35999999999999,
+      "end": 47.68
+    },
+    {
+      "text": " del 1 de mayo.",
+      "start": 47.68,
+      "end": 48.74
+    },
+    {
+      "text": " Yo he sido jugadora de baloncesto",
+      "start": 49.7,
+      "end": 52.1
+    },
+    {
+      "text": " en mi colegio.",
+      "start": 52.62,
+      "end": 53.62
+    },
+    {
+      "text": " Era buena de cojones.",
+      "start": 54.0,
+      "end": 55.02
+    },
+    {
+      "text": " Todas las semanas voy al cine.",
+      "start": 56.14,
+      "end": 58.02
+    },
+    {
+      "text": " Yo creo que la verdadera",
+      "start": 58.54,
+      "end": 59.8
+    },
+    {
+      "text": " es que conociste a Pedro",
+      "start": 59.8,
+      "end": 62.12
+    },
+    {
+      "text": " en una manifestación del 1 de mayo.",
+      "start": 62.12,
+      "end": 64.14
+    },
+    {
+      "text": " Es verdad.",
+      "start": 64.52,
+      "end": 64.92
+    },
+    {
+      "text": " Pero cuando se ibas te pegaban de hostias, ¿eh?",
+      "start": 65.68,
+      "end": 67.96
+    },
+    {
+      "text": " Ya te digo. No como tú.",
+      "start": 68.08,
+      "end": 69.16
+    },
+    {
+      "text": " No creas que yo no me he llevado",
+      "start": 69.74,
+      "end": 72.2
+    },
+    {
+      "text": " a las mías, ¿eh? Sí, pero tú ya estabas",
+      "start": 72.2,
+      "end": 74.18
+    },
+    {
+      "text": " en democracia, a pesar de la cirugía estética",
+      "start": 74.18,
+      "end": 76.26
+    },
+    {
+      "text": " que te has hecho.",
+      "start": 76.26,
+      "end": 76.72
+    },
+    {
+      "text": " en verdad, ya te veins en una Nora...",
+      "start": 88.24,
+      "end": 89.86
+    },
+    {
+      "text": " Pero no creo que hay",
+      "start": 90.14,
+      "end": 90.22
+    },
+    {
+      "text": " que lo 옆 personaje tiene una información.",
+      "start": 90.22,
+      "end": 91.36
+    },
+    {
+      "text": " del planeta neo...",
+      "start": 91.4,
+      "end": 91.44
+    },
+    {
+      "text": " Gracias.",
+      "start": 91.44,
+      "end": 91.76
+    }
+  ],
+  "processing_time": 1.497347116470337,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

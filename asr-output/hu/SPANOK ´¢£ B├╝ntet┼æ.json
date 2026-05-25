@@ -1,0 +1,99 @@
+{
+  "audio_file": "SPANOK ｜ Büntető.wav",
+  "full_text": "A TORONTOS ÖZÖN SZÖNYÖMEN SZÖNYÖMEN SZÖNYÖMEN SZÖNYÖMEN SZÖNYÖMEN. Holdj tejty. Hányszor mondtam már, hogy ne focizzálj be a lakásban. Ikkor itt van. Májében lehet. Elképesztő mennyire látszik a szaban áltutás. Meggy a pass, odanészt tapad, hozz rifle a labda. Izlik a komodóivaránus úgy gyűlik ki a nyer. Nem hiába. Eszk piromának. Nagyon szép! Nem véletlenül húzta meg mindig az orosztánok elől. Így van! Hoppá! Olli! Olli! Gyere, gyere, tegyen! Bassza meg, Lacika! Betört az ablak! Rennes betört az ablak! Az asszony! Az asszony! Lacika, figyelj, nagyon nagy a szar! Gyorsjuk meg, gyorsan! Figyelj! Segítsél! Laci! Laci! Laci! Laci!",
+  "chunks": [
+    {
+      "text": " A TORONTOS ÖZÖN SZÖNYÖMEN SZÖNYÖMEN SZÖNYÖMEN SZÖNYÖMEN SZÖNYÖMEN.",
+      "start": 0.0,
+      "end": 9.74
+    },
+    {
+      "text": " Holdj tejty.",
+      "start": 12.200000000000001,
+      "end": 12.66
+    },
+    {
+      "text": " Hányszor mondtam már, hogy ne focizzálj be a lakásban.",
+      "start": 19.86,
+      "end": 22.28
+    },
+    {
+      "text": " Ikkor itt van.",
+      "start": 22.88,
+      "end": 23.84
+    },
+    {
+      "text": " Májében lehet.",
+      "start": 43.440000000000005,
+      "end": 44.3
+    },
+    {
+      "text": " Elképesztő mennyire látszik a szaban áltutás.",
+      "start": 44.54,
+      "end": 46.76
+    },
+    {
+      "text": " Meggy a pass, odanészt tapad, hozz rifle a labda.",
+      "start": 47.540000000000006,
+      "end": 50.48
+    },
+    {
+      "text": " Izlik a komodóivaránus úgy gyűlik ki a nyer.",
+      "start": 50.7,
+      "end": 53.54
+    },
+    {
+      "text": " Nem hiába. Eszk piromának.",
+      "start": 54.04,
+      "end": 56.5
+    },
+    {
+      "text": " Nagyon szép!",
+      "start": 56.56,
+      "end": 57.38
+    },
+    {
+      "text": " Nem véletlenül húzta meg mindig az orosztánok elől.",
+      "start": 57.38,
+      "end": 60.84
+    },
+    {
+      "text": " Így van! Hoppá!",
+      "start": 60.92,
+      "end": 62.44
+    },
+    {
+      "text": " Olli! Olli!",
+      "start": 62.62,
+      "end": 64.02
+    },
+    {
+      "text": " Gyere, gyere, tegyen!",
+      "start": 69.7,
+      "end": 70.9
+    },
+    {
+      "text": " Bassza meg, Lacika! Betört az ablak! Rennes betört az ablak!",
+      "start": 73.64,
+      "end": 77.4
+    },
+    {
+      "text": " Az asszony! Az asszony!",
+      "start": 78.64,
+      "end": 81.06
+    },
+    {
+      "text": " Lacika, figyelj, nagyon nagy a szar! Gyorsjuk meg, gyorsan! Figyelj! Segítsél! Laci!",
+      "start": 81.12,
+      "end": 85.72
+    },
+    {
+      "text": " Laci! Laci! Laci!",
+      "start": 85.72,
+      "end": 88.14
+    }
+  ],
+  "processing_time": 2.7703073024749756,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,64 @@
+{
+  "audio_file": "Mélygarázs ｜ Részeg utas.wav",
+  "full_text": "ESTIMA TAKS LOSÁW Dilya från skerhberg ad transformative art Revolution! MARTSZANA GOLF і TAÄMPR бо Dog Sh nanoAre popular streaming moo...面 kallā abba. 5 ezer akárpít tisztítás, hova megyünk? Ajtót be kéne csukti, mert húzat van. Jó. Hova megyünk? Tök. Ötezer forint lesz, megérteztünk. Jaj, előttem. Hát, ez. Hát, ez. Hát, ez. Hát, ez. Hát, ez. Hát, ez. Hát, ez. Hát, ez. Hát, ez. Hát, ez. Hát, ez. Hát, ez. Hát, ez. Hát, ez. Hát, ez. Hát. Hát, ez. Hát, ez. Hát, ez. Hát, ez. Hát, ez. Hát, ez. Hát, ez. Áld zal veled vysvá podob listen tern paleclueend. Köszönöm! NAMASTE",
+  "chunks": [
+    {
+      "text": " ESTIMA TAKS LOSÁW Dilya från skerhberg ad transformative art Revolution!",
+      "start": 0.74,
+      "end": 9.14
+    },
+    {
+      "text": " MARTSZANA GOLF і TAÄMPR бо Dog Sh nanoAre popular streaming",
+      "start": 9.14,
+      "end": 10.14
+    },
+    {
+      "text": " moo...面 kallā abba.",
+      "start": 10.14,
+      "end": 17.52
+    },
+    {
+      "text": " 5 ezer akárpít tisztítás, hova megyünk? Ajtót be kéne csukti, mert húzat van.",
+      "start": 22.959999999999997,
+      "end": 33.74
+    },
+    {
+      "text": " Jó. Hova megyünk? Tök. Ötezer forint lesz, megérteztünk. Jaj, előttem. Hát, ez. Hát, ez. Hát, ez. Hát, ez. Hát, ez. Hát, ez. Hát, ez. Hát, ez. Hát, ez. Hát, ez. Hát, ez. Hát, ez. Hát, ez. Hát, ez.",
+      "start": 47.81999999999999,
+      "end": 77.44
+    },
+    {
+      "text": " Hát, ez. Hát.",
+      "start": 77.44,
+      "end": 80.92
+    },
+    {
+      "text": " Hát, ez. Hát, ez. Hát, ez.",
+      "start": 81.64,
+      "end": 95.94
+    },
+    {
+      "text": " Hát, ez. Hát, ez. Hát, ez. Hát, ez.",
+      "start": 97.64,
+      "end": 103.7
+    },
+    {
+      "text": " Áld zal veled vysvá podob listen tern paleclueend.",
+      "start": 103.86,
+      "end": 105.32
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 108.72,
+      "end": 110.12
+    },
+    {
+      "text": " NAMASTE",
+      "start": 135.32,
+      "end": 135.36
+    }
+  ],
+  "processing_time": 3.065509080886841,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,104 @@
+{
+  "audio_file": "Új Magyarország - Klímamenekült kötvény ｜ Heti Dörgés Villám Gézával.wav",
+  "full_text": "Ön tudja már, hol lesz, amikor a Szahara kecskeméten ér véget? Gondolt már arra, mi lesz, ha lékkondiban is 40 fok lesz otthon? Tudja, mit tesz, amikor 2 millió magyarral végez a nyugat-nírusi vírus? Ha bármelyik kérdésre nem ezt válaszol, akkor önnek itt az Új Magyarország Klíma Menekült Kötvény. Vezér Árpád vagyok. Vagy, ahogy külföldön hívnak, Árpád vezér. Tartson velem, és foglaljuk el a fölcsvédországi részét. 93 ezer négyzetkilométer most még fagyott Tundrán kezdjünk új életet. 5 millió forintért most ön is letelepedhet lapföldön. A Kárpát-medencének annyi. Vár Kiruna és Vappavara. 5 millió forintért ön és családja letelepedési jogot kap. Ha a következő 10 perc merendel, négy részharvast adunk ajándékba. Nincsenek vírusok, nincs több érekkenő hőség, csak barátságos hegyi csermelyek, árnyékos erdő és demokrácia, ameddig a szenten lát. Új Magyarország, Svédország hivatalos megyéje lesz. Utálok úgy nagy mi. Mi nem akarunk tevéket tenyészteni. Lapföld önre vár, kezdjen tiszta lappal! Új Magyarország klímamenekült kötvény. Most ajándékrészharvassal. Hány Magyarország!",
+  "chunks": [
+    {
+      "text": " Ön tudja már, hol lesz, amikor a Szahara kecskeméten ér véget?",
+      "start": 0.0,
+      "end": 3.32
+    },
+    {
+      "text": " Gondolt már arra, mi lesz, ha lékkondiban is 40 fok lesz otthon?",
+      "start": 3.82,
+      "end": 6.9
+    },
+    {
+      "text": " Tudja, mit tesz, amikor 2 millió magyarral végez a nyugat-nírusi vírus?",
+      "start": 7.26,
+      "end": 11.1
+    },
+    {
+      "text": " Ha bármelyik kérdésre nem ezt válaszol, akkor önnek itt az Új Magyarország Klíma Menekült Kötvény.",
+      "start": 11.3,
+      "end": 16.46
+    },
+    {
+      "text": " Vezér Árpád vagyok. Vagy, ahogy külföldön hívnak, Árpád vezér.",
+      "start": 17.1,
+      "end": 20.96
+    },
+    {
+      "text": " Tartson velem, és foglaljuk el a fölcsvédországi részét.",
+      "start": 21.48,
+      "end": 24.32
+    },
+    {
+      "text": " 93 ezer négyzetkilométer most még fagyott Tundrán kezdjünk új életet.",
+      "start": 24.32,
+      "end": 29.2
+    },
+    {
+      "text": " 5 millió forintért most ön is letelepedhet lapföldön.",
+      "start": 29.44,
+      "end": 32.36
+    },
+    {
+      "text": " A Kárpát-medencének annyi. Vár Kiruna és Vappavara.",
+      "start": 32.5,
+      "end": 36.46
+    },
+    {
+      "text": " 5 millió forintért ön és családja letelepedési jogot kap.",
+      "start": 36.78,
+      "end": 40.06
+    },
+    {
+      "text": " Ha a következő 10 perc merendel, négy részharvast adunk ajándékba.",
+      "start": 40.28,
+      "end": 44.28
+    },
+    {
+      "text": " Nincsenek vírusok, nincs több érekkenő hőség, csak barátságos hegyi csermelyek,",
+      "start": 44.6,
+      "end": 49.5
+    },
+    {
+      "text": " árnyékos erdő és demokrácia, ameddig a szenten lát.",
+      "start": 49.5,
+      "end": 54.2
+    },
+    {
+      "text": " Új Magyarország, Svédország hivatalos megyéje lesz.",
+      "start": 54.54,
+      "end": 57.48
+    },
+    {
+      "text": " Utálok úgy nagy mi.",
+      "start": 57.6,
+      "end": 59.12
+    },
+    {
+      "text": " Mi nem akarunk tevéket tenyészteni.",
+      "start": 59.36,
+      "end": 61.54
+    },
+    {
+      "text": " Lapföld önre vár, kezdjen tiszta lappal!",
+      "start": 62.04,
+      "end": 64.56
+    },
+    {
+      "text": " Új Magyarország klímamenekült kötvény. Most ajándékrészharvassal.",
+      "start": 64.72,
+      "end": 68.88
+    },
+    {
+      "text": " Hány Magyarország!",
+      "start": 79.5,
+      "end": 79.78
+    }
+  ],
+  "processing_time": 0.5993349552154541,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

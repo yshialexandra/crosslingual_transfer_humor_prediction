@@ -1,0 +1,99 @@
+{
+  "audio_file": "Limo 🍋 ｜ ÉÉÉS Most.wav",
+  "full_text": "A kristálypoároldalán a kristálypoároldalán. Már gyermekként is érdekeltek az üdítők. A frissen facsart citromillata, a táncológuboré kok a házi szódában, a poháron megcsillanó napfény, a csöpnyi ezüstkanál csilingelése a kristálypoároldalán. Ezekkel nőttem fel. Erre a talajra építettem az életemet. Preko András vagyok. A limó termékek gyártója és forgalmazója. 2013-ban kezdtem komolyabban foglalkozni az ötlettel. Onnantól kezdve a cégem lényegében önmagát építette fel. Mi nem csak minőséget akarunk műtani, hanem gyermekkorunk egy darabját, amely gondoskodással és édes emlékekkel terül. Lábműves termékeink válogatott alapanyagokból, szeretettel készülnek. Nekem mindig ez lesz az első az életemben. Minden csepben hosszú élet munkája van. És hogy kinek csináljuk? Mindenkinek. Limon. Lábműves limonádé. Szeretettel, szívből, lábban. Mindenkinek.",
+  "chunks": [
+    {
+      "text": " A kristálypoároldalán a kristálypoároldalán.",
+      "start": 1.5800000000000018,
+      "end": 4.86
+    },
+    {
+      "text": " Már gyermekként is érdekeltek az üdítők.",
+      "start": 11.580000000000002,
+      "end": 14.82
+    },
+    {
+      "text": " A frissen facsart citromillata, a táncológuboré kok a házi szódában,",
+      "start": 15.22,
+      "end": 21.16
+    },
+    {
+      "text": " a poháron megcsillanó napfény,",
+      "start": 21.42,
+      "end": 23.84
+    },
+    {
+      "text": " a csöpnyi ezüstkanál csilingelése a kristálypoároldalán.",
+      "start": 24.92,
+      "end": 29.12
+    },
+    {
+      "text": " Ezekkel nőttem fel. Erre a talajra építettem az életemet.",
+      "start": 30.0,
+      "end": 34.24
+    },
+    {
+      "text": " Preko András vagyok. A limó termékek gyártója és forgalmazója.",
+      "start": 35.480000000000004,
+      "end": 40.42
+    },
+    {
+      "text": " 2013-ban kezdtem komolyabban foglalkozni az ötlettel.",
+      "start": 42.98,
+      "end": 47.02
+    },
+    {
+      "text": " Onnantól kezdve a cégem lényegében önmagát építette fel.",
+      "start": 47.8,
+      "end": 51.94
+    },
+    {
+      "text": " Mi nem csak minőséget akarunk műtani, hanem gyermekkorunk egy darabját,",
+      "start": 52.9,
+      "end": 57.62
+    },
+    {
+      "text": " amely gondoskodással és édes emlékekkel terül.",
+      "start": 57.62,
+      "end": 61.84
+    },
+    {
+      "text": " Lábműves termékeink válogatott alapanyagokból, szeretettel készülnek.",
+      "start": 64.98,
+      "end": 70.56
+    },
+    {
+      "text": " Nekem mindig ez lesz az első az életemben.",
+      "start": 79.34,
+      "end": 82.52
+    },
+    {
+      "text": " Minden csepben hosszú élet munkája van.",
+      "start": 82.96,
+      "end": 85.82
+    },
+    {
+      "text": " És hogy kinek csináljuk?",
+      "start": 89.53999999999999,
+      "end": 92.04
+    },
+    {
+      "text": " Mindenkinek.",
+      "start": 92.76,
+      "end": 93.98
+    },
+    {
+      "text": " Limon. Lábműves limonádé. Szeretettel, szívből, lábban.",
+      "start": 95.66000000000001,
+      "end": 101.96
+    },
+    {
+      "text": " Mindenkinek.",
+      "start": 117.66,
+      "end": 119.06
+    }
+  ],
+  "processing_time": 1.6066029071807861,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

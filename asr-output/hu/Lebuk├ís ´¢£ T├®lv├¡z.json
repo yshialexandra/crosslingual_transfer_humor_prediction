@@ -1,0 +1,139 @@
+{
+  "audio_file": "Lebukás ｜ Télvíz.wav",
+  "full_text": "Sziasztok! Sziasztok! Pakoltok? 사야, muszáj! Nem Sanková jöttök? Ez már téli komoly, az alton? Igen. Nem, ez nyári. Akkor nyári. Miért hazudsz? Nem hazudok. De hazuds és álszakállad van! Innen látom. És augusztus 20-án, a rettélen, te voltál a DJ. Megismerem a hangodat. Valamit mondjál már te is. Az egy nagyon jó buli volt. Kösz szépen ezzel, nagyon kisegítettél. Főleg a tűzijáték. Ti tényleg hülyének nézitek a gyerekeket? Csak ő. Nem, nem, nem nézem hülyének őket, jó? De igen, az egész ünnetségen löhely. Na, jó van. Kérdez egy Mikulás csomagot? Tehátzzék magaddak a csomagodat. Brávó. Most mi van? Ha már így kiábrándítottad, nem akarod a gólyáról is elmondani neki az igazságot? De. Hélo! Várjál már egy kicsit, álljál már meg! Hallod? Azt tudtad, hogy a gólya egy iráni madár?",
+  "chunks": [
+    {
+      "text": " Sziasztok!",
+      "start": 9.600000000000001,
+      "end": 10.36
+    },
+    {
+      "text": " Sziasztok!",
+      "start": 10.78,
+      "end": 11.54
+    },
+    {
+      "text": " Pakoltok? 사야, muszáj!",
+      "start": 11.64,
+      "end": 13.72
+    },
+    {
+      "text": " Nem Sanková jöttök?",
+      "start": 14.34,
+      "end": 16.14
+    },
+    {
+      "text": " Ez már téli komoly, az alton?",
+      "start": 17.080000000000002,
+      "end": 19.44
+    },
+    {
+      "text": " Igen.",
+      "start": 19.6,
+      "end": 19.96
+    },
+    {
+      "text": " Nem, ez nyári. Akkor nyári.",
+      "start": 20.54,
+      "end": 22.84
+    },
+    {
+      "text": " Miért hazudsz? Nem hazudok.",
+      "start": 23.24,
+      "end": 25.46
+    },
+    {
+      "text": " De hazuds és álszakállad van! Innen látom.",
+      "start": 25.86,
+      "end": 28.94
+    },
+    {
+      "text": " És augusztus 20-án, a rettélen, te voltál a DJ. Megismerem a hangodat.",
+      "start": 30.0,
+      "end": 35.4
+    },
+    {
+      "text": " Valamit mondjál már te is.",
+      "start": 35.54,
+      "end": 36.8
+    },
+    {
+      "text": " Az egy nagyon jó buli volt.",
+      "start": 39.72,
+      "end": 41.24
+    },
+    {
+      "text": " Kösz szépen ezzel, nagyon kisegítettél.",
+      "start": 41.36,
+      "end": 43.52
+    },
+    {
+      "text": " Főleg a tűzijáték.",
+      "start": 43.72,
+      "end": 44.86
+    },
+    {
+      "text": " Ti tényleg hülyének nézitek a gyerekeket?",
+      "start": 45.48,
+      "end": 48.0
+    },
+    {
+      "text": " Csak ő.",
+      "start": 48.18,
+      "end": 48.48
+    },
+    {
+      "text": " Nem, nem, nem nézem hülyének őket, jó?",
+      "start": 48.78,
+      "end": 50.8
+    },
+    {
+      "text": " De igen, az egész ünnetségen löhely.",
+      "start": 52.36,
+      "end": 55.18
+    },
+    {
+      "text": " Na, jó van. Kérdez egy Mikulás csomagot?",
+      "start": 55.34,
+      "end": 57.66
+    },
+    {
+      "text": " Tehátzzék magaddak a csomagodat.",
+      "start": 57.66,
+      "end": 59.98
+    },
+    {
+      "text": " Brávó.",
+      "start": 63.32,
+      "end": 63.94
+    },
+    {
+      "text": " Most mi van?",
+      "start": 64.12,
+      "end": 64.84
+    },
+    {
+      "text": " Ha már így kiábrándítottad, nem akarod a gólyáról is elmondani neki az igazságot?",
+      "start": 65.44,
+      "end": 69.48
+    },
+    {
+      "text": " De.",
+      "start": 69.66,
+      "end": 70.28
+    },
+    {
+      "text": " Hélo! Várjál már egy kicsit, álljál már meg!",
+      "start": 70.76,
+      "end": 73.94
+    },
+    {
+      "text": " Hallod? Azt tudtad, hogy a gólya egy iráni madár?",
+      "start": 74.7,
+      "end": 77.74
+    }
+  ],
+  "processing_time": 1.7136540412902832,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

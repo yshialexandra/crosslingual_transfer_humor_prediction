@@ -1,0 +1,64 @@
+{
+  "audio_file": "Beállás 1 ｜ Mélynyomó.wav",
+  "full_text": "A GITÁRT Egyem, most kell majd betolni a gégent. Jó. Majd be kell venni a gitárt a második szólóhoz. Hát akkor vigyel! IMAEDLEK! Menjunk! Héééé! Ezt miért nem a biztonságiak csinálják? Most a gitár! Azt hittem most. Mert elfáradtál. De nagyon. Na, akkor pihent ki magad, mert ez még csak a beállás volt.",
+  "chunks": [
+    {
+      "text": " A GITÁRT",
+      "start": 7.7400000000000055,
+      "end": 8.3
+    },
+    {
+      "text": " Egyem, most kell majd betolni a gégent.",
+      "start": 8.3,
+      "end": 9.52
+    },
+    {
+      "text": " Jó.",
+      "start": 9.62,
+      "end": 9.86
+    },
+    {
+      "text": " Majd be kell venni a gitárt a második szólóhoz.",
+      "start": 11.36,
+      "end": 13.7
+    },
+    {
+      "text": " Hát akkor vigyel!",
+      "start": 14.26,
+      "end": 15.14
+    },
+    {
+      "text": " IMAEDLEK!",
+      "start": 15.760000000000005,
+      "end": 16.32
+    },
+    {
+      "text": " Menjunk!",
+      "start": 16.4,
+      "end": 16.68
+    },
+    {
+      "text": " Héééé!",
+      "start": 16.72,
+      "end": 17.28
+    },
+    {
+      "text": " Ezt miért nem a biztonságiak csinálják?",
+      "start": 20.340000000000003,
+      "end": 22.58
+    },
+    {
+      "text": " Most a gitár!",
+      "start": 25.560000000000006,
+      "end": 26.56
+    },
+    {
+      "text": " Azt hittem most. Mert elfáradtál. De nagyon. Na, akkor pihent ki magad, mert ez még csak a beállás volt.",
+      "start": 32.62,
+      "end": 40.84
+    }
+  ],
+  "processing_time": 1.0371575355529785,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

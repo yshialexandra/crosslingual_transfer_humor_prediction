@@ -1,0 +1,69 @@
+{
+  "audio_file": "Kommenthuszárok ⚔️ Modern Család magyar hangok #2 ｜ Modern Család.wav",
+  "full_text": "Na kérlek szépen! A szöngye, hogy... Ha nem látok se, itt... A bevándorló, az álbundi... Nem az a bundi... A bevándorló, az álbandi és a melegek. Hova kerültem? Oda! Na jöhet a kövi! Nagyon primitív! Azt mondta az egyik a másiknak, hogy K-U-K-I fej... Kukifej? Kukifej. A Cuki? Tovább. Még nem désztem bele, de tuti szar az egész. Sajnálhatod, hogy nem nézel a sorozatot? Nagyon édi. Nagyon érdekes, nagyobb. Kukifej. Még 5000 rész lesz. Nyugi. Glória magyar hangja szexi. Hangtompítóval. Gyuri 1997. Ugye lassan vége? Tiltsák. Tehát így, ahogy olvasom. Tiltsák. Be az ilyet. Tipsi-tipsi. Az én időmben nem mutogatták az abnormálisakat a tévében. Te mennyi azt lukkoljál a focistáknak! Úgy, se csinálnak semmit! Mennyi szípe háza, azt csukjod be a szémétet is áll, ugye? Pulsi. Áááááá. Pfff. Helyet kövedenek magamnak. A szereplő idegesítőek... A szereplő idegesítők...",
+  "chunks": [
+    {
+      "text": " Na kérlek szépen! A szöngye, hogy...",
+      "start": 0.0,
+      "end": 2.62
+    },
+    {
+      "text": " Ha nem látok se, itt... A bevándorló, az álbundi... Nem az a bundi... A bevándorló, az álbandi és a melegek.",
+      "start": 2.62,
+      "end": 13.2
+    },
+    {
+      "text": " Hova kerültem? Oda! Na jöhet a kövi!",
+      "start": 13.28,
+      "end": 15.48
+    },
+    {
+      "text": " Nagyon primitív! Azt mondta az egyik a másiknak, hogy K-U-K-I fej... Kukifej? Kukifej.",
+      "start": 15.62,
+      "end": 23.14
+    },
+    {
+      "text": " A Cuki? Tovább. Még nem désztem bele, de tuti szar az egész.",
+      "start": 23.4,
+      "end": 27.62
+    },
+    {
+      "text": " Sajnálhatod, hogy nem nézel a sorozatot? Nagyon édi. Nagyon érdekes, nagyobb. Kukifej. Még 5000 rész lesz. Nyugi.",
+      "start": 27.62,
+      "end": 36.02
+    },
+    {
+      "text": " Glória magyar hangja szexi. Hangtompítóval. Gyuri 1997. Ugye lassan vége? Tiltsák. Tehát így, ahogy olvasom. Tiltsák. Be az ilyet. Tipsi-tipsi.",
+      "start": 36.18,
+      "end": 51.2
+    },
+    {
+      "text": " Az én időmben nem mutogatták az abnormálisakat a tévében. Te mennyi azt lukkoljál a focistáknak! Úgy, se csinálnak semmit!",
+      "start": 51.2,
+      "end": 58.82
+    },
+    {
+      "text": " Mennyi szípe háza, azt csukjod be a szémétet is áll, ugye? Pulsi.",
+      "start": 59.14,
+      "end": 62.46
+    },
+    {
+      "text": " Áááááá. Pfff. Helyet kövedenek magamnak.",
+      "start": 64.02000000000001,
+      "end": 70.2
+    },
+    {
+      "text": " A szereplő idegesítőek...",
+      "start": 74.6,
+      "end": 78.2
+    },
+    {
+      "text": " A szereplő idegesítők...",
+      "start": 100.2,
+      "end": 102.2
+    }
+  ],
+  "processing_time": 1.5316710472106934,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,124 @@
+{
+  "audio_file": "Mélyvíz ｜ Térerő.wav",
+  "full_text": "Mi van, Andy? Selfie-ke? Nem, télerőt vadászok. Miért? Nincs télerő. Mi az, hogy nincs télerő? Neked van? Hát nekem mindig van. Csak most nincs. Na? Semmi. Neked valami? Semmi? Te nem merülsz? Nem. Lemerültem. Na, van valami? Semmi, öregem. Semmi. Nálam se. Na, bingo, találtam télerőt. Kicsőnk. Kali be, kész a lángos. Megyek! Na, gyerekek, ezért mondom mindig, hogy sosem szabad nagy feszültségű eszközöket használni a víz. közelébe. Jó?",
+  "chunks": [
+    {
+      "text": " Mi van, Andy? Selfie-ke?",
+      "start": 7.02,
+      "end": 9.44
+    },
+    {
+      "text": " Nem, télerőt vadászok.",
+      "start": 9.78,
+      "end": 11.56
+    },
+    {
+      "text": " Miért?",
+      "start": 12.3,
+      "end": 13.02
+    },
+    {
+      "text": " Nincs télerő.",
+      "start": 13.14,
+      "end": 13.98
+    },
+    {
+      "text": " Mi az, hogy nincs télerő?",
+      "start": 14.26,
+      "end": 15.68
+    },
+    {
+      "text": " Neked van?",
+      "start": 15.92,
+      "end": 16.56
+    },
+    {
+      "text": " Hát nekem mindig van.",
+      "start": 16.94,
+      "end": 18.36
+    },
+    {
+      "text": " Csak most nincs.",
+      "start": 19.68,
+      "end": 20.98
+    },
+    {
+      "text": " Na? Semmi.",
+      "start": 22.66,
+      "end": 23.88
+    },
+    {
+      "text": " Neked valami? Semmi?",
+      "start": 24.2,
+      "end": 25.54
+    },
+    {
+      "text": " Te nem merülsz?",
+      "start": 25.74,
+      "end": 26.54
+    },
+    {
+      "text": " Nem.",
+      "start": 30.580000000000002,
+      "end": 31.26
+    },
+    {
+      "text": " Lemerültem.",
+      "start": 31.26,
+      "end": 31.86
+    },
+    {
+      "text": " Na, van valami?",
+      "start": 34.84,
+      "end": 36.12
+    },
+    {
+      "text": " Semmi, öregem. Semmi.",
+      "start": 36.24,
+      "end": 37.7
+    },
+    {
+      "text": " Nálam se.",
+      "start": 38.14,
+      "end": 39.06
+    },
+    {
+      "text": " Na, bingo, találtam télerőt.",
+      "start": 42.08,
+      "end": 44.26
+    },
+    {
+      "text": " Kicsőnk.",
+      "start": 44.62,
+      "end": 45.3
+    },
+    {
+      "text": " Kali be, kész a lángos.",
+      "start": 45.34,
+      "end": 46.78
+    },
+    {
+      "text": " Megyek!",
+      "start": 46.9,
+      "end": 47.38
+    },
+    {
+      "text": " Na, gyerekek, ezért mondom mindig, hogy sosem szabad nagy feszültségű eszközöket használni a víz.",
+      "start": 53.82,
+      "end": 59.88
+    },
+    {
+      "text": " közelébe.",
+      "start": 60.0,
+      "end": 61.32
+    },
+    {
+      "text": " Jó?",
+      "start": 61.74,
+      "end": 62.34
+    }
+  ],
+  "processing_time": 0.37546706199645996,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

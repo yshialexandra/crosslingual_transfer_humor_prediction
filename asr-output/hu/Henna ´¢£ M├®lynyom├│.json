@@ -1,0 +1,84 @@
+{
+  "audio_file": "Henna ｜ Mélynyomó.wav",
+  "full_text": "A SZENTÉSほど a késő adatíliait. Na! Miért osztatott megjelenni a munkahelyén? Nézd, mit forradtam a hátamra? Sash. Az. Amerikai. Hát mondjuk ennyiből nem derül ki. Nyugtass meg, hogy nem Ted Kó. Nem, csak henna. De már most úgy érzem, hogy szárni be. Hát nem akarlak kiábrándítani. Drága volt? 9000. De megér, tehát nézd meg az egész hátamra beborítja. Igen. Te már láttad? Még nem. De éreztem, hogy csinálja a csajt. A testével is sokat dolgozott, de a szárnyai azok nagyon aprólékosak lettek. Értem. Hát, szerintem mosasd le. Nincs neked érzéked a szín. Miért nem csináltattál őzet? Az csak 6 ezer két betű.",
+  "chunks": [
+    {
+      "text": " A SZENTÉSほど a késő adatíliait.",
+      "start": 0.0,
+      "end": 5.88
+    },
+    {
+      "text": " Na! Miért osztatott megjelenni a munkahelyén?",
+      "start": 6.18,
+      "end": 9.52
+    },
+    {
+      "text": " Nézd, mit forradtam a hátamra?",
+      "start": 9.72,
+      "end": 11.38
+    },
+    {
+      "text": " Sash.",
+      "start": 12.06,
+      "end": 12.6
+    },
+    {
+      "text": " Az. Amerikai.",
+      "start": 12.84,
+      "end": 14.76
+    },
+    {
+      "text": " Hát mondjuk ennyiből nem derül ki.",
+      "start": 15.12,
+      "end": 17.12
+    },
+    {
+      "text": " Nyugtass meg, hogy nem Ted Kó.",
+      "start": 17.3,
+      "end": 18.68
+    },
+    {
+      "text": " Nem, csak henna. De már most úgy érzem, hogy szárni be.",
+      "start": 18.7,
+      "end": 21.52
+    },
+    {
+      "text": " Hát nem akarlak kiábrándítani.",
+      "start": 22.219999999999995,
+      "end": 24.7
+    },
+    {
+      "text": " Drága volt?",
+      "start": 24.8,
+      "end": 25.38
+    },
+    {
+      "text": " 9000. De megér, tehát nézd meg az egész hátamra beborítja.",
+      "start": 25.66,
+      "end": 29.14
+    },
+    {
+      "text": " Igen.",
+      "start": 29.3,
+      "end": 29.64
+    },
+    {
+      "text": " Te már láttad? Még nem. De éreztem, hogy csinálja a csajt. A testével is sokat dolgozott, de a szárnyai azok nagyon aprólékosak lettek. Értem.",
+      "start": 30.0,
+      "end": 38.5
+    },
+    {
+      "text": " Hát, szerintem mosasd le. Nincs neked érzéked a szín.",
+      "start": 39.04,
+      "end": 43.22
+    },
+    {
+      "text": " Miért nem csináltattál őzet? Az csak 6 ezer két betű.",
+      "start": 45.34,
+      "end": 49.18
+    }
+  ],
+  "processing_time": 1.3020904064178467,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

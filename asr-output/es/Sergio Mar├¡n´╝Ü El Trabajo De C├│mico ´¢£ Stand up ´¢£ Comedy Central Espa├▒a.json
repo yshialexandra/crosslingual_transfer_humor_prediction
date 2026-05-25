@@ -1,0 +1,164 @@
+{
+  "audio_file": "Sergio Marín： El Trabajo De Cómico ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "Bueno, ya para ir acabando, decir que este es un gran trabajo, de verdad, para mí es un placer estar aquí delante de todos vosotros hoy. Hace seis años que me dedico a esto, hago las actuaciones, mucha gente me dice, hey tío, de verdad, felicidad, yo no podría salir ahí y hacer reír a la gente como haces tú. Y a mí desde que me dedico a esto hay un montón de trabajos que tampoco podría hacer ya. Por ejemplo, yo, dedicándome a esto, ya no podría trabajar de enterrador. No, dedicándome a esto, toda esa gente ahí mirándome yo sin hacer un puto chiste. Yo digo una cosa, entre las pocas expectativas de la gente y el efecto sorpresa, el chiste entra seguro, ¿eh? De rollo, hey, parece que se ha movido. No tengo nada en contra de los enterradores, me parecen un gremio cojonudo, de verdad, es un trabajo muy chungo el trabajo de enterrador. Pero no es peor que el trabajo de cómico, el trabajo de cómico es mucho peor que el trabajo de enterrador. A ningún enterrador cuando acaba se le acerca a alguien y le dice, oye, me ha gustado como ha enterrado. Pero me gustó mal el enterrador de la semana pasada. Pero a nosotros nos lo dicen. A los que no admiro para nada, incluso me dan un poco de pena, son los músicos de tranatorio. ¿Los conocéis los músicos de tranatorio, eh? O sea, 12 años en un conservatorio. Para acabar tocando en un funeral. Esa gente tiene que tener la autoestima por el suelo, ¿eh? De rollo, hoy tengo bolos, hoy tengo bolos. Hoy tengo bolos. Hoy tengo bolos. Y la mujer, seguro que lo levanta. No, no, no lo levanto. Y no sé si lo sabéis, pero los músicos de tranatorio tienen que ser músicos profesionales. No pueden ser músicos amateurs. ¿Y sabéis por qué? Porque ha habido gente que un entierro se ha quejado. O sea, hay que ser muy hijo de puta. Para ir a un entierro y decir, oye, el muerto guay, pero la música... Si se muere alguien de tu familia y tocan estos, conmigo no cuentes, ¿eh? La verdad. La verdad.",
+  "chunks": [
+    {
+      "text": " Bueno, ya para ir acabando, decir que este es un gran trabajo, de verdad, para mí es un placer estar aquí delante de todos vosotros hoy.",
+      "start": 1.279999999999999,
+      "end": 5.86
+    },
+    {
+      "text": " Hace seis años que me dedico a esto, hago las actuaciones, mucha gente me dice, hey tío, de verdad, felicidad, yo no podría salir ahí y hacer reír a la gente como haces tú.",
+      "start": 6.94,
+      "end": 13.42
+    },
+    {
+      "text": " Y a mí desde que me dedico a esto hay un montón de trabajos que tampoco podría hacer ya.",
+      "start": 13.8,
+      "end": 16.74
+    },
+    {
+      "text": " Por ejemplo, yo, dedicándome a esto, ya no podría trabajar de enterrador.",
+      "start": 17.1,
+      "end": 20.54
+    },
+    {
+      "text": " No, dedicándome a esto, toda esa gente ahí mirándome yo sin hacer un puto chiste.",
+      "start": 23.74,
+      "end": 26.62
+    },
+    {
+      "text": " Yo digo una cosa, entre las pocas expectativas de la gente y el efecto sorpresa, el chiste entra seguro, ¿eh?",
+      "start": 29.5,
+      "end": 34.32
+    },
+    {
+      "text": " De rollo, hey, parece que se ha movido.",
+      "start": 35.78,
+      "end": 37.32
+    },
+    {
+      "text": " No tengo nada en contra de los enterradores, me parecen un gremio cojonudo, de verdad, es un trabajo muy chungo el trabajo de enterrador.",
+      "start": 42.4,
+      "end": 47.34
+    },
+    {
+      "text": " Pero no es peor que el trabajo de cómico, el trabajo de cómico es mucho peor que el trabajo de enterrador.",
+      "start": 47.54,
+      "end": 51.44
+    },
+    {
+      "text": " A ningún enterrador cuando acaba se le acerca a alguien y le dice, oye, me ha gustado como ha enterrado.",
+      "start": 51.74,
+      "end": 56.38
+    },
+    {
+      "text": " Pero me gustó mal el enterrador de la semana pasada.",
+      "start": 57.839999999999996,
+      "end": 59.82
+    },
+    {
+      "text": " Pero a nosotros nos lo dicen.",
+      "start": 61.0,
+      "end": 62.5
+    },
+    {
+      "text": " A los que no admiro para nada, incluso me dan un poco de pena, son los músicos de tranatorio.",
+      "start": 63.4,
+      "end": 67.14
+    },
+    {
+      "text": " ¿Los conocéis los músicos de tranatorio, eh?",
+      "start": 67.32,
+      "end": 68.6
+    },
+    {
+      "text": " O sea, 12 años en un conservatorio.",
+      "start": 70.16,
+      "end": 71.9
+    },
+    {
+      "text": " Para acabar tocando en un funeral.",
+      "start": 72.56,
+      "end": 74.0
+    },
+    {
+      "text": " Esa gente tiene que tener la autoestima por el suelo, ¿eh?",
+      "start": 76.48,
+      "end": 78.86
+    },
+    {
+      "text": " De rollo, hoy tengo bolos, hoy tengo bolos.",
+      "start": 79.53999999999999,
+      "end": 82.02
+    },
+    {
+      "text": " Hoy tengo bolos.",
+      "start": 82.82,
+      "end": 84.06
+    },
+    {
+      "text": " Hoy tengo bolos.",
+      "start": 85.06,
+      "end": 86.36
+    },
+    {
+      "text": " Y la mujer, seguro que lo levanta.",
+      "start": 88.84,
+      "end": 90.58
+    },
+    {
+      "text": " No, no, no lo levanto.",
+      "start": 90.64,
+      "end": 91.58
+    },
+    {
+      "text": " Y no sé si lo sabéis, pero los músicos de tranatorio tienen que ser músicos profesionales.",
+      "start": 93.02000000000001,
+      "end": 96.08
+    },
+    {
+      "text": " No pueden ser músicos amateurs.",
+      "start": 96.86,
+      "end": 98.2
+    },
+    {
+      "text": " ¿Y sabéis por qué?",
+      "start": 98.54,
+      "end": 99.16
+    },
+    {
+      "text": " Porque ha habido gente que un entierro se ha quejado.",
+      "start": 99.44,
+      "end": 101.74
+    },
+    {
+      "text": " O sea, hay que ser muy hijo de puta.",
+      "start": 102.7,
+      "end": 104.14
+    },
+    {
+      "text": " Para ir a un entierro y decir, oye, el muerto guay, pero la música...",
+      "start": 105.32000000000001,
+      "end": 107.74000000000001
+    },
+    {
+      "text": " Si se muere alguien de tu familia y tocan estos, conmigo no cuentes, ¿eh?",
+      "start": 111.02000000000001,
+      "end": 114.44
+    },
+    {
+      "text": " La verdad.",
+      "start": 114.82,
+      "end": 115.24
+    },
+    {
+      "text": " La verdad.",
+      "start": 131.74,
+      "end": 132.94
+    }
+  ],
+  "processing_time": 0.7610700130462646,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

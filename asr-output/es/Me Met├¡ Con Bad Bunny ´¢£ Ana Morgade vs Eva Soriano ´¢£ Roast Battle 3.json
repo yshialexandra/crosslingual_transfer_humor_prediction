@@ -1,0 +1,119 @@
+{
+  "audio_file": "Me Metí Con Bad Bunny ｜ Ana Morgade vs Eva Soriano ｜ Roast Battle 3.wav",
+  "full_text": "Tres datos, pero solo uno de ellos es verdad. Soy un personaje muy odiado en Puerto Rico. Cuando llegué a Madrid fui redactora de OK Diario, sin saber lo que era OK Diario, pero para ganarme unas pelas. Y la tercera es que soy sobrina de Irma Soriano. O sea, me encantaría que las tres. Odio tu premisa. Pero yo digo que es la dos. Pues no es esa. ¡Oh! ¡Fallado! Es la primera. Me metí con Bad Bunny. Y se conoce que hay gente que eso no le mola. En Puerto Rico soy muy odiada, pero muy querida. Actué tres veces en el Saturday Night Live. Vale. Una vez jugué al fútbol con la Pedro y con Xenoa. Vale. Me abrí la cabeza en una manifestación por el medio ambiente. Uf, creo que es la tercera. La respuesta es... ¡Falsa! ¡Es falso! Actué tres veces en el Saturday Night Live. Pero soy un poco tramposo porque fue el español, no el bueno. Ah, claro.",
+  "chunks": [
+    {
+      "text": " Tres datos, pero solo uno de ellos es verdad.",
+      "start": 4.9399999999999995,
+      "end": 7.48
+    },
+    {
+      "text": " Soy un personaje muy odiado en Puerto Rico.",
+      "start": 7.8,
+      "end": 9.44
+    },
+    {
+      "text": " Cuando llegué a Madrid fui redactora de OK Diario,",
+      "start": 10.139999999999999,
+      "end": 13.28
+    },
+    {
+      "text": " sin saber lo que era OK Diario, pero para ganarme unas pelas.",
+      "start": 13.46,
+      "end": 16.58
+    },
+    {
+      "text": " Y la tercera es que soy sobrina de Irma Soriano.",
+      "start": 16.88,
+      "end": 20.1
+    },
+    {
+      "text": " O sea, me encantaría que las tres. Odio tu premisa.",
+      "start": 21.32,
+      "end": 24.86
+    },
+    {
+      "text": " Pero yo digo que es la dos.",
+      "start": 25.08,
+      "end": 26.44
+    },
+    {
+      "text": " Pues no es esa.",
+      "start": 27.26,
+      "end": 28.32
+    },
+    {
+      "text": " ¡Oh! ¡Fallado!",
+      "start": 28.32,
+      "end": 30.36
+    },
+    {
+      "text": " Es la primera. Me metí con Bad Bunny.",
+      "start": 30.54,
+      "end": 32.08
+    },
+    {
+      "text": " Y se conoce que hay gente que eso no le mola.",
+      "start": 32.52,
+      "end": 34.66
+    },
+    {
+      "text": " En Puerto Rico soy muy odiada, pero muy querida.",
+      "start": 34.84,
+      "end": 37.14
+    },
+    {
+      "text": " Actué tres veces en el Saturday Night Live.",
+      "start": 37.7,
+      "end": 39.84
+    },
+    {
+      "text": " Vale.",
+      "start": 40.56,
+      "end": 40.92
+    },
+    {
+      "text": " Una vez jugué al fútbol con la Pedro y con Xenoa.",
+      "start": 41.28,
+      "end": 43.16
+    },
+    {
+      "text": " Vale.",
+      "start": 44.06,
+      "end": 44.46
+    },
+    {
+      "text": " Me abrí la cabeza en una manifestación por el medio ambiente.",
+      "start": 44.8,
+      "end": 46.8
+    },
+    {
+      "text": " Uf, creo que es la tercera.",
+      "start": 47.42,
+      "end": 48.8
+    },
+    {
+      "text": " La respuesta es... ¡Falsa! ¡Es falso!",
+      "start": 49.28,
+      "end": 52.62
+    },
+    {
+      "text": " Actué tres veces en el Saturday Night Live.",
+      "start": 53.22,
+      "end": 54.8
+    },
+    {
+      "text": " Pero soy un poco tramposo porque fue el español, no el bueno.",
+      "start": 54.9,
+      "end": 57.12
+    },
+    {
+      "text": " Ah, claro.",
+      "start": 57.12,
+      "end": 58.42
+    }
+  ],
+  "processing_time": 0.4617187976837158,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

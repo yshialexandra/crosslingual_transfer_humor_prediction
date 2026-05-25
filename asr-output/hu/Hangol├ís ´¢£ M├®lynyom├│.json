@@ -1,0 +1,59 @@
+{
+  "audio_file": "Hangolás ｜ Mélynyomó.wav",
+  "full_text": "Négy néző van. Velünk együtt. Hát... ennyit bír egy indiai sittárkoncert. Hát ha többen lesz ne. Mikor? Ha befejezte a hangolást, és elkezdődik a koncert. Ez már az? Ez az ötödik szám? Három nező.",
+  "chunks": [
+    {
+      "text": " Négy néző van.",
+      "start": 8.200000000000003,
+      "end": 9.88
+    },
+    {
+      "text": " Velünk együtt.",
+      "start": 10.32,
+      "end": 11.64
+    },
+    {
+      "text": " Hát...",
+      "start": 13.26,
+      "end": 13.58
+    },
+    {
+      "text": " ennyit bír egy indiai sittárkoncert.",
+      "start": 14.22,
+      "end": 16.72
+    },
+    {
+      "text": " Hát ha többen lesz ne.",
+      "start": 17.960000000000004,
+      "end": 19.62
+    },
+    {
+      "text": " Mikor?",
+      "start": 20.26,
+      "end": 21.1
+    },
+    {
+      "text": " Ha befejezte a hangolást, és elkezdődik a koncert.",
+      "start": 21.5,
+      "end": 24.3
+    },
+    {
+      "text": " Ez már az?",
+      "start": 24.66,
+      "end": 25.76
+    },
+    {
+      "text": " Ez az ötödik szám?",
+      "start": 25.98,
+      "end": 27.56
+    },
+    {
+      "text": " Három nező.",
+      "start": 32.2,
+      "end": 33.4
+    }
+  ],
+  "processing_time": 1.7994115352630615,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,19 @@
+{
+  "audio_file": "Licit ｜ Mélynyomó.wav",
+  "full_text": "Pszsz, psz, psz, psz. Ne haragulj! Mi van? Fresh Lemonsz itt van már? Persze, bevannak az öltözőjükben. Bemeltek egy autogramvért? Na miért jöhetnél? Na miért 2 liter borér. A fesztivál területére alkohol tilos behozni. Tavasszal ástam el. Két liter? Na mizú? A srác szeretne bemenni a Fresh Lemonszhoz 2 liter borér. Legyen 3. Legyen 4. 6. Legyen 7. Jó, te nyertél. Gyere. Gyere, gyere, gyere, gyere. De hol jössz? Én itt dolgozom. Na, menjél bátran.",
+  "chunks": [
+    {
+      "text": " Pszsz, psz, psz, psz. Ne haragulj! Mi van? Fresh Lemonsz itt van már? Persze, bevannak az öltözőjükben. Bemeltek egy autogramvért? Na miért jöhetnél? Na miért 2 liter borér. A fesztivál területére alkohol tilos behozni. Tavasszal ástam el. Két liter? Na mizú? A srác szeretne bemenni a Fresh Lemonszhoz 2 liter borér. Legyen 3. Legyen 4. 6.",
+      "start": 6.160000000000001,
+      "end": 29.78
+    },
+    {
+      "text": " Legyen 7. Jó, te nyertél. Gyere. Gyere, gyere, gyere, gyere. De hol jössz? Én itt dolgozom. Na, menjél bátran.",
+      "start": 32.620000000000005,
+      "end": 39.0
+    }
+  ],
+  "processing_time": 0.2821018695831299,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

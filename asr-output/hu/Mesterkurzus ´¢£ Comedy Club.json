@@ -1,0 +1,59 @@
+{
+  "audio_file": "Mesterkurzus ｜ Comedy Club.wav",
+  "full_text": "A stand-up, mint formátum lényege a művész hozzáállása. Persze, persze, vissza kell tudnunk adni a közönségnek azt, amit tőlük kapunk. A jó stand-uphoz három dolog kell. Mi-nőség. Rúgjuk tököl! Ha nekem azt mondják, hogy ingyen kapok két darab másfél milliós mellett, akkor most csöcseim lennének lenn. Egy kis Shakespeare, egy kis Homéros, egy kis egzisztencialista filozófia. Az egész az energiáról szól. Kimegyek a színpadról és bam, bam, bam! Ne haragudjatok, de mindig elérzékenyülök, amikor erről beszélek. Jaj, de szeretem csinálni a munkámat! Álljunk le, jó? Kösz, kösz. Köszönöm, hogy megnézted!",
+  "chunks": [
+    {
+      "text": " A stand-up, mint formátum lényege a művész hozzáállása.",
+      "start": 0.0,
+      "end": 4.8
+    },
+    {
+      "text": " Persze, persze, vissza kell tudnunk adni a közönségnek azt, amit tőlük kapunk.",
+      "start": 4.9,
+      "end": 8.24
+    },
+    {
+      "text": " A jó stand-uphoz három dolog kell. Mi-nőség. Rúgjuk tököl!",
+      "start": 8.3,
+      "end": 12.78
+    },
+    {
+      "text": " Ha nekem azt mondják, hogy ingyen kapok két darab másfél milliós mellett, akkor most csöcseim lennének lenn.",
+      "start": 12.9,
+      "end": 17.76
+    },
+    {
+      "text": " Egy kis Shakespeare, egy kis Homéros, egy kis egzisztencialista filozófia.",
+      "start": 17.88,
+      "end": 23.66
+    },
+    {
+      "text": " Az egész az energiáról szól. Kimegyek a színpadról és bam, bam, bam!",
+      "start": 23.78,
+      "end": 27.78
+    },
+    {
+      "text": " Ne haragudjatok, de mindig elérzékenyülök, amikor erről beszélek.",
+      "start": 31.119999999999997,
+      "end": 34.46
+    },
+    {
+      "text": " Jaj, de szeretem csinálni a munkámat!",
+      "start": 34.56,
+      "end": 36.96
+    },
+    {
+      "text": " Álljunk le, jó? Kösz, kösz.",
+      "start": 37.02,
+      "end": 38.76
+    },
+    {
+      "text": " Köszönöm, hogy megnézted!",
+      "start": 60.0,
+      "end": 60.14
+    }
+  ],
+  "processing_time": 0.384448766708374,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

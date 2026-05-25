@@ -1,0 +1,29 @@
+{
+  "audio_file": "Névsor ｜ Télvíz.wav",
+  "full_text": "A MIGULÁS BÁCSI Szabó Viktória? Beteg? Jó. Bálint Péter? Bálint Péter sincs. Takács Imréné? Özvegy Lakatos Gyuláné? Nézd a fején egyszer! Jaj, ez a lakógyűlés. Bocsánat gyerekek, mindjárt meg lesz a másik lista, egy rosszat néztem. Adig nem éneklünk valamit? Hhm? Úgy látom nem. Na, így van, megvan. Ezek mik ide felírva jelek? Kifli. Kinek a jele a kifli? Alma. Liszt. Vaj. Két csomag élesztő. Banán másfél kiló, hogyha szép. Két csomag életem.",
+  "chunks": [
+    {
+      "text": " A MIGULÁS BÁCSI",
+      "start": 19.240000000000002,
+      "end": 22.52
+    },
+    {
+      "text": " Szabó Viktória? Beteg? Jó. Bálint Péter? Bálint Péter sincs. Takács Imréné? Özvegy Lakatos Gyuláné? Nézd a fején egyszer! Jaj, ez a lakógyűlés. Bocsánat gyerekek, mindjárt meg lesz a másik lista, egy rosszat néztem. Adig nem éneklünk valamit?",
+      "start": 30.0,
+      "end": 59.6
+    },
+    {
+      "text": " Hhm? Úgy látom nem. Na, így van, megvan. Ezek mik ide felírva jelek? Kifli. Kinek a jele a kifli? Alma. Liszt. Vaj. Két csomag élesztő. Banán másfél kiló, hogyha szép.",
+      "start": 60.0,
+      "end": 89.66
+    },
+    {
+      "text": " Két csomag életem.",
+      "start": 90.0,
+      "end": 91.86
+    }
+  ],
+  "processing_time": 0.42006731033325195,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,74 @@
+{
+  "audio_file": "Mélyvíz ｜ Felhevült test.wav",
+  "full_text": "Na gyerekek, nagyon figyeljetek, mert egyszer mondja el Pali bácsi, egyszer mutatja meg Endi bácsi, és utána magatokra lesztek hagyva a nagybetűs életben, oké? Na, hogy mit ne csináljunk soha felhevült testtel, hadd halljam. Jó, akkor máshogy teszem fel a kérdést. Hogyan ne ugorjunk a vízbe soha? Milyen testtel? Hú, de sokat hűlt az ifjúsága, mióta nem én tanítom őket. Na gyerekek, akkor még egyszer. Felhevült testtel soha nem ugrunk vízbe, mert nagyon nagy baj történhet. Meghallhattok, és legrosszabb esetben még a szívetek is megállt. Na, Endi kollégám megmutatja, hogy mi történik, hogyha felhevült testtel a vízbe ugrotok. Készen állsz, Endi? Felhevültél? Jó, akkor háromra megmutatja Endi bácsi, hogy mi történik, ha beugrotok. Egy, kettő, három! Na, ez történik.",
+  "chunks": [
+    {
+      "text": " Na gyerekek, nagyon figyeljetek, mert egyszer mondja el Pali bácsi, egyszer mutatja meg Endi bácsi,",
+      "start": 3.7199999999999998,
+      "end": 8.96
+    },
+    {
+      "text": " és utána magatokra lesztek hagyva a nagybetűs életben, oké?",
+      "start": 9.02,
+      "end": 11.92
+    },
+    {
+      "text": " Na, hogy mit ne csináljunk soha felhevült testtel, hadd halljam.",
+      "start": 12.719999999999999,
+      "end": 18.24
+    },
+    {
+      "text": " Jó, akkor máshogy teszem fel a kérdést.",
+      "start": 22.68,
+      "end": 26.22
+    },
+    {
+      "text": " Hogyan ne ugorjunk a vízbe soha? Milyen testtel?",
+      "start": 26.22,
+      "end": 29.82
+    },
+    {
+      "text": " Hú, de sokat hűlt az ifjúsága, mióta nem én tanítom őket.",
+      "start": 32.44,
+      "end": 36.28
+    },
+    {
+      "text": " Na gyerekek, akkor még egyszer. Felhevült testtel soha nem ugrunk vízbe, mert nagyon nagy baj történhet.",
+      "start": 37.94,
+      "end": 44.94
+    },
+    {
+      "text": " Meghallhattok, és legrosszabb esetben még a szívetek is megállt.",
+      "start": 45.26,
+      "end": 48.74
+    },
+    {
+      "text": " Na, Endi kollégám megmutatja, hogy mi történik, hogyha felhevült testtel a vízbe ugrotok.",
+      "start": 49.54,
+      "end": 54.88
+    },
+    {
+      "text": " Készen állsz, Endi? Felhevültél?",
+      "start": 54.88,
+      "end": 57.38
+    },
+    {
+      "text": " Jó, akkor háromra megmutatja Endi bácsi, hogy mi történik, ha beugrotok.",
+      "start": 57.94,
+      "end": 61.96
+    },
+    {
+      "text": " Egy, kettő, három!",
+      "start": 62.7,
+      "end": 65.42
+    },
+    {
+      "text": " Na, ez történik.",
+      "start": 78.14,
+      "end": 81.24
+    }
+  ],
+  "processing_time": 0.4588346481323242,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

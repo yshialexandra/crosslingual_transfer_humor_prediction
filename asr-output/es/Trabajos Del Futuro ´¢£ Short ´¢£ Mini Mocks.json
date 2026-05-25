@@ -1,0 +1,1248 @@
+{
+  "audio_file": "Trabajos Del Futuro ｜ Short ｜ Mini Mocks.wav",
+  "full_text": " El futuro del trabajo es remoto, pero el futuro del gestor es remoto controlado. Soy Doug Yen y estoy traiendo el control remoto al trabajo remoto. Ahora puedo volver a colaborar con mi equipo, minglar alrededor del oficio y, más importante, construir un equipo. También he experimentado con diferentes opciones de movilidad. A veces quieres sentirte como si estuvieras solo caminando alrededor del oficio como normalmente. ¿Sabes? Hay algunos reyes que se deben de trabajar trabajar, pero oye, no es como Steve Jobs que construyó el iPod en un día. Tienes que mantener a las personas en sus piernas. Nunca quieres que tu estilo de gestión se vuelva demasiado predictivo. Buen gestión requiere subtilidad. Nadie quiere sentirse como si alguien se estirara sobre su espalda. Así que yo estiro 10 metros arriba de su cabeza. ¿Qué estás diciendo? Y, hey, no es todo trabajo y no juego aquí. Claro, ha habido algún feedback interno llamando a mi estilo de gestión una excusa creíble y over-engineada. Pero algunas revoluciones de trabajo solo necesitan un poco de acostumbrarse.",
+  "chunks": [
+    {
+      "text": " El",
+      "timestamp": [
+        0.0,
+        0.12
+      ]
+    },
+    {
+      "text": " futuro",
+      "timestamp": [
+        0.12,
+        0.32
+      ]
+    },
+    {
+      "text": " del",
+      "timestamp": [
+        0.32,
+        0.48
+      ]
+    },
+    {
+      "text": " trabajo",
+      "timestamp": [
+        0.48,
+        0.7
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        0.7,
+        0.86
+      ]
+    },
+    {
+      "text": " remoto,",
+      "timestamp": [
+        0.86,
+        1.3
+      ]
+    },
+    {
+      "text": " pero",
+      "timestamp": [
+        1.3,
+        1.8
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        1.8,
+        2.0
+      ]
+    },
+    {
+      "text": " futuro",
+      "timestamp": [
+        2.0,
+        2.18
+      ]
+    },
+    {
+      "text": " del",
+      "timestamp": [
+        2.18,
+        2.32
+      ]
+    },
+    {
+      "text": " gestor",
+      "timestamp": [
+        2.32,
+        2.7
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        2.7,
+        2.94
+      ]
+    },
+    {
+      "text": " remoto",
+      "timestamp": [
+        2.94,
+        3.44
+      ]
+    },
+    {
+      "text": " controlado.",
+      "timestamp": [
+        3.44,
+        4.3
+      ]
+    },
+    {
+      "text": " Soy",
+      "timestamp": [
+        5.34,
+        5.82
+      ]
+    },
+    {
+      "text": " Doug",
+      "timestamp": [
+        5.82,
+        6.06
+      ]
+    },
+    {
+      "text": " Yen",
+      "timestamp": [
+        6.06,
+        6.38
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        6.38,
+        6.54
+      ]
+    },
+    {
+      "text": " estoy",
+      "timestamp": [
+        6.54,
+        7.02
+      ]
+    },
+    {
+      "text": " traiendo",
+      "timestamp": [
+        7.02,
+        7.24
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        7.24,
+        7.34
+      ]
+    },
+    {
+      "text": " control",
+      "timestamp": [
+        7.34,
+        7.58
+      ]
+    },
+    {
+      "text": " remoto",
+      "timestamp": [
+        7.58,
+        8.08
+      ]
+    },
+    {
+      "text": " al",
+      "timestamp": [
+        8.08,
+        8.56
+      ]
+    },
+    {
+      "text": " trabajo",
+      "timestamp": [
+        8.56,
+        8.66
+      ]
+    },
+    {
+      "text": " remoto.",
+      "timestamp": [
+        8.66,
+        8.9
+      ]
+    },
+    {
+      "text": " Ahora",
+      "timestamp": [
+        9.46,
+        9.7
+      ]
+    },
+    {
+      "text": " puedo",
+      "timestamp": [
+        9.7,
+        10.18
+      ]
+    },
+    {
+      "text": " volver",
+      "timestamp": [
+        10.18,
+        10.4
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        10.4,
+        10.56
+      ]
+    },
+    {
+      "text": " colaborar",
+      "timestamp": [
+        10.56,
+        11.1
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        11.1,
+        11.26
+      ]
+    },
+    {
+      "text": " mi",
+      "timestamp": [
+        11.26,
+        11.4
+      ]
+    },
+    {
+      "text": " equipo,",
+      "timestamp": [
+        11.4,
+        11.92
+      ]
+    },
+    {
+      "text": " minglar",
+      "timestamp": [
+        12.26,
+        12.52
+      ]
+    },
+    {
+      "text": " alrededor",
+      "timestamp": [
+        12.52,
+        12.7
+      ]
+    },
+    {
+      "text": " del",
+      "timestamp": [
+        12.7,
+        12.9
+      ]
+    },
+    {
+      "text": " oficio",
+      "timestamp": [
+        12.9,
+        13.24
+      ]
+    },
+    {
+      "text": " y,",
+      "timestamp": [
+        13.24,
+        13.84
+      ]
+    },
+    {
+      "text": " más",
+      "timestamp": [
+        13.84,
+        13.86
+      ]
+    },
+    {
+      "text": " importante,",
+      "timestamp": [
+        13.86,
+        14.46
+      ]
+    },
+    {
+      "text": " construir",
+      "timestamp": [
+        14.46,
+        14.94
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        14.94,
+        14.94
+      ]
+    },
+    {
+      "text": " equipo.",
+      "timestamp": [
+        14.94,
+        15.24
+      ]
+    },
+    {
+      "text": " También",
+      "timestamp": [
+        16.28,
+        16.88
+      ]
+    },
+    {
+      "text": " he",
+      "timestamp": [
+        16.88,
+        17.14
+      ]
+    },
+    {
+      "text": " experimentado",
+      "timestamp": [
+        17.14,
+        17.68
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        17.68,
+        17.88
+      ]
+    },
+    {
+      "text": " diferentes",
+      "timestamp": [
+        17.88,
+        18.1
+      ]
+    },
+    {
+      "text": " opciones",
+      "timestamp": [
+        18.1,
+        18.24
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        18.24,
+        18.24
+      ]
+    },
+    {
+      "text": " movilidad.",
+      "timestamp": [
+        18.24,
+        18.66
+      ]
+    },
+    {
+      "text": " A",
+      "timestamp": [
+        19.42,
+        19.56
+      ]
+    },
+    {
+      "text": " veces",
+      "timestamp": [
+        19.56,
+        19.7
+      ]
+    },
+    {
+      "text": " quieres",
+      "timestamp": [
+        19.7,
+        19.96
+      ]
+    },
+    {
+      "text": " sentirte",
+      "timestamp": [
+        19.96,
+        20.32
+      ]
+    },
+    {
+      "text": " como",
+      "timestamp": [
+        20.32,
+        20.4
+      ]
+    },
+    {
+      "text": " si",
+      "timestamp": [
+        20.4,
+        20.48
+      ]
+    },
+    {
+      "text": " estuvieras",
+      "timestamp": [
+        20.48,
+        20.56
+      ]
+    },
+    {
+      "text": " solo",
+      "timestamp": [
+        20.56,
+        20.7
+      ]
+    },
+    {
+      "text": " caminando",
+      "timestamp": [
+        20.7,
+        21.26
+      ]
+    },
+    {
+      "text": " alrededor",
+      "timestamp": [
+        21.26,
+        21.42
+      ]
+    },
+    {
+      "text": " del",
+      "timestamp": [
+        21.42,
+        21.56
+      ]
+    },
+    {
+      "text": " oficio",
+      "timestamp": [
+        21.56,
+        21.82
+      ]
+    },
+    {
+      "text": " como",
+      "timestamp": [
+        21.82,
+        21.94
+      ]
+    },
+    {
+      "text": " normalmente.",
+      "timestamp": [
+        21.94,
+        22.38
+      ]
+    },
+    {
+      "text": " ¿Sabes?",
+      "timestamp": [
+        22.88,
+        23.1
+      ]
+    },
+    {
+      "text": " Hay",
+      "timestamp": [
+        23.1,
+        23.74
+      ]
+    },
+    {
+      "text": " algunos",
+      "timestamp": [
+        23.74,
+        24.14
+      ]
+    },
+    {
+      "text": " reyes",
+      "timestamp": [
+        24.14,
+        24.36
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        24.36,
+        24.48
+      ]
+    },
+    {
+      "text": " se",
+      "timestamp": [
+        24.48,
+        24.56
+      ]
+    },
+    {
+      "text": " deben",
+      "timestamp": [
+        24.56,
+        24.56
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        24.56,
+        24.66
+      ]
+    },
+    {
+      "text": " trabajar",
+      "timestamp": [
+        24.66,
+        24.66
+      ]
+    },
+    {
+      "text": " trabajar,",
+      "timestamp": [
+        24.58,
+        24.88
+      ]
+    },
+    {
+      "text": " pero",
+      "timestamp": [
+        24.88,
+        25.44
+      ]
+    },
+    {
+      "text": " oye,",
+      "timestamp": [
+        25.44,
+        25.7
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        25.7,
+        26.32
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        26.32,
+        26.46
+      ]
+    },
+    {
+      "text": " como",
+      "timestamp": [
+        26.46,
+        26.52
+      ]
+    },
+    {
+      "text": " Steve",
+      "timestamp": [
+        26.52,
+        26.72
+      ]
+    },
+    {
+      "text": " Jobs",
+      "timestamp": [
+        26.72,
+        27.1
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        27.1,
+        27.28
+      ]
+    },
+    {
+      "text": " construyó",
+      "timestamp": [
+        27.28,
+        27.42
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        27.42,
+        27.52
+      ]
+    },
+    {
+      "text": " iPod",
+      "timestamp": [
+        27.52,
+        27.92
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        27.92,
+        28.04
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        28.04,
+        28.12
+      ]
+    },
+    {
+      "text": " día.",
+      "timestamp": [
+        28.12,
+        28.36
+      ]
+    },
+    {
+      "text": " Tienes",
+      "timestamp": [
+        28.84,
+        29.02
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        29.02,
+        29.16
+      ]
+    },
+    {
+      "text": " mantener",
+      "timestamp": [
+        29.16,
+        29.38
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        29.38,
+        29.46
+      ]
+    },
+    {
+      "text": " las",
+      "timestamp": [
+        29.46,
+        29.54
+      ]
+    },
+    {
+      "text": " personas",
+      "timestamp": [
+        29.54,
+        29.54
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        29.54,
+        29.76
+      ]
+    },
+    {
+      "text": " sus",
+      "timestamp": [
+        29.76,
+        29.88
+      ]
+    },
+    {
+      "text": " piernas.",
+      "timestamp": [
+        29.88,
+        30.2
+      ]
+    },
+    {
+      "text": " Nunca",
+      "timestamp": [
+        30.7,
+        31.0
+      ]
+    },
+    {
+      "text": " quieres",
+      "timestamp": [
+        31.0,
+        31.28
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        31.28,
+        31.4
+      ]
+    },
+    {
+      "text": " tu",
+      "timestamp": [
+        31.4,
+        31.48
+      ]
+    },
+    {
+      "text": " estilo",
+      "timestamp": [
+        31.48,
+        31.66
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        31.66,
+        31.74
+      ]
+    },
+    {
+      "text": " gestión",
+      "timestamp": [
+        31.74,
+        31.82
+      ]
+    },
+    {
+      "text": " se",
+      "timestamp": [
+        31.82,
+        32.12
+      ]
+    },
+    {
+      "text": " vuelva",
+      "timestamp": [
+        32.12,
+        32.4
+      ]
+    },
+    {
+      "text": " demasiado",
+      "timestamp": [
+        32.4,
+        32.64
+      ]
+    },
+    {
+      "text": " predictivo.",
+      "timestamp": [
+        32.64,
+        33.1
+      ]
+    },
+    {
+      "text": " Buen",
+      "timestamp": [
+        33.82,
+        34.3
+      ]
+    },
+    {
+      "text": " gestión",
+      "timestamp": [
+        34.3,
+        34.62
+      ]
+    },
+    {
+      "text": " requiere",
+      "timestamp": [
+        34.62,
+        35.18
+      ]
+    },
+    {
+      "text": " subtilidad.",
+      "timestamp": [
+        35.18,
+        35.84
+      ]
+    },
+    {
+      "text": " Nadie",
+      "timestamp": [
+        36.3,
+        36.5
+      ]
+    },
+    {
+      "text": " quiere",
+      "timestamp": [
+        36.5,
+        36.62
+      ]
+    },
+    {
+      "text": " sentirse",
+      "timestamp": [
+        36.62,
+        37.04
+      ]
+    },
+    {
+      "text": " como",
+      "timestamp": [
+        37.04,
+        37.14
+      ]
+    },
+    {
+      "text": " si",
+      "timestamp": [
+        37.14,
+        37.18
+      ]
+    },
+    {
+      "text": " alguien",
+      "timestamp": [
+        37.18,
+        37.4
+      ]
+    },
+    {
+      "text": " se",
+      "timestamp": [
+        37.4,
+        37.6
+      ]
+    },
+    {
+      "text": " estirara",
+      "timestamp": [
+        37.6,
+        37.8
+      ]
+    },
+    {
+      "text": " sobre",
+      "timestamp": [
+        37.8,
+        38.08
+      ]
+    },
+    {
+      "text": " su",
+      "timestamp": [
+        38.08,
+        38.16
+      ]
+    },
+    {
+      "text": " espalda.",
+      "timestamp": [
+        38.16,
+        38.52
+      ]
+    },
+    {
+      "text": " Así",
+      "timestamp": [
+        39.14,
+        39.28
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        39.28,
+        39.4
+      ]
+    },
+    {
+      "text": " yo",
+      "timestamp": [
+        39.4,
+        39.54
+      ]
+    },
+    {
+      "text": " estiro",
+      "timestamp": [
+        39.54,
+        39.82
+      ]
+    },
+    {
+      "text": " 10",
+      "timestamp": [
+        39.82,
+        40.38
+      ]
+    },
+    {
+      "text": " metros",
+      "timestamp": [
+        40.38,
+        40.56
+      ]
+    },
+    {
+      "text": " arriba",
+      "timestamp": [
+        40.56,
+        40.7
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        40.7,
+        40.82
+      ]
+    },
+    {
+      "text": " su",
+      "timestamp": [
+        40.82,
+        40.88
+      ]
+    },
+    {
+      "text": " cabeza.",
+      "timestamp": [
+        40.88,
+        41.2
+      ]
+    },
+    {
+      "text": " ¿Qué",
+      "timestamp": [
+        41.64,
+        41.84
+      ]
+    },
+    {
+      "text": " estás",
+      "timestamp": [
+        41.84,
+        42.06
+      ]
+    },
+    {
+      "text": " diciendo?",
+      "timestamp": [
+        42.06,
+        42.46
+      ]
+    },
+    {
+      "text": " Y,",
+      "timestamp": [
+        43.3,
+        43.46
+      ]
+    },
+    {
+      "text": " hey,",
+      "timestamp": [
+        43.46,
+        43.62
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        43.62,
+        43.92
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        43.92,
+        43.92
+      ]
+    },
+    {
+      "text": " todo",
+      "timestamp": [
+        43.92,
+        44.16
+      ]
+    },
+    {
+      "text": " trabajo",
+      "timestamp": [
+        44.16,
+        44.52
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        44.52,
+        44.6
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        44.6,
+        44.72
+      ]
+    },
+    {
+      "text": " juego",
+      "timestamp": [
+        44.72,
+        45.02
+      ]
+    },
+    {
+      "text": " aquí.",
+      "timestamp": [
+        45.02,
+        45.56
+      ]
+    },
+    {
+      "text": " Claro,",
+      "timestamp": [
+        46.22,
+        46.92
+      ]
+    },
+    {
+      "text": " ha",
+      "timestamp": [
+        46.92,
+        47.46
+      ]
+    },
+    {
+      "text": " habido",
+      "timestamp": [
+        47.46,
+        47.6
+      ]
+    },
+    {
+      "text": " algún",
+      "timestamp": [
+        47.6,
+        47.84
+      ]
+    },
+    {
+      "text": " feedback",
+      "timestamp": [
+        47.84,
+        48.08
+      ]
+    },
+    {
+      "text": " interno",
+      "timestamp": [
+        48.08,
+        48.22
+      ]
+    },
+    {
+      "text": " llamando",
+      "timestamp": [
+        48.58,
+        48.94
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        48.94,
+        49.04
+      ]
+    },
+    {
+      "text": " mi",
+      "timestamp": [
+        49.04,
+        49.12
+      ]
+    },
+    {
+      "text": " estilo",
+      "timestamp": [
+        49.12,
+        49.36
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        49.36,
+        49.36
+      ]
+    },
+    {
+      "text": " gestión",
+      "timestamp": [
+        49.36,
+        49.52
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        49.88,
+        49.98
+      ]
+    },
+    {
+      "text": " excusa",
+      "timestamp": [
+        49.98,
+        50.62
+      ]
+    },
+    {
+      "text": " creíble",
+      "timestamp": [
+        50.62,
+        50.9
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        50.9,
+        51.04
+      ]
+    },
+    {
+      "text": " over",
+      "timestamp": [
+        51.04,
+        51.32
+      ]
+    },
+    {
+      "text": "-engineada.",
+      "timestamp": [
+        51.32,
+        51.82
+      ]
+    },
+    {
+      "text": " Pero",
+      "timestamp": [
+        52.96,
+        53.3
+      ]
+    },
+    {
+      "text": " algunas",
+      "timestamp": [
+        53.3,
+        54.02
+      ]
+    },
+    {
+      "text": " revoluciones",
+      "timestamp": [
+        54.02,
+        54.84
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        54.84,
+        54.84
+      ]
+    },
+    {
+      "text": " trabajo",
+      "timestamp": [
+        54.84,
+        54.84
+      ]
+    },
+    {
+      "text": " solo",
+      "timestamp": [
+        54.84,
+        55.1
+      ]
+    },
+    {
+      "text": " necesitan",
+      "timestamp": [
+        55.1,
+        55.24
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        55.24,
+        55.42
+      ]
+    },
+    {
+      "text": " poco",
+      "timestamp": [
+        55.42,
+        55.56
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        55.56,
+        55.6
+      ]
+    },
+    {
+      "text": " acostumbrarse.",
+      "timestamp": [
+        55.6,
+        56.02
+      ]
+    }
+  ],
+  "processing_time": 7923.445235013962,
+  "language": "es",
+  "model_id": "openai/whisper-large-v3"
+}

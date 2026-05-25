@@ -1,0 +1,154 @@
+{
+  "audio_file": "Mélygarázs ｜ Very Mister.wav",
+  "full_text": "A TASZMAL A TASZMAL A TASZMAL Helóka, hova lesz a menet? Kossuth Hotel. Kossuth Hotel, ami nem megy, ne erőltesd. Na, tessék magatokat bekötni. Úgy-úgy! Halló, helló, miszter, őv, őv! Ma a szétbált. Gyere! Az. Az kezd tele lenni, nekem is. Na, let's go Mad Max Jingle Bells! Na, veled, mert a Budapest, szíthető, aki a különböző. V, a szétbált! Ha, ha, ha! Eh, look! Budapest! There! Budapest! Everywhere! Ha, ha! Eh, look! Entertainment System! Stereo! Minit! Ha? Only for you! Speciálban! Oké! Kossuth Hotel. 40.000, 55.000 forint. Oké! Rendben is vagyunk. You are the bestest! Kéne városnézés! Hívjatok bátran! Call me! Goodbye! Bye-bye!",
+  "chunks": [
+    {
+      "text": " A TASZMAL A TASZMAL A TASZMAL",
+      "start": 0.0,
+      "end": 7.86
+    },
+    {
+      "text": " Helóka, hova lesz a menet?",
+      "start": 11.179999999999994,
+      "end": 13.66
+    },
+    {
+      "text": " Kossuth Hotel.",
+      "start": 16.68,
+      "end": 17.84
+    },
+    {
+      "text": " Kossuth Hotel, ami nem megy, ne erőltesd.",
+      "start": 18.04,
+      "end": 20.8
+    },
+    {
+      "text": " Na, tessék magatokat bekötni.",
+      "start": 20.92,
+      "end": 24.08
+    },
+    {
+      "text": " Úgy-úgy! Halló, helló, miszter, őv, őv!",
+      "start": 25.7,
+      "end": 28.96
+    },
+    {
+      "text": " Ma a szétbált. Gyere!",
+      "start": 28.96,
+      "end": 30.66
+    },
+    {
+      "text": " Az. Az kezd tele lenni, nekem is.",
+      "start": 30.96,
+      "end": 33.32
+    },
+    {
+      "text": " Na, let's go Mad Max Jingle Bells!",
+      "start": 33.52,
+      "end": 36.44
+    },
+    {
+      "text": " Na, veled, mert a Budapest, szíthető, aki a különböző.",
+      "start": 45.1,
+      "end": 50.22
+    },
+    {
+      "text": " V, a szétbált!",
+      "start": 50.3,
+      "end": 52.1
+    },
+    {
+      "text": " Ha, ha, ha!",
+      "start": 52.1,
+      "end": 52.94
+    },
+    {
+      "text": " Eh, look! Budapest!",
+      "start": 57.04,
+      "end": 59.96
+    },
+    {
+      "text": " There! Budapest! Everywhere! Ha, ha!",
+      "start": 60.28,
+      "end": 63.74
+    },
+    {
+      "text": " Eh, look!",
+      "start": 65.0,
+      "end": 66.54
+    },
+    {
+      "text": " Entertainment System! Stereo! Minit!",
+      "start": 67.74000000000001,
+      "end": 71.9
+    },
+    {
+      "text": " Ha? Only for you!",
+      "start": 74.1,
+      "end": 76.08
+    },
+    {
+      "text": " Speciálban!",
+      "start": 77.18,
+      "end": 78.22
+    },
+    {
+      "text": " Oké!",
+      "start": 84.25999999999999,
+      "end": 85.46
+    },
+    {
+      "text": " Kossuth Hotel.",
+      "start": 86.48,
+      "end": 87.92
+    },
+    {
+      "text": " 40.000, 55.000 forint.",
+      "start": 88.28,
+      "end": 92.54
+    },
+    {
+      "text": " Oké!",
+      "start": 96.82,
+      "end": 98.02
+    },
+    {
+      "text": " Rendben is vagyunk.",
+      "start": 98.86,
+      "end": 100.34
+    },
+    {
+      "text": " You are the bestest!",
+      "start": 100.98,
+      "end": 102.46
+    },
+    {
+      "text": " Kéne városnézés!",
+      "start": 102.46,
+      "end": 104.58
+    },
+    {
+      "text": " Hívjatok bátran!",
+      "start": 104.64,
+      "end": 105.78
+    },
+    {
+      "text": " Call me!",
+      "start": 106.36,
+      "end": 106.82
+    },
+    {
+      "text": " Goodbye!",
+      "start": 110.32,
+      "end": 111.72
+    },
+    {
+      "text": " Bye-bye!",
+      "start": 114.08,
+      "end": 115.28
+    }
+  ],
+  "processing_time": 1.466120958328247,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

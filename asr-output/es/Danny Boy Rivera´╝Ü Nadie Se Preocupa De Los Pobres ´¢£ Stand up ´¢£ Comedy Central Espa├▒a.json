@@ -1,0 +1,1290 @@
+{
+  "audio_file": "Danny Boy Rivera： Nadie Se Preocupa De Los Pobres ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": " Nadie se preocupa de los pobres, ¿a que no? Los que se preocupan, se preocupan mal. Un ejemplo, Antonio Abad, creador de la plataforma tecnológica Megafon.net, destinada a que gente en riesgo de exclusión social compartiera archivos de vídeo, imagen, sonido... Muy buena idea, Antonio, si no fuera porque la gente que está en riesgo de exclusión social no tiene Internet. ¿Cuál es tu próximo proyecto, Antonio? ¿Vas a organizar un torneo de golf en damasco para que los refugiados sirios mejoren su swing son esos tus planes no me gustan los deportes pero ahora tengo un crío cuando tienes un crío tienes un nuevo superpoder fingir interés pero ejemplo otro día estaba en mi habitación haciéndome una paja. De repente me llama el crío. Papá, papá, papá. Frené. ¡Frené! Que te puede dar un ictus. Salgo corriendo con los huevos azules. Entro en el salón y veo a mi hijo jugando a la Wii. Mira, papá, Soy campeón de la Copa Caparazón con Cupa Trupa. Genial, Diego. Voy a mi habitación a por la bandera de los campeones. Tardo 15 minutos.",
+  "chunks": [
+    {
+      "text": " Nadie",
+      "timestamp": [
+        0.0,
+        1.82
+      ]
+    },
+    {
+      "text": " se",
+      "timestamp": [
+        1.82,
+        1.92
+      ]
+    },
+    {
+      "text": " preocupa",
+      "timestamp": [
+        1.92,
+        2.24
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        2.24,
+        2.26
+      ]
+    },
+    {
+      "text": " los",
+      "timestamp": [
+        2.26,
+        2.36
+      ]
+    },
+    {
+      "text": " pobres,",
+      "timestamp": [
+        2.36,
+        2.74
+      ]
+    },
+    {
+      "text": " ¿a",
+      "timestamp": [
+        2.74,
+        2.86
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        2.86,
+        2.88
+      ]
+    },
+    {
+      "text": " no?",
+      "timestamp": [
+        2.88,
+        3.08
+      ]
+    },
+    {
+      "text": " Los",
+      "timestamp": [
+        3.26,
+        3.3
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        3.3,
+        3.42
+      ]
+    },
+    {
+      "text": " se",
+      "timestamp": [
+        3.42,
+        3.5
+      ]
+    },
+    {
+      "text": " preocupan,",
+      "timestamp": [
+        3.5,
+        3.9
+      ]
+    },
+    {
+      "text": " se",
+      "timestamp": [
+        3.9,
+        3.96
+      ]
+    },
+    {
+      "text": " preocupan",
+      "timestamp": [
+        3.96,
+        4.36
+      ]
+    },
+    {
+      "text": " mal.",
+      "timestamp": [
+        4.36,
+        4.58
+      ]
+    },
+    {
+      "text": " Un",
+      "timestamp": [
+        4.7,
+        4.7
+      ]
+    },
+    {
+      "text": " ejemplo,",
+      "timestamp": [
+        4.7,
+        5.14
+      ]
+    },
+    {
+      "text": " Antonio",
+      "timestamp": [
+        5.14,
+        5.5
+      ]
+    },
+    {
+      "text": " Abad,",
+      "timestamp": [
+        5.5,
+        6.06
+      ]
+    },
+    {
+      "text": " creador",
+      "timestamp": [
+        6.12,
+        6.32
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        6.32,
+        6.46
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        6.46,
+        6.52
+      ]
+    },
+    {
+      "text": " plataforma",
+      "timestamp": [
+        6.52,
+        6.88
+      ]
+    },
+    {
+      "text": " tecnológica",
+      "timestamp": [
+        6.88,
+        7.92
+      ]
+    },
+    {
+      "text": " Megafon",
+      "timestamp": [
+        7.92,
+        8.64
+      ]
+    },
+    {
+      "text": ".net,",
+      "timestamp": [
+        8.64,
+        9.32
+      ]
+    },
+    {
+      "text": " destinada",
+      "timestamp": [
+        9.58,
+        10.14
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        10.14,
+        10.28
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        10.28,
+        10.44
+      ]
+    },
+    {
+      "text": " gente",
+      "timestamp": [
+        10.44,
+        10.8
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        10.8,
+        11.0
+      ]
+    },
+    {
+      "text": " riesgo",
+      "timestamp": [
+        11.0,
+        11.34
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        11.34,
+        11.42
+      ]
+    },
+    {
+      "text": " exclusión",
+      "timestamp": [
+        11.42,
+        11.78
+      ]
+    },
+    {
+      "text": " social",
+      "timestamp": [
+        11.78,
+        12.08
+      ]
+    },
+    {
+      "text": " compartiera",
+      "timestamp": [
+        12.34,
+        12.96
+      ]
+    },
+    {
+      "text": " archivos",
+      "timestamp": [
+        12.96,
+        13.42
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        13.42,
+        13.8
+      ]
+    },
+    {
+      "text": " vídeo,",
+      "timestamp": [
+        13.8,
+        14.5
+      ]
+    },
+    {
+      "text": " imagen,",
+      "timestamp": [
+        14.5,
+        15.44
+      ]
+    },
+    {
+      "text": " sonido...",
+      "timestamp": [
+        15.44,
+        16.22
+      ]
+    },
+    {
+      "text": " Muy",
+      "timestamp": [
+        16.66,
+        16.96
+      ]
+    },
+    {
+      "text": " buena",
+      "timestamp": [
+        16.96,
+        17.2
+      ]
+    },
+    {
+      "text": " idea,",
+      "timestamp": [
+        17.2,
+        17.52
+      ]
+    },
+    {
+      "text": " Antonio,",
+      "timestamp": [
+        17.52,
+        17.98
+      ]
+    },
+    {
+      "text": " si",
+      "timestamp": [
+        18.08,
+        18.1
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        18.1,
+        18.18
+      ]
+    },
+    {
+      "text": " fuera",
+      "timestamp": [
+        18.18,
+        18.42
+      ]
+    },
+    {
+      "text": " porque",
+      "timestamp": [
+        18.42,
+        18.62
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        18.62,
+        18.78
+      ]
+    },
+    {
+      "text": " gente",
+      "timestamp": [
+        18.78,
+        19.0
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        19.0,
+        19.22
+      ]
+    },
+    {
+      "text": " está",
+      "timestamp": [
+        19.22,
+        19.32
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        19.32,
+        19.42
+      ]
+    },
+    {
+      "text": " riesgo",
+      "timestamp": [
+        19.42,
+        19.72
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        19.72,
+        19.82
+      ]
+    },
+    {
+      "text": " exclusión",
+      "timestamp": [
+        19.82,
+        20.14
+      ]
+    },
+    {
+      "text": " social",
+      "timestamp": [
+        20.14,
+        20.44
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        20.76,
+        21.16
+      ]
+    },
+    {
+      "text": " tiene",
+      "timestamp": [
+        21.16,
+        21.38
+      ]
+    },
+    {
+      "text": " Internet.",
+      "timestamp": [
+        21.38,
+        22.18
+      ]
+    },
+    {
+      "text": " ¿Cuál",
+      "timestamp": [
+        23.06,
+        23.42
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        23.42,
+        23.5
+      ]
+    },
+    {
+      "text": " tu",
+      "timestamp": [
+        23.5,
+        23.6
+      ]
+    },
+    {
+      "text": " próximo",
+      "timestamp": [
+        23.6,
+        23.88
+      ]
+    },
+    {
+      "text": " proyecto,",
+      "timestamp": [
+        23.88,
+        24.42
+      ]
+    },
+    {
+      "text": " Antonio?",
+      "timestamp": [
+        24.42,
+        24.92
+      ]
+    },
+    {
+      "text": " ¿Vas",
+      "timestamp": [
+        25.38,
+        26.04
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        26.04,
+        26.1
+      ]
+    },
+    {
+      "text": " organizar",
+      "timestamp": [
+        26.1,
+        26.5
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        26.5,
+        26.62
+      ]
+    },
+    {
+      "text": " torneo",
+      "timestamp": [
+        26.62,
+        26.92
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        27.0,
+        27.0
+      ]
+    },
+    {
+      "text": " golf",
+      "timestamp": [
+        27.0,
+        27.24
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        27.24,
+        27.36
+      ]
+    },
+    {
+      "text": " damasco",
+      "timestamp": [
+        27.36,
+        27.84
+      ]
+    },
+    {
+      "text": " para",
+      "timestamp": [
+        27.84,
+        28.12
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        28.12,
+        28.24
+      ]
+    },
+    {
+      "text": " los",
+      "timestamp": [
+        28.24,
+        28.36
+      ]
+    },
+    {
+      "text": " refugiados",
+      "timestamp": [
+        28.36,
+        28.84
+      ]
+    },
+    {
+      "text": " sirios",
+      "timestamp": [
+        28.84,
+        29.24
+      ]
+    },
+    {
+      "text": " mejoren",
+      "timestamp": [
+        29.24,
+        29.62
+      ]
+    },
+    {
+      "text": " su",
+      "timestamp": [
+        29.62,
+        29.8
+      ]
+    },
+    {
+      "text": " swing",
+      "timestamp": [
+        29.8,
+        30.18
+      ]
+    },
+    {
+      "text": " son",
+      "timestamp": [
+        30.18,
+        32.78
+      ]
+    },
+    {
+      "text": " esos",
+      "timestamp": [
+        32.78,
+        33.1
+      ]
+    },
+    {
+      "text": " tus",
+      "timestamp": [
+        33.1,
+        33.28
+      ]
+    },
+    {
+      "text": " planes",
+      "timestamp": [
+        33.28,
+        33.58
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        36.04,
+        37.4
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        37.4,
+        37.5
+      ]
+    },
+    {
+      "text": " gustan",
+      "timestamp": [
+        37.5,
+        37.84
+      ]
+    },
+    {
+      "text": " los",
+      "timestamp": [
+        37.84,
+        37.92
+      ]
+    },
+    {
+      "text": " deportes",
+      "timestamp": [
+        37.92,
+        38.4
+      ]
+    },
+    {
+      "text": " pero",
+      "timestamp": [
+        38.4,
+        38.66
+      ]
+    },
+    {
+      "text": " ahora",
+      "timestamp": [
+        38.66,
+        39.12
+      ]
+    },
+    {
+      "text": " tengo",
+      "timestamp": [
+        39.12,
+        39.3
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        39.3,
+        39.46
+      ]
+    },
+    {
+      "text": " crío",
+      "timestamp": [
+        39.46,
+        39.68
+      ]
+    },
+    {
+      "text": " cuando",
+      "timestamp": [
+        39.68,
+        39.9
+      ]
+    },
+    {
+      "text": " tienes",
+      "timestamp": [
+        39.9,
+        40.1
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        40.1,
+        40.26
+      ]
+    },
+    {
+      "text": " crío",
+      "timestamp": [
+        40.26,
+        40.44
+      ]
+    },
+    {
+      "text": " tienes",
+      "timestamp": [
+        40.44,
+        40.62
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        40.62,
+        40.8
+      ]
+    },
+    {
+      "text": " nuevo",
+      "timestamp": [
+        40.8,
+        40.96
+      ]
+    },
+    {
+      "text": " superpoder",
+      "timestamp": [
+        41.08,
+        41.56
+      ]
+    },
+    {
+      "text": " fingir",
+      "timestamp": [
+        41.56,
+        42.14
+      ]
+    },
+    {
+      "text": " interés",
+      "timestamp": [
+        42.14,
+        42.78
+      ]
+    },
+    {
+      "text": " pero",
+      "timestamp": [
+        42.78,
+        44.38
+      ]
+    },
+    {
+      "text": " ejemplo",
+      "timestamp": [
+        44.38,
+        44.7
+      ]
+    },
+    {
+      "text": " otro",
+      "timestamp": [
+        44.7,
+        44.88
+      ]
+    },
+    {
+      "text": " día",
+      "timestamp": [
+        44.88,
+        45.08
+      ]
+    },
+    {
+      "text": " estaba",
+      "timestamp": [
+        45.08,
+        45.3
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        45.3,
+        45.46
+      ]
+    },
+    {
+      "text": " mi",
+      "timestamp": [
+        45.48,
+        45.5
+      ]
+    },
+    {
+      "text": " habitación",
+      "timestamp": [
+        45.5,
+        45.92
+      ]
+    },
+    {
+      "text": " haciéndome",
+      "timestamp": [
+        45.92,
+        46.34
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        46.34,
+        46.46
+      ]
+    },
+    {
+      "text": " paja.",
+      "timestamp": [
+        46.46,
+        46.88
+      ]
+    },
+    {
+      "text": " De",
+      "timestamp": [
+        46.88,
+        47.56
+      ]
+    },
+    {
+      "text": " repente",
+      "timestamp": [
+        47.56,
+        47.9
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        47.9,
+        48.42
+      ]
+    },
+    {
+      "text": " llama",
+      "timestamp": [
+        48.42,
+        48.6
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        48.6,
+        48.72
+      ]
+    },
+    {
+      "text": " crío.",
+      "timestamp": [
+        48.72,
+        48.96
+      ]
+    },
+    {
+      "text": " Papá,",
+      "timestamp": [
+        48.96,
+        49.22
+      ]
+    },
+    {
+      "text": " papá,",
+      "timestamp": [
+        49.22,
+        49.52
+      ]
+    },
+    {
+      "text": " papá.",
+      "timestamp": [
+        49.52,
+        49.92
+      ]
+    },
+    {
+      "text": " Frené.",
+      "timestamp": [
+        49.92,
+        51.34
+      ]
+    },
+    {
+      "text": " ¡Frené!",
+      "timestamp": [
+        51.34,
+        53.16
+      ]
+    },
+    {
+      "text": " Que",
+      "timestamp": [
+        54.26,
+        54.8
+      ]
+    },
+    {
+      "text": " te",
+      "timestamp": [
+        54.8,
+        54.92
+      ]
+    },
+    {
+      "text": " puede",
+      "timestamp": [
+        54.92,
+        55.08
+      ]
+    },
+    {
+      "text": " dar",
+      "timestamp": [
+        55.08,
+        55.28
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        55.28,
+        55.4
+      ]
+    },
+    {
+      "text": " ictus.",
+      "timestamp": [
+        55.4,
+        56.0
+      ]
+    },
+    {
+      "text": " Salgo",
+      "timestamp": [
+        56.0,
+        57.36
+      ]
+    },
+    {
+      "text": " corriendo",
+      "timestamp": [
+        57.36,
+        57.68
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        57.68,
+        57.82
+      ]
+    },
+    {
+      "text": " los",
+      "timestamp": [
+        57.82,
+        57.9
+      ]
+    },
+    {
+      "text": " huevos",
+      "timestamp": [
+        57.9,
+        58.16
+      ]
+    },
+    {
+      "text": " azules.",
+      "timestamp": [
+        58.16,
+        58.64
+      ]
+    },
+    {
+      "text": " Entro",
+      "timestamp": [
+        58.64,
+        59.24
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        59.24,
+        59.3
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        59.3,
+        59.4
+      ]
+    },
+    {
+      "text": " salón",
+      "timestamp": [
+        59.4,
+        59.78
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        59.78,
+        59.84
+      ]
+    },
+    {
+      "text": " veo",
+      "timestamp": [
+        59.84,
+        59.96
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        59.96,
+        60.04
+      ]
+    },
+    {
+      "text": " mi",
+      "timestamp": [
+        60.04,
+        60.06
+      ]
+    },
+    {
+      "text": " hijo",
+      "timestamp": [
+        60.06,
+        60.22
+      ]
+    },
+    {
+      "text": " jugando",
+      "timestamp": [
+        60.26,
+        60.52
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        60.52,
+        60.64
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        60.64,
+        60.7
+      ]
+    },
+    {
+      "text": " Wii.",
+      "timestamp": [
+        60.7,
+        60.94
+      ]
+    },
+    {
+      "text": " Mira,",
+      "timestamp": [
+        60.94,
+        61.34
+      ]
+    },
+    {
+      "text": " papá,",
+      "timestamp": [
+        61.34,
+        61.7
+      ]
+    },
+    {
+      "text": " Soy",
+      "timestamp": [
+        62.0,
+        62.04
+      ]
+    },
+    {
+      "text": " campeón",
+      "timestamp": [
+        62.04,
+        62.58
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        62.6,
+        62.7
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        62.7,
+        62.74
+      ]
+    },
+    {
+      "text": " Copa",
+      "timestamp": [
+        62.74,
+        63.08
+      ]
+    },
+    {
+      "text": " Caparazón",
+      "timestamp": [
+        63.08,
+        63.6
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        63.66,
+        63.78
+      ]
+    },
+    {
+      "text": " Cupa",
+      "timestamp": [
+        63.78,
+        64.14
+      ]
+    },
+    {
+      "text": " Trupa.",
+      "timestamp": [
+        64.14,
+        64.58
+      ]
+    },
+    {
+      "text": " Genial,",
+      "timestamp": [
+        66.46,
+        67.36
+      ]
+    },
+    {
+      "text": " Diego.",
+      "timestamp": [
+        67.36,
+        67.76
+      ]
+    },
+    {
+      "text": " Voy",
+      "timestamp": [
+        67.9,
+        67.98
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        67.98,
+        68.08
+      ]
+    },
+    {
+      "text": " mi",
+      "timestamp": [
+        68.08,
+        68.16
+      ]
+    },
+    {
+      "text": " habitación",
+      "timestamp": [
+        68.16,
+        68.56
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        68.58,
+        68.7
+      ]
+    },
+    {
+      "text": " por",
+      "timestamp": [
+        68.7,
+        68.8
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        68.8,
+        68.9
+      ]
+    },
+    {
+      "text": " bandera",
+      "timestamp": [
+        68.9,
+        69.2
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        69.22,
+        69.3
+      ]
+    },
+    {
+      "text": " los",
+      "timestamp": [
+        69.3,
+        69.36
+      ]
+    },
+    {
+      "text": " campeones.",
+      "timestamp": [
+        69.36,
+        69.98
+      ]
+    },
+    {
+      "text": " Tardo",
+      "timestamp": [
+        70.04,
+        70.22
+      ]
+    },
+    {
+      "text": " 15",
+      "timestamp": [
+        70.22,
+        70.44
+      ]
+    },
+    {
+      "text": " minutos.",
+      "timestamp": [
+        70.44,
+        71.52
+      ]
+    }
+  ],
+  "processing_time": 7923.445235013962,
+  "language": "es",
+  "model_id": "openai/whisper-large-v3"
+}

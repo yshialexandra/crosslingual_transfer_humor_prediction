@@ -1,0 +1,89 @@
+{
+  "audio_file": "Így készül a Comedy Central ｜ Mélység.wav",
+  "full_text": "A Kámedicentrál csatornájánál is megvizsgálóan. Sziasztok, itt vagyunk a Kámedicentrálban, és éppen a legújabb közös műsorunkon dolgozunk. Igen, a mély vízzel kezdtük, mi sem gondoltuk, hogy ekkora sikere lesz, aztán jött az éttermes. Fél a pós. Ezted vissza nagyon gyorsan, mert a kezed le tudom. Akszis. Ródos. És most ki kéne találnunk, hogy hogyan tovább. A mély szóhoz mindenképpen ragaszkodunk, mert a közönség ezt már megszeret, és ezzel azonosítanak minket. A lényeg, hogy belehelyezkedjünk, hogy jól körül járjuk a témát. A mély interjút azt elvetettük, mert nagyon érdekes dolgok derültek ki rólunk, de az anyag az tulajdonképpen totál nézhetetlen lett. Úgyhogy ez egyik legjobb, hanem a másul. Köszönöm szépen. A mély ütést azért nem tudtuk megcsinálni, mert Peti az MMA-s incidense után elhatároztott, hogy nem emelkezett senkit. Igen, én már nem vagyok a visszín. Aztán mély magyarnak csak a címe tetszett. Legtovább a mély hűtő tartotta magát egyébként, de hát kap nagyon fázós, ő ilyen igazi déli temperamente. Te. Meg ugye nem is fért volna be a hűtőbe, úgyhogy hagytuk végül azt is. Most épp a mély űrt szeretjék a legjobban. Már látom is maga merünt. Az űr végtelenje nekem az alkotás és a humor határtalan szabadságát jelképezi. Amikor felnézel a csillagokra és érzed, hogy a kreatívat... Jó helyi repülő! Még dolgozunk rajta.",
+  "chunks": [
+    {
+      "text": " A Kámedicentrál csatornájánál is megvizsgálóan.",
+      "start": 10.32,
+      "end": 29.78
+    },
+    {
+      "text": " Sziasztok, itt vagyunk a Kámedicentrálban, és éppen a legújabb közös műsorunkon dolgozunk.",
+      "start": 31.46,
+      "end": 35.56
+    },
+    {
+      "text": " Igen, a mély vízzel kezdtük, mi sem gondoltuk, hogy ekkora sikere lesz, aztán jött az éttermes.",
+      "start": 35.74,
+      "end": 40.46
+    },
+    {
+      "text": " Fél a pós. Ezted vissza nagyon gyorsan, mert a kezed le tudom.",
+      "start": 40.56,
+      "end": 43.36
+    },
+    {
+      "text": " Akszis. Ródos. És most ki kéne találnunk, hogy hogyan tovább.",
+      "start": 43.76,
+      "end": 47.96
+    },
+    {
+      "text": " A mély szóhoz mindenképpen ragaszkodunk, mert a közönség ezt már megszeret, és ezzel azonosítanak minket.",
+      "start": 48.06,
+      "end": 54.6
+    },
+    {
+      "text": " A lényeg, hogy belehelyezkedjünk, hogy jól körül járjuk a témát.",
+      "start": 54.74,
+      "end": 59.38
+    },
+    {
+      "text": " A mély interjút azt elvetettük, mert nagyon érdekes dolgok derültek ki rólunk, de az anyag az tulajdonképpen totál nézhetetlen lett.",
+      "start": 61.78,
+      "end": 71.68
+    },
+    {
+      "text": " Úgyhogy ez egyik legjobb, hanem a másul. Köszönöm szépen.",
+      "start": 71.86,
+      "end": 75.54
+    },
+    {
+      "text": " A mély ütést azért nem tudtuk megcsinálni, mert Peti az MMA-s incidense után elhatároztott, hogy nem emelkezett senkit.",
+      "start": 76.22,
+      "end": 83.04
+    },
+    {
+      "text": " Igen, én már nem vagyok a visszín.",
+      "start": 83.14,
+      "end": 84.94
+    },
+    {
+      "text": " Aztán mély magyarnak csak a címe tetszett. Legtovább a mély hűtő tartotta magát egyébként, de hát kap nagyon fázós, ő ilyen igazi déli temperamente.",
+      "start": 88.34,
+      "end": 98.82
+    },
+    {
+      "text": " Te. Meg ugye nem is fért volna be a hűtőbe, úgyhogy hagytuk végül azt is. Most épp a mély űrt szeretjék a legjobban. Már látom is maga merünt.",
+      "start": 98.82,
+      "end": 107.34
+    },
+    {
+      "text": " Az űr végtelenje nekem az alkotás és a humor határtalan szabadságát jelképezi. Amikor felnézel a csillagokra és érzed, hogy a kreatívat...",
+      "start": 107.56,
+      "end": 117.0
+    },
+    {
+      "text": " Jó helyi repülő!",
+      "start": 117.0,
+      "end": 118.02
+    },
+    {
+      "text": " Még dolgozunk rajta.",
+      "start": 119.74,
+      "end": 121.58
+    }
+  ],
+  "processing_time": 0.7330317497253418,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

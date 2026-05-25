@@ -1,0 +1,49 @@
+{
+  "audio_file": "NUEVA SERIE Star Trek： Lower Decks de Lunes a Viernes｜ Comedy Central España.wav",
+  "full_text": "Estimados pasajeros, les damos la bienvenida a bordo. ¡Alto, alto, alto! ¿Nuestra tripulación bajo el mando de la Capitana Freeman? No nos interesa. Bueno, ya está bien. Aliens, peligros y aventura intergaláctica. Star Trek Lower Decks. Nuevos episodios de lunes a viernes a las 8.",
+  "chunks": [
+    {
+      "text": " Estimados pasajeros, les damos la bienvenida a bordo.",
+      "start": 0.7200000000000009,
+      "end": 3.7
+    },
+    {
+      "text": " ¡Alto, alto, alto!",
+      "start": 3.96,
+      "end": 4.9
+    },
+    {
+      "text": " ¿Nuestra tripulación bajo el mando de la Capitana Freeman?",
+      "start": 5.4,
+      "end": 8.46
+    },
+    {
+      "text": " No nos interesa.",
+      "start": 8.76,
+      "end": 9.52
+    },
+    {
+      "text": " Bueno, ya está bien.",
+      "start": 9.76,
+      "end": 10.58
+    },
+    {
+      "text": " Aliens, peligros y aventura intergaláctica.",
+      "start": 10.8,
+      "end": 12.72
+    },
+    {
+      "text": " Star Trek Lower Decks.",
+      "start": 12.96,
+      "end": 14.16
+    },
+    {
+      "text": " Nuevos episodios de lunes a viernes a las 8.",
+      "start": 14.26,
+      "end": 16.6
+    }
+  ],
+  "processing_time": 0.23766589164733887,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

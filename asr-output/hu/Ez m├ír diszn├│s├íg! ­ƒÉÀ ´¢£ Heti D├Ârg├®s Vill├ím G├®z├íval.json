@@ -1,0 +1,34 @@
+{
+  "audio_file": "Ez már disznóság! 🐷 ｜ Heti Dörgés Villám Gézával.wav",
+  "full_text": "Belegondoltak, hogy mit érezhet ez a két idős ember, amikor meglátja ezeket a reklámokat? Mi igen? Pont ugyanazt, amit német szilárd érezne, ha meglátná ezt. Készült a *** meghízásából. Meghízásából? Tényleg? Ú, ezer forint a lölő bögrénkbe, ami minden egyes rossz szóvicér jár, és az évad végén jótékonyságra adományozzuk. Sokat gondolkodtunk, hogy leadjuk ezt a reklámot, aztán rájöttünk, hogy az emberek imádják a disznóvicceket.",
+  "chunks": [
+    {
+      "text": " Belegondoltak, hogy mit érezhet ez a két idős ember, amikor meglátja ezeket a reklámokat?",
+      "start": 0.0,
+      "end": 4.36
+    },
+    {
+      "text": " Mi igen? Pont ugyanazt, amit német szilárd érezne, ha meglátná ezt.",
+      "start": 4.6,
+      "end": 9.04
+    },
+    {
+      "text": " Készült a *** meghízásából.",
+      "start": 30.34,
+      "end": 32.2
+    },
+    {
+      "text": " Meghízásából? Tényleg? Ú, ezer forint a lölő bögrénkbe, ami minden egyes rossz szóvicér jár, és az évad végén jótékonyságra adományozzuk.",
+      "start": 32.900000000000006,
+      "end": 40.66
+    },
+    {
+      "text": " Sokat gondolkodtunk, hogy leadjuk ezt a reklámot, aztán rájöttünk, hogy az emberek imádják a disznóvicceket.",
+      "start": 40.72,
+      "end": 45.86
+    }
+  ],
+  "processing_time": 0.2965843677520752,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

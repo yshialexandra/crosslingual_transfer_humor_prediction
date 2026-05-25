@@ -1,0 +1,149 @@
+{
+  "audio_file": "Kísértetek - A musical.wav",
+  "full_text": "A Kisértetek harmadik évad Szóval, akkor kísértetek harmadik évad. Musical. Akkor kezdhetem, vagy megvárjuk a szinkron rendezőt? Ó, ő ma nem lesz. Én leszek a rendező, és a hang technikus is egyben. Hideg, lehel, szelemér. Örvendek a találkozásnak. Zene is lesz? Valóban. Régóta várok erre a pillanatra, és szeretném egy kicsit kiélvezni, de már is indítom a kísértetet. Oh! Pardon, a kíséretet. Kísértetek műzikál? Há, négy? Egy dohos kúriában, páran, Kinn-Amerikában hányan vannak? Nem tudhatja senki sem, mert nem látszódnak. Erről szól most itt ez a dal. Van is róluk jó pár év az e világi sorozat, és halljak, mely de szavamra te láthatod, hogy vicces az, ha itt marad ki, egyszer meghal. Elhát egy pompás műzikel, Mi csak rólunk szól, És minden dala slágerlistás. Egy mesés műsor Szellemes a misorsunkról, Aztán a végén vissza a daps is lesz száll. De miért múlcál? Száz mi? Kör? Hm, hehehehe, ne, Ti csak énekeljetek, A művészeted bízzátok rám. Ez igen. Lehet benne rejtély, Vérhas, bezgős buli, Tőke hal meg, Bum a fejbe, Nem kétséges ki, hogy halt meg, Nem állít meg, Minket semmi pláne a fal. Kapjanak végre, Műzikel a kísérlete, A dzsungel könyvének van, Meg ők is jár. Egy telt egy könyv, az erdő lett? A bebutásra, Teszünk most egy kísérletet, A színpad vár, Itt egy túlcadnyi szár. Nem csak tíz srácok. Csináljunk végre, Nézd, Műzikel! Csináljunk! Mit csináltok ti itt? Nem kaptátok meg a beosztást? Most hoztam a szövegeket a harmadik évathoz. De hát most végeztünk Szelemér műzikeljével. Szelemér? Ja, igen, dolgozott itt egy Szelemér, De ő már nagyon régen meghalt. Hát ezt felszívták. Kísértetek új részek a Comedy Centralon!",
+  "chunks": [
+    {
+      "text": " A Kisértetek harmadik évad",
+      "start": 7.000000000000001,
+      "end": 7.86
+    },
+    {
+      "text": " Szóval, akkor kísértetek harmadik évad.",
+      "start": 7.86,
+      "end": 10.16
+    },
+    {
+      "text": " Musical.",
+      "start": 11.92,
+      "end": 12.78
+    },
+    {
+      "text": " Akkor kezdhetem, vagy megvárjuk a szinkron rendezőt?",
+      "start": 14.3,
+      "end": 17.28
+    },
+    {
+      "text": " Ó, ő ma nem lesz. Én leszek a rendező, és a hang technikus is egyben.",
+      "start": 17.76,
+      "end": 24.36
+    },
+    {
+      "text": " Hideg, lehel, szelemér.",
+      "start": 25.64,
+      "end": 27.62
+    },
+    {
+      "text": " Örvendek a találkozásnak.",
+      "start": 28.26,
+      "end": 29.94
+    },
+    {
+      "text": " Zene is lesz? Valóban. Régóta várok erre a pillanatra, és szeretném egy kicsit kiélvezni, de már is indítom a kísértetet.",
+      "start": 30.0,
+      "end": 47.44
+    },
+    {
+      "text": " Oh! Pardon, a kíséretet. Kísértetek műzikál?",
+      "start": 47.54,
+      "end": 57.38
+    },
+    {
+      "text": " Há, négy? Egy dohos kúriában, páran, Kinn-Amerikában hányan vannak? Nem tudhatja senki sem, mert nem látszódnak. Erről szól most itt ez a dal. Van is róluk jó pár év az e világi sorozat, és halljak, mely de szavamra te láthatod, hogy vicces az, ha itt marad ki, egyszer meghal.",
+      "start": 60.0,
+      "end": 85.66
+    },
+    {
+      "text": " Elhát egy pompás műzikel, Mi csak rólunk szól, És minden dala slágerlistás.",
+      "start": 85.66,
+      "end": 98.9
+    },
+    {
+      "text": " Egy mesés műsor Szellemes a misorsunkról, Aztán a végén vissza a daps is lesz száll.",
+      "start": 98.9,
+      "end": 111.26
+    },
+    {
+      "text": " De miért múlcál? Száz mi? Kör?",
+      "start": 111.26,
+      "end": 113.6
+    },
+    {
+      "text": " Hm, hehehehe, ne, Ti csak énekeljetek, A művészeted bízzátok rám.",
+      "start": 114.3,
+      "end": 120.14
+    },
+    {
+      "text": " Ez igen.",
+      "start": 120.94,
+      "end": 121.76
+    },
+    {
+      "text": " Lehet benne rejtély, Vérhas, bezgős buli, Tőke hal meg, Bum a fejbe, Nem kétséges ki, hogy halt meg, Nem állít meg, Minket semmi pláne a fal.",
+      "start": 122.42,
+      "end": 133.18
+    },
+    {
+      "text": " Kapjanak végre, Műzikel a kísérlete, A dzsungel könyvének van, Meg ők is jár.",
+      "start": 135.22,
+      "end": 146.02
+    },
+    {
+      "text": " Egy telt egy könyv, az erdő lett?",
+      "start": 146.02,
+      "end": 148.32
+    },
+    {
+      "text": " A bebutásra, Teszünk most egy kísérletet, A színpad vár, Itt egy túlcadnyi szár.",
+      "start": 148.34,
+      "end": 158.62
+    },
+    {
+      "text": " Nem csak tíz srácok.",
+      "start": 158.96,
+      "end": 160.48
+    },
+    {
+      "text": " Csináljunk végre, Nézd, Műzikel!",
+      "start": 161.02,
+      "end": 166.88
+    },
+    {
+      "text": " Csináljunk!",
+      "start": 167.74,
+      "end": 168.46
+    },
+    {
+      "text": " Mit csináltok ti itt? Nem kaptátok meg a beosztást? Most hoztam a szövegeket a harmadik évathoz.",
+      "start": 171.48,
+      "end": 177.24
+    },
+    {
+      "text": " De hát most végeztünk Szelemér műzikeljével.",
+      "start": 177.36,
+      "end": 179.7
+    },
+    {
+      "text": " Szelemér?",
+      "start": 180.56,
+      "end": 181.28
+    },
+    {
+      "text": " Ja, igen, dolgozott itt egy Szelemér, De ő már nagyon régen meghalt.",
+      "start": 182.08,
+      "end": 187.8
+    },
+    {
+      "text": " Hát ezt felszívták.",
+      "start": 206.35999999999999,
+      "end": 208.14
+    },
+    {
+      "text": " Kísértetek új részek a Comedy Centralon!",
+      "start": 210.62,
+      "end": 213.52
+    }
+  ],
+  "processing_time": 2.0173184871673584,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

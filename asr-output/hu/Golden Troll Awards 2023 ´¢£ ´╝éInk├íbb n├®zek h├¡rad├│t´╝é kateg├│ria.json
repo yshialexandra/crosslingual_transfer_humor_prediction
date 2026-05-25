@@ -1,0 +1,69 @@
+{
+  "audio_file": "Golden Troll Awards 2023 ｜ ＂Inkább nézek híradót＂ kategória.wav",
+  "full_text": "Arany Troll díj 2023, ahol a legjobb műsorok megkapják a legdurvább kommenteket. Élőben a New York... Hölgyeim és uraim! Welcome to the show! A következő díjat Jedi Girl-nek köszönhetjük. Az ilyen gyereket jól segbe kéne rúgni, idegesítően lekezelő kis p*** madár. Akkor már inkább nézek híradót. És ki kapja ezt a díjat? Nem más, mint az ifjú Sheldon! A szülők bizonyára büszkék rá. Ő nagyon is. Mindhárom gyerek a büszkeségünk. Mindig hozzáteszi. Ez hihetetlen. Az ifjú Sheldon ma a Comedy Centralon. A szükségünk. A szükségünk.",
+  "chunks": [
+    {
+      "text": " Arany Troll díj 2023, ahol a legjobb műsorok megkapják a legdurvább kommenteket.",
+      "start": 1.0,
+      "end": 7.28
+    },
+    {
+      "text": " Élőben a New York...",
+      "start": 7.62,
+      "end": 10.0
+    },
+    {
+      "text": " Hölgyeim és uraim! Welcome to the show!",
+      "start": 11.42,
+      "end": 14.68
+    },
+    {
+      "text": " A következő díjat Jedi Girl-nek köszönhetjük.",
+      "start": 16.2,
+      "end": 21.08
+    },
+    {
+      "text": " Az ilyen gyereket jól segbe kéne rúgni, idegesítően lekezelő kis p*** madár.",
+      "start": 23.48,
+      "end": 28.48
+    },
+    {
+      "text": " Akkor már inkább nézek híradót. És ki kapja ezt a díjat? Nem más, mint az ifjú Sheldon!",
+      "start": 28.48,
+      "end": 37.36
+    },
+    {
+      "text": " A szülők bizonyára büszkék rá.",
+      "start": 38.8,
+      "end": 41.34
+    },
+    {
+      "text": " Ő nagyon is.",
+      "start": 41.86,
+      "end": 42.9
+    },
+    {
+      "text": " Mindhárom gyerek a büszkeségünk. Mindig hozzáteszi.",
+      "start": 43.04,
+      "end": 46.16
+    },
+    {
+      "text": " Ez hihetetlen. Az ifjú Sheldon ma a Comedy Centralon.",
+      "start": 46.4,
+      "end": 52.42
+    },
+    {
+      "text": " A szükségünk.",
+      "start": 58.48,
+      "end": 59.4
+    },
+    {
+      "text": " A szükségünk.",
+      "start": 59.44,
+      "end": 59.86
+    }
+  ],
+  "processing_time": 0.35524487495422363,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

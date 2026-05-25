@@ -1,0 +1,374 @@
+{
+  "audio_file": "Komikus Karantén ｜ Szabó Balázs Máté.wav",
+  "full_text": "A karantén alatt sokan megpróbáltak szakádat növeszteni, de a többségük elbukott. A szakához érettség kell. Ez különbözteti meg a fiút, a férfitől. Azt jelenti, hogy erős vagy. Megállíthatatlan. Bátor. Hogy nem futamadsz meg, és hogy vállalod a tetteid következményét. A szaká nem nő csak úgy. Ez egy kiváltság. Nincs annál jobb érzés, mint amikor egy hosszú nap után belekortyolsz egy pohár hideg sörbe, és a hab ott marad a bajszonat. Ott marad. Most. Most vettem, most vettem. Szakállasnak lenni. Jó. Azt jelenti, hogy tartozol valahol. Ez egy közösség, melynek tagjai figyelnek egymásra. Szavaz, Béla! Szavaz, Béla! Biztos nem hallottam. Egy biztos. Ha készen állsz rá, akkor növes szakát. Nekem nagyon bevált. Ő. Bárcsak itt lenne. Már megint itt van. Sziak kicsi. Már megint. De jól nézel ki. Nem ez a póllogat vettet tegnap is? De cuki vagy. Uuu, rakott krumpli. Imádom. Főztél? De jó. Rakott krumpli. Megint. Csak ezt az egyet tudod. Te édes, hogy eszik. Van egy kis tejfaszáda. Hagyj majd én. Ör is tudom, de hangosan rág. Van valami a fogad között. Nem. Ugye nem a sorozatunkat nézz? Nem. Nem. Emeljük sétálni? Emeljük sétálni. Jöhetek? Igen. Amíg most tart ez a karantén, addig hazajöttem szüleimhez. Hát el kell nekik itt a segítség, mert ők már a veszélyeztet korosztályba esnek, úgyhogy. Nögyvegynál céves vagyunk. Igen. Hogy mik a feladataim? Hát sok feladatom van. Kicsit mindenben próbálok segíteni. Takarításban. Ott kimaradt! Igazából bármire megkérnek, azt megcsinálom. Balázs, mit kilénk szíves a szemetet? Tessék! A szemetet! Nem hallom! A hazaköltözés azért elég sok lemondással járt, szóval fel kellett adni az önállóságomat. Meg amikor így együtt laksz valakivel, akkor azért elég sok kompromisszumot kell kötni. Köszönöm! Egy érem. Úgy láttam, hogy ott még nem takarított. Több érmem is van. Kaptam például... Tudok még mutatni gyerekkori képeket. Azok nem vannak. Anya és barátnőm vezekedne. Rólam van szó. Az természetes. Láttam, hogy van köztül egy kis rivalizáció, hogy melyikor tennsgutjon róla. Vidd el innen, légy szíves. Ezt már nem bírom tovább. Én? A ti gyereked? Neked kéne vele csinálni valamit. Tudom, de mit. Huszonkét éves. Nem értem, hogy lett ilyen. Tegnap még kakaót is kellett neki csinálnom, hogy el tudjon aludni. Olyan, mint egy gyerek. Nekem mondod? Én a hajnadi kettőig simogattam a hasármeleteitől, meg elkezdett neki fájni. Annyira kellemetlen. Hallontottam el. Ne, megyük uzsannázni.",
+  "chunks": [
+    {
+      "text": " A karantén alatt sokan megpróbáltak szakádat növeszteni, de a többségük elbukott.",
+      "start": 6.000000000000003,
+      "end": 14.46
+    },
+    {
+      "text": " A szakához érettség kell.",
+      "start": 16.06,
+      "end": 18.28
+    },
+    {
+      "text": " Ez különbözteti meg a fiút, a férfitől.",
+      "start": 19.740000000000002,
+      "end": 23.14
+    },
+    {
+      "text": " Azt jelenti, hogy erős vagy.",
+      "start": 24.48,
+      "end": 26.06
+    },
+    {
+      "text": " Megállíthatatlan.",
+      "start": 26.96,
+      "end": 28.16
+    },
+    {
+      "text": " Bátor.",
+      "start": 28.48,
+      "end": 29.68
+    },
+    {
+      "text": " Hogy nem futamadsz meg, és hogy vállalod a tetteid következményét.",
+      "start": 30.0,
+      "end": 37.14
+    },
+    {
+      "text": " A szaká nem nő csak úgy.",
+      "start": 39.6,
+      "end": 42.84
+    },
+    {
+      "text": " Ez egy kiváltság.",
+      "start": 43.82,
+      "end": 45.1
+    },
+    {
+      "text": " Nincs annál jobb érzés, mint amikor egy hosszú nap után belekortyolsz egy pohár hideg sörbe, és a hab ott marad a bajszonat.",
+      "start": 45.92,
+      "end": 57.48
+    },
+    {
+      "text": " Ott marad.",
+      "start": 57.9,
+      "end": 58.74
+    },
+    {
+      "text": " Most.",
+      "start": 60.839999999999996,
+      "end": 61.4
+    },
+    {
+      "text": " Most vettem, most vettem.",
+      "start": 62.42,
+      "end": 63.72
+    },
+    {
+      "text": " Szakállasnak lenni.",
+      "start": 69.06,
+      "end": 70.12
+    },
+    {
+      "text": " Jó.",
+      "start": 70.12,
+      "end": 71.5
+    },
+    {
+      "text": " Azt jelenti, hogy tartozol valahol.",
+      "start": 71.82,
+      "end": 74.74
+    },
+    {
+      "text": " Ez egy közösség, melynek tagjai figyelnek egymásra.",
+      "start": 75.24,
+      "end": 79.68
+    },
+    {
+      "text": " Szavaz, Béla!",
+      "start": 79.68,
+      "end": 80.44
+    },
+    {
+      "text": " Szavaz, Béla!",
+      "start": 82.48,
+      "end": 83.52
+    },
+    {
+      "text": " Biztos nem hallottam.",
+      "start": 83.62,
+      "end": 85.38
+    },
+    {
+      "text": " Egy biztos.",
+      "start": 87.48,
+      "end": 89.16
+    },
+    {
+      "text": " Ha készen állsz rá, akkor növes szakát.",
+      "start": 89.56,
+      "end": 93.04
+    },
+    {
+      "text": " Nekem nagyon bevált.",
+      "start": 94.58000000000001,
+      "end": 95.8
+    },
+    {
+      "text": " Ő.",
+      "start": 97.1,
+      "end": 98.0
+    },
+    {
+      "text": " Bárcsak itt lenne. Már megint itt van. Sziak kicsi.",
+      "start": 114.02000000000001,
+      "end": 120.42
+    },
+    {
+      "text": " Már megint.",
+      "start": 121.7,
+      "end": 122.48
+    },
+    {
+      "text": " De jól nézel ki.",
+      "start": 122.9,
+      "end": 124.22
+    },
+    {
+      "text": " Nem ez a póllogat vettet tegnap is?",
+      "start": 124.64,
+      "end": 126.68
+    },
+    {
+      "text": " De cuki vagy.",
+      "start": 127.44,
+      "end": 128.74
+    },
+    {
+      "text": " Uuu, rakott krumpli. Imádom.",
+      "start": 128.96,
+      "end": 131.2
+    },
+    {
+      "text": " Főztél? De jó. Rakott krumpli. Megint. Csak ezt az egyet tudod.",
+      "start": 132.52,
+      "end": 139.54
+    },
+    {
+      "text": " Te édes, hogy eszik. Van egy kis tejfaszáda. Hagyj majd én.",
+      "start": 140.86,
+      "end": 145.9
+    },
+    {
+      "text": " Ör is tudom, de hangosan rág. Van valami a fogad között.",
+      "start": 149.16,
+      "end": 154.02
+    },
+    {
+      "text": " Nem.",
+      "start": 158.7,
+      "end": 159.32
+    },
+    {
+      "text": " Ugye nem a sorozatunkat nézz?",
+      "start": 159.42,
+      "end": 160.88
+    },
+    {
+      "text": " Nem. Nem.",
+      "start": 161.12,
+      "end": 161.62
+    },
+    {
+      "text": " Emeljük sétálni?",
+      "start": 162.3,
+      "end": 163.16
+    },
+    {
+      "text": " Emeljük sétálni.",
+      "start": 163.8,
+      "end": 164.82
+    },
+    {
+      "text": " Jöhetek?",
+      "start": 165.02,
+      "end": 165.56
+    },
+    {
+      "text": " Igen. Amíg most tart ez a karantén, addig hazajöttem szüleimhez.",
+      "start": 176.72,
+      "end": 182.34
+    },
+    {
+      "text": " Hát el kell nekik itt a segítség, mert ők már a veszélyeztet korosztályba esnek, úgyhogy.",
+      "start": 182.34,
+      "end": 189.34
+    },
+    {
+      "text": " Nögyvegynál céves vagyunk.",
+      "start": 190.38,
+      "end": 192.06
+    },
+    {
+      "text": " Igen.",
+      "start": 193.68,
+      "end": 194.26
+    },
+    {
+      "text": " Hogy mik a feladataim? Hát sok feladatom van. Kicsit mindenben próbálok segíteni. Takarításban.",
+      "start": 194.44,
+      "end": 205.22
+    },
+    {
+      "text": " Ott kimaradt!",
+      "start": 209.34,
+      "end": 210.16
+    },
+    {
+      "text": " Igazából bármire megkérnek, azt megcsinálom.",
+      "start": 212.34,
+      "end": 215.5
+    },
+    {
+      "text": " Balázs, mit kilénk szíves a szemetet?",
+      "start": 216.32,
+      "end": 218.5
+    },
+    {
+      "text": " Tessék!",
+      "start": 218.58,
+      "end": 219.06
+    },
+    {
+      "text": " A szemetet!",
+      "start": 219.62,
+      "end": 220.4
+    },
+    {
+      "text": " Nem hallom!",
+      "start": 220.5,
+      "end": 221.08
+    },
+    {
+      "text": " A hazaköltözés azért elég sok lemondással járt, szóval fel kellett adni az önállóságomat.",
+      "start": 224.04000000000002,
+      "end": 230.82
+    },
+    {
+      "text": " Meg amikor így együtt laksz valakivel, akkor azért elég sok kompromisszumot kell kötni.",
+      "start": 232.36,
+      "end": 237.1
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 259.68,
+      "end": 261.08
+    },
+    {
+      "text": " Egy érem.",
+      "start": 261.08,
+      "end": 262.16
+    },
+    {
+      "text": " Úgy láttam, hogy ott még nem takarított.",
+      "start": 265.16,
+      "end": 267.74
+    },
+    {
+      "text": " Több érmem is van.",
+      "start": 268.44,
+      "end": 269.8
+    },
+    {
+      "text": " Kaptam például...",
+      "start": 270.44,
+      "end": 272.52
+    },
+    {
+      "text": " Tudok még mutatni gyerekkori képeket.",
+      "start": 273.28,
+      "end": 275.18
+    },
+    {
+      "text": " Azok nem vannak.",
+      "start": 275.8,
+      "end": 276.84
+    },
+    {
+      "text": " Anya és barátnőm vezekedne.",
+      "start": 281.62,
+      "end": 283.76
+    },
+    {
+      "text": " Rólam van szó.",
+      "start": 284.14,
+      "end": 285.28
+    },
+    {
+      "text": " Az természetes. Láttam, hogy van köztül egy kis rivalizáció,",
+      "start": 287.12,
+      "end": 290.54
+    },
+    {
+      "text": " hogy melyikor tennsgutjon róla.",
+      "start": 290.54,
+      "end": 292.14
+    },
+    {
+      "text": " Vidd el innen, légy szíves. Ezt már nem bírom tovább.",
+      "start": 293.36,
+      "end": 296.18
+    },
+    {
+      "text": " Én? A ti gyereked? Neked kéne vele csinálni valamit.",
+      "start": 296.58,
+      "end": 299.56
+    },
+    {
+      "text": " Tudom, de mit. Huszonkét éves.",
+      "start": 299.8,
+      "end": 302.16
+    },
+    {
+      "text": " Nem értem, hogy lett ilyen.",
+      "start": 302.46,
+      "end": 304.06
+    },
+    {
+      "text": " Tegnap még kakaót is kellett neki csinálnom, hogy el tudjon aludni.",
+      "start": 304.5,
+      "end": 307.84
+    },
+    {
+      "text": " Olyan, mint egy gyerek.",
+      "start": 308.22,
+      "end": 309.46
+    },
+    {
+      "text": " Nekem mondod?",
+      "start": 309.94,
+      "end": 310.88
+    },
+    {
+      "text": " Én a hajnadi kettőig simogattam a hasármeleteitől, meg elkezdett neki fájni.",
+      "start": 311.08,
+      "end": 315.04
+    },
+    {
+      "text": " Annyira kellemetlen. Hallontottam el.",
+      "start": 316.73999999999995,
+      "end": 319.4
+    },
+    {
+      "text": " Ne, megyük uzsannázni.",
+      "start": 321.28000000000003,
+      "end": 323.28
+    }
+  ],
+  "processing_time": 2.355663299560547,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,129 @@
+{
+  "audio_file": "Mit köszönhet a medvéknek a világ ｜ Susogós Mackók 🐻.wav",
+  "full_text": "A Mókusz Tudod, mint gondolkodtam? Mit? Hogy mit köszönhet nekünk medvéknek a világ. És? Mit? Mindent. Például? Izé... Ott van például a fáramászás. És a Mókusz? Akkor a farok nélküli fáramászás. Például. Vagy a medvebőrkucsma. De hát azt nem mit csináljuk, hanem belőlünk csinálják. És? Nélkülünk az se lenne. Vagy a medve sajt. A medvék fedezték fel a medve sajtot? Nem, de akkor nem tudnák hogyan nevezni. Mókussajt? Mindig ezzel a mókussal jössz. Vagy például az állatkert. Mit tartanának ott, ha mi nem lennék? Más állatokat. Tudtam mindig, hogy medveellenes vagy. Antimaci. Nélkülünk az állatokat.",
+  "chunks": [
+    {
+      "text": " A Mókusz",
+      "start": 3.0399999999999987,
+      "end": 3.82
+    },
+    {
+      "text": " Tudod, mint gondolkodtam?",
+      "start": 3.82,
+      "end": 5.0
+    },
+    {
+      "text": " Mit?",
+      "start": 5.26,
+      "end": 5.74
+    },
+    {
+      "text": " Hogy mit köszönhet nekünk medvéknek a világ.",
+      "start": 6.08,
+      "end": 8.98
+    },
+    {
+      "text": " És? Mit?",
+      "start": 9.24,
+      "end": 10.26
+    },
+    {
+      "text": " Mindent.",
+      "start": 10.78,
+      "end": 11.56
+    },
+    {
+      "text": " Például?",
+      "start": 11.74,
+      "end": 12.46
+    },
+    {
+      "text": " Izé...",
+      "start": 13.94,
+      "end": 14.72
+    },
+    {
+      "text": " Ott van például a fáramászás.",
+      "start": 14.72,
+      "end": 16.98
+    },
+    {
+      "text": " És a Mókusz?",
+      "start": 17.98,
+      "end": 18.76
+    },
+    {
+      "text": " Akkor a farok nélküli fáramászás.",
+      "start": 19.4,
+      "end": 21.8
+    },
+    {
+      "text": " Például.",
+      "start": 22.1,
+      "end": 22.88
+    },
+    {
+      "text": " Vagy a medvebőrkucsma.",
+      "start": 23.16,
+      "end": 25.62
+    },
+    {
+      "text": " De hát azt nem mit csináljuk, hanem belőlünk csinálják.",
+      "start": 26.16,
+      "end": 29.22
+    },
+    {
+      "text": " És?",
+      "start": 29.42,
+      "end": 29.84
+    },
+    {
+      "text": " Nélkülünk az se lenne. Vagy a medve sajt.",
+      "start": 30.0,
+      "end": 33.16
+    },
+    {
+      "text": " A medvék fedezték fel a medve sajtot?",
+      "start": 33.4,
+      "end": 35.64
+    },
+    {
+      "text": " Nem, de akkor nem tudnák hogyan nevezni.",
+      "start": 35.94,
+      "end": 38.38
+    },
+    {
+      "text": " Mókussajt?",
+      "start": 40.4,
+      "end": 41.08
+    },
+    {
+      "text": " Mindig ezzel a mókussal jössz. Vagy például az állatkert.",
+      "start": 41.26,
+      "end": 44.76
+    },
+    {
+      "text": " Mit tartanának ott, ha mi nem lennék?",
+      "start": 44.98,
+      "end": 47.66
+    },
+    {
+      "text": " Más állatokat.",
+      "start": 47.92,
+      "end": 49.0
+    },
+    {
+      "text": " Tudtam mindig, hogy medveellenes vagy. Antimaci.",
+      "start": 49.18,
+      "end": 53.72
+    },
+    {
+      "text": " Nélkülünk az állatokat.",
+      "start": 62.65999999999999,
+      "end": 70.86
+    }
+  ],
+  "processing_time": 1.8631422519683838,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

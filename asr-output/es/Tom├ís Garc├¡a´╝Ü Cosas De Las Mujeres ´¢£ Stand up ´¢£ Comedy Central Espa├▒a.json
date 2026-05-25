@@ -1,0 +1,194 @@
+{
+  "audio_file": "Tomás García： Cosas De Las Mujeres ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "Tengo que enseñaros hombres de España cosas de las mujeres. Las mujeres hay algunas que son raras, que son extrañas, que son diferentes. No son ni mejores ni peores, son diferentes. Las mujeres de vez en cuando no cenan. No les gusta revolcarse por la arena. No les gustan las olas, no les gusta que te cueles en los sitios. No les gusta que cagues con la puerta abierta, son tiquismiquis. No les gusta que te corras en su cara. No, son las de... Mira esta, se ha acordado. No les gusta... Ellas prefieren emplear su tiempo en cosas mucho más útiles para ellas, como por ejemplo hacerse así, darle vuelta a su pelo el remolino y fin. Sin embargo nosotros somos completamente lo contrario. Nos gusta cagar con la puerta abierta, nos gusta revolcarlos por la arena, nos encanta coger olas en inglés. We love hellos. Pues con todo y con eso... A mí me encantan las mujeres, adoro a las mujeres. Si por mí fuera yo tendría un amor en cada puerto. Yo quiero ser como los mormones. Yo quiero ser polígonos. Ellos tienen muchas mujeres. Y si me tengo que quedar con solo una, solo pido que el amor de mi vida sea una mujer sincera, con los oídos limpios, sincera. Me pasó una vez... tuve un flechazo... El río más caudaloso es el Ebro. No tiene nada que ver con el monólogo, es para que lo sepáis. Me pasó una mujer... una vez me pasó con una mujer un flechazo y... Estaba yo... soy de Málaga, en la Costa del Sol. Vi una muchacha venir de frente con un vestido ceñido rosa. Tenía unos labios carnosos rosas. Estaba merendando una pantera rosa. Y digo, por probabilidad, esta muchacha se tiene que llamar en carne. Pues fue... quizás el amor más breve de mi vida, porque tenía lo que yo llamo un defecto. Y era que estaba completamente obsesionada con la fruta. Por la mañana, por la tarde, por la noche. Todo el día, fruta, fruta, entre cejas y cejas. Fruta, fruta, fruta. Cariño, comió fruta, quiere fruta. Era obligatorio. Todos los días tenía que comerme cinco piezas de fruta. ¡Qué pesadilla! La hija de la gran fruta. Yo tenía dudas. Digo, cariño, por favor, solucioname enigmas. Una sandía y una cereza cuentan lo mismo, porque yo a la tercera sandía completa empezaba a sudar. ¡Y venga, fruta! Todo el día, fruta. Dios. Es verdad. El día que la dejé, se lo tuve que decir con fruta. Digo, cariño, no eres mi media naranja. Porque yo quiero dos sandías y tú tienes dos peras. Por cierto, afeítate el kiwi. ¡Hombre, es que...! No, no, no... Te mismo ... No, no, no... No, no, no. No utilizo, billions. ¿ bedeja, tieto? Gracias por ver el video.",
+  "chunks": [
+    {
+      "text": " Tengo que enseñaros hombres de España cosas de las mujeres.",
+      "start": 1.3800000000000006,
+      "end": 4.66
+    },
+    {
+      "text": " Las mujeres hay algunas que son raras, que son extrañas, que son diferentes.",
+      "start": 4.88,
+      "end": 8.5
+    },
+    {
+      "text": " No son ni mejores ni peores, son diferentes.",
+      "start": 8.76,
+      "end": 11.28
+    },
+    {
+      "text": " Las mujeres de vez en cuando no cenan.",
+      "start": 11.42,
+      "end": 13.36
+    },
+    {
+      "text": " No les gusta revolcarse por la arena.",
+      "start": 17.12,
+      "end": 19.44
+    },
+    {
+      "text": " No les gustan las olas, no les gusta que te cueles en los sitios.",
+      "start": 20.020000000000003,
+      "end": 23.42
+    },
+    {
+      "text": " No les gusta que cagues con la puerta abierta, son tiquismiquis.",
+      "start": 23.62,
+      "end": 27.02
+    },
+    {
+      "text": " No les gusta que te corras en su cara.",
+      "start": 27.16,
+      "end": 29.18
+    },
+    {
+      "text": " No, son las de...",
+      "start": 29.18,
+      "end": 30.6
+    },
+    {
+      "text": " Mira esta, se ha acordado.",
+      "start": 31.3,
+      "end": 33.28
+    },
+    {
+      "text": " No les gusta...",
+      "start": 33.76,
+      "end": 34.94
+    },
+    {
+      "text": " Ellas prefieren emplear su tiempo en cosas mucho más útiles para ellas,",
+      "start": 37.239999999999995,
+      "end": 40.92
+    },
+    {
+      "text": " como por ejemplo hacerse así, darle vuelta a su pelo el remolino y fin.",
+      "start": 41.08,
+      "end": 45.12
+    },
+    {
+      "text": " Sin embargo nosotros somos completamente lo contrario.",
+      "start": 45.44,
+      "end": 48.98
+    },
+    {
+      "text": " Nos gusta cagar con la puerta abierta, nos gusta revolcarlos por la arena,",
+      "start": 49.2,
+      "end": 52.66
+    },
+    {
+      "text": " nos encanta coger olas en inglés.",
+      "start": 52.78,
+      "end": 55.02
+    },
+    {
+      "text": " We love hellos.",
+      "start": 55.32,
+      "end": 56.84
+    },
+    {
+      "text": " Pues con todo y con eso...",
+      "start": 57.02,
+      "end": 58.42
+    },
+    {
+      "text": " A mí me encantan las mujeres, adoro a las mujeres.",
+      "start": 59.18,
+      "end": 62.2
+    },
+    {
+      "text": " Si por mí fuera yo tendría un amor en cada puerto.",
+      "start": 62.38,
+      "end": 65.32
+    },
+    {
+      "text": " Yo quiero ser como los mormones.",
+      "start": 65.5,
+      "end": 67.0
+    },
+    {
+      "text": " Yo quiero ser polígonos.",
+      "start": 67.52,
+      "end": 68.94
+    },
+    {
+      "text": " Ellos tienen muchas mujeres.",
+      "start": 69.1,
+      "end": 70.56
+    },
+    {
+      "text": " Y si me tengo que quedar con solo una, solo pido que el amor de mi vida sea una mujer sincera, con los oídos limpios, sincera.",
+      "start": 72.22,
+      "end": 79.72
+    },
+    {
+      "text": " Me pasó una vez... tuve un flechazo...",
+      "start": 80.12,
+      "end": 83.56
+    },
+    {
+      "text": " El río más caudaloso es el Ebro. No tiene nada que ver con el monólogo, es para que lo sepáis.",
+      "start": 88.78,
+      "end": 92.64
+    },
+    {
+      "text": " Me pasó una mujer... una vez me pasó con una mujer un flechazo y...",
+      "start": 92.96,
+      "end": 98.76
+    },
+    {
+      "text": " Estaba yo... soy de Málaga, en la Costa del Sol. Vi una muchacha venir de frente con un vestido ceñido rosa. Tenía unos labios carnosos rosas. Estaba merendando una pantera rosa. Y digo, por probabilidad, esta muchacha se tiene que llamar en carne.",
+      "start": 99.56,
+      "end": 115.78
+    },
+    {
+      "text": " Pues fue... quizás el amor más breve de mi vida, porque tenía lo que yo llamo un defecto. Y era que estaba completamente obsesionada con la fruta. Por la mañana, por la tarde, por la noche. Todo el día, fruta, fruta, entre cejas y cejas. Fruta, fruta, fruta.",
+      "start": 115.78,
+      "end": 130.62
+    },
+    {
+      "text": " Cariño, comió fruta, quiere fruta. Era obligatorio. Todos los días tenía que comerme cinco piezas de fruta. ¡Qué pesadilla! La hija de la gran fruta. Yo tenía dudas.",
+      "start": 130.76,
+      "end": 139.82
+    },
+    {
+      "text": " Digo, cariño, por favor, solucioname enigmas. Una sandía y una cereza cuentan lo mismo, porque yo a la tercera sandía completa empezaba a sudar. ¡Y venga, fruta! Todo el día, fruta. Dios.",
+      "start": 140.6,
+      "end": 154.5
+    },
+    {
+      "text": " Es verdad. El día que la dejé, se lo tuve que decir con fruta. Digo, cariño, no eres mi media naranja.",
+      "start": 155.44,
+      "end": 166.92
+    },
+    {
+      "text": " Porque yo quiero dos sandías y tú tienes dos peras. Por cierto, afeítate el kiwi. ¡Hombre, es que...!",
+      "start": 169.16,
+      "end": 175.54
+    },
+    {
+      "text": " No, no, no... Te mismo ...",
+      "start": 175.54,
+      "end": 176.46
+    },
+    {
+      "text": " No, no, no...",
+      "start": 180.20000000000002,
+      "end": 181.12
+    },
+    {
+      "text": " No, no, no. No utilizo, billions. ¿ bedeja, tieto?",
+      "start": 181.12,
+      "end": 181.18
+    },
+    {
+      "text": " Gracias por ver el video.",
+      "start": 181.18,
+      "end": 191.54
+    }
+  ],
+  "processing_time": 2.8378713130950928,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

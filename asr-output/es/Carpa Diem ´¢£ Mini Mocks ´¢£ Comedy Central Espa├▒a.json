@@ -1,0 +1,49 @@
+{
+  "audio_file": "Carpa Diem ｜ Mini Mocks ｜ Comedy Central España.wav",
+  "full_text": "Welcome to the jungle. We've got birds, fish and shopping carts. Hi, my name is Greg Washburn and I commute to work on the LA River. After making the Hudson River my commute for years, COVID hit and so I moved to Los Angeles in search of more space, better weather and worse people. Life was perfect until offices started opening up and I had to start driving to work again. And that's when it hit me. So I canceled my Tesla pre-order, bought a kayak and set sail on the golden brown waters of the LA River. Luckily, I get to start my day immersed in nature, taking some space, breathing some fresh air, relaxing before I head into the office. The bird watching is second to none among municipal flood control channels. It used to be that traffic got my heart rate pounding. Now it's forging the whitewater rapids of Los Angeles. One bummer about not being stuck in traffic for three hours a day is I miss out on so many great podcasts. But then it hit me. As a white guy who kayaks, I now have a unique perspective on life. So that's when I started my own podcast, Greg Washburn's Stream of Consciousness. All right, welcome back. everybody coming to you live from the concrete jungle. Today's topic, financial abundance. What's the easiest way to turn $20 into 20 million? That's right, a vision board. Contrary to common sense, you can go fishing in these waters. That's why I installed a net on the back of my kayak to catch sewer salmon, as the locals call them. To them I say carp a diem, because carp is the most common fish that you find in the LA River basin. Once I arrive, it's a quick 30 minute walk to work. After a little freshening up, there's just enough time to make breakfast before morning meeting. After being stuck at home for a year, it's so nice to be back in the office with my colleagues. Finally, a little normalcy. A lot of people ask, what about getting back up river? And to them I say, never skip farm day. We're going to be lucky. If you've arrived at home for a year, I'm here. And to them I say, never reply. Let's see. How many more orders? What Smith has beenicans on, how many more orders have been able to put up yardage in the alreadyال, dying on the way, a distance from their skin to your roots, with all sides of their skin? Gracias.",
+  "chunks": [
+    {
+      "text": " Welcome to the jungle. We've got birds, fish and shopping carts. Hi, my name is Greg Washburn and I commute to work on the LA River. After making the Hudson River my commute for years, COVID hit and so I moved to Los Angeles in search of more space, better weather and worse people. Life was perfect until offices started opening up and I had to start driving to work again. And that's when it hit me. So I canceled my Tesla pre-order, bought a kayak and set sail on the golden brown waters of the LA River. Luckily, I get to start my day immersed",
+      "start": 1.4400000000000022,
+      "end": 29.92
+    },
+    {
+      "text": " in nature, taking some space, breathing some fresh air, relaxing before I head into the office. The bird watching is second to none among municipal flood control channels. It used to be that traffic got my heart rate pounding. Now it's forging the whitewater rapids of Los Angeles. One bummer about not being stuck in traffic for three hours a day is I miss out on so many great podcasts. But then it hit me. As a white guy who kayaks, I now have a unique perspective on life. So that's when I started my own podcast, Greg Washburn's Stream of Consciousness. All right, welcome back.",
+      "start": 29.92,
+      "end": 59.78
+    },
+    {
+      "text": " everybody coming to you live from the concrete jungle. Today's topic, financial abundance. What's the easiest way to turn $20 into 20 million? That's right, a vision board. Contrary to common sense, you can go fishing in these waters. That's why I installed a net on the back of my kayak to catch sewer salmon, as the locals call them. To them I say carp a diem, because carp is the most common fish that you find in the LA River basin. Once I arrive, it's a quick 30 minute walk to work.",
+      "start": 59.92,
+      "end": 87.04
+    },
+    {
+      "text": " After a little freshening up, there's just enough time to make breakfast before morning meeting. After being stuck at home for a year, it's so nice to be back in the office with my colleagues. Finally, a little normalcy. A lot of people ask, what about getting back up river? And to them I say, never skip farm day.",
+      "start": 89.92,
+      "end": 107.48
+    },
+    {
+      "text": " We're going to be lucky. If you've arrived at home for a year, I'm here.",
+      "start": 121.14,
+      "end": 124.86
+    },
+    {
+      "text": " And to them I say, never reply. Let's see.",
+      "start": 124.9,
+      "end": 126.9
+    },
+    {
+      "text": " How many more orders? What Smith has beenicans on, how many more orders have been able to put up yardage in the alreadyال, dying on the way, a distance from their skin to your roots, with all sides of their skin?",
+      "start": 126.9,
+      "end": 127.14
+    },
+    {
+      "text": " Gracias.",
+      "start": 127.14,
+      "end": 127.18
+    }
+  ],
+  "processing_time": 2.0204741954803467,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

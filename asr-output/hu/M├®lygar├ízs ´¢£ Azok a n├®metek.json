@@ -1,0 +1,49 @@
+{
+  "audio_file": "Mélygarázs ｜ Azok a németek.wav",
+  "full_text": "A LÓVÉT TÉRÉS KÖZÖNYÖNYÖNYÖNYÖL Jönnek be ezek a németek, mi meg beingedjük őket. Mert hogy ők itt fejlesztenek, meg munkahelyeket teremtenek, persze, de a Lovét meg viszik haza Németországba, autógyár. Aztán ki fogja megvenni azt a 20 milliós autót, mi? Mert nem én, meg nem maga az is biztos, mert akkor nem itt ülne, nyugdíjan meg sehol. Jó, én nem azt mondom, hogy őt tehetnek róla, de hát azért tudják már, hogy hol a helyük. NAMASTE",
+  "chunks": [
+    {
+      "text": " A LÓVÉT TÉRÉS KÖZÖNYÖNYÖNYÖNYÖL",
+      "start": 0.6599999999999968,
+      "end": 3.72
+    },
+    {
+      "text": " Jönnek be ezek a németek, mi meg beingedjük őket.",
+      "start": 6.72,
+      "end": 9.74
+    },
+    {
+      "text": " Mert hogy ők itt fejlesztenek, meg munkahelyeket teremtenek,",
+      "start": 10.02,
+      "end": 14.5
+    },
+    {
+      "text": " persze, de a Lovét meg viszik haza Németországba, autógyár.",
+      "start": 14.64,
+      "end": 18.4
+    },
+    {
+      "text": " Aztán ki fogja megvenni azt a 20 milliós autót, mi?",
+      "start": 18.9,
+      "end": 21.6
+    },
+    {
+      "text": " Mert nem én, meg nem maga az is biztos, mert akkor nem itt ülne, nyugdíjan meg sehol.",
+      "start": 21.94,
+      "end": 27.24
+    },
+    {
+      "text": " Jó, én nem azt mondom, hogy őt tehetnek róla, de hát azért tudják már, hogy hol a helyük.",
+      "start": 27.24,
+      "end": 31.24
+    },
+    {
+      "text": " NAMASTE",
+      "start": 60.32,
+      "end": 61.72
+    }
+  ],
+  "processing_time": 2.5756781101226807,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

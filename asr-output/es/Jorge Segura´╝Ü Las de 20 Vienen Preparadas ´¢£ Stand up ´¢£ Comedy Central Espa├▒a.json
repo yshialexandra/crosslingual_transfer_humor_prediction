@@ -1,0 +1,104 @@
+{
+  "audio_file": "Jorge Segura： Las de 20 Vienen Preparadas ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "Al poco de separarme conocí a una chica y empecé a salir con una chica un poco más joven que yo, un par de generaciones más joven que yo. Me quedé alucinado de cómo vienen preparadas las chicas. O sea, es alucinante. Porque los chicos no, porque un chico de 20 años te dice soy un fucker y dices claro, eres el fucker de mami, ven aquí que te doy un abrazo. Pero una chica de 20 años viene preparada, bueno, se ha visto todo en internet. Claro, es que con internet he alucinado todo mogollón, porque yo cuando iba a la universidad las categorías de internet de porno eran rubias, morenas y poco más. Búscate la vida. Pero ahora dices, China, tú buscas chinas que vivan en Fuenlabrada y se masturben viendo saber vivir. Dice, va, hay 16 vídeos, 16 vídeos. Alucinante. Que tú ves eso y dices, no estoy solo, no estoy solo. Ha evolucionado un montón. Y yo la verdad es que la primera vez que quedé con esta chica, yo iba un poco impresionante. Yo iba en plan romántico, a hacer el amor, un poco de velitas, un poco de incienso, un poco de jazz, ¿sabes? Ella venía a perderle el respeto al cuerpo humano. O sea, yo me quedaba acojonado. Tú sabes, hubo un momento, hubo un momento que estaba yo tumbado, boca arriba, ella estaba encima de mí, cabalgando hacia el apocalipsis como si no hubiera mañana. De estos momentos, chicos, en los que dudas si sigue participando de eso, ¿no? Sigo yo... Y de repente se viene arriba y me grita, me dice, ¡insúltame, escúpame, pégame! Claro, yo que soy de otra generación, lo primero que pienso es, a ver, si lo haces bien no hace falta, ¿no? Gracias.",
+  "chunks": [
+    {
+      "text": " Al poco de separarme conocí a una chica y empecé a salir con una chica un poco más joven que yo, un par de generaciones más joven que yo.",
+      "start": 1.2600000000000007,
+      "end": 7.88
+    },
+    {
+      "text": " Me quedé alucinado de cómo vienen preparadas las chicas. O sea, es alucinante.",
+      "start": 8.48,
+      "end": 12.62
+    },
+    {
+      "text": " Porque los chicos no, porque un chico de 20 años te dice soy un fucker y dices claro, eres el fucker de mami, ven aquí que te doy un abrazo.",
+      "start": 12.76,
+      "end": 17.82
+    },
+    {
+      "text": " Pero una chica de 20 años viene preparada, bueno, se ha visto todo en internet.",
+      "start": 19.18,
+      "end": 22.7
+    },
+    {
+      "text": " Claro, es que con internet he alucinado todo mogollón, porque yo cuando iba a la universidad las categorías de internet de porno eran rubias, morenas y poco más.",
+      "start": 22.82,
+      "end": 29.66
+    },
+    {
+      "text": " Búscate la vida. Pero ahora dices, China, tú buscas chinas que vivan en Fuenlabrada y se masturben viendo saber vivir.",
+      "start": 29.66,
+      "end": 36.74
+    },
+    {
+      "text": " Dice, va, hay 16 vídeos, 16 vídeos.",
+      "start": 36.9,
+      "end": 40.02
+    },
+    {
+      "text": " Alucinante.",
+      "start": 41.86,
+      "end": 42.26
+    },
+    {
+      "text": " Que tú ves eso y dices, no estoy solo, no estoy solo.",
+      "start": 45.76,
+      "end": 48.08
+    },
+    {
+      "text": " Ha evolucionado un montón. Y yo la verdad es que la primera vez que quedé con esta chica, yo iba un poco impresionante.",
+      "start": 49.440000000000005,
+      "end": 54.08
+    },
+    {
+      "text": " Yo iba en plan romántico, a hacer el amor, un poco de velitas, un poco de incienso, un poco de jazz, ¿sabes?",
+      "start": 54.08,
+      "end": 60.28
+    },
+    {
+      "text": " Ella venía a perderle el respeto al cuerpo humano.",
+      "start": 60.42,
+      "end": 63.28
+    },
+    {
+      "text": " O sea, yo me quedaba acojonado.",
+      "start": 63.72,
+      "end": 65.68
+    },
+    {
+      "text": " Tú sabes, hubo un momento, hubo un momento que estaba yo tumbado, boca arriba, ella estaba encima de mí, cabalgando hacia el apocalipsis como si no hubiera mañana.",
+      "start": 65.92,
+      "end": 75.48
+    },
+    {
+      "text": " De estos momentos, chicos, en los que dudas si sigue participando de eso, ¿no?",
+      "start": 76.86,
+      "end": 81.28
+    },
+    {
+      "text": " Sigo yo...",
+      "start": 82.28,
+      "end": 83.0
+    },
+    {
+      "text": " Y de repente se viene arriba y me grita, me dice, ¡insúltame, escúpame, pégame!",
+      "start": 84.5,
+      "end": 92.18
+    },
+    {
+      "text": " Claro, yo que soy de otra generación, lo primero que pienso es, a ver, si lo haces bien no hace falta, ¿no?",
+      "start": 92.98,
+      "end": 97.44
+    },
+    {
+      "text": " Gracias.",
+      "start": 105.48,
+      "end": 105.76
+    }
+  ],
+  "processing_time": 0.6422219276428223,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

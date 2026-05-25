@@ -1,0 +1,49 @@
+{
+  "audio_file": "Mélyvíz ｜ Biztonságiőr.wav",
+  "full_text": "A TORONTOS KÖZÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖN benned méltóság. Kivel vagy? Velem vagy ezzel a majomban? Engem azért vettek fel ide, mert sok itt a lopás a strandon. Melyik strandon? Mert ezen biztos, hogy nem. Mert itt én ügyelek a rendre, tudod? Itt én vagyok a törvény. Meg én. Főleg én. Ahogy gondoljátok. Na figyeljét, mi azt gondolunk, amit. Én gondolom. Akkor itt állok. Akkor álljál. De figyelünk. Köszönöm.",
+  "chunks": [
+    {
+      "text": " A TORONTOS KÖZÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖNÖN",
+      "start": 7.0600000000000005,
+      "end": 29.28
+    },
+    {
+      "text": " benned méltóság. Kivel vagy? Velem vagy ezzel a majomban?",
+      "start": 29.28,
+      "end": 32.26
+    },
+    {
+      "text": " Engem azért vettek fel ide, mert sok itt a lopás a strandon.",
+      "start": 32.52,
+      "end": 35.54
+    },
+    {
+      "text": " Melyik strandon? Mert ezen biztos, hogy nem. Mert itt én ügyelek a rendre,",
+      "start": 35.66,
+      "end": 39.38
+    },
+    {
+      "text": " tudod? Itt én vagyok a törvény. Meg én. Főleg én. Ahogy gondoljátok.",
+      "start": 39.56,
+      "end": 45.98
+    },
+    {
+      "text": " Na figyeljét, mi azt gondolunk, amit. Én gondolom.",
+      "start": 46.580000000000005,
+      "end": 52.72
+    },
+    {
+      "text": " Akkor itt állok. Akkor álljál. De figyelünk.",
+      "start": 54.86,
+      "end": 66.04
+    },
+    {
+      "text": " Köszönöm.",
+      "start": 85.86,
+      "end": 87.26
+    }
+  ],
+  "processing_time": 2.780362367630005,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

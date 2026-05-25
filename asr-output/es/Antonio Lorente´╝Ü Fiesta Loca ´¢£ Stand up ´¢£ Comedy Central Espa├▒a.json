@@ -1,0 +1,124 @@
+{
+  "audio_file": "Antonio Lorente： Fiesta Loca ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "Fui a una fiesta a Teruel, una fiesta muy loca. Sí, esto a qué viene, ¿no? Es una anécdota que a mí me encanta. Fui a una fiesta y bebí mucho y yo tengo un problema, que es que para orinar yo necesito mi puertecita, mi pestillito, para que no me miren la pollita. Y es como que lo más parecido a eso que encontré fue una calle solitaria y empecé a orinar ahí y no podía parar, pero digo, bueno, estoy solo, no pasa nada. Pero entonces aparecía un grupo de gente que venían hacia mí y yo no podía parar de mear, pero tampoco quería renunciar a mi intimidad, así que empecé a andar sin dejar de mear. Y estos cabrones no paran, joder, dejad de venir, cabrones. Y al final acabé girando una esquina, me obligaron, y me metí en otra calle muy oscura, con tan mala suerte, que ahí había una chica sentada y le oriné en la cara porque no podía parar. Y la tía gritó y yo me marché corriendo. Y sí, sé que suena muy sucio esto, pero joder, a mí me gusta imaginar cómo esa chica está ahora en un escenario en otra parte del mundo explicando de cómo un pene desconocido emergió de la oscuridad, la duchó en agua caliente cuando estaba al borde de la hipotermia, y cómo ese héroe anónimo se volvió a perder en las sombras porque no quería medallas. Gracias.",
+  "chunks": [
+    {
+      "text": " Fui a una fiesta a Teruel, una fiesta muy loca.",
+      "start": 1.2599999999999996,
+      "end": 4.18
+    },
+    {
+      "text": " Sí, esto a qué viene, ¿no?",
+      "start": 4.48,
+      "end": 5.56
+    },
+    {
+      "text": " Es una anécdota que a mí me encanta.",
+      "start": 6.72,
+      "end": 8.4
+    },
+    {
+      "text": " Fui a una fiesta y bebí mucho y yo tengo un problema,",
+      "start": 8.76,
+      "end": 12.64
+    },
+    {
+      "text": " que es que para orinar yo necesito mi puertecita, mi pestillito,",
+      "start": 12.74,
+      "end": 16.42
+    },
+    {
+      "text": " para que no me miren la pollita.",
+      "start": 16.54,
+      "end": 17.74
+    },
+    {
+      "text": " Y es como que lo más parecido a eso que encontré fue una calle solitaria",
+      "start": 19.42,
+      "end": 24.1
+    },
+    {
+      "text": " y empecé a orinar ahí y no podía parar, pero digo, bueno, estoy solo, no pasa nada.",
+      "start": 24.1,
+      "end": 29.12
+    },
+    {
+      "text": " Pero entonces aparecía un grupo de gente que venían hacia mí",
+      "start": 29.12,
+      "end": 31.82
+    },
+    {
+      "text": " y yo no podía parar de mear, pero tampoco quería renunciar a mi intimidad,",
+      "start": 31.82,
+      "end": 35.0
+    },
+    {
+      "text": " así que empecé a andar sin dejar de mear.",
+      "start": 35.16,
+      "end": 36.94
+    },
+    {
+      "text": " Y estos cabrones no paran, joder, dejad de venir, cabrones.",
+      "start": 37.16,
+      "end": 40.66
+    },
+    {
+      "text": " Y al final acabé girando una esquina, me obligaron,",
+      "start": 40.86,
+      "end": 44.14
+    },
+    {
+      "text": " y me metí en otra calle muy oscura, con tan mala suerte,",
+      "start": 44.26,
+      "end": 47.08
+    },
+    {
+      "text": " que ahí había una chica sentada y le oriné en la cara porque no podía parar.",
+      "start": 47.28,
+      "end": 50.42
+    },
+    {
+      "text": " Y la tía gritó y yo me marché corriendo.",
+      "start": 51.64,
+      "end": 55.14
+    },
+    {
+      "text": " Y sí, sé que suena muy sucio esto, pero joder, a mí me gusta imaginar",
+      "start": 56.24,
+      "end": 60.96
+    },
+    {
+      "text": " cómo esa chica está ahora en un escenario en otra parte del mundo",
+      "start": 60.96,
+      "end": 64.62
+    },
+    {
+      "text": " explicando de cómo un pene desconocido emergió de la oscuridad,",
+      "start": 64.62,
+      "end": 69.0
+    },
+    {
+      "text": " la duchó en agua caliente cuando estaba al borde de la hipotermia,",
+      "start": 69.14,
+      "end": 71.14
+    },
+    {
+      "text": " y cómo ese héroe anónimo se volvió a perder en las sombras",
+      "start": 72.26,
+      "end": 75.14
+    },
+    {
+      "text": " porque no quería medallas.",
+      "start": 75.14,
+      "end": 76.24
+    },
+    {
+      "text": " Gracias.",
+      "start": 85.14,
+      "end": 85.44
+    }
+  ],
+  "processing_time": 0.5819823741912842,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

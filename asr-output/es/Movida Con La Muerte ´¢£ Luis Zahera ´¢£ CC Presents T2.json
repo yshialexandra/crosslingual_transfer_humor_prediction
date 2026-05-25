@@ -1,0 +1,349 @@
+{
+  "audio_file": "Movida Con La Muerte ｜ Luis Zahera ｜ CC Presents T2.wav",
+  "full_text": "Mi mamá tenía un gusto especial por la muerte. Le fascinaba todo lo de la muerte. A eso, mira, cuando mi mamá, mi mamá ya no está, tendría ahora 100 años. Y aquellas gallegas de antes, cuando decían algo importante o cuando hablaban de la muerte, ponían las manos en las tetas. Sí, para hablar. Bueno, así con el micro así queda un poco raro, lo sé. Pero sí, hablaban así. Se ponían y te decían eso importante. Por eso que esa frase es de mi madre. Guarda orden y el orden te guardará. Todas estas cosas que había antes. Bien, entonces mi madre, pues le encantaba lo de la muerte. Por ejemplo, el periódico. Ella cogía el periódico, aquellos periódicos que cuando yo era pequeño, el periódico de mi pueblo se llama El Correo Gallego. Cuando yo tenía 5 o 6 años, la noticia de la primera página del Correo Gallego tranquilamente podía ser muere una vaca en ferrol. Entonces mi madre ya estaba feliz todo el día. Niñas, ¿vos enterasteis? Murió una vaca en ferrol. A ella le encantaba. Creo que murió electrocutada. Sí, ella ya estaba feliz. Entonces, estas movidas de la... Mi madre, por ejemplo, abría el periódico por las esquelas. Mi madre abría el periódico por las esquelas, ¿no? Y lo primero que le decía a mi padre, ya ponía las manos en las tetas, y todo eso le decía a mi padre, Pepe, ¿sabes quién murió? No, no, no. ¿Quién murió? Dios mío, querido, murió Rosita. Allá fue Rosita, Dios mío, querido, que nuestro Señor la tenga en la gloria, Rosita, Dios mío. Allá fue Rosita, Dios mío. Aún la vi ayer en la peluquería. Dios mío, Rosita, 97 años. Mira, decía... Aún la vi ayer en la peluquería, Dios mío, 97 años. Hacía una pausa y decía... Una niña. O sea, moría alguien del neolítico. Un niño. O sea, todo Dios era jovencito. Mira, hay una movida de mi madre con la muerte... Mira, a mi madre le gustaban los accidentes de coche. Mira, y además tiene una explicación. Gracias a Dios, como diría mi madre, joder. Claro, ahora no mueren ni la décima parte de la gente que moría en las carreteras cuando yo era niño. O sea, los veranos era una movida. Poner el parte. Mi madre no le llamaba telidiano. Era ponerle el parte. Entonces a mi madre le molaban los accidentes de coche. Entonces te decía... Niño, pon el parte. Entonces ya ponía las manos así, porque ya venía toda la sangre. Entonces aparecía una noticia. Aparecía una noticia. Esto es verídico. Todo lo que os voy a contar es verídico. Aparecía una noticia. Tragedia en Madrid. Tragedia en el camping de Madrid. A la salida del camping de Somosierras, en Madrid, una furgoneta con siete miembros de una familia. Pues lamentablemente impactó contra un camión cisterna. Y para más fatalidad, este camión cisterna desplazó la furgoneta, la cual cayó por un puente. Y veías imágenes de la furgoneta ardiendo debajo del puente. Y falleció toda la familia. Comentario de mi madre verídico. Dios mío, niña, se desnucaron. Que tú... ¡Eh! Que claro, hostia, tú mirabas... Joder, la madre que te parió. Tú mirabas para tu madre y decías, pero vamos a ver, mamá. O sea, que es una tragedia que se ve la furgoneta ardiendo, mamá. Se debieron de desnucar antes. Mira, todos vosotros, todos vosotros, palmáis un accidente de coche. Mi madre es forense, se desnucó, se desnucó, se desnucó. Y palmáis todos desnucaos, tío. Tío.",
+  "chunks": [
+    {
+      "text": " Mi mamá tenía un gusto especial por la muerte. Le fascinaba todo lo de la muerte.",
+      "start": 1.2200000000000022,
+      "end": 8.02
+    },
+    {
+      "text": " A eso, mira, cuando mi mamá, mi mamá ya no está, tendría ahora 100 años.",
+      "start": 8.46,
+      "end": 15.76
+    },
+    {
+      "text": " Y aquellas gallegas de antes, cuando decían algo importante o cuando hablaban de la muerte, ponían las manos en las tetas.",
+      "start": 15.98,
+      "end": 24.12
+    },
+    {
+      "text": " Sí, para hablar. Bueno, así con el micro así queda un poco raro, lo sé.",
+      "start": 24.52,
+      "end": 28.44
+    },
+    {
+      "text": " Pero sí, hablaban así. Se ponían y te decían eso importante.",
+      "start": 29.38,
+      "end": 34.96
+    },
+    {
+      "text": " Por eso que esa frase es de mi madre. Guarda orden y el orden te guardará.",
+      "start": 35.12,
+      "end": 39.0
+    },
+    {
+      "text": " Todas estas cosas que había antes. Bien, entonces mi madre, pues le encantaba lo de la muerte.",
+      "start": 39.28,
+      "end": 46.42
+    },
+    {
+      "text": " Por ejemplo, el periódico. Ella cogía el periódico, aquellos periódicos que cuando yo era pequeño,",
+      "start": 46.6,
+      "end": 52.76
+    },
+    {
+      "text": " el periódico de mi pueblo se llama El Correo Gallego.",
+      "start": 52.84,
+      "end": 54.98
+    },
+    {
+      "text": " Cuando yo tenía 5 o 6 años, la noticia de la primera página del Correo Gallego tranquilamente podía ser",
+      "start": 54.98,
+      "end": 61.36
+    },
+    {
+      "text": " muere una vaca en ferrol.",
+      "start": 61.36,
+      "end": 62.84
+    },
+    {
+      "text": " Entonces mi madre ya estaba feliz todo el día.",
+      "start": 65.02,
+      "end": 67.4
+    },
+    {
+      "text": " Niñas, ¿vos enterasteis? Murió una vaca en ferrol.",
+      "start": 67.84,
+      "end": 70.72
+    },
+    {
+      "text": " A ella le encantaba. Creo que murió electrocutada.",
+      "start": 71.86,
+      "end": 74.94
+    },
+    {
+      "text": " Sí, ella ya estaba feliz. Entonces, estas movidas de la... Mi madre, por ejemplo,",
+      "start": 75.75999999999999,
+      "end": 83.78
+    },
+    {
+      "text": " abría el periódico por las esquelas.",
+      "start": 85.08,
+      "end": 87.66
+    },
+    {
+      "text": " Mi madre abría el periódico por las esquelas, ¿no?",
+      "start": 89.56,
+      "end": 92.2
+    },
+    {
+      "text": " Y lo primero que le decía a mi padre, ya ponía las manos en las tetas, y todo eso le decía a mi padre,",
+      "start": 92.96,
+      "end": 98.9
+    },
+    {
+      "text": " Pepe, ¿sabes quién murió?",
+      "start": 99.16,
+      "end": 100.32
+    },
+    {
+      "text": " No, no, no. ¿Quién murió?",
+      "start": 101.08,
+      "end": 103.04
+    },
+    {
+      "text": " Dios mío, querido, murió Rosita.",
+      "start": 104.56,
+      "end": 106.68
+    },
+    {
+      "text": " Allá fue Rosita, Dios mío, querido, que nuestro Señor la tenga en la gloria, Rosita, Dios mío.",
+      "start": 108.16,
+      "end": 113.56
+    },
+    {
+      "text": " Allá fue Rosita, Dios mío.",
+      "start": 114.24,
+      "end": 116.22
+    },
+    {
+      "text": " Aún la vi ayer en la peluquería.",
+      "start": 116.22,
+      "end": 117.82
+    },
+    {
+      "text": " Dios mío, Rosita, 97 años.",
+      "start": 119.96,
+      "end": 122.9
+    },
+    {
+      "text": " Mira, decía...",
+      "start": 126.88,
+      "end": 128.12
+    },
+    {
+      "text": " Aún la vi ayer en la peluquería, Dios mío, 97 años.",
+      "start": 128.12,
+      "end": 131.36
+    },
+    {
+      "text": " Hacía una pausa y decía...",
+      "start": 131.42,
+      "end": 133.64
+    },
+    {
+      "text": " Una niña.",
+      "start": 133.64,
+      "end": 134.56
+    },
+    {
+      "text": " O sea, moría alguien del neolítico.",
+      "start": 137.32,
+      "end": 140.1
+    },
+    {
+      "text": " Un niño.",
+      "start": 141.64,
+      "end": 142.7
+    },
+    {
+      "text": " O sea, todo Dios era jovencito.",
+      "start": 143.3,
+      "end": 145.02
+    },
+    {
+      "text": " Mira, hay una movida de mi madre con la muerte...",
+      "start": 145.02,
+      "end": 150.24
+    },
+    {
+      "text": " Mira, a mi madre le gustaban los accidentes de coche.",
+      "start": 150.24,
+      "end": 153.64
+    },
+    {
+      "text": " Mira, y además tiene una explicación.",
+      "start": 155.54000000000002,
+      "end": 157.84
+    },
+    {
+      "text": " Gracias a Dios, como diría mi madre, joder.",
+      "start": 158.32,
+      "end": 160.68
+    },
+    {
+      "text": " Claro, ahora no mueren ni la décima parte de la gente que moría en las carreteras cuando yo era niño.",
+      "start": 161.32,
+      "end": 167.06
+    },
+    {
+      "text": " O sea, los veranos era una movida.",
+      "start": 167.64,
+      "end": 170.76
+    },
+    {
+      "text": " Poner el parte.",
+      "start": 171.26,
+      "end": 172.26
+    },
+    {
+      "text": " Mi madre no le llamaba telidiano.",
+      "start": 172.26,
+      "end": 173.78
+    },
+    {
+      "text": " Era ponerle el parte.",
+      "start": 174.1,
+      "end": 174.88
+    },
+    {
+      "text": " Entonces a mi madre le molaban los accidentes de coche.",
+      "start": 175.12,
+      "end": 177.8
+    },
+    {
+      "text": " Entonces te decía...",
+      "start": 178.34,
+      "end": 179.22
+    },
+    {
+      "text": " Niño, pon el parte.",
+      "start": 179.22,
+      "end": 180.14
+    },
+    {
+      "text": " Entonces ya ponía las manos así, porque ya venía toda la sangre.",
+      "start": 180.7,
+      "end": 184.26
+    },
+    {
+      "text": " Entonces aparecía una noticia.",
+      "start": 185.56,
+      "end": 186.9
+    },
+    {
+      "text": " Aparecía una noticia.",
+      "start": 187.0,
+      "end": 187.64
+    },
+    {
+      "text": " Esto es verídico.",
+      "start": 187.74,
+      "end": 188.48
+    },
+    {
+      "text": " Todo lo que os voy a contar es verídico.",
+      "start": 188.86,
+      "end": 190.44
+    },
+    {
+      "text": " Aparecía una noticia.",
+      "start": 190.44,
+      "end": 193.22
+    },
+    {
+      "text": " Tragedia en Madrid.",
+      "start": 193.38,
+      "end": 194.42
+    },
+    {
+      "text": " Tragedia en el camping de Madrid.",
+      "start": 194.92,
+      "end": 197.5
+    },
+    {
+      "text": " A la salida del camping de Somosierras, en Madrid, una furgoneta con siete miembros de una familia.",
+      "start": 197.68,
+      "end": 206.3
+    },
+    {
+      "text": " Pues lamentablemente impactó contra un camión cisterna.",
+      "start": 206.3,
+      "end": 210.3
+    },
+    {
+      "text": " Y para más fatalidad, este camión cisterna desplazó la furgoneta, la cual cayó por un puente.",
+      "start": 211.02,
+      "end": 218.84
+    },
+    {
+      "text": " Y veías imágenes de la furgoneta ardiendo debajo del puente.",
+      "start": 219.1,
+      "end": 224.9
+    },
+    {
+      "text": " Y falleció toda la familia.",
+      "start": 225.70000000000002,
+      "end": 227.08
+    },
+    {
+      "text": " Comentario de mi madre verídico.",
+      "start": 227.36,
+      "end": 229.52
+    },
+    {
+      "text": " Dios mío, niña, se desnucaron.",
+      "start": 231.42,
+      "end": 233.74
+    },
+    {
+      "text": " Que tú... ¡Eh!",
+      "start": 236.92,
+      "end": 238.26
+    },
+    {
+      "text": " Que claro, hostia, tú mirabas... Joder, la madre que te parió.",
+      "start": 244.94,
+      "end": 248.36
+    },
+    {
+      "text": " Tú mirabas para tu madre y decías, pero vamos a ver, mamá.",
+      "start": 248.48,
+      "end": 251.78
+    },
+    {
+      "text": " O sea, que es una tragedia que se ve la furgoneta ardiendo, mamá.",
+      "start": 252.78,
+      "end": 257.04
+    },
+    {
+      "text": " Se debieron de desnucar antes.",
+      "start": 259.52,
+      "end": 261.2
+    },
+    {
+      "text": " Mira, todos vosotros, todos vosotros, palmáis un accidente de coche.",
+      "start": 262.58,
+      "end": 268.86
+    },
+    {
+      "text": " Mi madre es forense, se desnucó, se desnucó, se desnucó.",
+      "start": 269.22,
+      "end": 272.68
+    },
+    {
+      "text": " Y palmáis todos desnucaos, tío.",
+      "start": 273.48,
+      "end": 276.32
+    },
+    {
+      "text": " Tío.",
+      "start": 289.52,
+      "end": 290.32
+    }
+  ],
+  "processing_time": 2.8978302478790283,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

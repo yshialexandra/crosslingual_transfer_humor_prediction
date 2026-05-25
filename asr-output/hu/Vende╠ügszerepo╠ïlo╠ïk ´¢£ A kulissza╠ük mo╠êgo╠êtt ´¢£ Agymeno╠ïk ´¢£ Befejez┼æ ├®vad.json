@@ -1,0 +1,269 @@
+{
+  "audio_file": "Vendégszerepőlők ｜ A kulisszák mögött ｜ Agymenők ｜ Befejező évad.wav",
+  "full_text": "Hi there! Captain on the bridge! Captain on the bridge! We've had so many incredible guest stars. I mean, today is just, it's topping it. This is a star-studded day. For Leonard, he's just paralyzed with happiness and shock. It does feel celebratory. I was like, oh my god, we're really gonna wrap this up. And like, they're pouring in now. Celebrities. It's like a huge mega crazy episode. It's like this epic game of Dungeons and Dragons and Will Wheaton has all his very famous friends over, and the guys, of course, are trying to get in on the game. Bill Shatner and Kevin Smith and Joe Mangano and Kareem Abdul-Jabbar. The tallest guest star we've ever had. Rick Fox is a close second. Oh, that's true. But no, but, I mean, Kareem is a rich. Yeah. Give him his due. All Americans have kind of vacillated between being a nerd and being cool. You know? This is a show that lets both sides of that coin be shown. Kareem wanted to make sure we all got a picture together. The fact that he had to make sure we were down for it, that made me really happy. Kevin Smith is to my left. I used to hang out at his comic book store waiting to see if he would be there so that I could potentially be an extra in one of his movies. And then Joe, obviously. Very handsome, very talented, attractive, macho man. If you had to guess which one of us truly plays D&D on the regular, of course you'd be like, him. It's him! I was the eight-year-old kid or the ten-year-old kid playing a barbarian who just went to a weight room for the next 30 years. That's true. To try to become the barbarian. Here's the plan. We've been waiting for Shatner for years. I talked to him years ago about doing it, and he's always wanted to be on the show. So it was like the missing link. I mean, we've mentioned him many times on our show, so it was about time that he came. They've been talking about me for all this time. I at least owe them that. So here I am. Can I call you captain? No. Please? No. I think we did a good job. I think they're gonna have us back next season. So we got that going for us. Like recurring characters in the universe. Finally, man. Finally.",
+  "chunks": [
+    {
+      "text": " Hi there!",
+      "start": 0.0,
+      "end": 1.14
+    },
+    {
+      "text": " Captain on the bridge! Captain on the bridge!",
+      "start": 1.48,
+      "end": 3.32
+    },
+    {
+      "text": " We've had so many incredible guest stars.",
+      "start": 3.56,
+      "end": 5.98
+    },
+    {
+      "text": " I mean, today is just, it's topping it.",
+      "start": 6.18,
+      "end": 8.44
+    },
+    {
+      "text": " This is a star-studded day.",
+      "start": 8.56,
+      "end": 10.04
+    },
+    {
+      "text": " For Leonard, he's just paralyzed with happiness and shock.",
+      "start": 10.34,
+      "end": 13.88
+    },
+    {
+      "text": " It does feel celebratory.",
+      "start": 14.1,
+      "end": 15.3
+    },
+    {
+      "text": " I was like, oh my god, we're really gonna wrap this up.",
+      "start": 15.48,
+      "end": 18.28
+    },
+    {
+      "text": " And like, they're pouring in now. Celebrities.",
+      "start": 18.4,
+      "end": 20.48
+    },
+    {
+      "text": " It's like a huge mega crazy episode.",
+      "start": 20.76,
+      "end": 23.0
+    },
+    {
+      "text": " It's like this epic game of Dungeons and Dragons",
+      "start": 23.76,
+      "end": 26.22
+    },
+    {
+      "text": " and Will Wheaton has all his very famous friends over,",
+      "start": 26.22,
+      "end": 28.68
+    },
+    {
+      "text": " and the guys, of course, are trying to get in on the game.",
+      "start": 28.68,
+      "end": 30.46
+    },
+    {
+      "text": " Bill Shatner and Kevin Smith and Joe Mangano and Kareem Abdul-Jabbar.",
+      "start": 30.68,
+      "end": 34.54
+    },
+    {
+      "text": " The tallest guest star we've ever had.",
+      "start": 34.64,
+      "end": 36.58
+    },
+    {
+      "text": " Rick Fox is a close second.",
+      "start": 36.74,
+      "end": 37.84
+    },
+    {
+      "text": " Oh, that's true.",
+      "start": 37.84,
+      "end": 38.5
+    },
+    {
+      "text": " But no, but, I mean, Kareem is a rich.",
+      "start": 38.68,
+      "end": 40.14
+    },
+    {
+      "text": " Yeah. Give him his due.",
+      "start": 40.26,
+      "end": 41.12
+    },
+    {
+      "text": " All Americans have kind of vacillated between being a nerd and being cool.",
+      "start": 41.32,
+      "end": 46.56
+    },
+    {
+      "text": " You know?",
+      "start": 46.96,
+      "end": 47.22
+    },
+    {
+      "text": " This is a show that lets both sides of that coin be shown.",
+      "start": 47.44,
+      "end": 50.5
+    },
+    {
+      "text": " Kareem wanted to make sure we all got a picture together.",
+      "start": 51.06,
+      "end": 53.42
+    },
+    {
+      "text": " The fact that he had to make sure we were down for it,",
+      "start": 53.66,
+      "end": 55.72
+    },
+    {
+      "text": " that made me really happy.",
+      "start": 55.82,
+      "end": 56.72
+    },
+    {
+      "text": " Kevin Smith is to my left.",
+      "start": 56.72,
+      "end": 59.16
+    },
+    {
+      "text": " I used to hang out at his comic book store waiting to see if he would be there",
+      "start": 59.32,
+      "end": 62.94
+    },
+    {
+      "text": " so that I could potentially be an extra in one of his movies.",
+      "start": 62.94,
+      "end": 66.02
+    },
+    {
+      "text": " And then Joe, obviously.",
+      "start": 66.44,
+      "end": 67.9
+    },
+    {
+      "text": " Very handsome, very talented, attractive, macho man.",
+      "start": 68.48,
+      "end": 71.46
+    },
+    {
+      "text": " If you had to guess which one of us truly plays D&D on the regular,",
+      "start": 71.62,
+      "end": 75.2
+    },
+    {
+      "text": " of course you'd be like, him. It's him!",
+      "start": 75.48,
+      "end": 77.58
+    },
+    {
+      "text": " I was the eight-year-old kid or the ten-year-old kid playing a barbarian",
+      "start": 77.76,
+      "end": 80.98
+    },
+    {
+      "text": " who just went to a weight room for the next 30 years.",
+      "start": 80.98,
+      "end": 84.1
+    },
+    {
+      "text": " That's true.",
+      "start": 84.26,
+      "end": 84.7
+    },
+    {
+      "text": " To try to become the barbarian.",
+      "start": 84.82,
+      "end": 86.22
+    },
+    {
+      "text": " Here's the plan.",
+      "start": 86.32,
+      "end": 86.94
+    },
+    {
+      "text": " We've been waiting for Shatner for years.",
+      "start": 87.18,
+      "end": 88.66
+    },
+    {
+      "text": " I talked to him years ago about doing it, and he's always wanted to be on the show.",
+      "start": 88.9,
+      "end": 91.64
+    },
+    {
+      "text": " So it was like the missing link.",
+      "start": 91.74,
+      "end": 92.9
+    },
+    {
+      "text": " I mean, we've mentioned him many times on our show, so it was about time that he came.",
+      "start": 93.12,
+      "end": 96.86
+    },
+    {
+      "text": " They've been talking about me for all this time.",
+      "start": 97.1,
+      "end": 99.14
+    },
+    {
+      "text": " I at least owe them that. So here I am.",
+      "start": 99.68,
+      "end": 101.98
+    },
+    {
+      "text": " Can I call you captain?",
+      "start": 101.98,
+      "end": 103.2
+    },
+    {
+      "text": " No.",
+      "start": 103.34,
+      "end": 103.5
+    },
+    {
+      "text": " Please?",
+      "start": 103.8,
+      "end": 104.06
+    },
+    {
+      "text": " No.",
+      "start": 104.42,
+      "end": 104.82
+    },
+    {
+      "text": " I think we did a good job.",
+      "start": 105.52,
+      "end": 106.88
+    },
+    {
+      "text": " I think they're gonna have us back next season.",
+      "start": 107.1,
+      "end": 108.9
+    },
+    {
+      "text": " So we got that going for us.",
+      "start": 109.02,
+      "end": 109.9
+    },
+    {
+      "text": " Like recurring characters in the universe.",
+      "start": 109.9,
+      "end": 111.5
+    },
+    {
+      "text": " Finally, man. Finally.",
+      "start": 111.7,
+      "end": 112.88
+    }
+  ],
+  "processing_time": 0.7540626525878906,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,94 @@
+{
+  "audio_file": "Caraoke Central 🎤 ｜ STRAND Fesztivál ｜ Aftermovie.wav",
+  "full_text": "NAMASTE És a legnagyobb szivatás viszont nekem volt, aki 4 órában hallgattam, hogy nagyon hamisan üvöltenek a füleket. Helyen, jó, nem élet téged, valá jól, hogy nekünk valami szépek! Hát bevallaltuk, hogy énekelni fogunk, és nagyon durván izkultunk, de meggyőzni a vilámeket! Hátetetlenül erősen rászálltunk erre a K-Medic Centralos ajándék kultra, mert rájöttünk, hogy hihetetlenül kevés energiabefektetéssel nagyon jó ajándékokat lehet kapni. Itt a fölcítő. Csak magyarul állal, négy? Igen, már daráltam. A TV-ben már nicsemmi más, csak szex meg tűn meg a szórafoltás. A régi jó dolgok úgy eltűntek, hogy tárt maga a szállt. Szállt! Szállt! Szállt! Szállt! What if I say you're not like the others? What if I say you're not like the others? What if I say you're not just a new world? Your place, you're a pretender. What if I say you're no surrender? A T-re-s! Mekkora királyok vagytok! Kámed is Szentrána, én szépen köszöm szépen, hogy itt lennem! Sziasztok! A T-re-s! Köszönöm, hogy megnézted!",
+  "chunks": [
+    {
+      "text": " NAMASTE",
+      "start": 20.48,
+      "end": 21.88
+    },
+    {
+      "text": " És a legnagyobb szivatás viszont nekem volt, aki 4 órában hallgattam, hogy nagyon hamisan üvöltenek a füleket.",
+      "start": 53.14,
+      "end": 59.98
+    },
+    {
+      "text": " Helyen, jó, nem élet téged, valá jól, hogy nekünk valami szépek!",
+      "start": 60.0,
+      "end": 66.14
+    },
+    {
+      "text": " Hát bevallaltuk, hogy énekelni fogunk, és nagyon durván izkultunk, de meggyőzni a vilámeket!",
+      "start": 66.3,
+      "end": 72.34
+    },
+    {
+      "text": " Hátetetlenül erősen rászálltunk erre a K-Medic Centralos ajándék kultra, mert rájöttünk, hogy hihetetlenül kevés energiabefektetéssel nagyon jó ajándékokat lehet kapni.",
+      "start": 72.6,
+      "end": 80.34
+    },
+    {
+      "text": " Itt a fölcítő.",
+      "start": 80.8,
+      "end": 81.76
+    },
+    {
+      "text": " Csak magyarul állal, négy?",
+      "start": 82.58,
+      "end": 84.2
+    },
+    {
+      "text": " Igen, már daráltam.",
+      "start": 84.66,
+      "end": 85.64
+    },
+    {
+      "text": " A TV-ben már nicsemmi más, csak szex meg tűn meg a szórafoltás.",
+      "start": 86.74,
+      "end": 93.8
+    },
+    {
+      "text": " A régi jó dolgok úgy eltűntek, hogy tárt maga a szállt.",
+      "start": 93.96,
+      "end": 99.68
+    },
+    {
+      "text": " Szállt! Szállt! Szállt! Szállt!",
+      "start": 100.12,
+      "end": 103.44
+    },
+    {
+      "text": " What if I say you're not like the others? What if I say you're not like the others? What if I say you're not just a new world?",
+      "start": 103.46,
+      "end": 109.38
+    },
+    {
+      "text": " Your place, you're a pretender. What if I say you're no surrender?",
+      "start": 109.66,
+      "end": 114.34
+    },
+    {
+      "text": " A T-re-s!",
+      "start": 114.34,
+      "end": 115.32
+    },
+    {
+      "text": " Mekkora királyok vagytok! Kámed is Szentrána, én szépen köszöm szépen, hogy itt lennem! Sziasztok!",
+      "start": 116.12,
+      "end": 121.44
+    },
+    {
+      "text": " A T-re-s!",
+      "start": 122.42,
+      "end": 122.58
+    },
+    {
+      "text": " Köszönöm, hogy megnézted!",
+      "start": 122.58,
+      "end": 135.72
+    }
+  ],
+  "processing_time": 3.994840145111084,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

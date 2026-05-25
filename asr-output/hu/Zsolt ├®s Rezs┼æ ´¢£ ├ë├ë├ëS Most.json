@@ -1,0 +1,44 @@
+{
+  "audio_file": "Zsolt és Rezső ｜ ÉÉÉS Most.wav",
+  "full_text": "Szereted a mulató zenét? Szeretsz táncolni? Jól érezni magaddal? És hallottál már a világvéretű szabadkőműves összeesküvésről? Akkor rendeld meg műsorunkat! Mi vagyunk Zsolt! És Rezső! És állunk rendelkezésedre olyan nótákkal, mint... Felismerni adjék ember vékes járásáról! Öltönyéről kopolt gyúrod, útlaszemhely járól! Soha sem gotold rosszállás, az már tény! Veszétszen ő barna lény, de barna a lény! Megfigyelik a falunkat! Hát ne érezzük jól magunkat! Megint nám a csaprizet, de nem tudom! Megnövekszik tőle női horvónok! Ránézek a babámnak a mellére! Alofóliát rakok a fejére! Az igazság mindennél fontosabb! Esküdjünk össze együtt! Hív minket! Kivéve ha te is közéjük tartozol! Kivéve ha te is!",
+  "chunks": [
+    {
+      "text": " Szereted a mulató zenét? Szeretsz táncolni? Jól érezni magaddal? És hallottál már a világvéretű szabadkőműves összeesküvésről?",
+      "start": 1.8600000000000039,
+      "end": 11.52
+    },
+    {
+      "text": " Akkor rendeld meg műsorunkat! Mi vagyunk Zsolt! És Rezső! És állunk rendelkezésedre olyan nótákkal, mint...",
+      "start": 17.120000000000005,
+      "end": 25.06
+    },
+    {
+      "text": " Felismerni adjék ember vékes járásáról! Öltönyéről kopolt gyúrod, útlaszemhely járól! Soha sem gotold rosszállás, az már tény! Veszétszen ő barna lény, de barna a lény!",
+      "start": 25.960000000000004,
+      "end": 44.96
+    },
+    {
+      "text": " Megfigyelik a falunkat! Hát ne érezzük jól magunkat!",
+      "start": 44.96,
+      "end": 57.02
+    },
+    {
+      "text": " Megint nám a csaprizet, de nem tudom! Megnövekszik tőle női horvónok! Ránézek a babámnak a mellére! Alofóliát rakok a fejére!",
+      "start": 58.10000000000001,
+      "end": 71.3
+    },
+    {
+      "text": " Az igazság mindennél fontosabb! Esküdjünk össze együtt! Hív minket! Kivéve ha te is közéjük tartozol!",
+      "start": 71.82,
+      "end": 80.48
+    },
+    {
+      "text": " Kivéve ha te is!",
+      "start": 87.66,
+      "end": 88.18
+    }
+  ],
+  "processing_time": 0.4836595058441162,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

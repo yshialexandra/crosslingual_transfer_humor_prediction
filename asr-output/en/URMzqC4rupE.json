@@ -1,0 +1,189 @@
+{
+  "audio_file": "URMzqC4rupE.wav",
+  "full_text": "Mark. With a K. My name's Wendell, and I too am a sexual... It is true though. Oh yeah, thanks man. Did you just call me man? That's how comfortable I am with you. But if you were a guy, I'd still jam my fork in those roast beef. That's what I got at the sea. Is there a Cyrano de Bergerac behind you? I like how you're getting my side. God, it's like you have three hands. There it is. No poppy, no poppy, no poppy, no! You talking about no poppy? I will skewer you with my . Yeah? Oh yeah! I'll take it! What else do you want? Destination Wendell, baby, Acapulco, June 27th. All right. I wish them Terries would try to even think about just dropping straight in the couch. Ah, . I'm gonna stay in this alone though! And my eye clench! Snap! You snapped that off! Hold on a second. I'm over here. Wait a second. I caught up. I'm caught up. Hold on. I'm over here talking about break. So that's what I'm gonna do. Mark. With a K. Is that right? Is that right?",
+  "chunks": [
+    {
+      "text": " Mark. With a K.",
+      "start": 1.700000000000001,
+      "end": 2.96
+    },
+    {
+      "text": " My name's Wendell, and I too am a sexual...",
+      "start": 7.4,
+      "end": 11.3
+    },
+    {
+      "text": " It is true though.",
+      "start": 13.76,
+      "end": 14.76
+    },
+    {
+      "text": " Oh yeah, thanks man.",
+      "start": 17.44,
+      "end": 18.6
+    },
+    {
+      "text": " Did you just call me man?",
+      "start": 18.78,
+      "end": 20.06
+    },
+    {
+      "text": " That's how comfortable I am with you.",
+      "start": 20.38,
+      "end": 21.78
+    },
+    {
+      "text": " But if you were a guy, I'd still jam my fork in those roast beef.",
+      "start": 21.92,
+      "end": 25.76
+    },
+    {
+      "text": " That's what I got at the sea.",
+      "start": 25.76,
+      "end": 27.46
+    },
+    {
+      "text": " Is there a Cyrano de Bergerac behind you?",
+      "start": 28.340000000000003,
+      "end": 31.02
+    },
+    {
+      "text": " I like how you're getting my side. God, it's like you have three hands.",
+      "start": 31.62,
+      "end": 34.24
+    },
+    {
+      "text": " There it is.",
+      "start": 34.7,
+      "end": 35.56
+    },
+    {
+      "text": " No poppy, no poppy, no poppy, no!",
+      "start": 37.760000000000005,
+      "end": 40.14
+    },
+    {
+      "text": " You talking about no poppy?",
+      "start": 40.72,
+      "end": 41.66
+    },
+    {
+      "text": " I will skewer you with my .",
+      "start": 43.160000000000004,
+      "end": 45.96
+    },
+    {
+      "text": " Yeah? Oh yeah!",
+      "start": 45.96,
+      "end": 47.04
+    },
+    {
+      "text": " I'll take it! What else do you want?",
+      "start": 47.26,
+      "end": 49.42
+    },
+    {
+      "text": " Destination Wendell, baby, Acapulco, June 27th.",
+      "start": 50.760000000000005,
+      "end": 53.4
+    },
+    {
+      "text": " All right.",
+      "start": 53.4,
+      "end": 55.34
+    },
+    {
+      "text": " I wish them Terries would try to even think about just dropping straight in the couch.",
+      "start": 58.32,
+      "end": 66.0
+    },
+    {
+      "text": " Ah, .",
+      "start": 67.9,
+      "end": 69.18
+    },
+    {
+      "text": " I'm gonna stay in this alone though!",
+      "start": 69.18,
+      "end": 71.44
+    },
+    {
+      "text": " And my eye clench!",
+      "start": 71.7,
+      "end": 72.96
+    },
+    {
+      "text": " Snap!",
+      "start": 73.7,
+      "end": 74.26
+    },
+    {
+      "text": " You snapped that off!",
+      "start": 75.08,
+      "end": 77.22
+    },
+    {
+      "text": " Hold on a second.",
+      "start": 78.72,
+      "end": 80.92
+    },
+    {
+      "text": " I'm over here.",
+      "start": 80.92,
+      "end": 81.82
+    },
+    {
+      "text": " Wait a second.",
+      "start": 82.08,
+      "end": 82.88
+    },
+    {
+      "text": " I caught up.",
+      "start": 83.28,
+      "end": 84.16
+    },
+    {
+      "text": " I'm caught up.",
+      "start": 84.32,
+      "end": 84.68
+    },
+    {
+      "text": " Hold on.",
+      "start": 84.8,
+      "end": 85.04
+    },
+    {
+      "text": " I'm over here talking about break.",
+      "start": 85.58,
+      "end": 86.66
+    },
+    {
+      "text": " So that's what I'm gonna do.",
+      "start": 89.32,
+      "end": 90.86
+    },
+    {
+      "text": " Mark.",
+      "start": 92.94,
+      "end": 93.36
+    },
+    {
+      "text": " With a K.",
+      "start": 94.44,
+      "end": 95.24
+    },
+    {
+      "text": " Is that right?",
+      "start": 96.80000000000001,
+      "end": 99.86
+    },
+    {
+      "text": " Is that right?",
+      "start": 100.46,
+      "end": 101.44
+    }
+  ],
+  "processing_time": 1.677375316619873,
+  "language": "en",
+  "model_id": "large-v3-turbo"
+}

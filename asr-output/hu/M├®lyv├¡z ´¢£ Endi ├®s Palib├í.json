@@ -1,0 +1,99 @@
+{
+  "audio_file": "Mélyvíz ｜ Endi és Palibá.wav",
+  "full_text": "NAMASTE Mi mert mi? Egész nap itt jössz, mész, teszed magad, palibának kell szólítani, pedig egyével vagy nálam idősebb. Úgy vagy úszomester, hogy nem is tudsz úszni. De ne hazudjál, tudok úszni. Nem tudsz úszni. A palibán nem tud úszni. Az emni meg gyantáztatja a hátát! Akkor mindenki csinálja a saját dolgát. Szerintem is. Nem én kezdtem, jó? Szerintem! Jaj! Andy! Segítsen! Segítsen már neki valaki! Hát nem látják, hogy nem ér le a lába! Jó, Nyugi, Nyugi, fejben dől el, fejben dől el, eldőrt. Segítsen!",
+  "chunks": [
+    {
+      "text": " NAMASTE",
+      "start": 0.0,
+      "end": 0.8
+    },
+    {
+      "text": " Mi mert mi?",
+      "start": 30.040000000000003,
+      "end": 30.68
+    },
+    {
+      "text": " Egész nap itt jössz, mész, teszed magad, palibának kell szólítani, pedig egyével vagy nálam idősebb.",
+      "start": 30.68,
+      "end": 35.26
+    },
+    {
+      "text": " Úgy vagy úszomester, hogy nem is tudsz úszni.",
+      "start": 35.36,
+      "end": 37.16
+    },
+    {
+      "text": " De ne hazudjál, tudok úszni.",
+      "start": 37.18,
+      "end": 38.5
+    },
+    {
+      "text": " Nem tudsz úszni.",
+      "start": 38.5,
+      "end": 39.86
+    },
+    {
+      "text": " A palibán nem tud úszni.",
+      "start": 39.86,
+      "end": 40.86
+    },
+    {
+      "text": " Az emni meg gyantáztatja a hátát!",
+      "start": 40.88,
+      "end": 42.8
+    },
+    {
+      "text": " Akkor mindenki csinálja a saját dolgát.",
+      "start": 47.980000000000004,
+      "end": 49.54
+    },
+    {
+      "text": " Szerintem is.",
+      "start": 49.62,
+      "end": 50.22
+    },
+    {
+      "text": " Nem én kezdtem, jó?",
+      "start": 51.34,
+      "end": 52.54
+    },
+    {
+      "text": " Szerintem!",
+      "start": 56.52,
+      "end": 56.92
+    },
+    {
+      "text": " Jaj!",
+      "start": 58.28,
+      "end": 58.68
+    },
+    {
+      "text": " Andy!",
+      "start": 60.760000000000005,
+      "end": 61.2
+    },
+    {
+      "text": " Segítsen!",
+      "start": 61.72,
+      "end": 62.16
+    },
+    {
+      "text": " Segítsen már neki valaki! Hát nem látják, hogy nem ér le a lába!",
+      "start": 62.4,
+      "end": 65.18
+    },
+    {
+      "text": " Jó, Nyugi, Nyugi, fejben dől el, fejben dől el, eldőrt.",
+      "start": 65.56,
+      "end": 69.72
+    },
+    {
+      "text": " Segítsen!",
+      "start": 70.46000000000001,
+      "end": 70.9
+    }
+  ],
+  "processing_time": 0.37324047088623047,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

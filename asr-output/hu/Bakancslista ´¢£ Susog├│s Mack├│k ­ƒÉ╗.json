@@ -1,0 +1,89 @@
+{
+  "audio_file": "Bakancslista ｜ Susogós Mackók 🐻.wav",
+  "full_text": ". Ez megvan, ez is megvan. Mit csinálsz, Brandon? BAKANCY LISTÁT írok! Ú, tényleg? És eddig mit írtál? Azt mondja, a MUNKA-VÉDELMI BAKANCY, TURA BAKANCY, SURRA-NÓ BAKANCY, VADÁZ BAKANCY. Gumicsizma. Szerinted a gumicsizmát beleszámíthatjuk, vagy húzzam ki? Brandon, ugye tudod, mit jelent bakancs listát írni? Listát írsz azokról a dolgokról, amiket meg szeretnél tenni, mielőtt meghalsz. Akkor nem bakancsokról kell listát írni? Nem. Tehát nem kell minden listán szereplő tételnek valamilyen bakancsnak lennie? Nem. De akkor nem kell kihúznom a gumicsizmát, ugye? Köszönöm.",
+  "chunks": [
+    {
+      "text": " .",
+      "start": 0.0,
+      "end": 0.6
+    },
+    {
+      "text": " Ez megvan, ez is megvan.",
+      "start": 10.120000000000001,
+      "end": 13.22
+    },
+    {
+      "text": " Mit csinálsz, Brandon?",
+      "start": 14.96,
+      "end": 15.78
+    },
+    {
+      "text": " BAKANCY LISTÁT írok!",
+      "start": 16.46,
+      "end": 17.86
+    },
+    {
+      "text": " Ú, tényleg? És eddig mit írtál?",
+      "start": 18.3,
+      "end": 20.74
+    },
+    {
+      "text": " Azt mondja, a MUNKA-VÉDELMI BAKANCY, TURA BAKANCY, SURRA-NÓ BAKANCY, VADÁZ BAKANCY.",
+      "start": 21.0,
+      "end": 26.96
+    },
+    {
+      "text": " Gumicsizma.",
+      "start": 28.420000000000005,
+      "end": 29.26
+    },
+    {
+      "text": " Szerinted a gumicsizmát beleszámíthatjuk, vagy húzzam ki?",
+      "start": 31.32,
+      "end": 34.54
+    },
+    {
+      "text": " Brandon, ugye tudod, mit jelent bakancs listát írni?",
+      "start": 34.86,
+      "end": 38.34
+    },
+    {
+      "text": " Listát írsz azokról a dolgokról, amiket meg szeretnél tenni, mielőtt meghalsz.",
+      "start": 38.72,
+      "end": 43.38
+    },
+    {
+      "text": " Akkor nem bakancsokról kell listát írni?",
+      "start": 44.56,
+      "end": 46.98
+    },
+    {
+      "text": " Nem.",
+      "start": 47.2,
+      "end": 47.6
+    },
+    {
+      "text": " Tehát nem kell minden listán szereplő tételnek valamilyen bakancsnak lennie?",
+      "start": 48.2,
+      "end": 51.84
+    },
+    {
+      "text": " Nem.",
+      "start": 52.52,
+      "end": 53.24
+    },
+    {
+      "text": " De akkor nem kell kihúznom a gumicsizmát, ugye?",
+      "start": 55.160000000000004,
+      "end": 58.44
+    },
+    {
+      "text": " Köszönöm.",
+      "start": 68.22,
+      "end": 69.62
+    }
+  ],
+  "processing_time": 1.3634603023529053,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

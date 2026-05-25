@@ -1,0 +1,329 @@
+{
+  "audio_file": "LO QUE NO HAS VISTO Del Roast De JJ Vaquero a La Política Española.wav",
+  "full_text": "El voto de este vale lo mismo que el de este. Lo mismo. Hostia, no me acuerdo a quién he votado. Creo que a la izquierda. Sé que a la izquierda, pero recuerdo tener dudas. Pues tú, cuando tengas dudas, mírate al espejo. No, no. Ya te entiendo lo que quieres decir. Pero no caso con nadie políticamente. Sí, pero eso es lo que está más a favor de la reinserción, de los presos. A ti te viene bien la izquierda, vaquero. Créeme, créeme. Te viene bien. ¿Qué es el eslogan? Alguien decidió que, como se llamaba Edmundo, el candidato de Ciudadanos, decidió que el eslogan fuera Madrileños por Edmundo. Y de verdad, me he decepcionado con los madrileños, que no valoraron ese juego de palabras. ¿Qué hubieras dicho tú? No, no, yo pues eslogan de... Aparte, yo tengo mogollón de amigos en Ciudadanos, como entenderás. Porque aparte, como he trabajado para ellos, yo llamé y les dije... ¿Me lo estáis diciendo en serio? Porque pensé que era un meme. Era Edmundo Today. Era Edmundo Today. Lo que yo veo cuando ellos prometen cosas y luego no las cumplen, que no pasa nada. O sea, te dicen que van a hacerse unas cosas o que se van a hacer otras y luego cambian. O, no, prometemos esto, pero como tenemos que llegar a un acuerdo con este otro partido para sacar otra cosa adelante, pues dices... Y al final no cumplen con lo que dicen. Entonces, oye, ¿por qué esas cosas, no sé, no se pueden hacer de otra forma? ¿No podemos buscar otras alternativas? Bueno, pues si tú tienes claro una cosa, habrá que defenderlo, ¿no? Que te despidan. Yo creo que, como pasaría en cualquier curro, ¿no? Tú dices, voy a hacer esto, voy a crear 300.000 puestos de trabajo. ¿No los has creado? Está usted despedido. No has conseguido lo que decías que ibas a hacer. Totalmente. A mí me han despedido alguna vez. Sí, sí, sí, sí. Lo que pasa, sabes que a mí, yo a lo mejor he sido mal camarero, pero yo no daba mítines diciendo, voy a ser un gran camarero. Esa es una diferencia. Esa es una diferencia. Yo iba, hacía lo que podía y decían, eres muy lento. Bebes más de lo que sirves. Bueno, las típicas cosas. A mí hay chistes sobre mi físico que me matan. Recuerdo que Rovira dijo una vez un chiste sobre mí que yo incluí en mi show, que era que tengo tan poco cuello que vino un vampiro a chuparme la sangre y me tuvo que chupar la polla. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias.",
+  "chunks": [
+    {
+      "text": " El voto de este vale lo mismo que el de este.",
+      "start": 27.300000000000004,
+      "end": 29.84
+    },
+    {
+      "text": " Lo mismo.",
+      "start": 31.199999999999996,
+      "end": 32.04
+    },
+    {
+      "text": " Hostia, no me acuerdo a quién he votado.",
+      "start": 34.02,
+      "end": 35.52
+    },
+    {
+      "text": " Creo que a la izquierda.",
+      "start": 35.92,
+      "end": 36.68
+    },
+    {
+      "text": " Sé que a la izquierda, pero recuerdo tener dudas.",
+      "start": 36.76,
+      "end": 40.36
+    },
+    {
+      "text": " Pues tú, cuando tengas dudas, mírate al espejo.",
+      "start": 40.94,
+      "end": 43.16
+    },
+    {
+      "text": " No, no.",
+      "start": 44.28,
+      "end": 44.92
+    },
+    {
+      "text": " Ya te entiendo lo que quieres decir.",
+      "start": 45.08,
+      "end": 46.78
+    },
+    {
+      "text": " Pero no caso con nadie políticamente.",
+      "start": 47.1,
+      "end": 49.74
+    },
+    {
+      "text": " Sí, pero eso es lo que está más a favor de la reinserción, de los presos.",
+      "start": 50.14,
+      "end": 53.32
+    },
+    {
+      "text": " A ti te viene bien la izquierda, vaquero.",
+      "start": 53.94,
+      "end": 56.62
+    },
+    {
+      "text": " Créeme, créeme. Te viene bien.",
+      "start": 56.72,
+      "end": 58.66
+    },
+    {
+      "text": " ¿Qué es el eslogan?",
+      "start": 62.459999999999994,
+      "end": 63.08
+    },
+    {
+      "text": " Alguien decidió que, como se llamaba Edmundo, el candidato de Ciudadanos,",
+      "start": 63.08,
+      "end": 67.9
+    },
+    {
+      "text": " decidió que el eslogan fuera Madrileños por Edmundo.",
+      "start": 67.98,
+      "end": 70.9
+    },
+    {
+      "text": " Y de verdad, me he decepcionado con los madrileños, que no valoraron ese juego de palabras.",
+      "start": 71.16,
+      "end": 77.46
+    },
+    {
+      "text": " ¿Qué hubieras dicho tú?",
+      "start": 78.96000000000001,
+      "end": 80.18
+    },
+    {
+      "text": " No, no, yo pues eslogan de...",
+      "start": 80.88,
+      "end": 83.38
+    },
+    {
+      "text": " Aparte, yo tengo mogollón de amigos en Ciudadanos, como entenderás.",
+      "start": 83.38,
+      "end": 86.38000000000001
+    },
+    {
+      "text": " Porque aparte, como he trabajado para ellos, yo llamé y les dije...",
+      "start": 87.08,
+      "end": 91.18
+    },
+    {
+      "text": " ¿Me lo estáis diciendo en serio?",
+      "start": 91.18,
+      "end": 92.86
+    },
+    {
+      "text": " Porque pensé que era un meme.",
+      "start": 92.86,
+      "end": 95.32
+    },
+    {
+      "text": " Era Edmundo Today.",
+      "start": 97.42,
+      "end": 98.82
+    },
+    {
+      "text": " Era Edmundo Today.",
+      "start": 99.42,
+      "end": 100.9
+    },
+    {
+      "text": " Lo que yo veo cuando ellos prometen cosas y luego no las cumplen, que no pasa nada.",
+      "start": 107.78,
+      "end": 112.96
+    },
+    {
+      "text": " O sea, te dicen que van a hacerse unas cosas o que se van a hacer otras y luego cambian.",
+      "start": 113.64,
+      "end": 117.22
+    },
+    {
+      "text": " O, no, prometemos esto, pero como tenemos que llegar a un acuerdo con este otro partido",
+      "start": 117.36,
+      "end": 121.64
+    },
+    {
+      "text": " para sacar otra cosa adelante, pues dices...",
+      "start": 121.64,
+      "end": 123.6
+    },
+    {
+      "text": " Y al final no cumplen con lo que dicen.",
+      "start": 123.6,
+      "end": 125.24
+    },
+    {
+      "text": " Entonces, oye, ¿por qué esas cosas, no sé, no se pueden hacer de otra forma?",
+      "start": 125.38,
+      "end": 129.98
+    },
+    {
+      "text": " ¿No podemos buscar otras alternativas?",
+      "start": 130.08,
+      "end": 133.1
+    },
+    {
+      "text": " Bueno, pues si tú tienes claro una cosa, habrá que defenderlo, ¿no?",
+      "start": 133.36,
+      "end": 136.4
+    },
+    {
+      "text": " Que te despidan.",
+      "start": 136.48,
+      "end": 137.2
+    },
+    {
+      "text": " Yo creo que, como pasaría en cualquier curro, ¿no?",
+      "start": 137.64,
+      "end": 140.48
+    },
+    {
+      "text": " Tú dices, voy a hacer esto, voy a crear 300.000 puestos de trabajo.",
+      "start": 140.76,
+      "end": 145.96
+    },
+    {
+      "text": " ¿No los has creado?",
+      "start": 146.22,
+      "end": 147.28
+    },
+    {
+      "text": " Está usted despedido.",
+      "start": 147.62,
+      "end": 148.28
+    },
+    {
+      "text": " No has conseguido lo que decías que ibas a hacer.",
+      "start": 148.28,
+      "end": 150.38
+    },
+    {
+      "text": " Totalmente.",
+      "start": 150.52,
+      "end": 150.92
+    },
+    {
+      "text": " A mí me han despedido alguna vez.",
+      "start": 151.28,
+      "end": 152.86
+    },
+    {
+      "text": " Sí, sí, sí, sí.",
+      "start": 152.86,
+      "end": 154.84
+    },
+    {
+      "text": " Lo que pasa, sabes que a mí, yo a lo mejor he sido mal camarero,",
+      "start": 155.06,
+      "end": 157.96
+    },
+    {
+      "text": " pero yo no daba mítines diciendo, voy a ser un gran camarero.",
+      "start": 158.28,
+      "end": 161.32
+    },
+    {
+      "text": " Esa es una diferencia.",
+      "start": 161.44,
+      "end": 162.36
+    },
+    {
+      "text": " Esa es una diferencia.",
+      "start": 163.34,
+      "end": 164.22
+    },
+    {
+      "text": " Yo iba, hacía lo que podía y decían, eres muy lento.",
+      "start": 164.4,
+      "end": 166.86
+    },
+    {
+      "text": " Bebes más de lo que sirves.",
+      "start": 169.66000000000003,
+      "end": 170.84
+    },
+    {
+      "text": " Bueno, las típicas cosas.",
+      "start": 171.02,
+      "end": 172.18
+    },
+    {
+      "text": " A mí hay chistes sobre mi físico que me matan.",
+      "start": 176.72000000000003,
+      "end": 178.96
+    },
+    {
+      "text": " Recuerdo que Rovira dijo una vez un chiste sobre mí que yo incluí en mi show, que era que tengo tan poco cuello que vino un vampiro a chuparme la sangre y me tuvo que chupar la polla.",
+      "start": 180.06,
+      "end": 189.86
+    },
+    {
+      "text": " Gracias.",
+      "start": 208.96,
+      "end": 209.0
+    },
+    {
+      "text": " Gracias.",
+      "start": 209.42,
+      "end": 209.44
+    },
+    {
+      "text": " Gracias.",
+      "start": 209.72,
+      "end": 209.84
+    },
+    {
+      "text": " Gracias.",
+      "start": 212.72,
+      "end": 213.42
+    },
+    {
+      "text": " Gracias.",
+      "start": 213.42,
+      "end": 213.76
+    },
+    {
+      "text": " Gracias.",
+      "start": 213.82,
+      "end": 213.84
+    },
+    {
+      "text": " Gracias.",
+      "start": 214.1,
+      "end": 214.3
+    },
+    {
+      "text": " Gracias.",
+      "start": 214.3,
+      "end": 214.56
+    },
+    {
+      "text": " Gracias.",
+      "start": 214.58,
+      "end": 214.6
+    },
+    {
+      "text": " Gracias.",
+      "start": 214.6,
+      "end": 214.64
+    },
+    {
+      "text": " Gracias.",
+      "start": 214.82,
+      "end": 214.84
+    },
+    {
+      "text": " Gracias.",
+      "start": 215.06,
+      "end": 215.12
+    },
+    {
+      "text": " Gracias.",
+      "start": 215.28,
+      "end": 215.42
+    },
+    {
+      "text": " Gracias.",
+      "start": 215.54,
+      "end": 215.56
+    }
+  ],
+  "processing_time": 1.3041307926177979,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

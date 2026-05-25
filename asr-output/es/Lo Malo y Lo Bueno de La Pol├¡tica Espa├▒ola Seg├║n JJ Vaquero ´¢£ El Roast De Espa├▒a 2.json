@@ -1,0 +1,104 @@
+{
+  "audio_file": "Lo Malo y Lo Bueno de La Política Española Según JJ Vaquero ｜ El Roast De España 2.wav",
+  "full_text": "¿Por qué tienen que ser un domingo y en un colegio? O sea, no iba al colegio a diario, voy a ir un domingo. Perdón, pero es que digo Tony Cantó y me apetece cambiarme la chaqueta. Con lo que nos cuesta los cómicos sacar un aplauso y luego llegan los políticos y dicen cuanto mejor, peor para todos, cuanto peor, mejor para usted el suyo beneficio político y hace la peña raca, raca, raca. ¿De dónde sacan al público? ¿Son los descartes de la ruleta de la suerte? ¿O de la ruleta de la fortuna? ¿Cómo cojones se llama ese programa? Para empezar, esa P sobra. Corruptos está libre. Ya vale juntar consonantes, que no somos suecos. Y luego, ¿resulta que un político roba y es un corrupto y mi primo Chele es un ladrón? Mira, que hagan lo que quieran, pero que no lo llamen programas, ¿vale? Esto es un programa. Lo suyo es una sarta de mentiras. Porque de verdad tanto votar y tanta importancia, y al final el que manda es otro. Y encima, también nos salen corruptos. No me parece bien que un voto en Teruel no valga lo mismo que un voto en Madrid. Y con esto, no pienso hacer un chiste. Porque en tiempos tan jodidos, alivia saber que puede haber finales felices. Gracias.",
+  "chunks": [
+    {
+      "text": " ¿Por qué tienen que ser un domingo y en un colegio?",
+      "start": 7.2600000000000025,
+      "end": 10.28
+    },
+    {
+      "text": " O sea, no iba al colegio a diario, voy a ir un domingo.",
+      "start": 10.46,
+      "end": 13.0
+    },
+    {
+      "text": " Perdón, pero es que digo Tony Cantó y me apetece cambiarme la chaqueta.",
+      "start": 17.240000000000002,
+      "end": 20.7
+    },
+    {
+      "text": " Con lo que nos cuesta los cómicos sacar un aplauso y luego llegan los políticos y dicen",
+      "start": 23.14,
+      "end": 27.94
+    },
+    {
+      "text": " cuanto mejor, peor para todos, cuanto peor, mejor para usted el suyo beneficio político",
+      "start": 27.94,
+      "end": 32.02
+    },
+    {
+      "text": " y hace la peña raca, raca, raca. ¿De dónde sacan al público?",
+      "start": 32.02,
+      "end": 35.4
+    },
+    {
+      "text": " ¿Son los descartes de la ruleta de la suerte? ¿O de la ruleta de la fortuna?",
+      "start": 35.6,
+      "end": 39.36
+    },
+    {
+      "text": " ¿Cómo cojones se llama ese programa?",
+      "start": 39.8,
+      "end": 41.42
+    },
+    {
+      "text": " Para empezar, esa P sobra. Corruptos está libre.",
+      "start": 43.74,
+      "end": 46.7
+    },
+    {
+      "text": " Ya vale juntar consonantes, que no somos suecos.",
+      "start": 46.92,
+      "end": 49.24
+    },
+    {
+      "text": " Y luego, ¿resulta que un político roba y es un corrupto y mi primo Chele es un ladrón?",
+      "start": 49.44,
+      "end": 54.44
+    },
+    {
+      "text": " Mira, que hagan lo que quieran, pero que no lo llamen programas, ¿vale?",
+      "start": 56.78,
+      "end": 59.94
+    },
+    {
+      "text": " Esto es un programa. Lo suyo es una sarta de mentiras.",
+      "start": 60.18,
+      "end": 65.08
+    },
+    {
+      "text": " Porque de verdad tanto votar y tanta importancia, y al final el que manda es otro.",
+      "start": 67.46,
+      "end": 72.08
+    },
+    {
+      "text": " Y encima, también nos salen corruptos.",
+      "start": 73.04,
+      "end": 75.58
+    },
+    {
+      "text": " No me parece bien que un voto en Teruel no valga lo mismo que un voto en Madrid.",
+      "start": 78.2,
+      "end": 82.62
+    },
+    {
+      "text": " Y con esto, no pienso hacer un chiste.",
+      "start": 82.92,
+      "end": 84.96
+    },
+    {
+      "text": " Porque en tiempos tan jodidos, alivia saber que puede haber finales felices.",
+      "start": 87.3,
+      "end": 92.28
+    },
+    {
+      "text": " Gracias.",
+      "start": 105.58,
+      "end": 105.86
+    }
+  ],
+  "processing_time": 0.8874340057373047,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

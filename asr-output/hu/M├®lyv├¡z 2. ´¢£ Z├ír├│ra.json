@@ -1,0 +1,144 @@
+{
+  "audio_file": "Mélyvíz 2. ｜ Záróra.wav",
+  "full_text": "A KERTHELYSÉGÉBŐ Behoztam a párnákat a kert helyiségből. Jó van. Árnyékolót feltekerted? Fel. Dehogy, ma csak 8-ig vagyunk. Mennyi az idő? 7.55. Ajne, ezt nem hiszem el. Bezártad a zajtót? Hát van még 5 perc. Te mész oda hozzá. De miért? Mert te nem zártad be az ajtót. Jó estét. Van még konyha? Éppenhogy. Hozza két lapot, mert nem szívesen. Köszönöm, egy halászlevet szeretnék és egy túrógombócot. Túrógombóc 20 perc. Nem baj. Oda nézz! Úristeni, ne rüljön ne! Ne szedlen hozom! Hozzá, úristen! Ne hádni! Ne künk le! Künk le! Ne künk le! Künk le! Künk le! Künk le! Sz-sz-sz-sz! Abba hagyhatod. Elment. Na, ebből majd tanul.",
+  "chunks": [
+    {
+      "text": " A KERTHELYSÉGÉBŐ",
+      "start": 0.0,
+      "end": 2.0
+    },
+    {
+      "text": " Behoztam a párnákat a kert helyiségből.",
+      "start": 8.020000000000001,
+      "end": 10.4
+    },
+    {
+      "text": " Jó van. Árnyékolót feltekerted?",
+      "start": 10.42,
+      "end": 12.44
+    },
+    {
+      "text": " Fel. Dehogy, ma csak 8-ig vagyunk. Mennyi az idő?",
+      "start": 12.52,
+      "end": 16.86
+    },
+    {
+      "text": " 7.55.",
+      "start": 17.5,
+      "end": 18.48
+    },
+    {
+      "text": " Ajne, ezt nem hiszem el.",
+      "start": 24.8,
+      "end": 26.42
+    },
+    {
+      "text": " Bezártad a zajtót?",
+      "start": 26.66,
+      "end": 27.82
+    },
+    {
+      "text": " Hát van még 5 perc.",
+      "start": 27.82,
+      "end": 29.48
+    },
+    {
+      "text": " Te mész oda hozzá.",
+      "start": 30.1,
+      "end": 31.3
+    },
+    {
+      "text": " De miért?",
+      "start": 31.44,
+      "end": 32.0
+    },
+    {
+      "text": " Mert te nem zártad be az ajtót.",
+      "start": 32.16,
+      "end": 33.74
+    },
+    {
+      "text": " Jó estét.",
+      "start": 38.39999999999999,
+      "end": 39.36
+    },
+    {
+      "text": " Van még konyha?",
+      "start": 39.7,
+      "end": 40.48
+    },
+    {
+      "text": " Éppenhogy. Hozza két lapot, mert nem szívesen.",
+      "start": 40.86,
+      "end": 42.98
+    },
+    {
+      "text": " Köszönöm, egy halászlevet szeretnék és egy túrógombócot.",
+      "start": 43.0,
+      "end": 44.82
+    },
+    {
+      "text": " Túrógombóc 20 perc.",
+      "start": 45.96,
+      "end": 47.22
+    },
+    {
+      "text": " Nem baj.",
+      "start": 47.56,
+      "end": 48.14
+    },
+    {
+      "text": " Oda nézz!",
+      "start": 59.9,
+      "end": 60.76
+    },
+    {
+      "text": " Úristeni, ne rüljön ne!",
+      "start": 61.28,
+      "end": 62.28
+    },
+    {
+      "text": " Ne szedlen hozom!",
+      "start": 62.46,
+      "end": 63.54
+    },
+    {
+      "text": " Hozzá, úristen!",
+      "start": 64.14,
+      "end": 64.94
+    },
+    {
+      "text": " Ne hádni! Ne künk le! Künk le!",
+      "start": 67.19999999999999,
+      "end": 69.08
+    },
+    {
+      "text": " Ne künk le! Künk le!",
+      "start": 69.5,
+      "end": 70.12
+    },
+    {
+      "text": " Künk le! Künk le!",
+      "start": 70.4,
+      "end": 71.04
+    },
+    {
+      "text": " Sz-sz-sz-sz!",
+      "start": 72.91999999999999,
+      "end": 74.22
+    },
+    {
+      "text": " Abba hagyhatod. Elment.",
+      "start": 74.44,
+      "end": 75.84
+    },
+    {
+      "text": " Na, ebből majd tanul.",
+      "start": 80.44,
+      "end": 84.1
+    }
+  ],
+  "processing_time": 1.6533281803131104,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

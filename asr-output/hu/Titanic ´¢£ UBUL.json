@@ -1,0 +1,24 @@
+{
+  "audio_file": "Titanic ｜ UBUL.wav",
+  "full_text": "Žjegykegyük! Köszönöm! Köszönöm!",
+  "chunks": [
+    {
+      "text": " Žjegykegyük!",
+      "start": 14.26,
+      "end": 15.66
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 34.5,
+      "end": 35.9
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 60.0,
+      "end": 60.96
+    }
+  ],
+  "processing_time": 1.2149560451507568,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

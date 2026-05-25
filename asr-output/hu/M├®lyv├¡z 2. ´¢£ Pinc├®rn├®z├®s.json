@@ -1,0 +1,89 @@
+{
+  "audio_file": "Mélyvíz 2. ｜ Pincérnézés.wav",
+  "full_text": "Amatőr. Mit akartak? Kértek két kávét. Intézzed, aztán majd tanítok valamit. Ismered a kerthelységes pincérnézést? Nem. Pedig rengeteg energiát megtakaríthatsz vele. Kimész, végignézel a kerthelységen, szigorúan a fejük fölött, sóhajtasz egyet, hogy milyen unalmas ez a nap, és még mielőtt bárki megszólíthatna, gyorsan visszajössz. Megmutatom, figyelj bentről. Legyen szíves! Látom, óriási volt, de ezt most nekem kikeldi. Ha csak egyszer is rájuk nézel, véged van. Ha megérzik, hogy gyenge vagy, kicsinálnak. Vannak, akik vesztesnek születnek.",
+  "chunks": [
+    {
+      "text": " Amatőr.",
+      "start": 9.82,
+      "end": 10.68
+    },
+    {
+      "text": " Mit akartak?",
+      "start": 13.620000000000001,
+      "end": 15.04
+    },
+    {
+      "text": " Kértek két kávét.",
+      "start": 15.14,
+      "end": 16.12
+    },
+    {
+      "text": " Intézzed, aztán majd tanítok valamit.",
+      "start": 16.28,
+      "end": 18.28
+    },
+    {
+      "text": " Ismered a kerthelységes pincérnézést?",
+      "start": 22.28,
+      "end": 25.1
+    },
+    {
+      "text": " Nem.",
+      "start": 25.2,
+      "end": 25.42
+    },
+    {
+      "text": " Pedig rengeteg energiát megtakaríthatsz vele.",
+      "start": 25.66,
+      "end": 28.46
+    },
+    {
+      "text": " Kimész, végignézel a kerthelységen, szigorúan a fejük fölött,",
+      "start": 28.46,
+      "end": 33.14
+    },
+    {
+      "text": " sóhajtasz egyet, hogy milyen unalmas ez a nap,",
+      "start": 33.58,
+      "end": 35.8
+    },
+    {
+      "text": " és még mielőtt bárki megszólíthatna, gyorsan visszajössz.",
+      "start": 35.88,
+      "end": 38.98
+    },
+    {
+      "text": " Megmutatom, figyelj bentről.",
+      "start": 39.44,
+      "end": 41.04
+    },
+    {
+      "text": " Legyen szíves!",
+      "start": 52.3,
+      "end": 53.5
+    },
+    {
+      "text": " Látom, óriási volt, de ezt most nekem kikeldi.",
+      "start": 58.4,
+      "end": 60.78
+    },
+    {
+      "text": " Ha csak egyszer is rájuk nézel, véged van.",
+      "start": 60.84,
+      "end": 63.76
+    },
+    {
+      "text": " Ha megérzik, hogy gyenge vagy, kicsinálnak.",
+      "start": 65.42,
+      "end": 68.5
+    },
+    {
+      "text": " Vannak, akik vesztesnek születnek.",
+      "start": 83.02,
+      "end": 85.84
+    }
+  ],
+  "processing_time": 0.4240593910217285,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

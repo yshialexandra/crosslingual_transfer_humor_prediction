@@ -1,0 +1,74 @@
+{
+  "audio_file": "Gargalizáló Slam Poetry EB ｜ ÉÉÉS Most.wav",
+  "full_text": "A TORONTOS KÖZÖNÖK KEDVES NÉZŐINK! Adásunkat megszakítjuk, ugyanis bejutottam a gargalizáló SZLAM POETRY EURÓPA BAJNOKSÁG DÖNTŐJÉBE, és hamarosan színpadra lépett a produkciómban. A helyszínről kapcsoljuk kollégánkat, Sára! Igen, igen, itt vagyok. Köszöntöm a kedves nézőket! 40 éve nem volt ilyen rangos SZLAM POETRY ESEMÉNY Magyarországon, és igen, Zalán következik, nézzük meg a produkcióját! Igen, hát úgy tűnik, hogy Zalán pont nélkül kiesett a döntőből. Később majd megkérdezzük a kudarcának az okairól. Stúdió! Kedves Sára! Erről nem kívánok nyilatkozni. És most tenisz! Köszönöm a később!",
+  "chunks": [
+    {
+      "text": " A TORONTOS KÖZÖNÖK KEDVES NÉZŐINK!",
+      "start": 0.0,
+      "end": 8.96
+    },
+    {
+      "text": " Adásunkat megszakítjuk, ugyanis bejutottam a gargalizáló SZLAM POETRY EURÓPA BAJNOKSÁG DÖNTŐJÉBE,",
+      "start": 9.18,
+      "end": 15.96
+    },
+    {
+      "text": " és hamarosan színpadra lépett a produkciómban.",
+      "start": 16.22,
+      "end": 19.54
+    },
+    {
+      "text": " A helyszínről kapcsoljuk kollégánkat, Sára!",
+      "start": 20.56,
+      "end": 23.34
+    },
+    {
+      "text": " Igen, igen, itt vagyok. Köszöntöm a kedves nézőket!",
+      "start": 30.0,
+      "end": 33.66
+    },
+    {
+      "text": " 40 éve nem volt ilyen rangos SZLAM POETRY ESEMÉNY Magyarországon,",
+      "start": 34.42,
+      "end": 39.4
+    },
+    {
+      "text": " és igen, Zalán következik, nézzük meg a produkcióját!",
+      "start": 39.54,
+      "end": 43.9
+    },
+    {
+      "text": " Igen, hát úgy tűnik, hogy Zalán pont nélkül kiesett a döntőből.",
+      "start": 83.64,
+      "end": 88.76
+    },
+    {
+      "text": " Később majd megkérdezzük a kudarcának az okairól.",
+      "start": 88.76,
+      "end": 92.46
+    },
+    {
+      "text": " Stúdió!",
+      "start": 93.12,
+      "end": 94.0
+    },
+    {
+      "text": " Kedves Sára! Erről nem kívánok nyilatkozni.",
+      "start": 94.72,
+      "end": 97.9
+    },
+    {
+      "text": " És most tenisz!",
+      "start": 98.74,
+      "end": 100.4
+    },
+    {
+      "text": " Köszönöm a később!",
+      "start": 118.76,
+      "end": 120.7
+    }
+  ],
+  "processing_time": 0.47290778160095215,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

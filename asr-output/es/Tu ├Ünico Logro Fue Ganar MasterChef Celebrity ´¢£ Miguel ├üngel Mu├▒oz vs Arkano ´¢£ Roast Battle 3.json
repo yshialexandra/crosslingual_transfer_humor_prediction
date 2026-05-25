@@ -1,0 +1,199 @@
+{
+  "audio_file": "Tu Único Logro Fue Ganar MasterChef Celebrity ｜ Miguel Ángel Muñoz vs Arkano ｜ Roast Battle 3.wav",
+  "full_text": "Miguel Ángel Muñoz, uno de los mejores actores españoles. Has ganado premios tan importantes como... Masterchef Celebrity. Y ya. Eso sí, sus dotes actorales son innegables. Lleva años haciéndonos creer que trabaja. Vamos a ver, Arcano. Bueno, parece un chaval recién salido de hermano mayor. Te llamas Guillermo Rodríguez Godínez. ¿Tú te das cuenta que tu mejor rima la hicieron tus padres nada más casarse? Por cierto, tengo que decirte que has cambiado muchísimo en estos últimos años. Cuando empezaste eras un niñato sin talento y ahora... Ah, no, no, pues no has cambiado tanto. Bueno, hablando de empezar. Tú empezaste a trabajar con 10 años, ¿no? Correcto. Entiendo que eso es ilegal, ¿no? Bueno. Fíjate cómo debías actuar... De mal, ¿no? De mal. Que tu edad era el menor de los delitos. Eso sí, tienes una carrera larga y exitosa, llena de premios. Premios a otras personas. De hecho, debes ser la única persona que se ha comprado un huevo kinder y no tenía premio adentro. Yo tengo que decir que Arcano ha hecho muchísimo por la igualdad de género en el mundo del rap. No, es verdad, es verdad. Yo ahora, cada vez que veo a alguien rapeando, sea un hombre o una mujer, siempre pienso lo mismo. Lo hace mejor que Arcano. Bueno, hablando de cosas que nos han dicho. A mí me han dicho que haces paracaidismo. ¿Sí? Sí, sí. Está muy bien que te gusten los paracaídas, pero la única caída que no vas a poder parar es la de tu carrera como actor. Eso sí, eso sí. Anunciando ensalada, vas para arriba. Entonces, no te preocupes. Gracias.",
+  "chunks": [
+    {
+      "text": " Miguel Ángel Muñoz, uno de los mejores actores españoles.",
+      "start": 1.1599999999999993,
+      "end": 6.14
+    },
+    {
+      "text": " Has ganado premios tan importantes como...",
+      "start": 6.52,
+      "end": 9.92
+    },
+    {
+      "text": " Masterchef Celebrity.",
+      "start": 9.92,
+      "end": 11.52
+    },
+    {
+      "text": " Y ya.",
+      "start": 12.08,
+      "end": 13.06
+    },
+    {
+      "text": " Eso sí, sus dotes actorales son innegables.",
+      "start": 13.46,
+      "end": 16.7
+    },
+    {
+      "text": " Lleva años haciéndonos creer que trabaja.",
+      "start": 17.06,
+      "end": 19.12
+    },
+    {
+      "text": " Vamos a ver, Arcano.",
+      "start": 23.58,
+      "end": 24.9
+    },
+    {
+      "text": " Bueno, parece un chaval recién salido de hermano mayor.",
+      "start": 25.52,
+      "end": 30.26
+    },
+    {
+      "text": " Te llamas Guillermo Rodríguez Godínez.",
+      "start": 31.52,
+      "end": 35.38
+    },
+    {
+      "text": " ¿Tú te das cuenta que tu mejor rima la hicieron tus padres nada más casarse?",
+      "start": 35.62,
+      "end": 39.16
+    },
+    {
+      "text": " Por cierto, tengo que decirte que has cambiado muchísimo en estos últimos años.",
+      "start": 41.5,
+      "end": 45.08
+    },
+    {
+      "text": " Cuando empezaste eras un niñato sin talento y ahora...",
+      "start": 45.72,
+      "end": 49.1
+    },
+    {
+      "text": " Ah, no, no, pues no has cambiado tanto.",
+      "start": 49.1,
+      "end": 50.9
+    },
+    {
+      "text": " Bueno, hablando de empezar.",
+      "start": 58.8,
+      "end": 60.22
+    },
+    {
+      "text": " Tú empezaste a trabajar con 10 años, ¿no?",
+      "start": 60.46,
+      "end": 62.68
+    },
+    {
+      "text": " Correcto.",
+      "start": 63.1,
+      "end": 63.58
+    },
+    {
+      "text": " Entiendo que eso es ilegal, ¿no?",
+      "start": 63.84,
+      "end": 65.12
+    },
+    {
+      "text": " Bueno.",
+      "start": 65.86,
+      "end": 66.34
+    },
+    {
+      "text": " Fíjate cómo debías actuar...",
+      "start": 67.66,
+      "end": 69.76
+    },
+    {
+      "text": " De mal, ¿no?",
+      "start": 69.76,
+      "end": 70.58
+    },
+    {
+      "text": " De mal.",
+      "start": 70.64,
+      "end": 70.92
+    },
+    {
+      "text": " Que tu edad era el menor de los delitos.",
+      "start": 71.1,
+      "end": 73.14
+    },
+    {
+      "text": " Eso sí, tienes una carrera larga y exitosa, llena de premios.",
+      "start": 75.2,
+      "end": 79.14
+    },
+    {
+      "text": " Premios a otras personas.",
+      "start": 79.84,
+      "end": 81.06
+    },
+    {
+      "text": " De hecho, debes ser la única persona que se ha comprado un huevo kinder y no tenía premio adentro.",
+      "start": 81.9,
+      "end": 87.32
+    },
+    {
+      "text": " Yo tengo que decir que Arcano ha hecho muchísimo por la igualdad de género en el mundo del rap.",
+      "start": 93.54,
+      "end": 99.36
+    },
+    {
+      "text": " No, es verdad, es verdad.",
+      "start": 100.0,
+      "end": 101.02
+    },
+    {
+      "text": " Yo ahora, cada vez que veo a alguien rapeando, sea un hombre o una mujer, siempre pienso lo mismo.",
+      "start": 101.46,
+      "end": 106.0
+    },
+    {
+      "text": " Lo hace mejor que Arcano.",
+      "start": 106.36,
+      "end": 107.62
+    },
+    {
+      "text": " Bueno, hablando de cosas que nos han dicho.",
+      "start": 114.38,
+      "end": 116.12
+    },
+    {
+      "text": " A mí me han dicho que haces paracaidismo.",
+      "start": 116.34,
+      "end": 118.46
+    },
+    {
+      "text": " ¿Sí?",
+      "start": 119.0,
+      "end": 119.4
+    },
+    {
+      "text": " Sí, sí.",
+      "start": 119.72,
+      "end": 120.1
+    },
+    {
+      "text": " Está muy bien que te gusten los paracaídas, pero la única caída que no vas a poder parar es la de tu carrera como actor.",
+      "start": 120.34,
+      "end": 125.78
+    },
+    {
+      "text": " Eso sí, eso sí.",
+      "start": 126.76,
+      "end": 127.86
+    },
+    {
+      "text": " Anunciando ensalada, vas para arriba.",
+      "start": 128.24,
+      "end": 129.66
+    },
+    {
+      "text": " Entonces, no te preocupes.",
+      "start": 130.06,
+      "end": 131.28
+    },
+    {
+      "text": " Gracias.",
+      "start": 131.6,
+      "end": 132.1
+    }
+  ],
+  "processing_time": 0.6994636058807373,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

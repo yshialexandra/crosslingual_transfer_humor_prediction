@@ -1,0 +1,84 @@
+{
+  "audio_file": "Biztonsági őr ｜ Télvíz.wav",
+  "full_text": "Kdyoszfollók Na mit csinálsz az a gyerekeké? Leszarom, 1000 forintér óránként legyen már benne. Ti még mindig itt vagytól? 20-ig van szerződés. Értem, ücsörgünk. Csak ő. Igen? És a szaloncukros papírt meg én fogom összeszedni? Hát, ha ragaszkodsz hozzá, szedjet paraszt. Bocsánat. Na tűnés. Szerződésünk van, nem hallod? Igen, és az is benne van a szerződésben, hogy nagyon könnyen leég a szakállat, meg nagyon könnyen beleragad a könyvgáz. Meg az is benne van a szerződésben, hogy nagyon könnyen leszakadnak ezek a krampusz farvak. Meg nagyon könnyen elterjed a plázában, hogy a Mikulás bácsi perverc. Meg nagyon könnyen. Na jó, van, mennyi? Egy kiló zselés. Meg egy marékókuszos. Ekkora a markom, jó? És hogyha bárhol papír találok, akkor is, ha én dobom el végete. Értitek? Gyudös parasztsukerák. Tessék, ki a következő? Szia, szia, hát te mit szeretnél? Hát félkérem a marcipánosság.",
+  "chunks": [
+    {
+      "text": " Kdyoszfollók",
+      "start": 10.939999999999998,
+      "end": 11.5
+    },
+    {
+      "text": " Na mit csinálsz az a gyerekeké?",
+      "start": 11.5,
+      "end": 13.68
+    },
+    {
+      "text": " Leszarom, 1000 forintér óránként legyen már benne.",
+      "start": 13.8,
+      "end": 16.66
+    },
+    {
+      "text": " Ti még mindig itt vagytól?",
+      "start": 17.12,
+      "end": 18.86
+    },
+    {
+      "text": " 20-ig van szerződés.",
+      "start": 18.92,
+      "end": 20.18
+    },
+    {
+      "text": " Értem, ücsörgünk.",
+      "start": 20.28,
+      "end": 21.36
+    },
+    {
+      "text": " Csak ő.",
+      "start": 21.56,
+      "end": 22.02
+    },
+    {
+      "text": " Igen? És a szaloncukros papírt meg én fogom összeszedni?",
+      "start": 22.42,
+      "end": 25.02
+    },
+    {
+      "text": " Hát, ha ragaszkodsz hozzá, szedjet paraszt.",
+      "start": 25.06,
+      "end": 27.64
+    },
+    {
+      "text": " Bocsánat. Na tűnés. Szerződésünk van, nem hallod? Igen, és az is benne van a szerződésben, hogy nagyon könnyen leég a szakállat, meg nagyon könnyen beleragad a könyvgáz. Meg az is benne van a szerződésben, hogy nagyon könnyen leszakadnak ezek a krampusz farvak. Meg nagyon könnyen elterjed a plázában, hogy a Mikulás bácsi perverc. Meg nagyon könnyen. Na jó, van, mennyi? Egy kiló zselés.",
+      "start": 28.560000000000002,
+      "end": 51.38
+    },
+    {
+      "text": " Meg egy marékókuszos. Ekkora a markom, jó? És hogyha bárhol papír találok, akkor is, ha én dobom el végete. Értitek?",
+      "start": 56.24,
+      "end": 68.4
+    },
+    {
+      "text": " Gyudös parasztsukerák.",
+      "start": 71.98000000000002,
+      "end": 73.62
+    },
+    {
+      "text": " Tessék, ki a következő?",
+      "start": 76.54,
+      "end": 78.26
+    },
+    {
+      "text": " Szia, szia, hát te mit szeretnél?",
+      "start": 79.92,
+      "end": 81.62
+    },
+    {
+      "text": " Hát félkérem a marcipánosság.",
+      "start": 82.54,
+      "end": 83.62
+    }
+  ],
+  "processing_time": 1.5183091163635254,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

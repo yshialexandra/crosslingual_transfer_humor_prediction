@@ -1,0 +1,129 @@
+{
+  "audio_file": "Ignatius Farray： Recordando a Guillermo Zapata ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "Yo creo que el punto de inflexión de la situación política actual se dio, no sé si se acuerdan del caso de Guillermo Zapata, cuando salió elegida Manuela Carmena y, bueno, Ada Colau, en aquellas elecciones municipales, el que iba a ser concejal de cultura del Ayuntamiento de Madrid, tuvo que dimitir porque, ahora está muy de moda a personajes que les pueda comprometer, investigarle tweets para comprometerles y que se tengan que justificar o lo que sea. A Guillermo Zapata, cuando iba a ser concejal de cultura, le sacaron un tweet de hace mucho tiempo, de hace, no sé si hace dos años, no era ni siquiera una broma sobre el holocausto, era comentando la típica broma de cuántos judíos caben en un cenicero, no sé qué, era comentando esa broma. Y ese tío tuvo que dimitir por ese tweet. Es que nadie tiene dos dedos de frente para darse cuenta de que, por supuesto, se salía de la derecha para comprometer a esa persona. Nadie tiene dos dedos de frente para darse cuenta de que eso, joder, no tiene nada que ver con que esa persona hubiera sido un gran concejal de cultura. Esa persona tuvo que dimitir, y te lo digo, Manuela Carmena, Ada Colau, toda esa mierda para adelante. Pero pienso que aquí no estuvieron a la altura. Pidieron que dimitiera a esa persona. O sea, y la llamada izquierda radical, la llamada izquierda radical comportándose aquí a nivel Ned Flanders. Como diciendo, no, no se puede hablar del holocausto. Y lo gracioso es que esa persona, Guillermo Zapata, actualmente, por supuesto, no es concejal de cultura del Ayuntamiento de Madrid, pero sigue ocupando otro puesto dentro del Ayuntamiento. Como diciendo, por supuesto, el Ayuntamiento de Madrid no puede permitirse que su concejal de cultura apoye el holocausto, pero sí que tenemos otros puestos para que la gente nazi nos ayude a gobernar esta ciudad. Gracias.",
+  "chunks": [
+    {
+      "text": " Yo creo que el punto de inflexión de la situación política actual se dio,",
+      "start": 1.0999999999999996,
+      "end": 5.4
+    },
+    {
+      "text": " no sé si se acuerdan del caso de Guillermo Zapata,",
+      "start": 5.6,
+      "end": 8.42
+    },
+    {
+      "text": " cuando salió elegida Manuela Carmena y, bueno, Ada Colau, en aquellas elecciones municipales,",
+      "start": 9.62,
+      "end": 14.14
+    },
+    {
+      "text": " el que iba a ser concejal de cultura del Ayuntamiento de Madrid,",
+      "start": 14.38,
+      "end": 18.92
+    },
+    {
+      "text": " tuvo que dimitir porque, ahora está muy de moda a personajes que les pueda comprometer,",
+      "start": 19.14,
+      "end": 24.32
+    },
+    {
+      "text": " investigarle tweets para comprometerles y que se tengan que justificar o lo que sea.",
+      "start": 24.64,
+      "end": 28.64
+    },
+    {
+      "text": " A Guillermo Zapata, cuando iba a ser concejal de cultura, le sacaron un tweet de hace mucho tiempo,",
+      "start": 28.64,
+      "end": 33.26
+    },
+    {
+      "text": " de hace, no sé si hace dos años, no era ni siquiera una broma sobre el holocausto,",
+      "start": 33.4,
+      "end": 38.52
+    },
+    {
+      "text": " era comentando la típica broma de cuántos judíos caben en un cenicero, no sé qué,",
+      "start": 38.68,
+      "end": 43.02
+    },
+    {
+      "text": " era comentando esa broma. Y ese tío tuvo que dimitir por ese tweet.",
+      "start": 43.42,
+      "end": 46.76
+    },
+    {
+      "text": " Es que nadie tiene dos dedos de frente para darse cuenta de que, por supuesto,",
+      "start": 47.02,
+      "end": 50.92
+    },
+    {
+      "text": " se salía de la derecha para comprometer a esa persona.",
+      "start": 50.98,
+      "end": 52.9
+    },
+    {
+      "text": " Nadie tiene dos dedos de frente para darse cuenta de que eso, joder,",
+      "start": 53.14,
+      "end": 55.74
+    },
+    {
+      "text": " no tiene nada que ver con que esa persona hubiera sido un gran concejal de cultura.",
+      "start": 55.74,
+      "end": 59.6
+    },
+    {
+      "text": " Esa persona tuvo que dimitir, y te lo digo, Manuela Carmena, Ada Colau, toda esa mierda para adelante.",
+      "start": 60.04,
+      "end": 64.74
+    },
+    {
+      "text": " Pero pienso que aquí no estuvieron a la altura.",
+      "start": 65.0,
+      "end": 68.44
+    },
+    {
+      "text": " Pidieron que dimitiera a esa persona.",
+      "start": 69.0,
+      "end": 70.66
+    },
+    {
+      "text": " O sea, y la llamada izquierda radical, la llamada izquierda radical comportándose aquí a nivel Ned Flanders.",
+      "start": 71.1,
+      "end": 77.3
+    },
+    {
+      "text": " Como diciendo, no, no se puede hablar del holocausto.",
+      "start": 78.66,
+      "end": 80.7
+    },
+    {
+      "text": " Y lo gracioso es que esa persona, Guillermo Zapata, actualmente, por supuesto,",
+      "start": 81.68,
+      "end": 85.42
+    },
+    {
+      "text": " no es concejal de cultura del Ayuntamiento de Madrid, pero sigue ocupando otro puesto dentro del Ayuntamiento.",
+      "start": 85.44,
+      "end": 90.42
+    },
+    {
+      "text": " Como diciendo, por supuesto, el Ayuntamiento de Madrid no puede permitirse que su concejal de cultura apoye el holocausto,",
+      "start": 90.74,
+      "end": 96.78
+    },
+    {
+      "text": " pero sí que tenemos otros puestos para que la gente nazi nos ayude a gobernar esta ciudad.",
+      "start": 96.78,
+      "end": 104.82
+    },
+    {
+      "text": " Gracias.",
+      "start": 126.78,
+      "end": 127.02
+    }
+  ],
+  "processing_time": 0.7137308120727539,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,454 @@
+{
+  "audio_file": "zQZ5V-vA40o.wav",
+  "full_text": "What's up, techno-sapiens? I'm Grace Kulenschmidt, but you can call me by my first screen name, the color purple 29. Inspired by my favorite color, unrelated to the film about domestic abuse. Sorry, Oprah. Anyway, this is Tech Yeah, where I tell CPU all about the biggest stories in tech. Let's begin with some news from a town I've been told I'll never work in again, Hollywood. Where the city of angels just might be turning into the city of AI-angels. Two of the biggest stars in the world, Brad Pitt and Tom Cruise, apparently duking it out on the roof of a skyscraper. But it's completely fake. Digitally created with AI technology. It's the video that has Hollywood freaking out. You killed Jeffrey Epstein, you animal. He was a good man. Okay, this is crazy. I literally wrote a movie with that exact scene in it. Great minds. But I get why everyone in Hollywood is freaking out. This looked so real. Right down to the glimmer of hope in Tom Cruise's eyes that this stunt would finally be the one that kills him. Of course, some haters are worried that it's going to destroy the entire film industry and ruin countless lives along the way. Well, you know what? That's what Hollywood gets for not casting me in Sinners. Michael B. Jordan gets to be two people, and I can't even be in one of the many cunnilingus scenes? Make that make sense! But if you can't make it in Hollywood, you can always fall back on your second dream job. Waymo has come up with a low-tech solution for a high-tech problem. Customers are leaving doors open after exiting the self-driving vehicles, making them inoperable. Waymo is now paying nearby door dashers to shut the open doors so the driverless cars can pick up their next passenger. Yes! It's just like they say. When God closes a door, he can make six bucks on DoorDash. Look how awesome this is. Most people are stuck in an office all day, but you, you get to drive around hunting for open car doors. And if you close enough of them, you get to eat dinner. The future is amazing! I'd be great at this job. I love closing things. Gates, trunks, coffins. I don't care if the funeral is open casket. Your grandma is busted! Moving on, because it's time for tonight's study that makes you go, hmm. Tonight's study is all about this. Dancing! If you wonder why some guys light up the dance floor while others look like they're swatting invisible flies, science may have the answer. In a study by Northumbria University, volunteers danced for 30 seconds while motion sensors tracked every move. They were later turned into faceless 3D avatars to allow women to rank the routines. Men rated as good dancers showed more variety in upper body movement, while repetitive moves and stiff twistings scored near the bottom. Hmm. Thanks to this cutting edge tech, scientists have confirmed what we already suspected. Women love men having seizures. My cousin has epilepsy and he is drowning in . And this data is very useful because now we know if you're a good dancer and can't get a date, you ugly brother. Of course, you can't just dance to attract women. You need to have the perfect pickup line as well. Luckily, I know just the one. You killed Jeffrey Epstein, you animal. He was a good man. Uh, yeah. That's a panty dropper. And speaking of underwear, if you, like me, love putting gadgets in all the wrong places, have I got a Tekken product for you. Researchers are looking for volunteers to put on a new type of smart underwear designed to track human flatulence and also stress test them. University of Maryland scientists say that the garment has a snap-in device which acts like a glucose monitor, but for intestinal gas. And it says that it could open the door to measuring gut microbiome metabolism. Smell that? That is the smell of innovation. And falafel. Sorry. But I love this product. Finally a way for health nuts to get in their 10,000 farts a day. Heck, I think I'll get two. One for the back and one to track my cooter tutors. I swear, when those two get to yapping, I'm like, you gals should start a podcast. So, what have we learned from this data so far? Previous studies asked people to estimate, and they guessed between 10 to 15 times a day. Early testing has revealed something interesting. We found that people farted an average of 32 times per day. The average person farts 32 times a day? Imagine if you're an above average person. Like, Beyonce must be farting 6,000 times a day. What a lucky horse. Now, I know what you're thinking. I must be part of this study. Well, bad news. Because due to overwhelming demand, enrollment in the fart tracking study is currently paused. But lucky for you, I'm conducting my own study. All you have to do is email me every time you fart at thecolorpurple29 at gracecountsfarts.com. Well, that's all for this edition of Tech Yeah. Tune in next time when we debate, which one of these pictures has a motorcycle in it? If I get this wrong, it's over for me.",
+  "chunks": [
+    {
+      "text": " What's up, techno-sapiens?",
+      "start": 0.0,
+      "end": 2.26
+    },
+    {
+      "text": " I'm Grace Kulenschmidt, but you can call me by my first screen name,",
+      "start": 2.52,
+      "end": 6.3
+    },
+    {
+      "text": " the color purple 29.",
+      "start": 6.42,
+      "end": 7.76
+    },
+    {
+      "text": " Inspired by my favorite color, unrelated to the film about domestic abuse.",
+      "start": 8.88,
+      "end": 13.16
+    },
+    {
+      "text": " Sorry, Oprah.",
+      "start": 13.92,
+      "end": 15.0
+    },
+    {
+      "text": " Anyway, this is Tech Yeah, where I tell CPU all about the biggest stories in tech.",
+      "start": 15.34,
+      "end": 21.68
+    },
+    {
+      "text": " Let's begin with some news from a town I've been told I'll never work in again,",
+      "start": 21.98,
+      "end": 26.48
+    },
+    {
+      "text": " Hollywood.",
+      "start": 26.78,
+      "end": 27.32
+    },
+    {
+      "text": " Where the city of angels just might be turning into the city of AI-angels.",
+      "start": 28.600000000000005,
+      "end": 34.14
+    },
+    {
+      "text": " Two of the biggest stars in the world, Brad Pitt and Tom Cruise,",
+      "start": 34.42,
+      "end": 37.6
+    },
+    {
+      "text": " apparently duking it out on the roof of a skyscraper.",
+      "start": 37.74,
+      "end": 40.78
+    },
+    {
+      "text": " But it's completely fake.",
+      "start": 40.9,
+      "end": 42.84
+    },
+    {
+      "text": " Digitally created with AI technology.",
+      "start": 43.22,
+      "end": 45.46
+    },
+    {
+      "text": " It's the video that has Hollywood freaking out.",
+      "start": 45.56,
+      "end": 48.78
+    },
+    {
+      "text": " You killed Jeffrey Epstein, you animal.",
+      "start": 49.08,
+      "end": 50.9
+    },
+    {
+      "text": " He was a good man.",
+      "start": 53.040000000000006,
+      "end": 54.5
+    },
+    {
+      "text": " Okay, this is crazy.",
+      "start": 57.32,
+      "end": 59.14
+    },
+    {
+      "text": " I literally wrote a movie with that exact scene in it.",
+      "start": 59.36,
+      "end": 62.34
+    },
+    {
+      "text": " Great minds.",
+      "start": 62.7,
+      "end": 63.72
+    },
+    {
+      "text": " But I get why everyone in Hollywood is freaking out.",
+      "start": 64.04,
+      "end": 67.96
+    },
+    {
+      "text": " This looked so real.",
+      "start": 68.16,
+      "end": 69.64
+    },
+    {
+      "text": " Right down to the glimmer of hope in Tom Cruise's eyes that this stunt would finally be the one that kills him.",
+      "start": 69.98,
+      "end": 76.2
+    },
+    {
+      "text": " Of course, some haters are worried that it's going to destroy the entire film industry and ruin countless lives along the way.",
+      "start": 77.4,
+      "end": 85.58
+    },
+    {
+      "text": " Well, you know what?",
+      "start": 85.8,
+      "end": 87.02
+    },
+    {
+      "text": " That's what Hollywood gets for not casting me in Sinners.",
+      "start": 87.18,
+      "end": 90.3
+    },
+    {
+      "text": " Michael B. Jordan gets to be two people, and I can't even be in one of the many cunnilingus scenes?",
+      "start": 91.5,
+      "end": 98.16
+    },
+    {
+      "text": " Make that make sense!",
+      "start": 99.66000000000001,
+      "end": 101.26
+    },
+    {
+      "text": " But if you can't make it in Hollywood, you can always fall back on your second dream job.",
+      "start": 102.84,
+      "end": 109.14
+    },
+    {
+      "text": " Waymo has come up with a low-tech solution for a high-tech problem.",
+      "start": 109.62,
+      "end": 113.06
+    },
+    {
+      "text": " Customers are leaving doors open after exiting the self-driving vehicles, making them inoperable.",
+      "start": 113.56,
+      "end": 118.56
+    },
+    {
+      "text": " Waymo is now paying nearby door dashers to shut the open doors so the driverless cars can pick up their next passenger.",
+      "start": 119.04,
+      "end": 125.64
+    },
+    {
+      "text": " Yes! It's just like they say.",
+      "start": 127.12,
+      "end": 129.92
+    },
+    {
+      "text": " When God closes a door, he can make six bucks on DoorDash.",
+      "start": 130.14,
+      "end": 134.98
+    },
+    {
+      "text": " Look how awesome this is.",
+      "start": 136.24,
+      "end": 138.28
+    },
+    {
+      "text": " Most people are stuck in an office all day, but you, you get to drive around hunting for open car doors.",
+      "start": 138.46,
+      "end": 145.1
+    },
+    {
+      "text": " And if you close enough of them, you get to eat dinner.",
+      "start": 145.6,
+      "end": 149.02
+    },
+    {
+      "text": " The future is amazing!",
+      "start": 149.16,
+      "end": 150.56
+    },
+    {
+      "text": " I'd be great at this job.",
+      "start": 152.18,
+      "end": 153.8
+    },
+    {
+      "text": " I love closing things.",
+      "start": 153.8,
+      "end": 155.2
+    },
+    {
+      "text": " Gates, trunks, coffins.",
+      "start": 155.36,
+      "end": 156.96
+    },
+    {
+      "text": " I don't care if the funeral is open casket.",
+      "start": 157.28,
+      "end": 160.14
+    },
+    {
+      "text": " Your grandma is busted!",
+      "start": 160.38,
+      "end": 161.86
+    },
+    {
+      "text": " Moving on, because it's time for tonight's study that makes you go, hmm.",
+      "start": 163.74,
+      "end": 168.96
+    },
+    {
+      "text": " Tonight's study is all about this.",
+      "start": 170.42000000000002,
+      "end": 172.6
+    },
+    {
+      "text": " Dancing!",
+      "start": 177.84,
+      "end": 178.44
+    },
+    {
+      "text": " If you wonder why some guys light up the dance floor while others look like they're swatting invisible flies, science may have the answer.",
+      "start": 179.23999999999998,
+      "end": 184.98
+    },
+    {
+      "text": " In a study by Northumbria University, volunteers danced for 30 seconds while motion sensors tracked every move.",
+      "start": 184.98,
+      "end": 190.96
+    },
+    {
+      "text": " They were later turned into faceless 3D avatars to allow women to rank the routines.",
+      "start": 191.14,
+      "end": 195.0
+    },
+    {
+      "text": " Men rated as good dancers showed more variety in upper body movement, while repetitive moves and stiff twistings scored near the bottom.",
+      "start": 195.14,
+      "end": 201.56
+    },
+    {
+      "text": " Hmm.",
+      "start": 202.92000000000002,
+      "end": 203.68
+    },
+    {
+      "text": " Thanks to this cutting edge tech, scientists have confirmed what we already suspected.",
+      "start": 204.8,
+      "end": 210.16
+    },
+    {
+      "text": " Women love men having seizures.",
+      "start": 210.44,
+      "end": 212.56
+    },
+    {
+      "text": " My cousin has epilepsy and he is drowning in .",
+      "start": 213.78,
+      "end": 218.9
+    },
+    {
+      "text": " And this data is very useful because now we know if you're a good dancer and can't get a date, you ugly brother.",
+      "start": 219.82,
+      "end": 227.44
+    },
+    {
+      "text": " Of course, you can't just dance to attract women.",
+      "start": 228.94,
+      "end": 232.44
+    },
+    {
+      "text": " You need to have the perfect pickup line as well.",
+      "start": 232.68,
+      "end": 235.82
+    },
+    {
+      "text": " Luckily, I know just the one.",
+      "start": 236.06,
+      "end": 238.02
+    },
+    {
+      "text": " You killed Jeffrey Epstein, you animal.",
+      "start": 238.46,
+      "end": 240.32
+    },
+    {
+      "text": " He was a good man.",
+      "start": 242.46,
+      "end": 243.96
+    },
+    {
+      "text": " Uh, yeah. That's a panty dropper.",
+      "start": 244.94000000000003,
+      "end": 248.24
+    },
+    {
+      "text": " And speaking of underwear, if you, like me, love putting gadgets in all the wrong places, have I got a Tekken product for you.",
+      "start": 248.44,
+      "end": 258.08
+    },
+    {
+      "text": " Researchers are looking for volunteers to put on a new type of smart underwear designed to track human flatulence and also stress test them.",
+      "start": 258.48,
+      "end": 267.5
+    },
+    {
+      "text": " University of Maryland scientists say that the garment has a snap-in device which acts like a glucose monitor,",
+      "start": 267.66,
+      "end": 273.36
+    },
+    {
+      "text": " but for intestinal gas. And it says that it could open the door to measuring gut microbiome metabolism.",
+      "start": 273.36,
+      "end": 278.78
+    },
+    {
+      "text": " Smell that? That is the smell of innovation.",
+      "start": 282.68,
+      "end": 286.06
+    },
+    {
+      "text": " And falafel. Sorry.",
+      "start": 287.18,
+      "end": 289.1
+    },
+    {
+      "text": " But I love this product. Finally a way for health nuts to get in their 10,000 farts a day.",
+      "start": 289.94,
+      "end": 296.64
+    },
+    {
+      "text": " Heck, I think I'll get two.",
+      "start": 297.22,
+      "end": 299.6
+    },
+    {
+      "text": " One for the back and one to track my cooter tutors.",
+      "start": 299.86,
+      "end": 303.5
+    },
+    {
+      "text": " I swear, when those two get to yapping, I'm like, you gals should start a podcast.",
+      "start": 305.2,
+      "end": 310.3
+    },
+    {
+      "text": " So, what have we learned from this data so far?",
+      "start": 318.49999999999994,
+      "end": 322.14
+    },
+    {
+      "text": " Previous studies asked people to estimate, and they guessed between 10 to 15 times a day.",
+      "start": 322.46,
+      "end": 327.62
+    },
+    {
+      "text": " Early testing has revealed something interesting.",
+      "start": 327.82,
+      "end": 329.58
+    },
+    {
+      "text": " We found that people farted an average of 32 times per day.",
+      "start": 329.86,
+      "end": 332.92
+    },
+    {
+      "text": " The average person farts 32 times a day?",
+      "start": 334.21999999999997,
+      "end": 338.46
+    },
+    {
+      "text": " Imagine if you're an above average person.",
+      "start": 338.88,
+      "end": 341.76
+    },
+    {
+      "text": " Like, Beyonce must be farting 6,000 times a day.",
+      "start": 342.32,
+      "end": 346.34
+    },
+    {
+      "text": " What a lucky horse.",
+      "start": 346.64,
+      "end": 348.0
+    },
+    {
+      "text": " Now, I know what you're thinking.",
+      "start": 348.6,
+      "end": 350.8
+    },
+    {
+      "text": " I must be part of this study.",
+      "start": 350.8,
+      "end": 352.94
+    },
+    {
+      "text": " Well, bad news.",
+      "start": 353.1,
+      "end": 354.4
+    },
+    {
+      "text": " Because due to overwhelming demand,",
+      "start": 354.58,
+      "end": 356.94
+    },
+    {
+      "text": " enrollment in the fart tracking study is currently paused.",
+      "start": 357.18,
+      "end": 360.44
+    },
+    {
+      "text": " But lucky for you, I'm conducting my own study.",
+      "start": 361.44,
+      "end": 364.64
+    },
+    {
+      "text": " All you have to do is email me every time you fart at thecolorpurple29 at gracecountsfarts.com.",
+      "start": 364.88,
+      "end": 372.22
+    },
+    {
+      "text": " Well, that's all for this edition of Tech Yeah.",
+      "start": 373.53999999999996,
+      "end": 376.22
+    },
+    {
+      "text": " Tune in next time when we debate,",
+      "start": 376.44,
+      "end": 378.12
+    },
+    {
+      "text": " which one of these pictures has a motorcycle in it?",
+      "start": 378.3,
+      "end": 381.04
+    },
+    {
+      "text": " If I get this wrong, it's over for me.",
+      "start": 381.16,
+      "end": 383.7
+    }
+  ],
+  "processing_time": 1.6506009101867676,
+  "language": "en",
+  "model_id": "large-v3-turbo"
+}

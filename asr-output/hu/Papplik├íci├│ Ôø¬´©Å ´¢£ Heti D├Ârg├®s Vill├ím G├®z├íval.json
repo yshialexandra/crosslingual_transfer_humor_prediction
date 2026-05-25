@@ -1,0 +1,64 @@
+{
+  "audio_file": "Papplikáció ⛪️ ｜ Heti Dörgés Villám Gézával.wav",
+  "full_text": "Szombathely. A Szombathelyi Egyházmegye pályázatot hirdetett Papi Cset applikáció grafikai arculatának megtervezésére. Az alkalmazás felhasználói közvetlenül csetelhetnek papokkal, választ kapva bármilyen kérdésükre. A mobil alkalmazás címe jól figyeljenek, nem mi találtuk ki? Paplikáció. Mint a magyar kulturális és közéleti humor zászlós hajója, nem hagyhatjuk annyiban, hogy a Szombathelyi Egyházmegye lemosson bennünket szóvicekben. Úgyhogy mi az alábbi elnevezésekkel pályázunk. A Szombathelyi Egyházmegye lemosson bennünket szóvicekben. Készen a magyar különbözésére. A Szombathelyi Egyházmegye lemosson bennünket szóvicekben. A Szombathelyi Egyházmegye lemosson bennünket szóvicekben. Köszönöm szépen!",
+  "chunks": [
+    {
+      "text": " Szombathely. A Szombathelyi Egyházmegye pályázatot hirdetett Papi Cset applikáció grafikai arculatának megtervezésére.",
+      "start": 0.0,
+      "end": 7.48
+    },
+    {
+      "text": " Az alkalmazás felhasználói közvetlenül csetelhetnek papokkal, választ kapva bármilyen kérdésükre.",
+      "start": 7.78,
+      "end": 13.96
+    },
+    {
+      "text": " A mobil alkalmazás címe jól figyeljenek, nem mi találtuk ki? Paplikáció.",
+      "start": 14.18,
+      "end": 18.52
+    },
+    {
+      "text": " Mint a magyar kulturális és közéleti humor zászlós hajója, nem hagyhatjuk annyiban,",
+      "start": 19.72,
+      "end": 25.8
+    },
+    {
+      "text": " hogy a Szombathelyi Egyházmegye lemosson bennünket szóvicekben.",
+      "start": 25.94,
+      "end": 29.12
+    },
+    {
+      "text": " Úgyhogy mi az alábbi elnevezésekkel pályázunk.",
+      "start": 29.12,
+      "end": 32.2
+    },
+    {
+      "text": " A Szombathelyi Egyházmegye lemosson bennünket szóvicekben.",
+      "start": 59.12,
+      "end": 62.220000000000006
+    },
+    {
+      "text": " Készen a magyar különbözésére.",
+      "start": 63.24,
+      "end": 64.16
+    },
+    {
+      "text": " A Szombathelyi Egyházmegye lemosson bennünket szóvicekben.",
+      "start": 64.52,
+      "end": 65.24
+    },
+    {
+      "text": " A Szombathelyi Egyházmegye lemosson bennünket szóvicekben.",
+      "start": 65.24,
+      "end": 65.34
+    },
+    {
+      "text": " Köszönöm szépen!",
+      "start": 65.34,
+      "end": 65.66
+    }
+  ],
+  "processing_time": 2.303178310394287,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

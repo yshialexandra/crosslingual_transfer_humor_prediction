@@ -1,0 +1,64 @@
+{
+  "audio_file": "Mélyvíz 2. ｜ Palibá ajánl.wav",
+  "full_text": "A TORONTOS KÖZÖN Na kés csók tisztelet, sikerült végre választani, vagy ajánljak? Na, frissen sült? Teljesen frissen készül minden szombaton. Vagy vannak kész ételeink is. Sajnos több is a kelletén ér, meg két hetele mondtak egy lagzit. Na, tessék nézni, tudok, a la carte ajánlani, Nosztalgia Vagdaltat. Azért nosztalgia, mert hétfői. Vagy menő? Ma rizses hús, tegnap pörkölt volt, de nincs összefüggés, mert a rizst például ma főztük. Egy jó tejfölös ubisalival, vagy vadétel tudom ajánlani a szarvas hátszint. Combja most sajnos nincs, mert az nagyon roncsolódott a gázoláskor. Vagy halasnak tetszik lenni? Halászlé? Szegedi vagy Bajai? Most még el lehet dönteni, mert a szakács most indul Belgrádból. A szakácsokat kell várni. Mi az, ami gyorsan megvan? Gyorsan? A gyors étteremben a sajtburger, az nagyon gyorsan megvan. Vagy a számla? Az pikpak, 15 százalék szervizdíj. Csak hogy ne kelljen töprengenie, meg számolgatnia. Gép hozzáadja azt annyi. Mert mi itt szolgáltatást nyújtunk, mert Európa vagyunk. Kötözködös majom.",
+  "chunks": [
+    {
+      "text": " A TORONTOS KÖZÖN",
+      "start": 0.0,
+      "end": 1.84
+    },
+    {
+      "text": " Na kés csók tisztelet, sikerült végre választani, vagy ajánljak?",
+      "start": 10.219999999999999,
+      "end": 14.24
+    },
+    {
+      "text": " Na, frissen sült? Teljesen frissen készül minden szombaton.",
+      "start": 14.54,
+      "end": 19.36
+    },
+    {
+      "text": " Vagy vannak kész ételeink is. Sajnos több is a kelletén ér, meg két hetele mondtak egy lagzit.",
+      "start": 19.66,
+      "end": 25.04
+    },
+    {
+      "text": " Na, tessék nézni, tudok, a la carte ajánlani, Nosztalgia Vagdaltat.",
+      "start": 25.68,
+      "end": 29.72
+    },
+    {
+      "text": " Azért nosztalgia, mert hétfői. Vagy menő? Ma rizses hús, tegnap pörkölt volt, de nincs összefüggés, mert a rizst például ma főztük.",
+      "start": 29.72,
+      "end": 37.7
+    },
+    {
+      "text": " Egy jó tejfölös ubisalival, vagy vadétel tudom ajánlani a szarvas hátszint.",
+      "start": 38.18,
+      "end": 43.18
+    },
+    {
+      "text": " Combja most sajnos nincs, mert az nagyon roncsolódott a gázoláskor.",
+      "start": 43.34,
+      "end": 47.0
+    },
+    {
+      "text": " Vagy halasnak tetszik lenni? Halászlé? Szegedi vagy Bajai?",
+      "start": 47.56,
+      "end": 51.68
+    },
+    {
+      "text": " Most még el lehet dönteni, mert a szakács most indul Belgrádból.",
+      "start": 51.76,
+      "end": 54.88
+    },
+    {
+      "text": " A szakácsokat kell várni. Mi az, ami gyorsan megvan? Gyorsan? A gyors étteremben a sajtburger, az nagyon gyorsan megvan. Vagy a számla? Az pikpak, 15 százalék szervizdíj. Csak hogy ne kelljen töprengenie, meg számolgatnia. Gép hozzáadja azt annyi. Mert mi itt szolgáltatást nyújtunk, mert Európa vagyunk. Kötözködös majom.",
+      "start": 59.72,
+      "end": 82.2
+    }
+  ],
+  "processing_time": 1.4486134052276611,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

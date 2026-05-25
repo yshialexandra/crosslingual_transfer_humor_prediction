@@ -1,0 +1,34 @@
+{
+  "audio_file": "Mélygarázs ｜ Váltópénz.wav",
+  "full_text": "NAMASTE Én köszi. Ezres nem kell? Nem, valami maradjon neked is. Matek zseni.",
+  "chunks": [
+    {
+      "text": " NAMASTE",
+      "start": 14.18,
+      "end": 15.58
+    },
+    {
+      "text": " Én köszi.",
+      "start": 30.0,
+      "end": 30.96
+    },
+    {
+      "text": " Ezres nem kell?",
+      "start": 31.36,
+      "end": 32.44
+    },
+    {
+      "text": " Nem, valami maradjon neked is.",
+      "start": 32.68,
+      "end": 34.4
+    },
+    {
+      "text": " Matek zseni.",
+      "start": 35.36,
+      "end": 36.44
+    }
+  ],
+  "processing_time": 1.4971251487731934,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

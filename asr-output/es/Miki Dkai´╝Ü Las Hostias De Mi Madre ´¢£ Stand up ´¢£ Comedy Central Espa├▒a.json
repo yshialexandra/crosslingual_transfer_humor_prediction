@@ -1,0 +1,394 @@
+{
+  "audio_file": "Miki Dkai： Las Hostias De Mi Madre ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "¿Sabéis lo que me pasa? Estoy muy agobiado. Estoy muy agobiado porque ahora se dice yo soy padre, ¿vale? Y ahora se dice que los padres jóvenes educamos más a nuestros hijos. Y me parece incorrecto, ¿vale? Dice que la educación ahora ha bajado por culpa de nosotros, los padres jóvenes. No sé si aquí ya veis algún padre joven, será maravilloso, ¿vale? Pero yo no puedo educar a los hijos como me han educado a mí. Yo no sé, pero no sé, hay unas normas nuevas. ¿Sabéis que a día de hoy tú a tu hijo no le puedes castigar físicamente? ¿Cómo está que hao? Vamos, que no lo puedes reventar. ¿Sabes lo que te quiere decir o no? Que tú, con los niños hay que hablarle. Digo, ¿cómo? La culpa de la tele, ¿habéis visto estos programas que hay? Pero eso quién lo ve, la tía esa que va a tu casa. ¿Sabes cuál es? La de las pegatinas. Te metía con la mano abierta. ¿Sabes qué te digo? En mi casa éramos cinco, cinco hermanos. Viene esa tía y sale preñá, te lo digo yo. Mira, sí. En mi casa... En mi casa viene el de hermano mayor y en dos tardes están una rotonda vendiendo droga. Hombre. Pero, ¿qué pasa en este país? Hay que darle, hombre, de vez en cuando un poquito. Dice, ¿eh? Como que no. Es que si le pegas te denuncia. Digo, pues dale fuerte que se lo piense. ¿Eh? Digo... Que aquí no, que soy maravilloso, ¿vale? ¿Eh? ¿Tú te imaginas denunciar a tu madre antiguamente? Es más, ¿por qué no le explicaste a mi madre que no había que pegarle a los niños? Explícale, explícale porque a mí me has reventado. Mi madre a mí me ha dado hostias. Hostias que se me ha dado... A mí, mi madre en la nevera no guardaba leche, guardaba sangre para las transfusiones. Mira. Yo he ido... Mira, yo he ido... Yo hice la comunión y me hice el cura. Hoy vas a probar la hostia. Digo, pues llega 12 años tarde, picha. Hombre. ¿Alguien de aquí era capaz solo de pensar en denunciar a tu madre? Si yo creía que mi madre era un X-Men, tío. Mi madre tenía poderes. Pasaba cosas en la casa. Ella no estaba y sabía quién había sido. Mi madre a mí me ha pegado. Yo lo primero que pensaba era, te quiero, te quiero, te quiero. Digo, algo le tiene que llegar, tío. Me da mucho coraje estas cosas porque se protegen mucho a los niños. Yo tengo niñas y las protejo también. Me da mucho coraje estos comentarios que hay ahora de estos padres jóvenes y madres que van a los centros comerciales y están con el miedo de que los niños se los llevan. ¿Habéis visto esto? No disfrutan de una tarde en un centro comercial. Tu madre le molestaba. Mi madre a las 8 de la mañana me ha metido una pata en el culo un sábado y me ha dicho, tira para la calle que no te quiero ver todos los días. Y le daba igual. Mira, me da mucho coraje porque no disfrutan de las tardes. Las madres a lo mejor están en los centros comerciales y están, y mi Mari Carmen, te cuido con la Mari Carmen que se la llevan. Y el Daniel, mira el Daniel que se lo llevan porque es que a los niños se lo llevan. ¿Alguien de aquí tiene niños? ¿Sabéis lo que van los niños armés? ¿Eso quién se lo va a llevar? ¿Eso no se lo lleva nadie? ¿Nadie? ¿Sabe de caso? ¿No se lo lleva nadie? ¿Eso qué es el frío? ¡Sabe de caso!",
+  "chunks": [
+    {
+      "text": " ¿Sabéis lo que me pasa? Estoy muy agobiado.",
+      "start": 1.3799999999999997,
+      "end": 3.9
+    },
+    {
+      "text": " Estoy muy agobiado porque ahora se dice yo soy padre, ¿vale?",
+      "start": 3.98,
+      "end": 6.22
+    },
+    {
+      "text": " Y ahora se dice que los padres jóvenes educamos más a nuestros hijos.",
+      "start": 6.36,
+      "end": 9.62
+    },
+    {
+      "text": " Y me parece incorrecto, ¿vale?",
+      "start": 9.76,
+      "end": 11.08
+    },
+    {
+      "text": " Dice que la educación ahora ha bajado por culpa de nosotros, los padres jóvenes.",
+      "start": 11.28,
+      "end": 15.76
+    },
+    {
+      "text": " No sé si aquí ya veis algún padre joven, será maravilloso, ¿vale?",
+      "start": 15.98,
+      "end": 18.98
+    },
+    {
+      "text": " Pero yo no puedo educar a los hijos como me han educado a mí.",
+      "start": 20.36,
+      "end": 22.72
+    },
+    {
+      "text": " Yo no sé, pero no sé, hay unas normas nuevas.",
+      "start": 22.86,
+      "end": 25.46
+    },
+    {
+      "text": " ¿Sabéis que a día de hoy tú a tu hijo no le puedes castigar físicamente?",
+      "start": 25.66,
+      "end": 28.72
+    },
+    {
+      "text": " ¿Cómo está que hao? Vamos, que no lo puedes reventar.",
+      "start": 29.66,
+      "end": 31.48
+    },
+    {
+      "text": " ¿Sabes lo que te quiere decir o no?",
+      "start": 31.56,
+      "end": 32.2
+    },
+    {
+      "text": " Que tú, con los niños hay que hablarle.",
+      "start": 35.4,
+      "end": 38.48
+    },
+    {
+      "text": " Digo, ¿cómo?",
+      "start": 38.58,
+      "end": 39.06
+    },
+    {
+      "text": " La culpa de la tele, ¿habéis visto estos programas que hay?",
+      "start": 40.419999999999995,
+      "end": 42.86
+    },
+    {
+      "text": " Pero eso quién lo ve, la tía esa que va a tu casa.",
+      "start": 42.98,
+      "end": 45.22
+    },
+    {
+      "text": " ¿Sabes cuál es? La de las pegatinas.",
+      "start": 45.26,
+      "end": 46.46
+    },
+    {
+      "text": " Te metía con la mano abierta.",
+      "start": 46.56,
+      "end": 47.44
+    },
+    {
+      "text": " ¿Sabes qué te digo?",
+      "start": 47.54,
+      "end": 47.98
+    },
+    {
+      "text": " En mi casa éramos cinco, cinco hermanos.",
+      "start": 49.08,
+      "end": 51.36
+    },
+    {
+      "text": " Viene esa tía y sale preñá, te lo digo yo.",
+      "start": 51.48,
+      "end": 53.32
+    },
+    {
+      "text": " Mira, sí.",
+      "start": 53.56,
+      "end": 54.32
+    },
+    {
+      "text": " En mi casa...",
+      "start": 54.88,
+      "end": 55.84
+    },
+    {
+      "text": " En mi casa viene el de hermano mayor y en dos tardes están una rotonda vendiendo droga.",
+      "start": 60.44,
+      "end": 64.8
+    },
+    {
+      "text": " Hombre.",
+      "start": 64.94,
+      "end": 65.2
+    },
+    {
+      "text": " Pero, ¿qué pasa en este país?",
+      "start": 65.96000000000001,
+      "end": 67.5
+    },
+    {
+      "text": " Hay que darle, hombre, de vez en cuando un poquito.",
+      "start": 67.88,
+      "end": 69.9
+    },
+    {
+      "text": " Dice, ¿eh?",
+      "start": 70.26,
+      "end": 70.7
+    },
+    {
+      "text": " Como que no.",
+      "start": 70.8,
+      "end": 71.16
+    },
+    {
+      "text": " Es que si le pegas te denuncia.",
+      "start": 71.2,
+      "end": 72.52
+    },
+    {
+      "text": " Digo, pues dale fuerte que se lo piense.",
+      "start": 72.64,
+      "end": 74.06
+    },
+    {
+      "text": " ¿Eh?",
+      "start": 74.36,
+      "end": 74.5
+    },
+    {
+      "text": " Digo...",
+      "start": 76.68,
+      "end": 77.0
+    },
+    {
+      "text": " Que aquí no, que soy maravilloso, ¿vale?",
+      "start": 77.5,
+      "end": 79.92
+    },
+    {
+      "text": " ¿Eh?",
+      "start": 79.92,
+      "end": 80.0
+    },
+    {
+      "text": " ¿Tú te imaginas denunciar a tu madre antiguamente?",
+      "start": 81.12,
+      "end": 83.16
+    },
+    {
+      "text": " Es más, ¿por qué no le explicaste a mi madre que no había que pegarle a los niños?",
+      "start": 83.28,
+      "end": 85.92
+    },
+    {
+      "text": " Explícale, explícale porque a mí me has reventado.",
+      "start": 86.04,
+      "end": 88.14
+    },
+    {
+      "text": " Mi madre a mí me ha dado hostias.",
+      "start": 89.22,
+      "end": 90.88
+    },
+    {
+      "text": " Hostias que se me ha dado...",
+      "start": 91.06,
+      "end": 91.76
+    },
+    {
+      "text": " A mí, mi madre en la nevera no guardaba leche, guardaba sangre para las transfusiones.",
+      "start": 91.76,
+      "end": 95.76
+    },
+    {
+      "text": " Mira.",
+      "start": 96.28,
+      "end": 96.54
+    },
+    {
+      "text": " Yo he ido...",
+      "start": 97.54,
+      "end": 98.8
+    },
+    {
+      "text": " Mira, yo he ido...",
+      "start": 100.84,
+      "end": 102.08
+    },
+    {
+      "text": " Yo hice la comunión y me hice el cura.",
+      "start": 103.22,
+      "end": 105.18
+    },
+    {
+      "text": " Hoy vas a probar la hostia.",
+      "start": 105.22,
+      "end": 106.4
+    },
+    {
+      "text": " Digo, pues llega 12 años tarde, picha.",
+      "start": 106.52,
+      "end": 108.1
+    },
+    {
+      "text": " Hombre.",
+      "start": 108.98,
+      "end": 109.38
+    },
+    {
+      "text": " ¿Alguien de aquí era capaz solo de pensar en denunciar a tu madre?",
+      "start": 111.12,
+      "end": 114.2
+    },
+    {
+      "text": " Si yo creía que mi madre era un X-Men, tío.",
+      "start": 114.32,
+      "end": 116.38
+    },
+    {
+      "text": " Mi madre tenía poderes.",
+      "start": 117.52,
+      "end": 118.98
+    },
+    {
+      "text": " Pasaba cosas en la casa.",
+      "start": 119.1,
+      "end": 120.52
+    },
+    {
+      "text": " Ella no estaba y sabía quién había sido.",
+      "start": 120.68,
+      "end": 122.56
+    },
+    {
+      "text": " Mi madre a mí me ha pegado.",
+      "start": 123.78,
+      "end": 125.04
+    },
+    {
+      "text": " Yo lo primero que pensaba era, te quiero, te quiero, te quiero.",
+      "start": 125.12,
+      "end": 127.74
+    },
+    {
+      "text": " Digo, algo le tiene que llegar, tío.",
+      "start": 128.12,
+      "end": 129.86
+    },
+    {
+      "text": " Me da mucho coraje estas cosas porque se protegen mucho a los niños.",
+      "start": 130.98,
+      "end": 134.32
+    },
+    {
+      "text": " Yo tengo niñas y las protejo también.",
+      "start": 134.5,
+      "end": 135.98
+    },
+    {
+      "text": " Me da mucho coraje estos comentarios que hay ahora de estos padres jóvenes y madres",
+      "start": 136.36,
+      "end": 140.12
+    },
+    {
+      "text": " que van a los centros comerciales y están con el miedo de que los niños se los llevan.",
+      "start": 140.12,
+      "end": 143.68
+    },
+    {
+      "text": " ¿Habéis visto esto?",
+      "start": 143.78,
+      "end": 144.38
+    },
+    {
+      "text": " No disfrutan de una tarde en un centro comercial.",
+      "start": 144.89999999999998,
+      "end": 147.0
+    },
+    {
+      "text": " Tu madre le molestaba.",
+      "start": 147.2,
+      "end": 148.04
+    },
+    {
+      "text": " Mi madre a las 8 de la mañana me ha metido una pata en el culo un sábado",
+      "start": 148.12,
+      "end": 150.66
+    },
+    {
+      "text": " y me ha dicho, tira para la calle que no te quiero ver todos los días.",
+      "start": 150.66,
+      "end": 153.62
+    },
+    {
+      "text": " Y le daba igual.",
+      "start": 154.3,
+      "end": 155.58
+    },
+    {
+      "text": " Mira, me da mucho coraje porque no disfrutan de las tardes.",
+      "start": 160.53999999999996,
+      "end": 163.28
+    },
+    {
+      "text": " Las madres a lo mejor están en los centros comerciales y están,",
+      "start": 163.38,
+      "end": 166.06
+    },
+    {
+      "text": " y mi Mari Carmen, te cuido con la Mari Carmen que se la llevan.",
+      "start": 166.14,
+      "end": 168.32
+    },
+    {
+      "text": " Y el Daniel, mira el Daniel que se lo llevan porque es que a los niños se lo llevan.",
+      "start": 169.24,
+      "end": 172.4
+    },
+    {
+      "text": " ¿Alguien de aquí tiene niños?",
+      "start": 173.84,
+      "end": 174.74
+    },
+    {
+      "text": " ¿Sabéis lo que van los niños armés?",
+      "start": 175.66,
+      "end": 176.76
+    },
+    {
+      "text": " ¿Eso quién se lo va a llevar?",
+      "start": 178.86,
+      "end": 179.76
+    },
+    {
+      "text": " ¿Eso no se lo lleva nadie?",
+      "start": 180.18,
+      "end": 181.1
+    },
+    {
+      "text": " ¿Nadie?",
+      "start": 182.08,
+      "end": 182.38
+    },
+    {
+      "text": " ¿Sabe de caso? ¿No se lo lleva nadie?",
+      "start": 183.18,
+      "end": 184.5
+    },
+    {
+      "text": " ¿Eso qué es el frío?",
+      "start": 190.6,
+      "end": 191.26
+    },
+    {
+      "text": " ¡Sabe de caso!",
+      "start": 195.58,
+      "end": 195.9
+    }
+  ],
+  "processing_time": 2.8716835975646973,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

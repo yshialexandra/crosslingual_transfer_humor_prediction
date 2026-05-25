@@ -1,0 +1,1164 @@
+{
+  "audio_file": "Me Conocen Como El Robabragas ｜ Iggy Rubín vs Inés Hernand ｜ Roast Battle 3.wav",
+  "full_text": " Tres cosas sobre mí, solo una de ellas es cierta. ¿Qué intentas? Estoy cancelada por la Federación Española de Tenis Mesa. Vale. Tuve un accidente de autocar, hubo seis personas heridas, yo no salí perjudicada de ese asunto. He trabajado limpiando casas de jardinera y de transportista. Es la tercera, la tercera es cierta. La tercera es cierta. ¿Por qué? ¿Por qué lo sabes por los ojos? No, qué mentira es. Soy un gran estudioso del ser humano. Mi padre es comisario, tengo carne para conducir camión. Hay cierto club en Madrid donde se me conoce como el Roba Bradas. Yo creo que la verdadera es la segunda, tienes carne de camión. ¿Es el padre el que es comisario? ¡No! Yo nunca diría que tú eres un RobaBragas. No he dicho que lo sea, he dicho que hay un sitio donde me llamas. Bueno, ya, pero las leyendas se construyen en hechos. Tienes que saber cómo te llaman a ti. CC por Antarctica Films Argentina",
+  "chunks": [
+    {
+      "text": " Tres",
+      "timestamp": [
+        0.0,
+        5.26
+      ]
+    },
+    {
+      "text": " cosas",
+      "timestamp": [
+        5.26,
+        5.42
+      ]
+    },
+    {
+      "text": " sobre",
+      "timestamp": [
+        5.42,
+        5.64
+      ]
+    },
+    {
+      "text": " mí,",
+      "timestamp": [
+        5.64,
+        5.88
+      ]
+    },
+    {
+      "text": " solo",
+      "timestamp": [
+        5.88,
+        6.14
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        6.14,
+        6.52
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        6.52,
+        6.64
+      ]
+    },
+    {
+      "text": " ellas",
+      "timestamp": [
+        6.64,
+        6.82
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        6.82,
+        7.0
+      ]
+    },
+    {
+      "text": " cierta.",
+      "timestamp": [
+        7.0,
+        7.34
+      ]
+    },
+    {
+      "text": " ¿Qué",
+      "timestamp": [
+        7.4,
+        7.44
+      ]
+    },
+    {
+      "text": " intentas?",
+      "timestamp": [
+        7.44,
+        7.88
+      ]
+    },
+    {
+      "text": " Estoy",
+      "timestamp": [
+        8.02,
+        8.26
+      ]
+    },
+    {
+      "text": " cancelada",
+      "timestamp": [
+        8.26,
+        9.4
+      ]
+    },
+    {
+      "text": " por",
+      "timestamp": [
+        9.4,
+        9.76
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        9.76,
+        9.92
+      ]
+    },
+    {
+      "text": " Federación",
+      "timestamp": [
+        9.92,
+        10.74
+      ]
+    },
+    {
+      "text": " Española",
+      "timestamp": [
+        10.74,
+        11.62
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        11.62,
+        11.78
+      ]
+    },
+    {
+      "text": " Tenis",
+      "timestamp": [
+        11.78,
+        12.06
+      ]
+    },
+    {
+      "text": " Mesa.",
+      "timestamp": [
+        12.06,
+        12.44
+      ]
+    },
+    {
+      "text": " Vale.",
+      "timestamp": [
+        12.94,
+        13.22
+      ]
+    },
+    {
+      "text": " Tuve",
+      "timestamp": [
+        13.4,
+        13.5
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        13.5,
+        13.58
+      ]
+    },
+    {
+      "text": " accidente",
+      "timestamp": [
+        13.58,
+        14.1
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        14.1,
+        14.7
+      ]
+    },
+    {
+      "text": " autocar,",
+      "timestamp": [
+        14.7,
+        15.42
+      ]
+    },
+    {
+      "text": " hubo",
+      "timestamp": [
+        15.42,
+        16.12
+      ]
+    },
+    {
+      "text": " seis",
+      "timestamp": [
+        16.12,
+        16.48
+      ]
+    },
+    {
+      "text": " personas",
+      "timestamp": [
+        16.48,
+        16.74
+      ]
+    },
+    {
+      "text": " heridas,",
+      "timestamp": [
+        16.74,
+        17.38
+      ]
+    },
+    {
+      "text": " yo",
+      "timestamp": [
+        17.38,
+        17.8
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        17.8,
+        18.32
+      ]
+    },
+    {
+      "text": " salí",
+      "timestamp": [
+        18.32,
+        19.08
+      ]
+    },
+    {
+      "text": " perjudicada",
+      "timestamp": [
+        19.08,
+        19.76
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        19.76,
+        19.9
+      ]
+    },
+    {
+      "text": " ese",
+      "timestamp": [
+        19.9,
+        20.08
+      ]
+    },
+    {
+      "text": " asunto.",
+      "timestamp": [
+        20.08,
+        20.8
+      ]
+    },
+    {
+      "text": " He",
+      "timestamp": [
+        20.94,
+        20.98
+      ]
+    },
+    {
+      "text": " trabajado",
+      "timestamp": [
+        20.98,
+        21.48
+      ]
+    },
+    {
+      "text": " limpiando",
+      "timestamp": [
+        21.48,
+        21.96
+      ]
+    },
+    {
+      "text": " casas",
+      "timestamp": [
+        21.96,
+        22.48
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        22.48,
+        22.78
+      ]
+    },
+    {
+      "text": " jardinera",
+      "timestamp": [
+        22.78,
+        23.3
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        23.3,
+        23.88
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        23.88,
+        24.26
+      ]
+    },
+    {
+      "text": " transportista.",
+      "timestamp": [
+        24.26,
+        26.0
+      ]
+    },
+    {
+      "text": " Es",
+      "timestamp": [
+        26.0,
+        26.16
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        26.16,
+        26.24
+      ]
+    },
+    {
+      "text": " tercera,",
+      "timestamp": [
+        26.24,
+        26.58
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        26.58,
+        26.66
+      ]
+    },
+    {
+      "text": " tercera",
+      "timestamp": [
+        26.66,
+        26.88
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        26.88,
+        27.0
+      ]
+    },
+    {
+      "text": " cierta.",
+      "timestamp": [
+        27.0,
+        27.3
+      ]
+    },
+    {
+      "text": " La",
+      "timestamp": [
+        27.38,
+        27.42
+      ]
+    },
+    {
+      "text": " tercera",
+      "timestamp": [
+        27.42,
+        27.74
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        27.74,
+        27.86
+      ]
+    },
+    {
+      "text": " cierta.",
+      "timestamp": [
+        27.86,
+        28.2
+      ]
+    },
+    {
+      "text": " ¿Por",
+      "timestamp": [
+        28.2,
+        28.38
+      ]
+    },
+    {
+      "text": " qué?",
+      "timestamp": [
+        28.38,
+        28.48
+      ]
+    },
+    {
+      "text": " ¿Por",
+      "timestamp": [
+        28.48,
+        28.6
+      ]
+    },
+    {
+      "text": " qué",
+      "timestamp": [
+        28.6,
+        28.68
+      ]
+    },
+    {
+      "text": " lo",
+      "timestamp": [
+        28.68,
+        28.72
+      ]
+    },
+    {
+      "text": " sabes",
+      "timestamp": [
+        28.72,
+        28.9
+      ]
+    },
+    {
+      "text": " por",
+      "timestamp": [
+        28.9,
+        29.04
+      ]
+    },
+    {
+      "text": " los",
+      "timestamp": [
+        29.04,
+        29.16
+      ]
+    },
+    {
+      "text": " ojos?",
+      "timestamp": [
+        29.16,
+        29.7
+      ]
+    },
+    {
+      "text": " No,",
+      "timestamp": [
+        29.7,
+        30.62
+      ]
+    },
+    {
+      "text": " qué",
+      "timestamp": [
+        30.62,
+        30.72
+      ]
+    },
+    {
+      "text": " mentira",
+      "timestamp": [
+        30.72,
+        31.06
+      ]
+    },
+    {
+      "text": " es.",
+      "timestamp": [
+        31.06,
+        31.08
+      ]
+    },
+    {
+      "text": " Soy",
+      "timestamp": [
+        31.08,
+        31.14
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        31.14,
+        31.32
+      ]
+    },
+    {
+      "text": " gran",
+      "timestamp": [
+        31.32,
+        31.52
+      ]
+    },
+    {
+      "text": " estudioso",
+      "timestamp": [
+        31.52,
+        31.88
+      ]
+    },
+    {
+      "text": " del",
+      "timestamp": [
+        31.88,
+        31.98
+      ]
+    },
+    {
+      "text": " ser",
+      "timestamp": [
+        31.98,
+        32.06
+      ]
+    },
+    {
+      "text": " humano.",
+      "timestamp": [
+        32.06,
+        32.42
+      ]
+    },
+    {
+      "text": " Mi",
+      "timestamp": [
+        32.42,
+        32.9
+      ]
+    },
+    {
+      "text": " padre",
+      "timestamp": [
+        32.9,
+        33.24
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        33.24,
+        33.4
+      ]
+    },
+    {
+      "text": " comisario,",
+      "timestamp": [
+        33.4,
+        33.96
+      ]
+    },
+    {
+      "text": " tengo",
+      "timestamp": [
+        33.96,
+        34.9
+      ]
+    },
+    {
+      "text": " carne",
+      "timestamp": [
+        34.9,
+        35.2
+      ]
+    },
+    {
+      "text": " para",
+      "timestamp": [
+        35.2,
+        35.72
+      ]
+    },
+    {
+      "text": " conducir",
+      "timestamp": [
+        35.72,
+        36.14
+      ]
+    },
+    {
+      "text": " camión.",
+      "timestamp": [
+        36.14,
+        36.48
+      ]
+    },
+    {
+      "text": " Hay",
+      "timestamp": [
+        37.2,
+        37.22
+      ]
+    },
+    {
+      "text": " cierto",
+      "timestamp": [
+        37.22,
+        37.52
+      ]
+    },
+    {
+      "text": " club",
+      "timestamp": [
+        37.52,
+        37.8
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        37.8,
+        38.06
+      ]
+    },
+    {
+      "text": " Madrid",
+      "timestamp": [
+        38.06,
+        38.32
+      ]
+    },
+    {
+      "text": " donde",
+      "timestamp": [
+        38.32,
+        38.88
+      ]
+    },
+    {
+      "text": " se",
+      "timestamp": [
+        38.88,
+        38.98
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        38.98,
+        39.14
+      ]
+    },
+    {
+      "text": " conoce",
+      "timestamp": [
+        39.14,
+        39.54
+      ]
+    },
+    {
+      "text": " como",
+      "timestamp": [
+        39.54,
+        39.72
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        39.72,
+        39.9
+      ]
+    },
+    {
+      "text": " Roba",
+      "timestamp": [
+        39.9,
+        40.12
+      ]
+    },
+    {
+      "text": " Bradas.",
+      "timestamp": [
+        40.12,
+        40.5
+      ]
+    },
+    {
+      "text": " Yo",
+      "timestamp": [
+        41.02,
+        41.1
+      ]
+    },
+    {
+      "text": " creo",
+      "timestamp": [
+        41.1,
+        41.26
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        41.26,
+        41.34
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        41.34,
+        41.4
+      ]
+    },
+    {
+      "text": " verdadera",
+      "timestamp": [
+        41.4,
+        41.68
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        41.68,
+        41.74
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        41.74,
+        41.78
+      ]
+    },
+    {
+      "text": " segunda,",
+      "timestamp": [
+        41.78,
+        42.22
+      ]
+    },
+    {
+      "text": " tienes",
+      "timestamp": [
+        42.22,
+        42.38
+      ]
+    },
+    {
+      "text": " carne",
+      "timestamp": [
+        42.38,
+        42.62
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        42.62,
+        42.76
+      ]
+    },
+    {
+      "text": " camión.",
+      "timestamp": [
+        42.76,
+        43.42
+      ]
+    },
+    {
+      "text": " ¿Es",
+      "timestamp": [
+        44.48,
+        45.5
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        45.5,
+        45.58
+      ]
+    },
+    {
+      "text": " padre",
+      "timestamp": [
+        45.58,
+        45.76
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        45.76,
+        45.98
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        45.98,
+        46.12
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        46.12,
+        46.24
+      ]
+    },
+    {
+      "text": " comisario?",
+      "timestamp": [
+        46.24,
+        46.78
+      ]
+    },
+    {
+      "text": " ¡No!",
+      "timestamp": [
+        46.9,
+        47.26
+      ]
+    },
+    {
+      "text": " Yo",
+      "timestamp": [
+        48.4,
+        48.46
+      ]
+    },
+    {
+      "text": " nunca",
+      "timestamp": [
+        48.46,
+        48.82
+      ]
+    },
+    {
+      "text": " diría",
+      "timestamp": [
+        48.82,
+        49.22
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        49.22,
+        49.38
+      ]
+    },
+    {
+      "text": " tú",
+      "timestamp": [
+        49.38,
+        49.52
+      ]
+    },
+    {
+      "text": " eres",
+      "timestamp": [
+        49.52,
+        49.78
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        49.78,
+        50.04
+      ]
+    },
+    {
+      "text": " RobaBragas.",
+      "timestamp": [
+        50.04,
+        50.98
+      ]
+    },
+    {
+      "text": " No",
+      "timestamp": [
+        51.46,
+        51.46
+      ]
+    },
+    {
+      "text": " he",
+      "timestamp": [
+        51.46,
+        51.6
+      ]
+    },
+    {
+      "text": " dicho",
+      "timestamp": [
+        51.6,
+        51.8
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        51.8,
+        51.96
+      ]
+    },
+    {
+      "text": " lo",
+      "timestamp": [
+        51.96,
+        51.96
+      ]
+    },
+    {
+      "text": " sea,",
+      "timestamp": [
+        51.96,
+        52.26
+      ]
+    },
+    {
+      "text": " he",
+      "timestamp": [
+        52.26,
+        52.34
+      ]
+    },
+    {
+      "text": " dicho",
+      "timestamp": [
+        52.34,
+        52.5
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        52.5,
+        52.64
+      ]
+    },
+    {
+      "text": " hay",
+      "timestamp": [
+        52.64,
+        52.88
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        52.88,
+        52.98
+      ]
+    },
+    {
+      "text": " sitio",
+      "timestamp": [
+        52.98,
+        53.12
+      ]
+    },
+    {
+      "text": " donde",
+      "timestamp": [
+        53.12,
+        53.26
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        53.26,
+        53.32
+      ]
+    },
+    {
+      "text": " llamas.",
+      "timestamp": [
+        53.32,
+        53.7
+      ]
+    },
+    {
+      "text": " Bueno,",
+      "timestamp": [
+        54.12,
+        54.34
+      ]
+    },
+    {
+      "text": " ya,",
+      "timestamp": [
+        54.34,
+        54.54
+      ]
+    },
+    {
+      "text": " pero",
+      "timestamp": [
+        54.54,
+        54.64
+      ]
+    },
+    {
+      "text": " las",
+      "timestamp": [
+        54.64,
+        54.86
+      ]
+    },
+    {
+      "text": " leyendas",
+      "timestamp": [
+        54.86,
+        55.24
+      ]
+    },
+    {
+      "text": " se",
+      "timestamp": [
+        55.24,
+        55.34
+      ]
+    },
+    {
+      "text": " construyen",
+      "timestamp": [
+        55.34,
+        55.88
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        55.88,
+        56.06
+      ]
+    },
+    {
+      "text": " hechos.",
+      "timestamp": [
+        56.06,
+        56.3
+      ]
+    },
+    {
+      "text": " Tienes",
+      "timestamp": [
+        56.82,
+        57.14
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        57.14,
+        57.24
+      ]
+    },
+    {
+      "text": " saber",
+      "timestamp": [
+        57.24,
+        57.36
+      ]
+    },
+    {
+      "text": " cómo",
+      "timestamp": [
+        57.36,
+        57.56
+      ]
+    },
+    {
+      "text": " te",
+      "timestamp": [
+        57.56,
+        57.68
+      ]
+    },
+    {
+      "text": " llaman",
+      "timestamp": [
+        57.68,
+        57.86
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        57.86,
+        57.92
+      ]
+    },
+    {
+      "text": " ti.",
+      "timestamp": [
+        57.92,
+        58.12
+      ]
+    },
+    {
+      "text": " CC",
+      "timestamp": [
+        60.0,
+        61.08
+      ]
+    },
+    {
+      "text": " por",
+      "timestamp": [
+        61.08,
+        73.3
+      ]
+    },
+    {
+      "text": " Antarctica",
+      "timestamp": [
+        73.3,
+        73.3
+      ]
+    },
+    {
+      "text": " Films",
+      "timestamp": [
+        73.3,
+        73.3
+      ]
+    },
+    {
+      "text": " Argentina",
+      "timestamp": [
+        73.3,
+        73.3
+      ]
+    }
+  ],
+  "processing_time": 7923.445235013962,
+  "language": "es",
+  "model_id": "openai/whisper-large-v3"
+}

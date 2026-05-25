@@ -1,0 +1,99 @@
+{
+  "audio_file": "Exxxtrém ｜ ÉÉÉS Most.wav",
+  "full_text": "NAMASTE A legkeményen műsor a tévében. Ma is megmutatjuk nektek, hogy milyen igazán keménynek lenni, úgyhogy tartsatok belőtt! Az mai témát! Urbánorgászat! Na ez! Extrém! Na! Köd papíról! Ó, beszletettél! Kezdődik az urbánorgászat! Ésvélelő rökmény! OPA Itt vagyunk a Szentgall értéren és az emberek nem is sejt. Hogy ez extrém! Belefutottunk egy igazoltatásba. Jenny nem is sejti, hogy nálunk van a személy híje. Itt lássuk, hogy veszi az akadányt. Bofos! Ez extrém! Hogy ez nem van? Fosz, fosz, fosz, fosz! Az össze számát a Szentgall! A Lütjel! Az össze! Az össze! Az össze! Köszönöm! Köszönöm!",
+  "chunks": [
+    {
+      "text": " NAMASTE",
+      "start": 16.8,
+      "end": 18.2
+    },
+    {
+      "text": " A legkeményen műsor a tévében. Ma is megmutatjuk nektek, hogy milyen igazán keménynek lenni, úgyhogy tartsatok belőtt! Az mai témát! Urbánorgászat! Na ez! Extrém! Na! Köd papíról! Ó, beszletettél! Kezdődik az urbánorgászat!",
+      "start": 30.0,
+      "end": 59.0
+    },
+    {
+      "text": " Ésvélelő rökmény!",
+      "start": 88.46,
+      "end": 89.46
+    },
+    {
+      "text": " OPA",
+      "start": 89.48,
+      "end": 89.98
+    },
+    {
+      "text": " Itt vagyunk a Szentgall értéren és az emberek nem is sejt.",
+      "start": 91.16,
+      "end": 94.28
+    },
+    {
+      "text": " Hogy ez extrém!",
+      "start": 94.3,
+      "end": 95.26
+    },
+    {
+      "text": " Belefutottunk egy igazoltatásba.",
+      "start": 100.84,
+      "end": 102.48
+    },
+    {
+      "text": " Jenny nem is sejti, hogy nálunk van a személy híje.",
+      "start": 103.1,
+      "end": 105.7
+    },
+    {
+      "text": " Itt lássuk, hogy veszi az akadányt.",
+      "start": 105.88,
+      "end": 107.56
+    },
+    {
+      "text": " Bofos! Ez extrém!",
+      "start": 109.06,
+      "end": 110.9
+    },
+    {
+      "text": " Hogy ez nem van? Fosz, fosz, fosz, fosz!",
+      "start": 111.08,
+      "end": 113.96
+    },
+    {
+      "text": " Az össze számát a Szentgall!",
+      "start": 124.5,
+      "end": 126.32
+    },
+    {
+      "text": " A Lütjel!",
+      "start": 126.32,
+      "end": 126.76
+    },
+    {
+      "text": " Az össze!",
+      "start": 126.76,
+      "end": 126.94
+    },
+    {
+      "text": " Az össze!",
+      "start": 127.24,
+      "end": 128.06
+    },
+    {
+      "text": " Az össze!",
+      "start": 128.42,
+      "end": 129.24
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 156.12,
+      "end": 157.52
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 159.24,
+      "end": 160.58
+    }
+  ],
+  "processing_time": 3.5575437545776367,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

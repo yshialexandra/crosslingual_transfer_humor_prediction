@@ -1,0 +1,489 @@
+{
+  "audio_file": "Szabó Balázs Máté ｜ Magyarország, szereplek! döntő.wav",
+  "full_text": "Köszönöm szépen! Most érettségiztem, úgyhogy néhány dolgot már tudok. Az elsők mindig fontosak. Az első csók, az első bicikli, ezek mindig megmaradnak. Én emlékszem, amikor először láttam transvestitát. Az megmaradt. 13 éves voltam, és egy honlapon találtam egy képet. Egy gyönyörű női test, és egy pénisz. Egy hatalmas pénisz. Tudjátok, milyen megalázó látni 13 évesen, egy nőt nagyobb péniszsel, mint amekor a neked van? Azóta minden lányal szkeptikus vagyok. És ez nem egy olyan dolog, amit a szüleiddel megbeszélhetsz. Elég zavarba ejtél lett volna. Én akkor zavarba vagyok, hogy el kell sétálni valaki mellett az utcán. Amikor jön szembe egy csapat menőgyerek, vagy egy szép lány. És szóval mindig van egy olyan gondot, ami átmegy az út túloldalára. Szereg, jel? Ezért csak emberek. Igen, de igazsztőleg. Dehogy, jól nézel ki, jól áll a hajad. Hát kedvelni fognak. De s ilyenkor már később bármit is tenni, s muszáj el sétálni mellettük. S mész. Jó van, csak természetesen. Ne nézz a szemébe. Csak a lámpát nézz. Aztán elmennek, megnyugszom. Jól van. De tudom, hogy amint kellő távolságba érnek, az egyik odafordul a másikkel azt mondja, hogy... Dehüljön, ment ez a gyerek. Nem szeretek másokkal veszekedni sem. Az a baj, hogy mindenki izmosabb, mint én. Mindenki edzeni jár, meg egészségesen eszi. Olyanokat mondanak, hogy... 10 kilométer lefutása után tele vannak energiával, mostan jól eső fáradtságot éreznek. Tudjátok, hogy hogy nézek 10 kilométer lefutása után? Az, hogy én sem. Lányokkal főleg nem szeretek veszekedni. Múltkor például sétálok a plázában, s volt költöm egy tipikus lánycsapat. Önök ilyen rövidpólót hordanak, magas sarkóval, és olyanokat mondanak, hogy... Ó, a szempilaspirá nagyon érdekes, vagy olyan hasonló. És rengetegen voltak, alig lehetett haladni, és megszólalt az egyik csal, hogy... Miért nincs egy sáv azoknak, akik sietnek, és egy sáv azoknak, akik csak nézelődnek? Mondom, miért ezt jól kitaláltad? De akkor megszólalt egy másik csal, hogy... Ja, miért nincs? Egy harmadik csal... Ja, tökre igaz! Annyira megértem, hogy én is elkezdtem helyeselni. Ja, jó mondtad. Csajci. Mert ha egy lányjal összeveszel, akkor ő emlékezik rá. És amikor barátnőddel összeveszel, és kibékültök, és három nap után megkérdezett, hogy... Drágány, még haragszol? És kifakad, hogy... Szerinted haragszom? Ha? Szerinted haragszom? Szerintem igen. Egy csoportot ismerek a társadalomba, akik sose szoktak zavarba kerülni. Egy folyamatosan vázoló csoport, ezek a menstruáló nők. Ők leszarják. Sőt, ők teremtik a kínos helyzeteket, mint amikor futnak a mozgó metróló, és kiamának, hogy... Nyomd meg a gambot! Mindenki őket hizik. Mi van? Nem tudom nekem. Legnagyobb félelöm, hogy egy sötét csikátorban ezt találkozok egy menstruáló nővel. Beugrik el. Szia, nem láttalak. Szóval semmibe veszel? Nem, csak sötét van. Dagat vagyunk! Nem attól fele, hogy szörnyek vannak az ágyának, de menstruáló nőkot fekszenek. Mondjuk, múltkor egyik barátom mesélte, hogy a férfiaknak is vannak ugyanolyan periódus, mint a nőknél menstruáció. De akkor mi van? Üszdepressziós, hogy zavászint egy állat? Nekem az egész hónap így teli. Lehet, hogy ilyen egy hónapig menstruálok. De mindig érdekel a téma, hogyha egy hazamentős rákelsem, hogy férfi menstruáció. Senki ne keresen rá, hogy férfi menstruáció. Nagyon beteg világban élünk. Ha az eredett cikket nem találtam meg, csak egy hírta, hogy Japánban egy 45 évesen érű tényleg menstruált. Tényleg? Láttam róla a képet. Zárásképpen szeretnék még elmondani egy történetet, hogy is működik a mi szakmánk. Hogy tegnap este, nagyon izgultam a mai fellépés miatt, és úgy tűnt, hogy elvegyek sétálni. Egyen ikletozó sétálról, mert ez olyan, mint amit egy művész is csinálna. És kilépek a házból, 20 métert tettem meg, siet velem szembe egy kisgyerek, és kiabál, hogy jó napot elvinne valameddig! Én? Mondom, én gyalog vagyok. Mondom, azt hittem, hogy... Azt hittem, nem értettem a kérdést. Mondom, tessék! Mondom, elvinne valameddig! Mondom, miért? Azért, mert itt lakom az utca végén, csak nagyon kell kakilom, és nem biztos, hogy odaérek. Mondom, akkor fussál! És elfutott. Köszönöm szépen, figyelj! Köszönöm!",
+  "chunks": [
+    {
+      "text": " Köszönöm szépen!",
+      "start": 5.500000000000002,
+      "end": 6.88
+    },
+    {
+      "text": " Most érettségiztem, úgyhogy néhány dolgot már tudok.",
+      "start": 7.82,
+      "end": 12.56
+    },
+    {
+      "text": " Az elsők mindig fontosak.",
+      "start": 13.620000000000001,
+      "end": 14.88
+    },
+    {
+      "text": " Az első csók, az első bicikli, ezek mindig megmaradnak.",
+      "start": 15.04,
+      "end": 18.12
+    },
+    {
+      "text": " Én emlékszem, amikor először láttam transvestitát.",
+      "start": 19.32,
+      "end": 21.72
+    },
+    {
+      "text": " Az megmaradt.",
+      "start": 23.58,
+      "end": 25.02
+    },
+    {
+      "text": " 13 éves voltam, és egy honlapon találtam egy képet.",
+      "start": 26.34,
+      "end": 30.0
+    },
+    {
+      "text": " Egy gyönyörű női test, és egy pénisz.",
+      "start": 30.38,
+      "end": 33.24
+    },
+    {
+      "text": " Egy hatalmas pénisz.",
+      "start": 34.44,
+      "end": 36.34
+    },
+    {
+      "text": " Tudjátok, milyen megalázó látni 13 évesen, egy nőt nagyobb péniszsel, mint amekor a neked van?",
+      "start": 37.8,
+      "end": 42.0
+    },
+    {
+      "text": " Azóta minden lányal szkeptikus vagyok.",
+      "start": 49.82,
+      "end": 52.08
+    },
+    {
+      "text": " És ez nem egy olyan dolog, amit a szüleiddel megbeszélhetsz.",
+      "start": 53.440000000000005,
+      "end": 56.02
+    },
+    {
+      "text": " Elég zavarba ejtél lett volna.",
+      "start": 56.6,
+      "end": 58.18
+    },
+    {
+      "text": " Én akkor zavarba vagyok, hogy el kell sétálni valaki mellett az utcán.",
+      "start": 58.9,
+      "end": 61.92
+    },
+    {
+      "text": " Amikor jön szembe egy csapat menőgyerek, vagy egy szép lány.",
+      "start": 62.88,
+      "end": 66.52
+    },
+    {
+      "text": " És szóval mindig van egy olyan gondot, ami átmegy az út túloldalára.",
+      "start": 67.36,
+      "end": 69.7
+    },
+    {
+      "text": " Szereg, jel?",
+      "start": 70.9,
+      "end": 71.48
+    },
+    {
+      "text": " Ezért csak emberek.",
+      "start": 72.3,
+      "end": 73.24
+    },
+    {
+      "text": " Igen, de igazsztőleg.",
+      "start": 75.34,
+      "end": 76.44
+    },
+    {
+      "text": " Dehogy, jól nézel ki, jól áll a hajad.",
+      "start": 78.48,
+      "end": 80.24
+    },
+    {
+      "text": " Hát kedvelni fognak.",
+      "start": 80.24,
+      "end": 81.22
+    },
+    {
+      "text": " De s ilyenkor már később bármit is tenni, s muszáj el sétálni mellettük.",
+      "start": 81.62,
+      "end": 85.8
+    },
+    {
+      "text": " S mész.",
+      "start": 86.67999999999999,
+      "end": 87.32
+    },
+    {
+      "text": " Jó van, csak természetesen.",
+      "start": 88.5,
+      "end": 90.66
+    },
+    {
+      "text": " Ne nézz a szemébe.",
+      "start": 92.38,
+      "end": 94.08
+    },
+    {
+      "text": " Csak a lámpát nézz.",
+      "start": 95.0,
+      "end": 96.66
+    },
+    {
+      "text": " Aztán elmennek, megnyugszom.",
+      "start": 97.16,
+      "end": 99.12
+    },
+    {
+      "text": " Jól van.",
+      "start": 99.36,
+      "end": 99.78
+    },
+    {
+      "text": " De tudom, hogy amint kellő távolságba érnek, az egyik odafordul a másikkel azt mondja, hogy...",
+      "start": 100.08,
+      "end": 103.92
+    },
+    {
+      "text": " Dehüljön, ment ez a gyerek.",
+      "start": 103.92,
+      "end": 104.76
+    },
+    {
+      "text": " Nem szeretek másokkal veszekedni sem.",
+      "start": 107.18,
+      "end": 109.32
+    },
+    {
+      "text": " Az a baj, hogy mindenki izmosabb, mint én.",
+      "start": 109.78,
+      "end": 111.66
+    },
+    {
+      "text": " Mindenki edzeni jár, meg egészségesen eszi.",
+      "start": 112.4,
+      "end": 115.56
+    },
+    {
+      "text": " Olyanokat mondanak, hogy...",
+      "start": 116.18,
+      "end": 117.42
+    },
+    {
+      "text": " 10 kilométer lefutása után tele vannak energiával, mostan jól eső fáradtságot éreznek.",
+      "start": 117.42,
+      "end": 122.06
+    },
+    {
+      "text": " Tudjátok, hogy hogy nézek 10 kilométer lefutása után?",
+      "start": 123.1,
+      "end": 125.48
+    },
+    {
+      "text": " Az, hogy én sem.",
+      "start": 126.36,
+      "end": 127.56
+    },
+    {
+      "text": " Lányokkal főleg nem szeretek veszekedni.",
+      "start": 132.36,
+      "end": 134.48
+    },
+    {
+      "text": " Múltkor például sétálok a plázában, s volt költöm egy tipikus lánycsapat.",
+      "start": 135.16,
+      "end": 139.0
+    },
+    {
+      "text": " Önök ilyen rövidpólót hordanak, magas sarkóval, és olyanokat mondanak, hogy...",
+      "start": 139.36,
+      "end": 144.28
+    },
+    {
+      "text": " Ó, a szempilaspirá nagyon érdekes, vagy olyan hasonló.",
+      "start": 144.28,
+      "end": 147.96
+    },
+    {
+      "text": " És rengetegen voltak, alig lehetett haladni, és megszólalt az egyik csal, hogy...",
+      "start": 152.26000000000002,
+      "end": 157.22
+    },
+    {
+      "text": " Miért nincs egy sáv azoknak, akik sietnek, és egy sáv azoknak, akik csak nézelődnek?",
+      "start": 157.96,
+      "end": 163.74
+    },
+    {
+      "text": " Mondom, miért ezt jól kitaláltad?",
+      "start": 164.76,
+      "end": 166.48
+    },
+    {
+      "text": " De akkor megszólalt egy másik csal, hogy...",
+      "start": 167.84,
+      "end": 170.42
+    },
+    {
+      "text": " Ja, miért nincs?",
+      "start": 170.42,
+      "end": 171.66
+    },
+    {
+      "text": " Egy harmadik csal... Ja, tökre igaz!",
+      "start": 173.24,
+      "end": 176.16
+    },
+    {
+      "text": " Annyira megértem, hogy én is elkezdtem helyeselni.",
+      "start": 177.32,
+      "end": 179.52
+    },
+    {
+      "text": " Ja, jó mondtad.",
+      "start": 181.22,
+      "end": 182.88
+    },
+    {
+      "text": " Csajci.",
+      "start": 184.16,
+      "end": 184.82
+    },
+    {
+      "text": " Mert ha egy lányjal összeveszel, akkor ő emlékezik rá.",
+      "start": 186.28,
+      "end": 189.28
+    },
+    {
+      "text": " És amikor barátnőddel összeveszel, és kibékültök, és három nap után megkérdezett, hogy...",
+      "start": 189.78,
+      "end": 194.22
+    },
+    {
+      "text": " Drágány, még haragszol? És kifakad, hogy... Szerinted haragszom? Ha? Szerinted haragszom?",
+      "start": 194.22,
+      "end": 198.52
+    },
+    {
+      "text": " Szerintem igen.",
+      "start": 200.94,
+      "end": 201.9
+    },
+    {
+      "text": " Egy csoportot ismerek a társadalomba, akik sose szoktak zavarba kerülni.",
+      "start": 203.9,
+      "end": 208.68
+    },
+    {
+      "text": " Egy folyamatosan vázoló csoport, ezek a menstruáló nők.",
+      "start": 209.1,
+      "end": 212.5
+    },
+    {
+      "text": " Ők leszarják.",
+      "start": 213.86,
+      "end": 214.86
+    },
+    {
+      "text": " Sőt, ők teremtik a kínos helyzeteket, mint amikor futnak a mozgó metróló, és kiamának, hogy...",
+      "start": 215.74,
+      "end": 219.64
+    },
+    {
+      "text": " Nyomd meg a gambot!",
+      "start": 219.64,
+      "end": 220.62
+    },
+    {
+      "text": " Mindenki őket hizik. Mi van?",
+      "start": 221.26,
+      "end": 222.5
+    },
+    {
+      "text": " Nem tudom nekem. Legnagyobb félelöm, hogy egy sötét csikátorban ezt találkozok egy menstruáló nővel.",
+      "start": 223.9,
+      "end": 228.82
+    },
+    {
+      "text": " Beugrik el.",
+      "start": 230.6,
+      "end": 231.24
+    },
+    {
+      "text": " Szia, nem láttalak. Szóval semmibe veszel?",
+      "start": 232.08,
+      "end": 234.62
+    },
+    {
+      "text": " Nem, csak sötét van. Dagat vagyunk!",
+      "start": 236.22,
+      "end": 238.84
+    },
+    {
+      "text": " Nem attól fele, hogy szörnyek vannak az ágyának, de menstruáló nőkot fekszenek.",
+      "start": 240.28,
+      "end": 244.06
+    },
+    {
+      "text": " Mondjuk, múltkor egyik barátom mesélte, hogy a férfiaknak is vannak ugyanolyan periódus, mint a nőknél menstruáció.",
+      "start": 247.94,
+      "end": 254.4
+    },
+    {
+      "text": " De akkor mi van? Üszdepressziós, hogy zavászint egy állat?",
+      "start": 255.46,
+      "end": 258.0
+    },
+    {
+      "text": " Nekem az egész hónap így teli.",
+      "start": 258.52,
+      "end": 260.32
+    },
+    {
+      "text": " Lehet, hogy ilyen egy hónapig menstruálok.",
+      "start": 262.72,
+      "end": 264.76
+    },
+    {
+      "text": " De mindig érdekel a téma, hogyha egy hazamentős rákelsem, hogy férfi menstruáció.",
+      "start": 265.5,
+      "end": 269.48
+    },
+    {
+      "text": " Senki ne keresen rá, hogy férfi menstruáció.",
+      "start": 271.86,
+      "end": 274.6
+    },
+    {
+      "text": " Nagyon beteg világban élünk.",
+      "start": 275.96000000000004,
+      "end": 277.84
+    },
+    {
+      "text": " Ha az eredett cikket nem találtam meg,",
+      "start": 279.82,
+      "end": 282.24
+    },
+    {
+      "text": " csak egy hírta, hogy Japánban egy 45 évesen érű tényleg menstruált.",
+      "start": 282.56,
+      "end": 286.06
+    },
+    {
+      "text": " Tényleg?",
+      "start": 286.9,
+      "end": 287.62
+    },
+    {
+      "text": " Láttam róla a képet.",
+      "start": 288.44000000000005,
+      "end": 289.66
+    },
+    {
+      "text": " Zárásképpen szeretnék még elmondani egy történetet,",
+      "start": 292.38,
+      "end": 294.68
+    },
+    {
+      "text": " hogy is működik a mi szakmánk.",
+      "start": 295.12,
+      "end": 296.98
+    },
+    {
+      "text": " Hogy tegnap este, nagyon izgultam a mai fellépés miatt,",
+      "start": 297.62,
+      "end": 301.52
+    },
+    {
+      "text": " és úgy tűnt, hogy elvegyek sétálni.",
+      "start": 301.62,
+      "end": 303.7
+    },
+    {
+      "text": " Egyen ikletozó sétálról, mert ez olyan, mint amit egy művész is csinálna.",
+      "start": 303.74,
+      "end": 307.28
+    },
+    {
+      "text": " És kilépek a házból, 20 métert tettem meg,",
+      "start": 309.1,
+      "end": 311.62
+    },
+    {
+      "text": " siet velem szembe egy kisgyerek,",
+      "start": 312.06,
+      "end": 313.52
+    },
+    {
+      "text": " és kiabál, hogy jó napot elvinne valameddig!",
+      "start": 313.78,
+      "end": 316.5
+    },
+    {
+      "text": " Én? Mondom, én gyalog vagyok.",
+      "start": 323.38,
+      "end": 324.6
+    },
+    {
+      "text": " Mondom, azt hittem, hogy...",
+      "start": 324.66,
+      "end": 325.28
+    },
+    {
+      "text": " Azt hittem, nem értettem a kérdést.",
+      "start": 326.9,
+      "end": 328.68
+    },
+    {
+      "text": " Mondom, tessék!",
+      "start": 328.9,
+      "end": 329.92
+    },
+    {
+      "text": " Mondom, elvinne valameddig!",
+      "start": 330.2,
+      "end": 331.94
+    },
+    {
+      "text": " Mondom, miért?",
+      "start": 333.1,
+      "end": 333.86
+    },
+    {
+      "text": " Azért, mert itt lakom az utca végén,",
+      "start": 334.32,
+      "end": 335.86
+    },
+    {
+      "text": " csak nagyon kell kakilom, és nem biztos, hogy odaérek.",
+      "start": 335.92,
+      "end": 337.84
+    },
+    {
+      "text": " Mondom, akkor fussál!",
+      "start": 344.06,
+      "end": 345.14
+    },
+    {
+      "text": " És elfutott.",
+      "start": 348.4,
+      "end": 349.6
+    },
+    {
+      "text": " Köszönöm szépen, figyelj!",
+      "start": 350.88,
+      "end": 352.08
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 352.16,
+      "end": 352.6
+    }
+  ],
+  "processing_time": 2.0232784748077393,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

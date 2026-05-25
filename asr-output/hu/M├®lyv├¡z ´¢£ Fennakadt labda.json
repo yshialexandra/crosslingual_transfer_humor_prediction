@@ -1,0 +1,124 @@
+{
+  "audio_file": "Mélyvíz ｜ Fennakadt labda.wav",
+  "full_text": "Rögudjatok, fenn akadt a labda, nem tudtok. Mi van, Endike, mi a probléma? Fenn akadt a labda, palibán. Aha, labda. És akkor mit füttyöksz? Nézd, ott, hát ha a mókus. Mókus. Aha. Az. Mókus. Na, várj egy picit, figyelje. Aló, mit csinálsz már megint ott te, nagy darab állat? Hát hányba kellett hajtanod magad, hogy beférje a kapunt te? Behemót barom. Ne nézzé, buflákfejű, hozzád beszélek. Hát az ilyen nagy darab marha, miért nem megy el, mossa le a viaduk talját létranélkül, mi? Szaladjál, Endike, ne nézzé! Ne húzd össze magad, kisköcsög! Hó! Na, most mi a bajod? Megvan a labda, nem? Hm. Én még próbálkoztam volna mókussal.",
+  "chunks": [
+    {
+      "text": " Rögudjatok, fenn akadt a labda, nem tudtok.",
+      "start": 3.120000000000001,
+      "end": 5.24
+    },
+    {
+      "text": " Mi van, Endike, mi a probléma?",
+      "start": 23.44,
+      "end": 25.32
+    },
+    {
+      "text": " Fenn akadt a labda, palibán.",
+      "start": 25.48,
+      "end": 26.66
+    },
+    {
+      "text": " Aha, labda.",
+      "start": 28.560000000000002,
+      "end": 29.74
+    },
+    {
+      "text": " És akkor mit füttyöksz?",
+      "start": 30.0,
+      "end": 31.1
+    },
+    {
+      "text": " Nézd, ott, hát ha a mókus.",
+      "start": 31.14,
+      "end": 32.12
+    },
+    {
+      "text": " Mókus.",
+      "start": 33.2,
+      "end": 33.6
+    },
+    {
+      "text": " Aha.",
+      "start": 33.92,
+      "end": 34.18
+    },
+    {
+      "text": " Az.",
+      "start": 34.48,
+      "end": 34.86
+    },
+    {
+      "text": " Mókus.",
+      "start": 35.44,
+      "end": 35.84
+    },
+    {
+      "text": " Na, várj egy picit, figyelje.",
+      "start": 36.56,
+      "end": 37.96
+    },
+    {
+      "text": " Aló, mit csinálsz már megint ott te, nagy darab állat?",
+      "start": 40.14,
+      "end": 43.1
+    },
+    {
+      "text": " Hát hányba kellett hajtanod magad, hogy beférje a kapunt te?",
+      "start": 43.16,
+      "end": 46.32
+    },
+    {
+      "text": " Behemót barom.",
+      "start": 47.01999999999999,
+      "end": 47.82
+    },
+    {
+      "text": " Ne nézzé, buflákfejű, hozzád beszélek.",
+      "start": 48.0,
+      "end": 50.52
+    },
+    {
+      "text": " Hát az ilyen nagy darab marha, miért nem megy el,",
+      "start": 50.68,
+      "end": 52.76
+    },
+    {
+      "text": " mossa le a viaduk talját létranélkül, mi?",
+      "start": 52.96,
+      "end": 55.82
+    },
+    {
+      "text": " Szaladjál, Endike, ne nézzé!",
+      "start": 56.3,
+      "end": 57.88
+    },
+    {
+      "text": " Ne húzd össze magad, kisköcsög!",
+      "start": 57.88,
+      "end": 59.94
+    },
+    {
+      "text": " Hó!",
+      "start": 60.58,
+      "end": 61.1
+    },
+    {
+      "text": " Na, most mi a bajod? Megvan a labda, nem?",
+      "start": 65.28,
+      "end": 67.34
+    },
+    {
+      "text": " Hm.",
+      "start": 68.26,
+      "end": 68.5
+    },
+    {
+      "text": " Én még próbálkoztam volna mókussal.",
+      "start": 70.44,
+      "end": 72.46
+    }
+  ],
+  "processing_time": 0.4261167049407959,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

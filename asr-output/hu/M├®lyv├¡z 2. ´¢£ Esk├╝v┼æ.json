@@ -1,0 +1,34 @@
+{
+  "audio_file": "Mélyvíz 2. ｜ Esküvő.wav",
+  "full_text": "Köszönöm szépen! Kicsit tegyél már úgy enni, mintha élveznél. Próbálok. A vacsorát befejeztük, érkezik a torta, az a rának éjjelettől kitágul a torka. Értik? Na, egészség! Ej, de karonyeltek. Itt büfök a szerelemvonat! Senki nem jön után. Kellemeslen. Eladóba megy, asszony! Senki nem táncol. Kicsoda, egy szarrágó banda ezek, te. Te. Nem holnap van a lagzi? Basszus, de. Ez az osztálytalálkozó. Kicsoda!",
+  "chunks": [
+    {
+      "text": " Köszönöm szépen!",
+      "start": 0.0,
+      "end": 7.06
+    },
+    {
+      "text": " Kicsit tegyél már úgy enni, mintha élveznél. Próbálok. A vacsorát befejeztük, érkezik a torta, az a rának éjjelettől kitágul a torka. Értik? Na, egészség!",
+      "start": 30.0,
+      "end": 42.26
+    },
+    {
+      "text": " Ej, de karonyeltek. Itt büfök a szerelemvonat! Senki nem jön után. Kellemeslen.",
+      "start": 46.74,
+      "end": 55.58
+    },
+    {
+      "text": " Eladóba megy, asszony! Senki nem táncol. Kicsoda, egy szarrágó banda ezek, te. Te. Nem holnap van a lagzi? Basszus, de. Ez az osztálytalálkozó.",
+      "start": 59.220000000000006,
+      "end": 80.92
+    },
+    {
+      "text": " Kicsoda!",
+      "start": 85.58,
+      "end": 86.26
+    }
+  ],
+  "processing_time": 1.5813536643981934,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

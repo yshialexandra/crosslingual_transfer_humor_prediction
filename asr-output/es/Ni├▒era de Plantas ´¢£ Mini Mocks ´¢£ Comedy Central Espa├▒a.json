@@ -1,0 +1,2214 @@
+{
+  "audio_file": "Niñera de Plantas ｜ Mini Mocks ｜ Comedy Central España.wav",
+  "full_text": " It takes a village to shape a life, even if that life is a plant. And that's where I come in. I'm Dawn. I'm the plant nanny. Good morning! Thank you. Thank you. Bye! Being a nanny for plants is unconventional for some, but for me it's natural. Okay, who needs some encouragement? I don't have the same maternal instincts for flesh babies that I do for saplings. You got... Oh! I'm barren. There's nothing but tumbleweeds and dry earth down there. So my bond with cacti and succulents is impregnable. I've dedicated my life to nurturing these beauties and educating the masses on how to care for the earth se trata del debate de la naturaleza contra la nutrición, creo en la nutrición de la naturaleza. Soy una nena certificada de la mesa, así que mantendré mis plantas en un plan que está lleno de tiempo de juego, nutrición y amor. Y él necesitaba crecer. Entonces, ¿qué hacemos? Nurture, Nurture, I'm a board certified nanny, so I'll keep your plants on a schedule that's filled with playtime, nourishment, and love. And he needed to grow, so what do we do? We give him lots and lots of water, the plant will begin to grow, and grow! I prefer the regurgitation method because it fosters a soil to saliva bond. It's the equivalent of skin to skin contact with a human baby. Throughout the work week I'm able to monitor their humidity levels, their growth, and my ¡Gracias por ver este vídeo. ¡Sus no! ¿Bebe, estás bien? As a nanny que sus plantas estén bien y que reciban suficiente luz y atención. Es como si no estuviera ahí. ¡Oh, no! ¿Bebe, estás bien? Como nena, nunca dejo mis plantas. Las atendo desde germinación a geriatría. Así que mi cuidado de la vida transite en cuidado de la vida. Es realmente sereno. ¡Dios mío? ¿Por qué?",
+  "chunks": [
+    {
+      "text": " It",
+      "timestamp": [
+        0.0,
+        1.5
+      ]
+    },
+    {
+      "text": " takes",
+      "timestamp": [
+        1.5,
+        1.96
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        1.96,
+        2.18
+      ]
+    },
+    {
+      "text": " village",
+      "timestamp": [
+        2.18,
+        2.44
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        2.44,
+        2.72
+      ]
+    },
+    {
+      "text": " shape",
+      "timestamp": [
+        2.72,
+        2.9
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        2.9,
+        3.04
+      ]
+    },
+    {
+      "text": " life,",
+      "timestamp": [
+        3.04,
+        3.38
+      ]
+    },
+    {
+      "text": " even",
+      "timestamp": [
+        3.38,
+        3.78
+      ]
+    },
+    {
+      "text": " if",
+      "timestamp": [
+        3.78,
+        3.94
+      ]
+    },
+    {
+      "text": " that",
+      "timestamp": [
+        3.94,
+        4.1
+      ]
+    },
+    {
+      "text": " life",
+      "timestamp": [
+        4.1,
+        4.34
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        4.34,
+        4.5
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        4.5,
+        4.6
+      ]
+    },
+    {
+      "text": " plant.",
+      "timestamp": [
+        4.6,
+        4.9
+      ]
+    },
+    {
+      "text": " And",
+      "timestamp": [
+        5.34,
+        5.4
+      ]
+    },
+    {
+      "text": " that's",
+      "timestamp": [
+        5.4,
+        5.66
+      ]
+    },
+    {
+      "text": " where",
+      "timestamp": [
+        5.66,
+        5.74
+      ]
+    },
+    {
+      "text": " I",
+      "timestamp": [
+        5.74,
+        5.88
+      ]
+    },
+    {
+      "text": " come",
+      "timestamp": [
+        5.88,
+        6.04
+      ]
+    },
+    {
+      "text": " in.",
+      "timestamp": [
+        6.04,
+        6.3
+      ]
+    },
+    {
+      "text": " I'm",
+      "timestamp": [
+        6.52,
+        7.18
+      ]
+    },
+    {
+      "text": " Dawn.",
+      "timestamp": [
+        7.18,
+        7.52
+      ]
+    },
+    {
+      "text": " I'm",
+      "timestamp": [
+        7.52,
+        7.96
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        7.96,
+        8.06
+      ]
+    },
+    {
+      "text": " plant",
+      "timestamp": [
+        8.06,
+        8.26
+      ]
+    },
+    {
+      "text": " nanny.",
+      "timestamp": [
+        8.26,
+        8.68
+      ]
+    },
+    {
+      "text": " Good",
+      "timestamp": [
+        9.04,
+        9.12
+      ]
+    },
+    {
+      "text": " morning!",
+      "timestamp": [
+        9.12,
+        10.46
+      ]
+    },
+    {
+      "text": " Thank",
+      "timestamp": [
+        11.46,
+        11.68
+      ]
+    },
+    {
+      "text": " you.",
+      "timestamp": [
+        11.68,
+        12.24
+      ]
+    },
+    {
+      "text": " Thank",
+      "timestamp": [
+        12.24,
+        12.8
+      ]
+    },
+    {
+      "text": " you.",
+      "timestamp": [
+        12.8,
+        13.22
+      ]
+    },
+    {
+      "text": " Bye!",
+      "timestamp": [
+        13.22,
+        14.1
+      ]
+    },
+    {
+      "text": " Being",
+      "timestamp": [
+        14.64,
+        14.82
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        14.82,
+        15.02
+      ]
+    },
+    {
+      "text": " nanny",
+      "timestamp": [
+        15.02,
+        15.26
+      ]
+    },
+    {
+      "text": " for",
+      "timestamp": [
+        15.26,
+        15.4
+      ]
+    },
+    {
+      "text": " plants",
+      "timestamp": [
+        15.4,
+        15.72
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        15.72,
+        15.94
+      ]
+    },
+    {
+      "text": " unconventional",
+      "timestamp": [
+        15.94,
+        16.58
+      ]
+    },
+    {
+      "text": " for",
+      "timestamp": [
+        16.58,
+        16.88
+      ]
+    },
+    {
+      "text": " some,",
+      "timestamp": [
+        16.88,
+        17.34
+      ]
+    },
+    {
+      "text": " but",
+      "timestamp": [
+        17.34,
+        17.72
+      ]
+    },
+    {
+      "text": " for",
+      "timestamp": [
+        17.72,
+        17.88
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        17.88,
+        18.08
+      ]
+    },
+    {
+      "text": " it's",
+      "timestamp": [
+        18.08,
+        18.28
+      ]
+    },
+    {
+      "text": " natural.",
+      "timestamp": [
+        18.28,
+        18.76
+      ]
+    },
+    {
+      "text": " Okay,",
+      "timestamp": [
+        18.94,
+        19.12
+      ]
+    },
+    {
+      "text": " who",
+      "timestamp": [
+        19.12,
+        19.2
+      ]
+    },
+    {
+      "text": " needs",
+      "timestamp": [
+        19.2,
+        19.4
+      ]
+    },
+    {
+      "text": " some",
+      "timestamp": [
+        19.4,
+        19.56
+      ]
+    },
+    {
+      "text": " encouragement?",
+      "timestamp": [
+        19.56,
+        19.94
+      ]
+    },
+    {
+      "text": " I",
+      "timestamp": [
+        20.44,
+        20.58
+      ]
+    },
+    {
+      "text": " don't",
+      "timestamp": [
+        20.58,
+        20.74
+      ]
+    },
+    {
+      "text": " have",
+      "timestamp": [
+        20.74,
+        20.84
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        20.84,
+        20.94
+      ]
+    },
+    {
+      "text": " same",
+      "timestamp": [
+        20.94,
+        21.14
+      ]
+    },
+    {
+      "text": " maternal",
+      "timestamp": [
+        21.14,
+        21.34
+      ]
+    },
+    {
+      "text": " instincts",
+      "timestamp": [
+        21.34,
+        21.68
+      ]
+    },
+    {
+      "text": " for",
+      "timestamp": [
+        21.68,
+        22.06
+      ]
+    },
+    {
+      "text": " flesh",
+      "timestamp": [
+        22.06,
+        22.28
+      ]
+    },
+    {
+      "text": " babies",
+      "timestamp": [
+        22.28,
+        22.52
+      ]
+    },
+    {
+      "text": " that",
+      "timestamp": [
+        22.52,
+        22.86
+      ]
+    },
+    {
+      "text": " I",
+      "timestamp": [
+        22.86,
+        22.98
+      ]
+    },
+    {
+      "text": " do",
+      "timestamp": [
+        22.98,
+        23.1
+      ]
+    },
+    {
+      "text": " for",
+      "timestamp": [
+        23.1,
+        23.26
+      ]
+    },
+    {
+      "text": " saplings.",
+      "timestamp": [
+        23.26,
+        23.94
+      ]
+    },
+    {
+      "text": " You",
+      "timestamp": [
+        24.14,
+        24.24
+      ]
+    },
+    {
+      "text": " got...",
+      "timestamp": [
+        24.24,
+        24.5
+      ]
+    },
+    {
+      "text": " Oh!",
+      "timestamp": [
+        24.5,
+        24.9
+      ]
+    },
+    {
+      "text": " I'm",
+      "timestamp": [
+        25.34,
+        25.7
+      ]
+    },
+    {
+      "text": " barren.",
+      "timestamp": [
+        25.7,
+        26.28
+      ]
+    },
+    {
+      "text": " There's",
+      "timestamp": [
+        26.82,
+        27.18
+      ]
+    },
+    {
+      "text": " nothing",
+      "timestamp": [
+        27.18,
+        27.48
+      ]
+    },
+    {
+      "text": " but",
+      "timestamp": [
+        27.48,
+        27.74
+      ]
+    },
+    {
+      "text": " tumbleweeds",
+      "timestamp": [
+        27.74,
+        28.24
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        28.24,
+        28.42
+      ]
+    },
+    {
+      "text": " dry",
+      "timestamp": [
+        28.42,
+        28.56
+      ]
+    },
+    {
+      "text": " earth",
+      "timestamp": [
+        28.56,
+        28.82
+      ]
+    },
+    {
+      "text": " down",
+      "timestamp": [
+        28.82,
+        29.04
+      ]
+    },
+    {
+      "text": " there.",
+      "timestamp": [
+        29.04,
+        29.36
+      ]
+    },
+    {
+      "text": " So",
+      "timestamp": [
+        29.58,
+        29.66
+      ]
+    },
+    {
+      "text": " my",
+      "timestamp": [
+        29.66,
+        29.84
+      ]
+    },
+    {
+      "text": " bond",
+      "timestamp": [
+        29.84,
+        30.06
+      ]
+    },
+    {
+      "text": " with",
+      "timestamp": [
+        30.06,
+        30.2
+      ]
+    },
+    {
+      "text": " cacti",
+      "timestamp": [
+        30.2,
+        30.54
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        30.54,
+        30.68
+      ]
+    },
+    {
+      "text": " succulents",
+      "timestamp": [
+        30.68,
+        31.18
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        31.18,
+        31.38
+      ]
+    },
+    {
+      "text": " impregnable.",
+      "timestamp": [
+        31.38,
+        32.04
+      ]
+    },
+    {
+      "text": " I've",
+      "timestamp": [
+        32.76,
+        33.36
+      ]
+    },
+    {
+      "text": " dedicated",
+      "timestamp": [
+        33.36,
+        33.6
+      ]
+    },
+    {
+      "text": " my",
+      "timestamp": [
+        33.6,
+        33.94
+      ]
+    },
+    {
+      "text": " life",
+      "timestamp": [
+        33.94,
+        34.2
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        34.2,
+        34.36
+      ]
+    },
+    {
+      "text": " nurturing",
+      "timestamp": [
+        34.36,
+        34.62
+      ]
+    },
+    {
+      "text": " these",
+      "timestamp": [
+        34.62,
+        34.98
+      ]
+    },
+    {
+      "text": " beauties",
+      "timestamp": [
+        34.98,
+        35.4
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        35.52,
+        35.62
+      ]
+    },
+    {
+      "text": " educating",
+      "timestamp": [
+        35.62,
+        36.0
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        36.0,
+        36.26
+      ]
+    },
+    {
+      "text": " masses",
+      "timestamp": [
+        36.26,
+        36.5
+      ]
+    },
+    {
+      "text": " on",
+      "timestamp": [
+        36.5,
+        36.72
+      ]
+    },
+    {
+      "text": " how",
+      "timestamp": [
+        36.72,
+        36.88
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        36.88,
+        37.02
+      ]
+    },
+    {
+      "text": " care",
+      "timestamp": [
+        37.02,
+        37.18
+      ]
+    },
+    {
+      "text": " for",
+      "timestamp": [
+        37.18,
+        37.34
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        37.34,
+        37.46
+      ]
+    },
+    {
+      "text": " earth",
+      "timestamp": [
+        37.46,
+        37.64
+      ]
+    },
+    {
+      "text": " se",
+      "timestamp": [
+        55.94,
+        56.1
+      ]
+    },
+    {
+      "text": " trata",
+      "timestamp": [
+        56.1,
+        56.28
+      ]
+    },
+    {
+      "text": " del",
+      "timestamp": [
+        56.28,
+        56.46
+      ]
+    },
+    {
+      "text": " debate",
+      "timestamp": [
+        56.46,
+        56.76
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        56.76,
+        57.2
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        57.2,
+        57.36
+      ]
+    },
+    {
+      "text": " naturaleza",
+      "timestamp": [
+        57.36,
+        57.66
+      ]
+    },
+    {
+      "text": " contra",
+      "timestamp": [
+        57.66,
+        57.8
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        57.8,
+        58.06
+      ]
+    },
+    {
+      "text": " nutrición,",
+      "timestamp": [
+        58.06,
+        58.56
+      ]
+    },
+    {
+      "text": " creo",
+      "timestamp": [
+        58.56,
+        59.22
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        59.22,
+        59.56
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        59.56,
+        59.74
+      ]
+    },
+    {
+      "text": " nutrición",
+      "timestamp": [
+        59.74,
+        60.02
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        60.02,
+        60.14
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        60.14,
+        60.14
+      ]
+    },
+    {
+      "text": " naturaleza.",
+      "timestamp": [
+        60.14,
+        60.34
+      ]
+    },
+    {
+      "text": " Soy",
+      "timestamp": [
+        60.72,
+        61.0
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        61.0,
+        61.1
+      ]
+    },
+    {
+      "text": " nena",
+      "timestamp": [
+        61.1,
+        61.28
+      ]
+    },
+    {
+      "text": " certificada",
+      "timestamp": [
+        61.28,
+        61.7
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        61.7,
+        61.78
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        61.78,
+        61.78
+      ]
+    },
+    {
+      "text": " mesa,",
+      "timestamp": [
+        61.78,
+        62.0
+      ]
+    },
+    {
+      "text": " así",
+      "timestamp": [
+        62.0,
+        62.38
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        62.38,
+        62.44
+      ]
+    },
+    {
+      "text": " mantendré",
+      "timestamp": [
+        62.44,
+        62.7
+      ]
+    },
+    {
+      "text": " mis",
+      "timestamp": [
+        62.7,
+        62.88
+      ]
+    },
+    {
+      "text": " plantas",
+      "timestamp": [
+        62.88,
+        63.1
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        63.1,
+        63.26
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        63.26,
+        63.34
+      ]
+    },
+    {
+      "text": " plan",
+      "timestamp": [
+        63.34,
+        63.5
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        63.5,
+        63.76
+      ]
+    },
+    {
+      "text": " está",
+      "timestamp": [
+        63.76,
+        63.9
+      ]
+    },
+    {
+      "text": " lleno",
+      "timestamp": [
+        63.9,
+        64.14
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        64.14,
+        64.32
+      ]
+    },
+    {
+      "text": " tiempo",
+      "timestamp": [
+        64.32,
+        64.54
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        64.54,
+        64.72
+      ]
+    },
+    {
+      "text": " juego,",
+      "timestamp": [
+        64.72,
+        64.78
+      ]
+    },
+    {
+      "text": " nutrición",
+      "timestamp": [
+        64.78,
+        65.74
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        65.74,
+        66.1
+      ]
+    },
+    {
+      "text": " amor.",
+      "timestamp": [
+        66.1,
+        66.68
+      ]
+    },
+    {
+      "text": " Y",
+      "timestamp": [
+        67.18,
+        67.28
+      ]
+    },
+    {
+      "text": " él",
+      "timestamp": [
+        67.28,
+        67.6
+      ]
+    },
+    {
+      "text": " necesitaba",
+      "timestamp": [
+        67.6,
+        68.14
+      ]
+    },
+    {
+      "text": " crecer.",
+      "timestamp": [
+        68.14,
+        68.66
+      ]
+    },
+    {
+      "text": " Entonces,",
+      "timestamp": [
+        68.82,
+        69.38
+      ]
+    },
+    {
+      "text": " ¿qué",
+      "timestamp": [
+        69.38,
+        69.56
+      ]
+    },
+    {
+      "text": " hacemos?",
+      "timestamp": [
+        69.56,
+        69.98
+      ]
+    },
+    {
+      "text": " Nurture,",
+      "timestamp": [
+        60.0,
+        60.1
+      ]
+    },
+    {
+      "text": " Nurture,",
+      "timestamp": [
+        60.1,
+        60.6
+      ]
+    },
+    {
+      "text": " I'm",
+      "timestamp": [
+        60.6,
+        61.08
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        61.08,
+        61.1
+      ]
+    },
+    {
+      "text": " board",
+      "timestamp": [
+        61.1,
+        61.3
+      ]
+    },
+    {
+      "text": " certified",
+      "timestamp": [
+        61.3,
+        61.54
+      ]
+    },
+    {
+      "text": " nanny,",
+      "timestamp": [
+        61.54,
+        62.06
+      ]
+    },
+    {
+      "text": " so",
+      "timestamp": [
+        62.06,
+        62.38
+      ]
+    },
+    {
+      "text": " I'll",
+      "timestamp": [
+        62.38,
+        62.58
+      ]
+    },
+    {
+      "text": " keep",
+      "timestamp": [
+        62.58,
+        62.68
+      ]
+    },
+    {
+      "text": " your",
+      "timestamp": [
+        62.68,
+        62.84
+      ]
+    },
+    {
+      "text": " plants",
+      "timestamp": [
+        62.84,
+        63.1
+      ]
+    },
+    {
+      "text": " on",
+      "timestamp": [
+        63.1,
+        63.24
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        63.24,
+        63.34
+      ]
+    },
+    {
+      "text": " schedule",
+      "timestamp": [
+        63.34,
+        63.58
+      ]
+    },
+    {
+      "text": " that's",
+      "timestamp": [
+        63.58,
+        63.9
+      ]
+    },
+    {
+      "text": " filled",
+      "timestamp": [
+        63.98,
+        64.1
+      ]
+    },
+    {
+      "text": " with",
+      "timestamp": [
+        64.1,
+        64.28
+      ]
+    },
+    {
+      "text": " playtime,",
+      "timestamp": [
+        64.28,
+        64.86
+      ]
+    },
+    {
+      "text": " nourishment,",
+      "timestamp": [
+        64.86,
+        65.94
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        65.94,
+        66.44
+      ]
+    },
+    {
+      "text": " love.",
+      "timestamp": [
+        66.44,
+        66.88
+      ]
+    },
+    {
+      "text": " And",
+      "timestamp": [
+        67.18,
+        67.28
+      ]
+    },
+    {
+      "text": " he",
+      "timestamp": [
+        67.28,
+        67.54
+      ]
+    },
+    {
+      "text": " needed",
+      "timestamp": [
+        67.54,
+        68.04
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        68.04,
+        68.26
+      ]
+    },
+    {
+      "text": " grow,",
+      "timestamp": [
+        68.26,
+        68.84
+      ]
+    },
+    {
+      "text": " so",
+      "timestamp": [
+        68.84,
+        69.3
+      ]
+    },
+    {
+      "text": " what",
+      "timestamp": [
+        69.3,
+        69.5
+      ]
+    },
+    {
+      "text": " do",
+      "timestamp": [
+        69.5,
+        69.64
+      ]
+    },
+    {
+      "text": " we",
+      "timestamp": [
+        69.64,
+        69.8
+      ]
+    },
+    {
+      "text": " do?",
+      "timestamp": [
+        69.8,
+        70.16
+      ]
+    },
+    {
+      "text": " We",
+      "timestamp": [
+        70.46,
+        70.48
+      ]
+    },
+    {
+      "text": " give",
+      "timestamp": [
+        70.48,
+        70.7
+      ]
+    },
+    {
+      "text": " him",
+      "timestamp": [
+        70.7,
+        70.84
+      ]
+    },
+    {
+      "text": " lots",
+      "timestamp": [
+        70.84,
+        71.16
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        71.16,
+        71.46
+      ]
+    },
+    {
+      "text": " lots",
+      "timestamp": [
+        71.46,
+        71.72
+      ]
+    },
+    {
+      "text": " of",
+      "timestamp": [
+        71.72,
+        72.02
+      ]
+    },
+    {
+      "text": " water,",
+      "timestamp": [
+        72.02,
+        72.6
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        72.6,
+        74.0
+      ]
+    },
+    {
+      "text": " plant",
+      "timestamp": [
+        74.0,
+        74.34
+      ]
+    },
+    {
+      "text": " will",
+      "timestamp": [
+        74.34,
+        74.46
+      ]
+    },
+    {
+      "text": " begin",
+      "timestamp": [
+        74.46,
+        74.7
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        74.7,
+        74.9
+      ]
+    },
+    {
+      "text": " grow,",
+      "timestamp": [
+        74.9,
+        75.42
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        75.42,
+        75.68
+      ]
+    },
+    {
+      "text": " grow!",
+      "timestamp": [
+        75.68,
+        76.34
+      ]
+    },
+    {
+      "text": " I",
+      "timestamp": [
+        76.68,
+        76.76
+      ]
+    },
+    {
+      "text": " prefer",
+      "timestamp": [
+        76.76,
+        77.02
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        77.02,
+        77.28
+      ]
+    },
+    {
+      "text": " regurgitation",
+      "timestamp": [
+        77.28,
+        77.76
+      ]
+    },
+    {
+      "text": " method",
+      "timestamp": [
+        77.76,
+        78.18
+      ]
+    },
+    {
+      "text": " because",
+      "timestamp": [
+        78.18,
+        78.62
+      ]
+    },
+    {
+      "text": " it",
+      "timestamp": [
+        78.62,
+        78.78
+      ]
+    },
+    {
+      "text": " fosters",
+      "timestamp": [
+        78.78,
+        79.14
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        79.14,
+        79.34
+      ]
+    },
+    {
+      "text": " soil",
+      "timestamp": [
+        79.34,
+        79.58
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        79.58,
+        79.78
+      ]
+    },
+    {
+      "text": " saliva",
+      "timestamp": [
+        79.78,
+        80.0
+      ]
+    },
+    {
+      "text": " bond.",
+      "timestamp": [
+        80.0,
+        80.68
+      ]
+    },
+    {
+      "text": " It's",
+      "timestamp": [
+        81.26,
+        81.82
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        81.82,
+        81.92
+      ]
+    },
+    {
+      "text": " equivalent",
+      "timestamp": [
+        81.92,
+        82.26
+      ]
+    },
+    {
+      "text": " of",
+      "timestamp": [
+        82.26,
+        82.62
+      ]
+    },
+    {
+      "text": " skin",
+      "timestamp": [
+        82.62,
+        82.92
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        82.92,
+        83.08
+      ]
+    },
+    {
+      "text": " skin",
+      "timestamp": [
+        83.08,
+        83.2
+      ]
+    },
+    {
+      "text": " contact",
+      "timestamp": [
+        83.2,
+        83.6
+      ]
+    },
+    {
+      "text": " with",
+      "timestamp": [
+        83.6,
+        83.98
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        83.98,
+        84.1
+      ]
+    },
+    {
+      "text": " human",
+      "timestamp": [
+        84.1,
+        84.36
+      ]
+    },
+    {
+      "text": " baby.",
+      "timestamp": [
+        84.36,
+        85.08
+      ]
+    },
+    {
+      "text": " Throughout",
+      "timestamp": [
+        85.22,
+        85.3
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        85.3,
+        85.54
+      ]
+    },
+    {
+      "text": " work",
+      "timestamp": [
+        85.54,
+        85.7
+      ]
+    },
+    {
+      "text": " week",
+      "timestamp": [
+        85.7,
+        85.86
+      ]
+    },
+    {
+      "text": " I'm",
+      "timestamp": [
+        85.86,
+        86.06
+      ]
+    },
+    {
+      "text": " able",
+      "timestamp": [
+        86.06,
+        86.14
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        86.14,
+        86.3
+      ]
+    },
+    {
+      "text": " monitor",
+      "timestamp": [
+        86.3,
+        86.52
+      ]
+    },
+    {
+      "text": " their",
+      "timestamp": [
+        86.52,
+        86.72
+      ]
+    },
+    {
+      "text": " humidity",
+      "timestamp": [
+        86.72,
+        87.08
+      ]
+    },
+    {
+      "text": " levels,",
+      "timestamp": [
+        87.08,
+        87.9
+      ]
+    },
+    {
+      "text": " their",
+      "timestamp": [
+        87.9,
+        88.22
+      ]
+    },
+    {
+      "text": " growth,",
+      "timestamp": [
+        88.22,
+        88.9
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        88.9,
+        89.36
+      ]
+    },
+    {
+      "text": " my",
+      "timestamp": [
+        89.36,
+        89.48
+      ]
+    },
+    {
+      "text": " ¡Gracias",
+      "timestamp": [
+        89.58,
+        89.98
+      ]
+    },
+    {
+      "text": " por",
+      "timestamp": [
+        89.98,
+        89.98
+      ]
+    },
+    {
+      "text": " ver",
+      "timestamp": [
+        89.98,
+        89.98
+      ]
+    },
+    {
+      "text": " este",
+      "timestamp": [
+        89.98,
+        89.98
+      ]
+    },
+    {
+      "text": " vídeo.",
+      "timestamp": [
+        89.98,
+        107.94
+      ]
+    },
+    {
+      "text": " ¡Sus",
+      "timestamp": [
+        108.0,
+        108.72
+      ]
+    },
+    {
+      "text": " no!",
+      "timestamp": [
+        127.14,
+        127.48
+      ]
+    },
+    {
+      "text": " ¿Bebe,",
+      "timestamp": [
+        127.9,
+        128.28
+      ]
+    },
+    {
+      "text": " estás",
+      "timestamp": [
+        128.28,
+        128.46
+      ]
+    },
+    {
+      "text": " bien?",
+      "timestamp": [
+        128.46,
+        128.76
+      ]
+    },
+    {
+      "text": " As",
+      "timestamp": [
+        128.78,
+        129.36
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        129.36,
+        129.44
+      ]
+    },
+    {
+      "text": " nanny",
+      "timestamp": [
+        129.44,
+        129.8
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        120.0,
+        120.12
+      ]
+    },
+    {
+      "text": " sus",
+      "timestamp": [
+        120.12,
+        120.28
+      ]
+    },
+    {
+      "text": " plantas",
+      "timestamp": [
+        120.28,
+        120.64
+      ]
+    },
+    {
+      "text": " estén",
+      "timestamp": [
+        120.64,
+        120.84
+      ]
+    },
+    {
+      "text": " bien",
+      "timestamp": [
+        120.84,
+        121.2
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        121.2,
+        121.6
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        121.6,
+        121.94
+      ]
+    },
+    {
+      "text": " reciban",
+      "timestamp": [
+        121.94,
+        122.28
+      ]
+    },
+    {
+      "text": " suficiente",
+      "timestamp": [
+        122.28,
+        122.48
+      ]
+    },
+    {
+      "text": " luz",
+      "timestamp": [
+        122.48,
+        122.62
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        122.62,
+        122.76
+      ]
+    },
+    {
+      "text": " atención.",
+      "timestamp": [
+        122.76,
+        123.3
+      ]
+    },
+    {
+      "text": " Es",
+      "timestamp": [
+        123.8,
+        123.96
+      ]
+    },
+    {
+      "text": " como",
+      "timestamp": [
+        123.96,
+        124.14
+      ]
+    },
+    {
+      "text": " si",
+      "timestamp": [
+        124.14,
+        124.28
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        124.28,
+        124.38
+      ]
+    },
+    {
+      "text": " estuviera",
+      "timestamp": [
+        124.38,
+        124.58
+      ]
+    },
+    {
+      "text": " ahí.",
+      "timestamp": [
+        124.58,
+        124.98
+      ]
+    },
+    {
+      "text": " ¡Oh,",
+      "timestamp": [
+        125.96,
+        127.12
+      ]
+    },
+    {
+      "text": " no!",
+      "timestamp": [
+        127.12,
+        127.48
+      ]
+    },
+    {
+      "text": " ¿Bebe,",
+      "timestamp": [
+        127.94,
+        128.28
+      ]
+    },
+    {
+      "text": " estás",
+      "timestamp": [
+        128.28,
+        128.46
+      ]
+    },
+    {
+      "text": " bien?",
+      "timestamp": [
+        128.46,
+        128.76
+      ]
+    },
+    {
+      "text": " Como",
+      "timestamp": [
+        129.2,
+        129.36
+      ]
+    },
+    {
+      "text": " nena,",
+      "timestamp": [
+        129.36,
+        129.82
+      ]
+    },
+    {
+      "text": " nunca",
+      "timestamp": [
+        129.82,
+        130.12
+      ]
+    },
+    {
+      "text": " dejo",
+      "timestamp": [
+        130.12,
+        130.62
+      ]
+    },
+    {
+      "text": " mis",
+      "timestamp": [
+        130.62,
+        130.7
+      ]
+    },
+    {
+      "text": " plantas.",
+      "timestamp": [
+        130.7,
+        131.2
+      ]
+    },
+    {
+      "text": " Las",
+      "timestamp": [
+        131.66,
+        131.78
+      ]
+    },
+    {
+      "text": " atendo",
+      "timestamp": [
+        131.78,
+        131.98
+      ]
+    },
+    {
+      "text": " desde",
+      "timestamp": [
+        131.98,
+        132.3
+      ]
+    },
+    {
+      "text": " germinación",
+      "timestamp": [
+        132.3,
+        132.98
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        132.98,
+        133.32
+      ]
+    },
+    {
+      "text": " geriatría.",
+      "timestamp": [
+        133.32,
+        133.98
+      ]
+    },
+    {
+      "text": " Así",
+      "timestamp": [
+        134.36,
+        134.68
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        134.68,
+        134.84
+      ]
+    },
+    {
+      "text": " mi",
+      "timestamp": [
+        134.84,
+        134.96
+      ]
+    },
+    {
+      "text": " cuidado",
+      "timestamp": [
+        134.96,
+        135.08
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        135.08,
+        135.36
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        135.36,
+        135.36
+      ]
+    },
+    {
+      "text": " vida",
+      "timestamp": [
+        135.36,
+        135.36
+      ]
+    },
+    {
+      "text": " transite",
+      "timestamp": [
+        135.36,
+        136.16
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        136.16,
+        136.32
+      ]
+    },
+    {
+      "text": " cuidado",
+      "timestamp": [
+        136.32,
+        136.7
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        136.7,
+        136.88
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        136.88,
+        136.98
+      ]
+    },
+    {
+      "text": " vida.",
+      "timestamp": [
+        136.98,
+        137.1
+      ]
+    },
+    {
+      "text": " Es",
+      "timestamp": [
+        138.16,
+        138.88
+      ]
+    },
+    {
+      "text": " realmente",
+      "timestamp": [
+        138.88,
+        139.22
+      ]
+    },
+    {
+      "text": " sereno.",
+      "timestamp": [
+        139.22,
+        140.04
+      ]
+    },
+    {
+      "text": " ¡Dios",
+      "timestamp": [
+        141.14,
+        143.4
+      ]
+    },
+    {
+      "text": " mío?",
+      "timestamp": [
+        143.4,
+        143.86
+      ]
+    },
+    {
+      "text": " ¿Por",
+      "timestamp": [
+        143.86,
+        144.16
+      ]
+    },
+    {
+      "text": " qué?",
+      "timestamp": [
+        144.16,
+        163.78
+      ]
+    }
+  ],
+  "processing_time": 7923.445235013962,
+  "language": "es",
+  "model_id": "openai/whisper-large-v3"
+}

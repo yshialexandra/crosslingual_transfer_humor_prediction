@@ -1,0 +1,59 @@
+{
+  "audio_file": "Mélyvíz 2. ｜ Ruházat.wav",
+  "full_text": "Música Laci, ég halászlevet főztek, látod? 49 lájk! Cipőm? Reggel pucoltam. Figyelj! Vagy nyer le, vagy köpt ki. De ne mondjad, hogy én nem szóltam. Hűje! Köszönöm.",
+  "chunks": [
+    {
+      "text": " Música",
+      "start": 0.0,
+      "end": 0.5
+    },
+    {
+      "text": " Laci, ég halászlevet főztek, látod?",
+      "start": 11.459999999999999,
+      "end": 13.58
+    },
+    {
+      "text": " 49 lájk!",
+      "start": 13.66,
+      "end": 14.66
+    },
+    {
+      "text": " Cipőm?",
+      "start": 16.64,
+      "end": 17.28
+    },
+    {
+      "text": " Reggel pucoltam.",
+      "start": 17.52,
+      "end": 18.44
+    },
+    {
+      "text": " Figyelj!",
+      "start": 19.9,
+      "end": 20.54
+    },
+    {
+      "text": " Vagy nyer le, vagy köpt ki.",
+      "start": 20.76,
+      "end": 22.84
+    },
+    {
+      "text": " De ne mondjad, hogy én nem szóltam.",
+      "start": 24.7,
+      "end": 26.82
+    },
+    {
+      "text": " Hűje!",
+      "start": 27.48,
+      "end": 28.0
+    },
+    {
+      "text": " Köszönöm.",
+      "start": 30.580000000000002,
+      "end": 31.98
+    }
+  ],
+  "processing_time": 1.411675214767456,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

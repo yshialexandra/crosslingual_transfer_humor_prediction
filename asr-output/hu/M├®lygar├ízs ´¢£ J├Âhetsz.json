@@ -1,0 +1,44 @@
+{
+  "audio_file": "Mélygarázs ｜ Jöhetsz.wav",
+  "full_text": "Jó, gyere, gyere, gyere, gyere, gyere! Jöjjel! Szedd alá. Most erősen szedd. Szedd, szedd, szedd, szedd! Szedd! Szedd, szedd! Most élesen alá! Szedjed! Jó, jöhetsz, jöhetsz! Jasz! Jó, lassan! Várjál, várjál, várjál! Mi van már? Semmit csak elengedem, várjál! Igen? Jó, gyere! Jöhetsz! Vissza! Gyere! Jó? Óvatos! Lassan! Lassan! Lassan! Endike, ha elállnál mögülem, akkor sokkal jobban látnéd! Akkor miért nem óra látni?",
+  "chunks": [
+    {
+      "text": " Jó, gyere, gyere, gyere, gyere, gyere! Jöjjel!",
+      "start": 7.180000000000001,
+      "end": 9.16
+    },
+    {
+      "text": " Szedd alá. Most erősen szedd. Szedd, szedd, szedd, szedd!",
+      "start": 9.24,
+      "end": 12.14
+    },
+    {
+      "text": " Szedd! Szedd, szedd! Most élesen alá! Szedjed! Jó, jöhetsz, jöhetsz! Jasz! Jó, lassan! Várjál, várjál, várjál!",
+      "start": 12.66,
+      "end": 18.58
+    },
+    {
+      "text": " Mi van már? Semmit csak elengedem, várjál! Igen? Jó, gyere! Jöhetsz! Vissza!",
+      "start": 18.78,
+      "end": 24.52
+    },
+    {
+      "text": " Gyere! Jó? Óvatos! Lassan! Lassan! Lassan!",
+      "start": 24.52,
+      "end": 28.4
+    },
+    {
+      "text": " Endike, ha elállnál mögülem, akkor sokkal jobban látnéd!",
+      "start": 28.42,
+      "end": 31.2
+    },
+    {
+      "text": " Akkor miért nem óra látni?",
+      "start": 41.160000000000004,
+      "end": 42.94
+    }
+  ],
+  "processing_time": 1.205742597579956,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

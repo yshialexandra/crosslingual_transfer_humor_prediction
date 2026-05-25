@@ -1,0 +1,824 @@
+{
+  "audio_file": "_LW5iMbuGc8.wav",
+  "full_text": "When I think of how many times I yelled, Frank! Oh, hey! Hi, well, you're home early. How was the happy zone? I'm tired. Of course you're tired, because Grandpa was too cheap to park at the happy zone. That lot cost three bucks an hour. I found a meter with time left on it. Thirty-seven minutes? Oh, we had to run back so we wouldn't get a ticket. You call what you do running? I saw other wives being picked up at the door. I wish I could pick up another wife at the door. Maybe we should throw them separate parties. Oh, that was a wonderful brunch, you two. Lovely. What? It was a little much. We just thought that you would enjoy a nice anniversary brunch. We don't enjoy things, dear. Guess why? All right, come on, come on. We're supposed to be celebrating today, right? This marriage is nothing to celebrate. But 40 years, it's a big milestone. Think of all the good times. I had one good year. There you go. The year I left your mother. Sir. What? Hi. The children. What's the big secret? We split up for a year. I came back, didn't I? Wait, wait, wait. What are you talking about? We almost got divorced. What? Here's a sad word. Almost. I suppose it can't hurt to tell you now. We separated for a year. It was a terrible time. Separated? When? When was this? Oh, it's not important, dear. I have to go to the bathroom. Well, I want to know. No, wait, wait, wait. Surprise! Surprise! Hey! Look, Frank, a party. Holy crap. What is this story? Mom, Dad, happy anniversary. Amy and I have prepared a few remarks. Come with me. What are your brothers talking? Hey. Mark's is on a bridge dictionary. Defines wedlock as... Just keep toasting, all right? I'll have them back in a minute. The toast is for them. So is the cake. Uh, you know what? This is just gonna take a minute. So... I made a spinach boat, so party down, everybody. Bye. Hey, I saw cannolis in there. Later. Listen, I wanna know... Oh, Mel, thanks for coming. You got any decent scotch? Come on. Mel, please, give us a minute here. I was told there'd be widows here. You're a widow, a high school, everything. Yeah, yeah, yeah. When were you guys separated? It was like 30 years ago. Ray, I think the time for this is after the party, okay? Nice, Raymond. Very nice. I practiced. Did you know Mom and Dad were separated? Again? Wait, you knew? Where the hell was I that year? You were watching television. Yeah. Wild, Wild West. I'm sorry. Do I blow out these candles? Oh, how lovely. No, no, no, no. No cake until I hear this story. I'm sorry. It's getting very hot. All right. Come on. Let's hear it. Okay. We'd been living here in this house. We had had the kids. And when I think about it, we were a lot like you and Deborah. What? What? What do you mean? Not like us. Just like you two. I think Raymond, you were six and Robbie was, uh... Ten, Bob. It's Ray plus four. That's right. But I remember Frank and I were just like you two. Everything was normal. We'd had our differences. But this was the day I realized the man I married had no respect for me whatsoever. Don't make this a production, Marie. I remember. I'd been cooking all day. And you were taking your own sweet time coming down for dinner. When I think of how many times I yelled, Frank! A nice pot roast. Little red potatoes. Carrots cooked in the sauce. Before he even tasted a bite. He had the nerve to ask me for salt. Salt gives it taste. It had oregano, garlic, paprika. He wouldn't even try it. It's my house. I'm allowed to have salt if I want. Even if it destroys another person? You overreacted. You're always overreacting. You're the one who left. You threw me out. Champagne for everybody. You're busy, Mel. I've met my bride. Congratulations. And you thought I was a game. We should get out there. No, no, no, no. Not until they finish. Give me a break. Please tell me that cheese is from this party. Okay, well, after your father left, we didn't talk for a long time. And I thought it was over. But then you realized you made a big mistake and you got back together, right? Nah. Ray broke his arm. Wait a minute. Dad was there when I broke my arm? Yeah, I started coming by to check on you. Yeah, you were very concerned about Raymond. He was very sweet with you, Raymond. Well, his arm was busted. Everything kind of worked out from there. Well, how about that, Ray? It wouldn't even have been a 40th anniversary if it wasn't for your little arm, huh? Yeah. Can we go now? I'm out of cheese. You just came from brunch. Yeah, like you're not going to eat again. I'm going in. You with me? Wait a minute, wait a minute. Doesn't that story bother you? No, why shouldn't? It's water under the bridge. We all turned out okay. God, all this time I thought my parents ruined my life. It turns out I ruined theirs. You didn't ruin theirs. They got back together because of you. Right. They could have stayed apart. Met other people. Led happy, fulfilling lives. Your parents. They were different then. Didn't you hear my mom? Back then, they were just like you and me. Yeah, that was the worst part of that story. Deborah, dear, the guests are dipping their cups into the punch bowl since there's no ladle. Is that how you intended it? I'll get a ladle. I'll get a ladle. And they all lived happily ever after.",
+  "chunks": [
+    {
+      "text": " When I think of how many times I yelled, Frank!",
+      "start": 0.0,
+      "end": 2.56
+    },
+    {
+      "text": " Oh, hey!",
+      "start": 9.960000000000003,
+      "end": 10.94
+    },
+    {
+      "text": " Hi, well, you're home early. How was the happy zone?",
+      "start": 12.220000000000002,
+      "end": 15.28
+    },
+    {
+      "text": " I'm tired.",
+      "start": 15.54,
+      "end": 16.4
+    },
+    {
+      "text": " Of course you're tired, because Grandpa was too cheap to park at the happy zone.",
+      "start": 16.94,
+      "end": 21.42
+    },
+    {
+      "text": " That lot cost three bucks an hour. I found a meter with time left on it.",
+      "start": 23.68,
+      "end": 28.14
+    },
+    {
+      "text": " Thirty-seven minutes? Oh, we had to run back so we wouldn't get a ticket.",
+      "start": 28.14,
+      "end": 32.86
+    },
+    {
+      "text": " You call what you do running?",
+      "start": 33.14,
+      "end": 34.36
+    },
+    {
+      "text": " I saw other wives being picked up at the door.",
+      "start": 36.08,
+      "end": 38.5
+    },
+    {
+      "text": " I wish I could pick up another wife at the door.",
+      "start": 38.82,
+      "end": 41.06
+    },
+    {
+      "text": " Maybe we should throw them separate parties.",
+      "start": 47.3,
+      "end": 49.42
+    },
+    {
+      "text": " Oh, that was a wonderful brunch, you two. Lovely.",
+      "start": 54.13999999999999,
+      "end": 57.96
+    },
+    {
+      "text": " What?",
+      "start": 59.4,
+      "end": 59.88
+    },
+    {
+      "text": " It was a little much.",
+      "start": 61.46,
+      "end": 62.76
+    },
+    {
+      "text": " We just thought that you would enjoy a nice anniversary brunch.",
+      "start": 63.08,
+      "end": 66.14
+    },
+    {
+      "text": " We don't enjoy things, dear.",
+      "start": 66.42,
+      "end": 67.74
+    },
+    {
+      "text": " Guess why?",
+      "start": 68.98,
+      "end": 69.94
+    },
+    {
+      "text": " All right, come on, come on. We're supposed to be celebrating today, right?",
+      "start": 70.94,
+      "end": 73.64
+    },
+    {
+      "text": " This marriage is nothing to celebrate.",
+      "start": 73.8,
+      "end": 75.54
+    },
+    {
+      "text": " But 40 years, it's a big milestone. Think of all the good times.",
+      "start": 76.7,
+      "end": 80.26
+    },
+    {
+      "text": " I had one good year.",
+      "start": 80.4,
+      "end": 81.5
+    },
+    {
+      "text": " There you go.",
+      "start": 82.36,
+      "end": 83.32
+    },
+    {
+      "text": " The year I left your mother.",
+      "start": 83.56,
+      "end": 84.74
+    },
+    {
+      "text": " Sir.",
+      "start": 85.42,
+      "end": 85.64
+    },
+    {
+      "text": " What?",
+      "start": 85.92,
+      "end": 86.2
+    },
+    {
+      "text": " Hi.",
+      "start": 86.62,
+      "end": 87.14
+    },
+    {
+      "text": " The children.",
+      "start": 87.74000000000001,
+      "end": 88.7
+    },
+    {
+      "text": " What's the big secret? We split up for a year.",
+      "start": 89.1,
+      "end": 91.26
+    },
+    {
+      "text": " I came back, didn't I?",
+      "start": 91.52,
+      "end": 92.86
+    },
+    {
+      "text": " Wait, wait, wait. What are you talking about?",
+      "start": 93.4,
+      "end": 94.56
+    },
+    {
+      "text": " We almost got divorced.",
+      "start": 94.9,
+      "end": 96.46
+    },
+    {
+      "text": " What?",
+      "start": 97.44,
+      "end": 97.9
+    },
+    {
+      "text": " Here's a sad word.",
+      "start": 98.82000000000001,
+      "end": 100.24
+    },
+    {
+      "text": " Almost.",
+      "start": 100.84,
+      "end": 101.36
+    },
+    {
+      "text": " I suppose it can't hurt to tell you now. We separated for a year. It was a terrible time.",
+      "start": 103.88,
+      "end": 108.74
+    },
+    {
+      "text": " Separated? When? When was this?",
+      "start": 110.16,
+      "end": 111.54
+    },
+    {
+      "text": " Oh, it's not important, dear. I have to go to the bathroom.",
+      "start": 111.92,
+      "end": 115.06
+    },
+    {
+      "text": " Well, I want to know. No, wait, wait, wait.",
+      "start": 115.44,
+      "end": 117.4
+    },
+    {
+      "text": " Surprise!",
+      "start": 118.26,
+      "end": 118.62
+    },
+    {
+      "text": " Surprise!",
+      "start": 120.1,
+      "end": 120.46
+    },
+    {
+      "text": " Hey!",
+      "start": 120.46,
+      "end": 120.56
+    },
+    {
+      "text": " Look, Frank, a party.",
+      "start": 125.26,
+      "end": 126.78
+    },
+    {
+      "text": " Holy crap.",
+      "start": 128.01999999999998,
+      "end": 128.74
+    },
+    {
+      "text": " What is this story?",
+      "start": 130.52,
+      "end": 131.9
+    },
+    {
+      "text": " Mom, Dad, happy anniversary. Amy and I have prepared a few remarks.",
+      "start": 132.28,
+      "end": 136.56
+    },
+    {
+      "text": " Come with me.",
+      "start": 137.08,
+      "end": 137.66
+    },
+    {
+      "text": " What are your brothers talking?",
+      "start": 137.78,
+      "end": 139.16
+    },
+    {
+      "text": " Hey.",
+      "start": 140.52,
+      "end": 140.96
+    },
+    {
+      "text": " Mark's is on a bridge dictionary. Defines wedlock as...",
+      "start": 143.72,
+      "end": 148.06
+    },
+    {
+      "text": " Just keep toasting, all right? I'll have them back in a minute.",
+      "start": 148.06,
+      "end": 150.18
+    },
+    {
+      "text": " The toast is for them.",
+      "start": 150.48,
+      "end": 151.52
+    },
+    {
+      "text": " So is the cake.",
+      "start": 151.82,
+      "end": 152.6
+    },
+    {
+      "text": " Uh, you know what? This is just gonna take a minute. So... I made a spinach boat, so party down, everybody. Bye.",
+      "start": 153.06,
+      "end": 159.02
+    },
+    {
+      "text": " Hey, I saw cannolis in there.",
+      "start": 159.4,
+      "end": 161.08
+    },
+    {
+      "text": " Later. Listen, I wanna know...",
+      "start": 161.4,
+      "end": 162.92
+    },
+    {
+      "text": " Oh, Mel, thanks for coming.",
+      "start": 162.92,
+      "end": 164.52
+    },
+    {
+      "text": " You got any decent scotch?",
+      "start": 165.0,
+      "end": 166.72
+    },
+    {
+      "text": " Come on. Mel, please, give us a minute here.",
+      "start": 167.8,
+      "end": 170.0
+    },
+    {
+      "text": " I was told there'd be widows here.",
+      "start": 170.18,
+      "end": 171.84
+    },
+    {
+      "text": " You're a widow, a high school, everything.",
+      "start": 173.68,
+      "end": 175.42
+    },
+    {
+      "text": " Yeah, yeah, yeah.",
+      "start": 175.64,
+      "end": 176.12
+    },
+    {
+      "text": " When were you guys separated?",
+      "start": 177.58,
+      "end": 178.86
+    },
+    {
+      "text": " It was like 30 years ago.",
+      "start": 179.46,
+      "end": 181.22
+    },
+    {
+      "text": " Ray, I think the time for this is after the party, okay?",
+      "start": 181.22,
+      "end": 183.96
+    },
+    {
+      "text": " Nice, Raymond. Very nice. I practiced.",
+      "start": 184.48,
+      "end": 187.88
+    },
+    {
+      "text": " Did you know Mom and Dad were separated?",
+      "start": 189.36,
+      "end": 191.14
+    },
+    {
+      "text": " Again?",
+      "start": 192.0,
+      "end": 192.44
+    },
+    {
+      "text": " Wait, you knew? Where the hell was I that year?",
+      "start": 193.62,
+      "end": 196.6
+    },
+    {
+      "text": " You were watching television.",
+      "start": 196.9,
+      "end": 198.24
+    },
+    {
+      "text": " Yeah. Wild, Wild West.",
+      "start": 198.58,
+      "end": 200.96
+    },
+    {
+      "text": " I'm sorry. Do I blow out these candles?",
+      "start": 202.14000000000001,
+      "end": 204.52
+    },
+    {
+      "text": " Oh, how lovely.",
+      "start": 204.74,
+      "end": 205.72
+    },
+    {
+      "text": " No, no, no, no. No cake until I hear this story. I'm sorry.",
+      "start": 205.88,
+      "end": 208.28
+    },
+    {
+      "text": " It's getting very hot.",
+      "start": 208.58,
+      "end": 209.74
+    },
+    {
+      "text": " All right. Come on. Let's hear it.",
+      "start": 211.22,
+      "end": 214.02
+    },
+    {
+      "text": " Okay. We'd been living here in this house.",
+      "start": 214.66,
+      "end": 217.14
+    },
+    {
+      "text": " We had had the kids.",
+      "start": 217.14,
+      "end": 218.22
+    },
+    {
+      "text": " And when I think about it, we were a lot like you and Deborah.",
+      "start": 218.38,
+      "end": 221.56
+    },
+    {
+      "text": " What?",
+      "start": 222.3,
+      "end": 222.74
+    },
+    {
+      "text": " What? What do you mean?",
+      "start": 223.18,
+      "end": 224.18
+    },
+    {
+      "text": " Not like us.",
+      "start": 224.36,
+      "end": 225.14
+    },
+    {
+      "text": " Just like you two.",
+      "start": 225.32,
+      "end": 226.46
+    },
+    {
+      "text": " I think Raymond, you were six and Robbie was, uh...",
+      "start": 228.68,
+      "end": 232.68
+    },
+    {
+      "text": " Ten, Bob. It's Ray plus four.",
+      "start": 232.68,
+      "end": 234.52
+    },
+    {
+      "text": " That's right.",
+      "start": 234.8,
+      "end": 235.48
+    },
+    {
+      "text": " But I remember Frank and I were just like you two.",
+      "start": 236.1,
+      "end": 239.3
+    },
+    {
+      "text": " Everything was normal.",
+      "start": 243.70000000000002,
+      "end": 245.02
+    },
+    {
+      "text": " We'd had our differences.",
+      "start": 245.66,
+      "end": 247.16
+    },
+    {
+      "text": " But this was the day I realized the man I married had no respect for me whatsoever.",
+      "start": 248.04000000000002,
+      "end": 253.04
+    },
+    {
+      "text": " Don't make this a production, Marie.",
+      "start": 253.94,
+      "end": 255.74
+    },
+    {
+      "text": " I remember.",
+      "start": 258.72,
+      "end": 259.72
+    },
+    {
+      "text": " I'd been cooking all day.",
+      "start": 259.92,
+      "end": 261.56
+    },
+    {
+      "text": " And you were taking your own sweet time coming down for dinner.",
+      "start": 261.56,
+      "end": 264.62
+    },
+    {
+      "text": " When I think of how many times I yelled, Frank!",
+      "start": 266.9,
+      "end": 269.9
+    },
+    {
+      "text": " A nice pot roast.",
+      "start": 278.6,
+      "end": 280.72
+    },
+    {
+      "text": " Little red potatoes.",
+      "start": 281.02,
+      "end": 282.68
+    },
+    {
+      "text": " Carrots cooked in the sauce.",
+      "start": 283.12,
+      "end": 284.82
+    },
+    {
+      "text": " Before he even tasted a bite.",
+      "start": 285.1,
+      "end": 287.28
+    },
+    {
+      "text": " He had the nerve to ask me for salt.",
+      "start": 287.54,
+      "end": 289.92
+    },
+    {
+      "text": " Salt gives it taste.",
+      "start": 291.24,
+      "end": 292.68
+    },
+    {
+      "text": " It had oregano, garlic, paprika.",
+      "start": 295.58000000000004,
+      "end": 298.74
+    },
+    {
+      "text": " He wouldn't even try it.",
+      "start": 299.06,
+      "end": 300.46
+    },
+    {
+      "text": " It's my house.",
+      "start": 301.3,
+      "end": 302.6
+    },
+    {
+      "text": " I'm allowed to have salt if I want.",
+      "start": 302.76,
+      "end": 304.28
+    },
+    {
+      "text": " Even if it destroys another person?",
+      "start": 305.68,
+      "end": 307.92
+    },
+    {
+      "text": " You overreacted.",
+      "start": 313.88000000000005,
+      "end": 315.16
+    },
+    {
+      "text": " You're always overreacting.",
+      "start": 315.32,
+      "end": 316.7
+    },
+    {
+      "text": " You're the one who left.",
+      "start": 328.56,
+      "end": 329.84
+    },
+    {
+      "text": " You threw me out.",
+      "start": 330.06,
+      "end": 331.04
+    },
+    {
+      "text": " Champagne for everybody.",
+      "start": 331.88,
+      "end": 333.3
+    },
+    {
+      "text": " You're busy, Mel.",
+      "start": 334.36,
+      "end": 335.28
+    },
+    {
+      "text": " I've met my bride.",
+      "start": 335.4,
+      "end": 336.32
+    },
+    {
+      "text": " Congratulations.",
+      "start": 336.42,
+      "end": 336.82
+    },
+    {
+      "text": " And you thought I was a game.",
+      "start": 337.06,
+      "end": 338.22
+    },
+    {
+      "text": " We should get out there.",
+      "start": 340.02000000000004,
+      "end": 341.48
+    },
+    {
+      "text": " No, no, no, no.",
+      "start": 342.02000000000004,
+      "end": 342.92
+    },
+    {
+      "text": " Not until they finish.",
+      "start": 342.98,
+      "end": 343.72
+    },
+    {
+      "text": " Give me a break.",
+      "start": 343.9,
+      "end": 344.68
+    },
+    {
+      "text": " Please tell me that cheese is from this party.",
+      "start": 348.34,
+      "end": 350.44
+    },
+    {
+      "text": " Okay, well, after your father left, we didn't talk for a long time.",
+      "start": 351.92,
+      "end": 356.12
+    },
+    {
+      "text": " And I thought it was over.",
+      "start": 356.12,
+      "end": 358.4
+    },
+    {
+      "text": " But then you realized you made a big mistake and you got back together, right?",
+      "start": 358.64,
+      "end": 362.12
+    },
+    {
+      "text": " Nah.",
+      "start": 362.4,
+      "end": 362.72
+    },
+    {
+      "text": " Ray broke his arm.",
+      "start": 363.18,
+      "end": 364.18
+    },
+    {
+      "text": " Wait a minute.",
+      "start": 370.72,
+      "end": 371.52
+    },
+    {
+      "text": " Dad was there when I broke my arm?",
+      "start": 371.86,
+      "end": 373.34
+    },
+    {
+      "text": " Yeah, I started coming by to check on you.",
+      "start": 378.6,
+      "end": 380.72
+    },
+    {
+      "text": " Yeah, you were very concerned about Raymond.",
+      "start": 386.68,
+      "end": 388.92
+    },
+    {
+      "text": " He was very sweet with you, Raymond.",
+      "start": 395.2,
+      "end": 397.32
+    },
+    {
+      "text": " Well, his arm was busted.",
+      "start": 400.56,
+      "end": 402.58
+    },
+    {
+      "text": " Everything kind of worked out from there.",
+      "start": 408.02,
+      "end": 409.98
+    },
+    {
+      "text": " Well, how about that, Ray?",
+      "start": 447.09999999999997,
+      "end": 448.5
+    },
+    {
+      "text": " It wouldn't even have been a 40th anniversary if it wasn't for your little arm, huh?",
+      "start": 449.06,
+      "end": 452.56
+    },
+    {
+      "text": " Yeah.",
+      "start": 453.08,
+      "end": 453.52
+    },
+    {
+      "text": " Can we go now?",
+      "start": 453.88,
+      "end": 454.64
+    },
+    {
+      "text": " I'm out of cheese.",
+      "start": 454.84,
+      "end": 455.74
+    },
+    {
+      "text": " You just came from brunch.",
+      "start": 456.02,
+      "end": 457.56
+    },
+    {
+      "text": " Yeah, like you're not going to eat again.",
+      "start": 457.76,
+      "end": 459.48
+    },
+    {
+      "text": " I'm going in.",
+      "start": 462.72,
+      "end": 463.54
+    },
+    {
+      "text": " You with me?",
+      "start": 463.58,
+      "end": 464.0
+    },
+    {
+      "text": " Wait a minute, wait a minute.",
+      "start": 464.8,
+      "end": 465.44
+    },
+    {
+      "text": " Doesn't that story bother you?",
+      "start": 465.54,
+      "end": 466.74
+    },
+    {
+      "text": " No, why shouldn't?",
+      "start": 467.22,
+      "end": 468.26
+    },
+    {
+      "text": " It's water under the bridge.",
+      "start": 468.32,
+      "end": 469.5
+    },
+    {
+      "text": " We all turned out okay.",
+      "start": 469.78,
+      "end": 470.84
+    },
+    {
+      "text": " God, all this time I thought my parents ruined my life.",
+      "start": 474.9,
+      "end": 478.14
+    },
+    {
+      "text": " It turns out I ruined theirs.",
+      "start": 479.32,
+      "end": 480.78
+    },
+    {
+      "text": " You didn't ruin theirs.",
+      "start": 481.08,
+      "end": 482.14
+    },
+    {
+      "text": " They got back together because of you.",
+      "start": 482.14,
+      "end": 483.74
+    },
+    {
+      "text": " Right.",
+      "start": 484.1,
+      "end": 484.44
+    },
+    {
+      "text": " They could have stayed apart.",
+      "start": 484.7,
+      "end": 485.98
+    },
+    {
+      "text": " Met other people.",
+      "start": 486.32,
+      "end": 487.4
+    },
+    {
+      "text": " Led happy, fulfilling lives.",
+      "start": 487.68,
+      "end": 489.26
+    },
+    {
+      "text": " Your parents.",
+      "start": 489.85999999999996,
+      "end": 490.7
+    },
+    {
+      "text": " They were different then.",
+      "start": 491.44,
+      "end": 492.96
+    },
+    {
+      "text": " Didn't you hear my mom?",
+      "start": 493.3,
+      "end": 494.08
+    },
+    {
+      "text": " Back then, they were just like you and me.",
+      "start": 494.22,
+      "end": 495.82
+    },
+    {
+      "text": " Yeah, that was the worst part of that story.",
+      "start": 495.94,
+      "end": 497.54
+    },
+    {
+      "text": " Deborah, dear, the guests are dipping their cups into the punch bowl since there's no ladle.",
+      "start": 498.92,
+      "end": 503.08
+    },
+    {
+      "text": " Is that how you intended it?",
+      "start": 503.24,
+      "end": 504.8
+    },
+    {
+      "text": " I'll get a ladle.",
+      "start": 506.74,
+      "end": 507.84
+    },
+    {
+      "text": " I'll get a ladle.",
+      "start": 509.74,
+      "end": 510.36
+    },
+    {
+      "text": " And they all lived happily ever after.",
+      "start": 510.36,
+      "end": 512.18
+    }
+  ],
+  "processing_time": 2.129680871963501,
+  "language": "en",
+  "model_id": "large-v3-turbo"
+}

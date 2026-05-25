@@ -1,0 +1,34 @@
+{
+  "audio_file": "Mélygarázs ｜ Taxióra.wav",
+  "full_text": "A Tizenkédfele tovább draggingch independently and public call they don't want to kill expensive cars вторged anymore... Bocsánat, hogy kérdem. Igen. De az normális, hogy mikor beszálltam az autóba, a kijelző 1250-t mutatott? Igen. És az normális, hogy már vagy három kilométert jöttünk, és a kijelző még mindig 1256-ot mutat? Abszolút. See you again again. Hoppá! Hoppá hoppá! 1259-ről rögtön 1300-ra váltott. Na, ez hogy van? Hogy van ez? Úgy, hogy amit maga néz, az az óra. Déd után egy van.",
+  "chunks": [
+    {
+      "text": " A Tizenkédfele tovább draggingch independently and public call they don't want to kill expensive cars вторged anymore...",
+      "start": 2.2600000000000025,
+      "end": 7.14
+    },
+    {
+      "text": " Bocsánat, hogy kérdem. Igen. De az normális, hogy mikor beszálltam az autóba, a kijelző 1250-t mutatott?",
+      "start": 7.940000000000001,
+      "end": 13.9
+    },
+    {
+      "text": " Igen. És az normális, hogy már vagy három kilométert jöttünk, és a kijelző még mindig 1256-ot mutat?",
+      "start": 13.98,
+      "end": 20.66
+    },
+    {
+      "text": " Abszolút. See you again again.",
+      "start": 21.02,
+      "end": 24.2
+    },
+    {
+      "text": " Hoppá! Hoppá hoppá! 1259-ről rögtön 1300-ra váltott. Na, ez hogy van? Hogy van ez? Úgy, hogy amit maga néz, az az óra. Déd után egy van.",
+      "start": 25.300000000000004,
+      "end": 36.94
+    }
+  ],
+  "processing_time": 1.4297420978546143,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

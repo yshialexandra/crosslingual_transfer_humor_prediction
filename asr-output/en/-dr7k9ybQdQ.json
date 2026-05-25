@@ -1,0 +1,814 @@
+{
+  "audio_file": "-dr7k9ybQdQ.wav",
+  "full_text": "And that's how you give a pope a tattoo. Now we're going to play a game entitled Living Scenery. This game is for Ryan, Colin, and Wayne. So come on down. You are going to need some help in this game. So please welcome back the star of the hit TV shows, Nikita and Stevie Hollow, the lovely Lindy Greenwald. Yay. Hi. OK. Hi, guys. So here's how this is going to work. You guys are going to act out of scene for us. And during the scene, we're going to need to use a number of props. Wayne and Lindy will actually stand in and be the props for this scene. So the scene is that Ryan and Colin, you are two Marines going through a day of intensive training before retiring to your barracks. Many things can happen. Take it away. Morning, Jeremy. Morning, Tim. Oh, what's wrong? I swallowed something. Oh. It's a grueling day today. It's our final day of our prep. Yeah, we have to go through the optical course. Ah, I see that. You better run through the tires. I'll lay them down for you. Big round tires. Oh, big round tires. Let's try to make that round somehow. There we go. There's one. There's a big tire there. Let's put this other one down. Those two tires down. OK, it's not as tough as you think it's going to be. No, really? I want you to run out. Oh, there. That's a tire. All right. All right. I passed that with flying colors. All right. I guess now I crawl under the barbed wire. Yes, you do. Oh. Oh. I think I'll go for this one. Let me... I'm the instructor. I should really show you how it's done first. Ugh. Uh-oh. Now I'm... Got it again, really. I'm through the barbed wire. Yeah. Now I'm going to go through the mud pit. Oh. Oh. Oh. Oh. Oh. Oh. Oh. Oh. Oh. Oh. Oh. Oh. Oh. Oh. Oh. Oh. That's good. Thank you. I'm through. All right. I'm through. Oh. Oh. Now it's, uh, I guess I'll use my gun and, uh, see if I can hit that target. All right. Now this is a gun. Hey, why don't we, uh... They said I could bring my dog. Yeah, that's okay. Well, we might be fighting in the Arctic, so we're going to hook up all the dogs to the sled. Oh, all right. Yeah, let's hook them all up. Oh, get Big Bart there. All right. Oh, big Bart up to the front there. Oh, oh, oh, oh. Yep. He's stupid, but he's strong. Okay. I don't know why they're on there. There we go. Oh, oh, oh, oh, oh, oh, oh, oh. That's a stupid dog. I know. Oh, hey, it's starting to snow. Maybe we better make camp here. All right. Set up the tent. All right. Here. Let me... Oh. Oh, there we go. I was getting inside. Oh, I got the air mattress. Oh, good. Okay. I'll just, uh... I'm going to start a fire. All right. All right. Later. Where... Where's the nozzle on this thing? Oh, no. Right there. Right there. Thank God. Everybody give it up for the lovely Lindy Greenberg. Lindy Greenberg. Thank you. Thank you. She's lovely. How stupid was that dog? Up next is a game called Scenes From A Hat. It's all four of our performers, so come on down. Brian and Connor there, Wayne and Brad are here. Before our show, we asked our audience to write down some scenes, some ideas they'd like to see acted out by our performers. We've got those suggestions in this hat. I'll read them out. We'll see how many awesome things our guys can come up with. Here we go. How one. How two. We'll get letters. I have no idea how to do this. That's how you give a pope a tattoo. Well, the first step is... Oh no! Oh no! This is bad here. Oh no! Oh no! Oh no! Thank you for the best. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Bad ways to impress your date. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good And a fish. Come on in. Hey, this is my friend Jerry. I've been doing the same show for 25 years. That's how I got it. I am so fertile. It's too real. It is too real. Both of you. Is explosive incontinence a deal breaker? I don't think so. Mike. Not at all. Get on my pogo stick. Hello. Would you like to go to a Who's Line taping?",
+  "chunks": [
+    {
+      "text": " And that's how you give a pope a tattoo.",
+      "start": 0.0,
+      "end": 2.18
+    },
+    {
+      "text": " Now we're going to play a game entitled Living Scenery.",
+      "start": 6.920000000000002,
+      "end": 9.18
+    },
+    {
+      "text": " This game is for Ryan, Colin, and Wayne.",
+      "start": 9.32,
+      "end": 11.0
+    },
+    {
+      "text": " So come on down.",
+      "start": 11.24,
+      "end": 12.56
+    },
+    {
+      "text": " You are going to need some help in this game.",
+      "start": 13.22,
+      "end": 14.72
+    },
+    {
+      "text": " So please welcome back the star of the hit TV shows,",
+      "start": 14.8,
+      "end": 18.0
+    },
+    {
+      "text": " Nikita and Stevie Hollow, the lovely Lindy Greenwald.",
+      "start": 18.14,
+      "end": 20.64
+    },
+    {
+      "text": " Yay.",
+      "start": 22.900000000000002,
+      "end": 23.3
+    },
+    {
+      "text": " Hi.",
+      "start": 24.78,
+      "end": 25.18
+    },
+    {
+      "text": " OK.",
+      "start": 25.86,
+      "end": 26.16
+    },
+    {
+      "text": " Hi, guys.",
+      "start": 26.4,
+      "end": 26.88
+    },
+    {
+      "text": " So here's how this is going to work.",
+      "start": 26.96,
+      "end": 28.18
+    },
+    {
+      "text": " You guys are going to act out of scene for us.",
+      "start": 28.18,
+      "end": 29.68
+    },
+    {
+      "text": " And during the scene, we're going to need to use a number of props.",
+      "start": 29.82,
+      "end": 32.0
+    },
+    {
+      "text": " Wayne and Lindy will actually stand in and be the props for this scene.",
+      "start": 32.38,
+      "end": 36.0
+    },
+    {
+      "text": " So the scene is that Ryan and Colin, you are two Marines going through a day of intensive training",
+      "start": 36.16,
+      "end": 39.86
+    },
+    {
+      "text": " before retiring to your barracks.",
+      "start": 39.86,
+      "end": 42.32
+    },
+    {
+      "text": " Many things can happen.",
+      "start": 42.6,
+      "end": 43.58
+    },
+    {
+      "text": " Take it away.",
+      "start": 43.78,
+      "end": 44.18
+    },
+    {
+      "text": " Morning, Jeremy.",
+      "start": 44.68,
+      "end": 45.1
+    },
+    {
+      "text": " Morning, Tim.",
+      "start": 45.4,
+      "end": 46.16
+    },
+    {
+      "text": " Oh, what's wrong?",
+      "start": 46.44,
+      "end": 47.1
+    },
+    {
+      "text": " I swallowed something.",
+      "start": 48.28,
+      "end": 49.26
+    },
+    {
+      "text": " Oh.",
+      "start": 49.36,
+      "end": 49.56
+    },
+    {
+      "text": " It's a grueling day today.",
+      "start": 50.4,
+      "end": 51.44
+    },
+    {
+      "text": " It's our final day of our prep.",
+      "start": 51.58,
+      "end": 52.76
+    },
+    {
+      "text": " Yeah, we have to go through the optical course.",
+      "start": 52.92,
+      "end": 54.42
+    },
+    {
+      "text": " Ah, I see that.",
+      "start": 54.58,
+      "end": 55.22
+    },
+    {
+      "text": " You better run through the tires.",
+      "start": 55.66,
+      "end": 56.66
+    },
+    {
+      "text": " I'll lay them down for you.",
+      "start": 56.84,
+      "end": 57.6
+    },
+    {
+      "text": " Big round tires.",
+      "start": 57.6,
+      "end": 58.78
+    },
+    {
+      "text": " Oh, big round tires.",
+      "start": 59.66,
+      "end": 61.1
+    },
+    {
+      "text": " Let's try to make that round somehow.",
+      "start": 61.26,
+      "end": 62.7
+    },
+    {
+      "text": " There we go.",
+      "start": 64.2,
+      "end": 64.8
+    },
+    {
+      "text": " There's one.",
+      "start": 64.88,
+      "end": 65.22
+    },
+    {
+      "text": " There's a big tire there.",
+      "start": 65.6,
+      "end": 66.72
+    },
+    {
+      "text": " Let's put this other one down.",
+      "start": 66.96,
+      "end": 67.98
+    },
+    {
+      "text": " Those two tires down.",
+      "start": 68.36,
+      "end": 69.14
+    },
+    {
+      "text": " OK, it's not as tough as you think it's going to be.",
+      "start": 69.28,
+      "end": 70.52
+    },
+    {
+      "text": " No, really?",
+      "start": 70.8,
+      "end": 71.18
+    },
+    {
+      "text": " I want you to run out.",
+      "start": 71.42,
+      "end": 72.02
+    },
+    {
+      "text": " Oh, there.",
+      "start": 72.08,
+      "end": 72.34
+    },
+    {
+      "text": " That's a tire.",
+      "start": 72.42,
+      "end": 72.98
+    },
+    {
+      "text": " All right.",
+      "start": 73.2,
+      "end": 73.56
+    },
+    {
+      "text": " All right.",
+      "start": 74.62,
+      "end": 75.1
+    },
+    {
+      "text": " I passed that with flying colors.",
+      "start": 75.2,
+      "end": 76.36
+    },
+    {
+      "text": " All right.",
+      "start": 76.76,
+      "end": 76.88
+    },
+    {
+      "text": " I guess now I crawl under the barbed wire.",
+      "start": 76.94,
+      "end": 78.8
+    },
+    {
+      "text": " Yes, you do.",
+      "start": 79.36,
+      "end": 79.9
+    },
+    {
+      "text": " Oh.",
+      "start": 83.12,
+      "end": 83.44
+    },
+    {
+      "text": " Oh.",
+      "start": 83.86,
+      "end": 84.14
+    },
+    {
+      "text": " I think I'll go for this one.",
+      "start": 84.14,
+      "end": 85.66
+    },
+    {
+      "text": " Let me...",
+      "start": 85.76,
+      "end": 86.48
+    },
+    {
+      "text": " I'm the instructor.",
+      "start": 87.64000000000001,
+      "end": 88.48
+    },
+    {
+      "text": " I should really show you how it's done first.",
+      "start": 88.48,
+      "end": 90.16
+    },
+    {
+      "text": " Ugh.",
+      "start": 91.38,
+      "end": 91.68
+    },
+    {
+      "text": " Uh-oh.",
+      "start": 94.44,
+      "end": 95.0
+    },
+    {
+      "text": " Now I'm...",
+      "start": 98.69999999999999,
+      "end": 99.5
+    },
+    {
+      "text": " Got it again, really.",
+      "start": 99.5,
+      "end": 100.86
+    },
+    {
+      "text": " I'm through the barbed wire.",
+      "start": 102.62,
+      "end": 103.96
+    },
+    {
+      "text": " Yeah.",
+      "start": 104.16,
+      "end": 104.46
+    },
+    {
+      "text": " Now I'm going to go through the mud pit.",
+      "start": 104.98,
+      "end": 106.22
+    },
+    {
+      "text": " Oh.",
+      "start": 108.32,
+      "end": 108.56
+    },
+    {
+      "text": " Oh.",
+      "start": 108.56,
+      "end": 108.58
+    },
+    {
+      "text": " Oh.",
+      "start": 109.7,
+      "end": 110.02
+    },
+    {
+      "text": " Oh.",
+      "start": 110.98,
+      "end": 111.46
+    },
+    {
+      "text": " Oh.",
+      "start": 112.28,
+      "end": 112.54
+    },
+    {
+      "text": " Oh.",
+      "start": 116.1,
+      "end": 116.58
+    },
+    {
+      "text": " Oh.",
+      "start": 118.08,
+      "end": 118.24
+    },
+    {
+      "text": " Oh.",
+      "start": 118.38,
+      "end": 118.44
+    },
+    {
+      "text": " Oh.",
+      "start": 118.44,
+      "end": 118.46
+    },
+    {
+      "text": " Oh.",
+      "start": 119.0,
+      "end": 119.48
+    },
+    {
+      "text": " Oh.",
+      "start": 121.22,
+      "end": 121.7
+    },
+    {
+      "text": " Oh.",
+      "start": 121.98,
+      "end": 122.22
+    },
+    {
+      "text": " Oh.",
+      "start": 122.22,
+      "end": 122.46
+    },
+    {
+      "text": " Oh.",
+      "start": 123.34,
+      "end": 123.54
+    },
+    {
+      "text": " Oh.",
+      "start": 125.42,
+      "end": 125.9
+    },
+    {
+      "text": " Oh.",
+      "start": 125.9,
+      "end": 126.48
+    },
+    {
+      "text": " That's good.",
+      "start": 126.48,
+      "end": 126.78
+    },
+    {
+      "text": " Thank you.",
+      "start": 126.88,
+      "end": 127.1
+    },
+    {
+      "text": " I'm through.",
+      "start": 127.18,
+      "end": 127.44
+    },
+    {
+      "text": " All right.",
+      "start": 127.48,
+      "end": 127.62
+    },
+    {
+      "text": " I'm through.",
+      "start": 127.98,
+      "end": 128.32
+    },
+    {
+      "text": " Oh.",
+      "start": 129.04,
+      "end": 129.34
+    },
+    {
+      "text": " Oh.",
+      "start": 129.96,
+      "end": 130.18
+    },
+    {
+      "text": " Now it's, uh, I guess I'll use my gun and, uh, see if I can hit that target.",
+      "start": 130.18,
+      "end": 133.42
+    },
+    {
+      "text": " All right.",
+      "start": 133.6,
+      "end": 133.84
+    },
+    {
+      "text": " Now this is a gun.",
+      "start": 138.42000000000002,
+      "end": 139.48
+    },
+    {
+      "text": " Hey, why don't we, uh...",
+      "start": 142.12,
+      "end": 143.26
+    },
+    {
+      "text": " They said I could bring my dog.",
+      "start": 145.62,
+      "end": 146.96
+    },
+    {
+      "text": " Yeah, that's okay.",
+      "start": 147.26,
+      "end": 147.94
+    },
+    {
+      "text": " Well, we might be fighting in the Arctic, so we're going to hook up all the dogs to the sled.",
+      "start": 148.84,
+      "end": 151.82
+    },
+    {
+      "text": " Oh, all right.",
+      "start": 151.98,
+      "end": 152.36
+    },
+    {
+      "text": " Yeah, let's hook them all up.",
+      "start": 152.5,
+      "end": 153.22
+    },
+    {
+      "text": " Oh, get Big Bart there.",
+      "start": 153.6,
+      "end": 154.7
+    },
+    {
+      "text": " All right.",
+      "start": 154.94,
+      "end": 155.14
+    },
+    {
+      "text": " Oh, big Bart up to the front there.",
+      "start": 155.14,
+      "end": 156.28
+    },
+    {
+      "text": " Oh, oh, oh, oh.",
+      "start": 156.48,
+      "end": 156.66
+    },
+    {
+      "text": " Yep.",
+      "start": 156.66,
+      "end": 156.68
+    },
+    {
+      "text": " He's stupid, but he's strong.",
+      "start": 157.04,
+      "end": 158.04
+    },
+    {
+      "text": " Okay.",
+      "start": 158.34,
+      "end": 158.36
+    },
+    {
+      "text": " I don't know why they're on there.",
+      "start": 159.98000000000002,
+      "end": 161.18
+    },
+    {
+      "text": " There we go.",
+      "start": 161.34,
+      "end": 161.72
+    },
+    {
+      "text": " Oh, oh, oh, oh, oh, oh, oh, oh.",
+      "start": 162.04,
+      "end": 164.5
+    },
+    {
+      "text": " That's a stupid dog.",
+      "start": 165.54000000000002,
+      "end": 166.68
+    },
+    {
+      "text": " I know.",
+      "start": 166.84,
+      "end": 166.92
+    },
+    {
+      "text": " Oh, hey, it's starting to snow.",
+      "start": 167.12,
+      "end": 168.2
+    },
+    {
+      "text": " Maybe we better make camp here.",
+      "start": 168.28,
+      "end": 169.22
+    },
+    {
+      "text": " All right.",
+      "start": 169.28,
+      "end": 169.56
+    },
+    {
+      "text": " Set up the tent.",
+      "start": 169.76,
+      "end": 170.36
+    },
+    {
+      "text": " All right.",
+      "start": 170.52,
+      "end": 170.74
+    },
+    {
+      "text": " Here.",
+      "start": 171.66,
+      "end": 171.98
+    },
+    {
+      "text": " Let me...",
+      "start": 172.68,
+      "end": 173.32
+    },
+    {
+      "text": " Oh.",
+      "start": 174.16,
+      "end": 174.48
+    },
+    {
+      "text": " Oh, there we go.",
+      "start": 174.72,
+      "end": 175.28
+    },
+    {
+      "text": " I was getting inside.",
+      "start": 176.08,
+      "end": 176.9
+    },
+    {
+      "text": " Oh, I got the air mattress.",
+      "start": 177.4,
+      "end": 178.28
+    },
+    {
+      "text": " Oh, good.",
+      "start": 178.52,
+      "end": 178.92
+    },
+    {
+      "text": " Okay.",
+      "start": 179.04,
+      "end": 179.18
+    },
+    {
+      "text": " I'll just, uh...",
+      "start": 179.18,
+      "end": 180.24
+    },
+    {
+      "text": " I'm going to start a fire.",
+      "start": 182.18,
+      "end": 183.2
+    },
+    {
+      "text": " All right.",
+      "start": 183.34,
+      "end": 183.6
+    },
+    {
+      "text": " All right.",
+      "start": 183.76,
+      "end": 183.98
+    },
+    {
+      "text": " Later.",
+      "start": 184.76,
+      "end": 185.28
+    },
+    {
+      "text": " Where...",
+      "start": 185.5,
+      "end": 185.88
+    },
+    {
+      "text": " Where's the nozzle on this thing?",
+      "start": 185.88,
+      "end": 187.14
+    },
+    {
+      "text": " Oh, no.",
+      "start": 187.28,
+      "end": 188.04
+    },
+    {
+      "text": " Right there.",
+      "start": 188.78,
+      "end": 189.34
+    },
+    {
+      "text": " Right there.",
+      "start": 189.66,
+      "end": 190.2
+    },
+    {
+      "text": " Thank God.",
+      "start": 190.26,
+      "end": 190.3
+    },
+    {
+      "text": " Everybody give it up for the lovely Lindy Greenberg.",
+      "start": 197.73999999999998,
+      "end": 201.26
+    },
+    {
+      "text": " Lindy Greenberg.",
+      "start": 201.66,
+      "end": 203.06
+    },
+    {
+      "text": " Thank you.",
+      "start": 203.46,
+      "end": 203.96
+    },
+    {
+      "text": " Thank you.",
+      "start": 205.34,
+      "end": 205.48
+    },
+    {
+      "text": " She's lovely.",
+      "start": 208.18,
+      "end": 209.42
+    },
+    {
+      "text": " How stupid was that dog?",
+      "start": 209.42,
+      "end": 211.1
+    },
+    {
+      "text": " Up next is a game called Scenes From A Hat. It's all four of our performers, so come on down. Brian and Connor there, Wayne and Brad are here. Before our show, we asked our audience to write down some scenes, some ideas they'd like to see acted out by our performers. We've got those suggestions in this hat. I'll read them out. We'll see how many awesome things our guys can come up with. Here we go.",
+      "start": 215.86,
+      "end": 236.98
+    },
+    {
+      "text": " How one. How two. We'll get letters. I have no idea how to do this.",
+      "start": 245.0,
+      "end": 264.64
+    },
+    {
+      "text": " That's how you give a pope a tattoo.",
+      "start": 271.1,
+      "end": 272.64
+    },
+    {
+      "text": " Well, the first step is...",
+      "start": 280.54,
+      "end": 282.18
+    },
+    {
+      "text": " Oh no! Oh no! This is bad here.",
+      "start": 282.91999999999996,
+      "end": 285.04
+    },
+    {
+      "text": " Oh no! Oh no! Oh no!",
+      "start": 285.32,
+      "end": 286.62
+    },
+    {
+      "text": " Thank you for the best.",
+      "start": 286.62,
+      "end": 287.62
+    },
+    {
+      "text": " Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Bad ways to impress your date.",
+      "start": 288.91999999999996,
+      "end": 299.3
+    },
+    {
+      "text": " Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good",
+      "start": 304.90000000000003,
+      "end": 329.24
+    },
+    {
+      "text": " And a fish.",
+      "start": 329.24,
+      "end": 330.1
+    },
+    {
+      "text": " Come on in.",
+      "start": 332.54,
+      "end": 333.58
+    },
+    {
+      "text": " Hey, this is my friend Jerry.",
+      "start": 339.6,
+      "end": 341.4
+    },
+    {
+      "text": " I've been doing the same show for 25 years.",
+      "start": 353.9,
+      "end": 357.34
+    },
+    {
+      "text": " That's how I got it.",
+      "start": 368.42,
+      "end": 369.56
+    },
+    {
+      "text": " I am so fertile.",
+      "start": 373.82,
+      "end": 375.28
+    },
+    {
+      "text": " It's too real.",
+      "start": 377.78000000000003,
+      "end": 378.64
+    },
+    {
+      "text": " It is too real.",
+      "start": 380.24,
+      "end": 381.14
+    },
+    {
+      "text": " Both of you.",
+      "start": 385.0,
+      "end": 385.8
+    },
+    {
+      "text": " Is explosive incontinence a deal breaker?",
+      "start": 388.06000000000006,
+      "end": 390.08
+    },
+    {
+      "text": " I don't think so.",
+      "start": 391.42,
+      "end": 392.38
+    },
+    {
+      "text": " Mike.",
+      "start": 392.68,
+      "end": 393.08
+    },
+    {
+      "text": " Not at all.",
+      "start": 393.36,
+      "end": 394.08
+    },
+    {
+      "text": " Get on my pogo stick.",
+      "start": 394.18,
+      "end": 395.14
+    },
+    {
+      "text": " Hello.",
+      "start": 395.22,
+      "end": 395.46
+    },
+    {
+      "text": " Would you like to go to a Who's Line taping?",
+      "start": 400.92,
+      "end": 403.92
+    }
+  ],
+  "processing_time": 4.409992218017578,
+  "language": "en",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,74 @@
+{
+  "audio_file": "Mélyvíz 2. ｜ Visszaküldött bor.wav",
+  "full_text": "Köszönöm, nem kérem. Köszönöm, nem kéri. Köszönöm. Nem ízlik. De ez egy nagyon jó palack. Akkor se kérem. De most, Réna ezzel mit csinálja? Az nem az én dolgom. Pedig ennek semmi baja. Biztos, hogy nem? Vigye vissza. Hozhatom a spagettit. Tessék szépen megkóstolni előtte, hogy jó-e, vagy levonhatják-e tőlem a borral együtt.",
+  "chunks": [
+    {
+      "text": " Köszönöm, nem kérem.",
+      "start": 24.720000000000002,
+      "end": 25.92
+    },
+    {
+      "text": " Köszönöm, nem kéri.",
+      "start": 26.12,
+      "end": 26.8
+    },
+    {
+      "text": " Köszönöm.",
+      "start": 27.540000000000003,
+      "end": 27.98
+    },
+    {
+      "text": " Nem ízlik.",
+      "start": 27.98,
+      "end": 28.46
+    },
+    {
+      "text": " De ez egy nagyon jó palack.",
+      "start": 28.46,
+      "end": 30.36
+    },
+    {
+      "text": " Akkor se kérem.",
+      "start": 30.6,
+      "end": 31.74
+    },
+    {
+      "text": " De most, Réna ezzel mit csinálja?",
+      "start": 32.8,
+      "end": 34.32
+    },
+    {
+      "text": " Az nem az én dolgom.",
+      "start": 34.6,
+      "end": 35.84
+    },
+    {
+      "text": " Pedig ennek semmi baja.",
+      "start": 41.28,
+      "end": 42.62
+    },
+    {
+      "text": " Biztos, hogy nem?",
+      "start": 44.44,
+      "end": 45.26
+    },
+    {
+      "text": " Vigye vissza.",
+      "start": 45.32,
+      "end": 46.1
+    },
+    {
+      "text": " Hozhatom a spagettit.",
+      "start": 48.64,
+      "end": 49.9
+    },
+    {
+      "text": " Tessék szépen megkóstolni előtte, hogy jó-e, vagy levonhatják-e tőlem a borral együtt.",
+      "start": 66.78,
+      "end": 71.4
+    }
+  ],
+  "processing_time": 1.4072654247283936,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

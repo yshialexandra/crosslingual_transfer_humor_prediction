@@ -1,0 +1,109 @@
+{
+  "audio_file": "Így készül a Comedy Central ｜ Bakiparádé.wav",
+  "full_text": "A Comedy Central. Comedy Central. Na, mennyire nézek így ki kövérnek, hogyha így ülöd? Pelle Ronna vagyok. És minden héten elmegyek a ***. Bocsát, elfelejtettem a szöveg. Ott a kis szívecskéje dob az a ***. De legyen, hogy szarás, hogy te orosz lána. Hogy az? Én az orosz lána pont nem kell, hogy parázni. Afrikai vagyok, én nem parázom az orosz lána. Mindent a művészeti. Sőt, ha csúnyát akarnék mondani, akkor azt mondanám, ki? Kicsit korábban jötti szövecske. Jó, azt mondta, hogy én ilyen én. Látja, hogy nekem még ebből kéne ez a sétálós távás, ez szokottak jó volna. Klasszikusabb irányból jövök a Párizsi Mozgás Művészeti Stúdióval. Gyere, végzett meg őt! Ez az, ez az, ez az, ez az, ez az, ez az, ez az, ez az, ez az, ez az, itt már úgyse látszom, gyerünk, gyerünk, gyerünk. Itt a megrendelés, itt a mit mondanám. Jó, da most lesz a fasza. Jaj, de jó lesz, c****! Közben elfelejtettem a szövegyet. Feltűnt. Behelysúld, csak bérre gyúrok. Megtapsolom. Oké, az sokkal jobb. Nem éreztem meg, hogy hogy legyen vége, csak hogy az olyan megalázó, hogy arcon tapsolom.",
+  "chunks": [
+    {
+      "text": " A Comedy Central.",
+      "start": 11.880000000000003,
+      "end": 13.12
+    },
+    {
+      "text": " Comedy Central.",
+      "start": 13.32,
+      "end": 14.14
+    },
+    {
+      "text": " Na, mennyire nézek így ki kövérnek, hogyha így ülöd?",
+      "start": 14.3,
+      "end": 17.12
+    },
+    {
+      "text": " Pelle Ronna vagyok. És minden héten elmegyek a ***. Bocsát, elfelejtettem a szöveg.",
+      "start": 17.32,
+      "end": 21.78
+    },
+    {
+      "text": " Ott a kis szívecskéje dob az a ***.",
+      "start": 24.500000000000004,
+      "end": 26.66
+    },
+    {
+      "text": " De legyen, hogy szarás, hogy te orosz lána. Hogy az?",
+      "start": 26.66,
+      "end": 29.96
+    },
+    {
+      "text": " Én az orosz lána pont nem kell, hogy parázni. Afrikai vagyok, én nem parázom az orosz lána.",
+      "start": 31.18,
+      "end": 35.48
+    },
+    {
+      "text": " Mindent a művészeti.",
+      "start": 35.78,
+      "end": 36.78
+    },
+    {
+      "text": " Sőt, ha csúnyát akarnék mondani, akkor azt mondanám, ki? Kicsit korábban jötti szövecske.",
+      "start": 41.5,
+      "end": 46.42
+    },
+    {
+      "text": " Jó, azt mondta, hogy én ilyen én.",
+      "start": 48.42,
+      "end": 49.84
+    },
+    {
+      "text": " Látja, hogy nekem még ebből kéne ez a sétálós távás, ez szokottak jó volna.",
+      "start": 50.1,
+      "end": 54.8
+    },
+    {
+      "text": " Klasszikusabb irányból jövök a Párizsi Mozgás Művészeti Stúdióval.",
+      "start": 54.8,
+      "end": 62.0
+    },
+    {
+      "text": " Gyere, végzett meg őt!",
+      "start": 69.24,
+      "end": 71.08
+    },
+    {
+      "text": " Ez az, ez az, ez az, ez az, ez az, ez az, ez az, ez az, ez az, ez az, itt már úgyse látszom, gyerünk, gyerünk, gyerünk.",
+      "start": 73.14000000000001,
+      "end": 81.2
+    },
+    {
+      "text": " Itt a megrendelés, itt a mit mondanám.",
+      "start": 81.44,
+      "end": 84.16
+    },
+    {
+      "text": " Jó, da most lesz a fasza.",
+      "start": 94.56,
+      "end": 96.36
+    },
+    {
+      "text": " Jaj, de jó lesz, c****!",
+      "start": 96.7,
+      "end": 98.86
+    },
+    {
+      "text": " Közben elfelejtettem a szövegyet. Feltűnt.",
+      "start": 101.24000000000001,
+      "end": 103.66
+    },
+    {
+      "text": " Behelysúld, csak bérre gyúrok.",
+      "start": 108.94,
+      "end": 110.28
+    },
+    {
+      "text": " Megtapsolom. Oké, az sokkal jobb. Nem éreztem meg, hogy hogy legyen vége, csak hogy az olyan megalázó, hogy arcon tapsolom.",
+      "start": 111.38,
+      "end": 116.78
+    }
+  ],
+  "processing_time": 1.602445125579834,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

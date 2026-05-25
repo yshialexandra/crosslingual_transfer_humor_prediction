@@ -1,0 +1,29 @@
+{
+  "audio_file": "Mélygarázs ｜ Mocskos taxisok.wav",
+  "full_text": "A TAKSZIS KÖZÖNÖK Ne mit szötymörökszelődtem a busz sávba? Hú, komolyan mondom, úgy utálom a taxisokat, hogy ott rohadna meg mind, ahol van. Várul, ugye, de maga is taxis. És? Attól nem utálhatom őket? Gondolom maga is utálja a büdöseket, nem?",
+  "chunks": [
+    {
+      "text": " A TAKSZIS KÖZÖNÖK",
+      "start": 9.719999999999999,
+      "end": 29.9
+    },
+    {
+      "text": " Ne mit szötymörökszelődtem a busz sávba? Hú, komolyan mondom, úgy utálom a taxisokat, hogy ott rohadna meg mind, ahol van.",
+      "start": 30.0,
+      "end": 37.88
+    },
+    {
+      "text": " Várul, ugye, de maga is taxis.",
+      "start": 38.2,
+      "end": 39.84
+    },
+    {
+      "text": " És? Attól nem utálhatom őket? Gondolom maga is utálja a büdöseket, nem?",
+      "start": 40.04,
+      "end": 44.06
+    }
+  ],
+  "processing_time": 0.24452781677246094,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

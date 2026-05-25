@@ -1,0 +1,339 @@
+{
+  "audio_file": "Ignatius Farray： Recordando La Hostia A Rajoy ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "Le metieron una hostia a Rajoy. A Rajoy en la campaña electoral le metieron una puta hostia. Es que eso pasa en Venezuela, en Estados Unidos, le pegaron un tiro a ese tío. O sea, pero el mismo Rajoy. Aquí no, aquí en España eso se puede hacer. Estoy orgulloso de que eso se pueda hacer en España. Me parece el acto de transparencia democrático más directo. De decir, mira, esto a mí no me termina... ¡Bimbo! Súper bien dada la hostia. Que nadie... Nadie sabía cómo comportarse. Nadie sabía cómo... En ese momento cuando salió la noticia todo era muy loco. En mitad de la campaña electoral se da esa noticia. Todo el mundo no sabía cómo reaccionar. Todo el mundo, bueno, esto está bien. Está mal. Al día siguiente, no, no, está bien, está bien. Reflexionado, está bien. ¡Bimbo! Yo, repito, bote a Podemos. ¿Cuándo salió esta noticia? Te lo juro. Actué muy... No sé. Muy visceralmente. Lo primero que pensé fue, mierda. ¡Mierda! Ahora, por esta mierda, el PP y Rajoy en particular van a quedar como la víctima y va a haber más gente que les vote. Y pensé, ya sé. Voy a buscar a Pablo Iglesias y le meto dos hostias que lo he visto de Torero. ¡Bimbo! Solo por equilibrar la situación. Solo para que nadie tuviera ventaja sobre nadie. Al día siguiente, un giro de guión brutal. Al día siguiente, sale la... No, no, esto no tenía motivaciones políticas. Esto era un primo suyo. ¡Un primo suyo! O sea, Galicia caníbal. Era un primo suyo. O sea, no había... O sea, era una movida entre primos. O sea, el PP a la altura del partido gitano. Y yo, ¿vote a Podemos? Vote a Podemos no por Podemos. Como digo, yo soy muy ignorante políticamente hablando y también muy perezoso. En mi puta vida había votado. Por primera vez tenía ganas de votar a alguien, pero no por lo que decía Podemos, sino por lo que dijo en su momento Esperanza Aguirre. Esperanza... Yo no sabía quién votar. Yo seguramente digo, como siempre, no votaré. De repente, unas declaraciones de Esperanza Aguirre. Las leo. Estaba en el periódico, me acuerdo. Decía, esta gente significa una amenaza para el sistema democrático occidental tal y como lo conocemos. Y te juro que fue entonces cuando dije, hostia, pues ya tengo a alguien que me representa. Y yo no me he dado cuenta. Y esa gente a tope. Y yo no me he dado cuenta.",
+  "chunks": [
+    {
+      "text": " Le metieron una hostia a Rajoy.",
+      "start": 1.24,
+      "end": 3.12
+    },
+    {
+      "text": " A Rajoy en la campaña electoral le metieron una puta hostia.",
+      "start": 3.64,
+      "end": 6.84
+    },
+    {
+      "text": " Es que eso pasa en Venezuela, en Estados Unidos, le pegaron un tiro a ese tío.",
+      "start": 8.16,
+      "end": 12.56
+    },
+    {
+      "text": " O sea, pero el mismo Rajoy.",
+      "start": 13.56,
+      "end": 15.4
+    },
+    {
+      "text": " Aquí no, aquí en España eso se puede hacer.",
+      "start": 16.72,
+      "end": 18.82
+    },
+    {
+      "text": " Estoy orgulloso de que eso se pueda hacer en España.",
+      "start": 19.06,
+      "end": 21.0
+    },
+    {
+      "text": " Me parece el acto de transparencia democrático más directo.",
+      "start": 21.2,
+      "end": 24.76
+    },
+    {
+      "text": " De decir, mira, esto a mí no me termina...",
+      "start": 25.340000000000003,
+      "end": 28.34
+    },
+    {
+      "text": " ¡Bimbo! Súper bien dada la hostia.",
+      "start": 30.36,
+      "end": 32.88
+    },
+    {
+      "text": " Que nadie...",
+      "start": 33.78,
+      "end": 34.42
+    },
+    {
+      "text": " Nadie sabía cómo comportarse.",
+      "start": 35.620000000000005,
+      "end": 37.18
+    },
+    {
+      "text": " Nadie sabía cómo...",
+      "start": 38.06,
+      "end": 39.26
+    },
+    {
+      "text": " En ese momento cuando salió la noticia todo era muy loco.",
+      "start": 39.26,
+      "end": 41.5
+    },
+    {
+      "text": " En mitad de la campaña electoral se da esa noticia.",
+      "start": 41.56,
+      "end": 44.16
+    },
+    {
+      "text": " Todo el mundo no sabía cómo reaccionar.",
+      "start": 44.32,
+      "end": 45.52
+    },
+    {
+      "text": " Todo el mundo, bueno, esto está bien.",
+      "start": 45.64,
+      "end": 46.92
+    },
+    {
+      "text": " Está mal.",
+      "start": 48.02,
+      "end": 48.72
+    },
+    {
+      "text": " Al día siguiente, no, no, está bien, está bien.",
+      "start": 50.480000000000004,
+      "end": 52.1
+    },
+    {
+      "text": " Reflexionado, está bien.",
+      "start": 53.980000000000004,
+      "end": 54.9
+    },
+    {
+      "text": " ¡Bimbo!",
+      "start": 55.36,
+      "end": 55.76
+    },
+    {
+      "text": " Yo, repito, bote a Podemos.",
+      "start": 57.92,
+      "end": 59.36
+    },
+    {
+      "text": " ¿Cuándo salió esta noticia?",
+      "start": 59.36,
+      "end": 60.74
+    },
+    {
+      "text": " Te lo juro.",
+      "start": 60.78,
+      "end": 61.3
+    },
+    {
+      "text": " Actué muy...",
+      "start": 61.68,
+      "end": 62.24
+    },
+    {
+      "text": " No sé.",
+      "start": 63.02,
+      "end": 63.46
+    },
+    {
+      "text": " Muy visceralmente.",
+      "start": 63.92,
+      "end": 65.18
+    },
+    {
+      "text": " Lo primero que pensé fue, mierda.",
+      "start": 65.34,
+      "end": 67.02
+    },
+    {
+      "text": " ¡Mierda!",
+      "start": 67.18,
+      "end": 67.62
+    },
+    {
+      "text": " Ahora, por esta mierda, el PP y Rajoy en particular van a quedar como la víctima",
+      "start": 67.76,
+      "end": 72.08
+    },
+    {
+      "text": " y va a haber más gente que les vote.",
+      "start": 72.08,
+      "end": 75.18
+    },
+    {
+      "text": " Y pensé, ya sé.",
+      "start": 75.44,
+      "end": 76.44
+    },
+    {
+      "text": " Voy a buscar a Pablo Iglesias y le meto dos hostias que lo he visto de Torero.",
+      "start": 76.6,
+      "end": 82.34
+    },
+    {
+      "text": " ¡Bimbo!",
+      "start": 82.64,
+      "end": 83.12
+    },
+    {
+      "text": " Solo por equilibrar la situación.",
+      "start": 83.86,
+      "end": 85.7
+    },
+    {
+      "text": " Solo para que nadie tuviera ventaja sobre nadie.",
+      "start": 86.1,
+      "end": 89.22
+    },
+    {
+      "text": " Al día siguiente, un giro de guión brutal.",
+      "start": 90.02,
+      "end": 92.1
+    },
+    {
+      "text": " Al día siguiente, sale la...",
+      "start": 92.54,
+      "end": 93.9
+    },
+    {
+      "text": " No, no, esto no tenía motivaciones políticas.",
+      "start": 93.9,
+      "end": 95.68
+    },
+    {
+      "text": " Esto era un primo suyo.",
+      "start": 95.94,
+      "end": 97.26
+    },
+    {
+      "text": " ¡Un primo suyo!",
+      "start": 97.44,
+      "end": 98.46
+    },
+    {
+      "text": " O sea, Galicia caníbal.",
+      "start": 99.22,
+      "end": 100.98
+    },
+    {
+      "text": " Era un primo suyo.",
+      "start": 101.22,
+      "end": 102.98
+    },
+    {
+      "text": " O sea, no había...",
+      "start": 103.44,
+      "end": 104.34
+    },
+    {
+      "text": " O sea, era una movida entre primos.",
+      "start": 104.34,
+      "end": 106.06
+    },
+    {
+      "text": " O sea, el PP a la altura del partido gitano.",
+      "start": 107.10000000000001,
+      "end": 109.8
+    },
+    {
+      "text": " Y yo, ¿vote a Podemos?",
+      "start": 113.98,
+      "end": 115.42
+    },
+    {
+      "text": " Vote a Podemos no por Podemos.",
+      "start": 115.6,
+      "end": 117.26
+    },
+    {
+      "text": " Como digo, yo soy muy ignorante políticamente hablando",
+      "start": 117.66,
+      "end": 119.92
+    },
+    {
+      "text": " y también muy perezoso.",
+      "start": 119.92,
+      "end": 121.96
+    },
+    {
+      "text": " En mi puta vida había votado.",
+      "start": 122.1,
+      "end": 123.78
+    },
+    {
+      "text": " Por primera vez tenía ganas de votar a alguien,",
+      "start": 123.92,
+      "end": 125.6
+    },
+    {
+      "text": " pero no por lo que decía Podemos,",
+      "start": 125.78,
+      "end": 127.06
+    },
+    {
+      "text": " sino por lo que dijo en su momento Esperanza Aguirre.",
+      "start": 127.18,
+      "end": 129.74
+    },
+    {
+      "text": " Esperanza...",
+      "start": 130.22,
+      "end": 130.66
+    },
+    {
+      "text": " Yo no sabía quién votar.",
+      "start": 130.66,
+      "end": 131.52
+    },
+    {
+      "text": " Yo seguramente digo, como siempre, no votaré.",
+      "start": 131.64,
+      "end": 133.52
+    },
+    {
+      "text": " De repente, unas declaraciones de Esperanza Aguirre.",
+      "start": 134.16,
+      "end": 136.68
+    },
+    {
+      "text": " Las leo.",
+      "start": 137.22,
+      "end": 138.04
+    },
+    {
+      "text": " Estaba en el periódico, me acuerdo.",
+      "start": 138.16,
+      "end": 139.16
+    },
+    {
+      "text": " Decía, esta gente significa una amenaza",
+      "start": 139.48,
+      "end": 143.2
+    },
+    {
+      "text": " para el sistema democrático occidental tal y como lo conocemos.",
+      "start": 143.2,
+      "end": 148.2
+    },
+    {
+      "text": " Y te juro que fue entonces cuando dije,",
+      "start": 148.4,
+      "end": 149.86
+    },
+    {
+      "text": " hostia, pues ya tengo a alguien que me representa.",
+      "start": 150.02,
+      "end": 153.64
+    },
+    {
+      "text": " Y yo no me he dado cuenta.",
+      "start": 154.76,
+      "end": 156.12
+    },
+    {
+      "text": " Y esa gente a tope.",
+      "start": 157.22,
+      "end": 158.76
+    },
+    {
+      "text": " Y yo no me he dado cuenta.",
+      "start": 175.35999999999999,
+      "end": 178.16
+    }
+  ],
+  "processing_time": 0.9072802066802979,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

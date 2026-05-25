@@ -1,0 +1,159 @@
+{
+  "audio_file": "Mélygarázs ｜ Óvatosan.wav",
+  "full_text": "Köszönöm szépen! Tisztik! Jó napot! Jó napot! Majd óvatosan csukd be az ajtót, ha kérhetem. Bocsánat. Ne, azt tehát, nem kell rángatni. Nem, szép lassan, úgy, úgy. Jó. Majd a sarat ne itt rázza le a kocsíba, ha kérhetem. Egy-ütsár. Jó. Hova megyünk? A szabad csak tény. Ne hajtogassa, hát elkopik. Bocsánat. De most kérem, hogy ne hajtogassa. Hámsejtjeit meg majd én szedem össze, nem? Bocsánat. Deharag, ugyan összesározza meg összekorpázza nekem itt az egész autót, és akkor jönnek a panaszok, meg a lepontozás, hogy koszos az autó. Hölgyem, nekem ez a munkaeszkozem. Jó, elnézés. Megkérhetném, hogy beszéljen kevesebb nyállal. Muszaj 30-szal menni? Igen, mert így fogyaszt jól, és nem kopik a kurom. Az utat tudja, vagy bekapcsoljuk a GPS-t? Persze, hogy tudom az utat, nem ma kezdtem. Ne kapcsoljuk be a GPS-t. Ja, nehogy berekedjen a női hang, mi? A Música-t. A Música-t.",
+  "chunks": [
+    {
+      "text": " Köszönöm szépen!",
+      "start": 6.979999999999997,
+      "end": 7.68
+    },
+    {
+      "text": " Tisztik!",
+      "start": 8.46,
+      "end": 8.5
+    },
+    {
+      "text": " Jó napot!",
+      "start": 8.84,
+      "end": 9.74
+    },
+    {
+      "text": " Jó napot!",
+      "start": 9.9,
+      "end": 10.58
+    },
+    {
+      "text": " Majd óvatosan csukd be az ajtót, ha kérhetem.",
+      "start": 10.9,
+      "end": 14.06
+    },
+    {
+      "text": " Bocsánat.",
+      "start": 14.38,
+      "end": 14.9
+    },
+    {
+      "text": " Ne, azt tehát, nem kell rángatni.",
+      "start": 15.4,
+      "end": 16.78
+    },
+    {
+      "text": " Nem, szép lassan, úgy, úgy.",
+      "start": 16.88,
+      "end": 18.3
+    },
+    {
+      "text": " Jó.",
+      "start": 18.78,
+      "end": 19.3
+    },
+    {
+      "text": " Majd a sarat ne itt rázza le a kocsíba, ha kérhetem.",
+      "start": 20.72,
+      "end": 23.92
+    },
+    {
+      "text": " Egy-ütsár.",
+      "start": 24.02,
+      "end": 24.72
+    },
+    {
+      "text": " Jó. Hova megyünk?",
+      "start": 24.94,
+      "end": 26.56
+    },
+    {
+      "text": " A szabad csak tény.",
+      "start": 26.84,
+      "end": 27.68
+    },
+    {
+      "text": " Ne hajtogassa, hát elkopik.",
+      "start": 34.32000000000001,
+      "end": 36.04
+    },
+    {
+      "text": " Bocsánat.",
+      "start": 37.0,
+      "end": 37.38
+    },
+    {
+      "text": " De most kérem, hogy ne hajtogassa.",
+      "start": 37.7,
+      "end": 39.48
+    },
+    {
+      "text": " Hámsejtjeit meg majd én szedem össze, nem?",
+      "start": 47.6,
+      "end": 49.32
+    },
+    {
+      "text": " Bocsánat.",
+      "start": 51.620000000000005,
+      "end": 52.0
+    },
+    {
+      "text": " Deharag, ugyan összesározza meg összekorpázza nekem itt az egész autót,",
+      "start": 52.38,
+      "end": 55.7
+    },
+    {
+      "text": " és akkor jönnek a panaszok, meg a lepontozás, hogy koszos az autó.",
+      "start": 55.72,
+      "end": 58.88
+    },
+    {
+      "text": " Hölgyem, nekem ez a munkaeszkozem.",
+      "start": 60.02,
+      "end": 61.72
+    },
+    {
+      "text": " Jó, elnézés.",
+      "start": 61.86,
+      "end": 63.12
+    },
+    {
+      "text": " Megkérhetném, hogy beszéljen kevesebb nyállal.",
+      "start": 63.42,
+      "end": 65.66
+    },
+    {
+      "text": " Muszaj 30-szal menni?",
+      "start": 71.48,
+      "end": 73.0
+    },
+    {
+      "text": " Igen, mert így fogyaszt jól, és nem kopik a kurom.",
+      "start": 73.14,
+      "end": 75.64
+    },
+    {
+      "text": " Az utat tudja, vagy bekapcsoljuk a GPS-t?",
+      "start": 78.68,
+      "end": 80.66
+    },
+    {
+      "text": " Persze, hogy tudom az utat, nem ma kezdtem. Ne kapcsoljuk be a GPS-t.",
+      "start": 80.9,
+      "end": 84.1
+    },
+    {
+      "text": " Ja, nehogy berekedjen a női hang, mi?",
+      "start": 84.22,
+      "end": 86.12
+    },
+    {
+      "text": " A Música-t.",
+      "start": 90.0,
+      "end": 92.08
+    },
+    {
+      "text": " A Música-t.",
+      "start": 93.38,
+      "end": 95.1
+    }
+  ],
+  "processing_time": 2.291363000869751,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

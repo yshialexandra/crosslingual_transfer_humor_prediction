@@ -1,0 +1,119 @@
+{
+  "audio_file": "Archie Bezos： Apadriné A Un Niño Africano ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "Porque somos mala gente, pero yo estoy intentando ser mejor persona. Así que he apadrinado a un niño del tercer mundo. ¿Alguien más que haga cosas para desgrabar en Hacienda? No lo hagáis, es una mierda. Empiezas a recibir cartas llenas de faltas de ortografía, dices, para eso me quedo en el Facebook. Empiezas a recibir dibujos, como pintan los niños de cuatro años. Y es como, esta es mi casa con el tejado de paja, mi papá, mi mamá, todos coloreados de negro y así, mis hermanitos. Yo, yo no voy a colgar esa mierda en mi nevera de diseño. Pero claro, digo, no, no, no, esto se trata de ser mejor persona. Así que me solidarizo con él y le mando fotos. Y le digo, mira, esto es un ático. Y esto de la tostada se llama caviar. Ya no son tus hermanitos. ¡Gracias! ¡Gracias! ¡Gracias! ¡Gracias! ¡Gracias! ¡Gracias! ¡Gracias!",
+  "chunks": [
+    {
+      "text": " Porque somos mala gente, pero yo estoy intentando ser mejor persona.",
+      "start": 1.1799999999999995,
+      "end": 4.74
+    },
+    {
+      "text": " Así que he apadrinado a un niño del tercer mundo.",
+      "start": 5.16,
+      "end": 7.82
+    },
+    {
+      "text": " ¿Alguien más que haga cosas para desgrabar en Hacienda?",
+      "start": 8.36,
+      "end": 10.44
+    },
+    {
+      "text": " No lo hagáis, es una mierda.",
+      "start": 12.48,
+      "end": 14.38
+    },
+    {
+      "text": " Empiezas a recibir cartas llenas de faltas de ortografía,",
+      "start": 14.76,
+      "end": 17.02
+    },
+    {
+      "text": " dices, para eso me quedo en el Facebook.",
+      "start": 17.1,
+      "end": 18.3
+    },
+    {
+      "text": " Empiezas a recibir dibujos, como pintan los niños de cuatro años.",
+      "start": 21.04,
+      "end": 25.98
+    },
+    {
+      "text": " Y es como, esta es mi casa con el tejado de paja, mi papá, mi mamá,",
+      "start": 25.98,
+      "end": 30.94
+    },
+    {
+      "text": " todos coloreados de negro y así, mis hermanitos.",
+      "start": 31.1,
+      "end": 34.04
+    },
+    {
+      "text": " Yo, yo no voy a colgar esa mierda en mi nevera de diseño.",
+      "start": 48.14,
+      "end": 51.12
+    },
+    {
+      "text": " Pero claro, digo, no, no, no, esto se trata de ser mejor persona.",
+      "start": 51.980000000000004,
+      "end": 54.7
+    },
+    {
+      "text": " Así que me solidarizo con él y le mando fotos.",
+      "start": 55.46,
+      "end": 57.62
+    },
+    {
+      "text": " Y le digo, mira, esto es un ático.",
+      "start": 57.8,
+      "end": 59.06
+    },
+    {
+      "text": " Y esto de la tostada se llama caviar.",
+      "start": 61.24,
+      "end": 62.94
+    },
+    {
+      "text": " Ya no son tus hermanitos.",
+      "start": 64.38000000000001,
+      "end": 65.8
+    },
+    {
+      "text": " ¡Gracias!",
+      "start": 84.7,
+      "end": 85.3
+    },
+    {
+      "text": " ¡Gracias!",
+      "start": 85.38,
+      "end": 86.1
+    },
+    {
+      "text": " ¡Gracias!",
+      "start": 86.72,
+      "end": 87.5
+    },
+    {
+      "text": " ¡Gracias!",
+      "start": 87.5,
+      "end": 88.02
+    },
+    {
+      "text": " ¡Gracias!",
+      "start": 88.04,
+      "end": 88.62
+    },
+    {
+      "text": " ¡Gracias!",
+      "start": 89.28,
+      "end": 89.56
+    },
+    {
+      "text": " ¡Gracias!",
+      "start": 89.56,
+      "end": 89.64
+    }
+  ],
+  "processing_time": 0.5884625911712646,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

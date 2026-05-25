@@ -1,0 +1,119 @@
+{
+  "audio_file": "Mitől történelmi egy film？ ｜ Heti Dörgés Villám Gézával.wav",
+  "full_text": "Történelmi film alatt olyan alkotásokat értünk, amelyek valamilyen múltbéli fontos esemény dolgoznak fel. Ilyen például a Hitlerről szóló a bukás, vagy az egri csillagok. A híres zeneszerzőkről szóló filmek az Amadeusz, vagy a Beethoven. De mitől is lesz történelmi egy film? A legjobb, ha ezt egy koordinátarendszerrel szemléltetjük. Az X tengely azt jelzi, hogy mennyire vagyunk távol a jelentől. Balra van a múlt, középen a jelen, és jobbra a jövő. Az Y tengely azt jelzi, hogy mennyire fikciós a történet. Az Origo-tól lefele van a valóság, felfelé a fikció. A heti dörgés két ponttal van balra a jelentől, mert azt két hete vettük fel. Na nézzük, hogy hogy működik a történelmi film Matrix. Vegyük a kedvenc filmünket, Sponja Bob, a mozifilm. Ez lefelé középtájt lesz, hiszen részben fikció, mert egy szivacsnak nincsen nadrágja, viszont tényleg a tengerben él, ami valós, és nagyjából a napjainkban történik. A Star Wars egy réges régi történet, viszont teljesen kitalált, úgyhogy oda megy. A Terminátor egy nehezen pozícionálható film, mert kitalált, és hol a múltban, hol a jövőben játszódik, úgyhogy ezt csak random odadobjuk valahova. A Hitlerről szóló a bukás című film a múltról szól, és meglehetősen valóságos, tehát oda megy. Az esküvői videóm is ide kerül, hiszen valóságos, így az nagyon lent van, és kicsit a múlt, tehát egészen olyan, mint a bukás, ha bár nem volt nálam Berlin topográfiai térképe, és a feleségemet se gyújtottam fel a végén. De igazából a filmnek még nincs vége, és bármi megtörténhet. Balra és lent az a történelmi filmzóna. Igen ám, csak hogy a történelmi filmeket sokan egy egész más koordinátarendszerben helyezik el. Köszönöm, szóval.",
+  "chunks": [
+    {
+      "text": " Történelmi film alatt olyan alkotásokat értünk, amelyek valamilyen múltbéli fontos esemény dolgoznak fel.",
+      "start": 0.0,
+      "end": 5.6
+    },
+    {
+      "text": " Ilyen például a Hitlerről szóló a bukás, vagy az egri csillagok.",
+      "start": 5.74,
+      "end": 9.5
+    },
+    {
+      "text": " A híres zeneszerzőkről szóló filmek az Amadeusz, vagy a Beethoven.",
+      "start": 9.56,
+      "end": 13.04
+    },
+    {
+      "text": " De mitől is lesz történelmi egy film? A legjobb, ha ezt egy koordinátarendszerrel szemléltetjük.",
+      "start": 13.4,
+      "end": 18.32
+    },
+    {
+      "text": " Az X tengely azt jelzi, hogy mennyire vagyunk távol a jelentől.",
+      "start": 18.58,
+      "end": 21.7
+    },
+    {
+      "text": " Balra van a múlt, középen a jelen, és jobbra a jövő.",
+      "start": 21.78,
+      "end": 24.72
+    },
+    {
+      "text": " Az Y tengely azt jelzi, hogy mennyire fikciós a történet.",
+      "start": 24.9,
+      "end": 28.06
+    },
+    {
+      "text": " Az Origo-tól lefele van a valóság, felfelé a fikció.",
+      "start": 28.06,
+      "end": 31.62
+    },
+    {
+      "text": " A heti dörgés két ponttal van balra a jelentől, mert azt két hete vettük fel.",
+      "start": 31.86,
+      "end": 36.0
+    },
+    {
+      "text": " Na nézzük, hogy hogy működik a történelmi film Matrix.",
+      "start": 36.3,
+      "end": 39.5
+    },
+    {
+      "text": " Vegyük a kedvenc filmünket, Sponja Bob, a mozifilm.",
+      "start": 39.7,
+      "end": 43.22
+    },
+    {
+      "text": " Ez lefelé középtájt lesz, hiszen részben fikció, mert egy szivacsnak nincsen nadrágja,",
+      "start": 43.38,
+      "end": 49.3
+    },
+    {
+      "text": " viszont tényleg a tengerben él, ami valós, és nagyjából a napjainkban történik.",
+      "start": 49.62,
+      "end": 53.5
+    },
+    {
+      "text": " A Star Wars egy réges régi történet, viszont teljesen kitalált, úgyhogy oda megy.",
+      "start": 53.5,
+      "end": 59.5
+    },
+    {
+      "text": " A Terminátor egy nehezen pozícionálható film, mert kitalált, és hol a múltban, hol a jövőben játszódik, úgyhogy ezt csak random odadobjuk valahova.",
+      "start": 59.74,
+      "end": 67.84
+    },
+    {
+      "text": " A Hitlerről szóló a bukás című film a múltról szól, és meglehetősen valóságos, tehát oda megy.",
+      "start": 68.1,
+      "end": 74.12
+    },
+    {
+      "text": " Az esküvői videóm is ide kerül, hiszen valóságos, így az nagyon lent van, és kicsit a múlt, tehát egészen olyan, mint a bukás,",
+      "start": 74.12,
+      "end": 81.88
+    },
+    {
+      "text": " ha bár nem volt nálam Berlin topográfiai térképe, és a feleségemet se gyújtottam fel a végén.",
+      "start": 82.08,
+      "end": 86.52
+    },
+    {
+      "text": " De igazából a filmnek még nincs vége, és bármi megtörténhet.",
+      "start": 86.76,
+      "end": 90.2
+    },
+    {
+      "text": " Balra és lent az a történelmi filmzóna.",
+      "start": 90.74,
+      "end": 94.14
+    },
+    {
+      "text": " Igen ám, csak hogy a történelmi filmeket sokan egy egész más koordinátarendszerben helyezik el.",
+      "start": 94.48,
+      "end": 99.94
+    },
+    {
+      "text": " Köszönöm, szóval.",
+      "start": 104.14,
+      "end": 106.62
+    }
+  ],
+  "processing_time": 1.9871752262115479,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

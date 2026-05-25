@@ -1,0 +1,19 @@
+{
+  "audio_file": "Comedy Club ｜ ÚJ ÉVAD ｜ szeptember 16..wav",
+  "full_text": "A Család új tagokkal bővül. Comedy Club. Új évad új szereplőkkel. Szeptember 16-ától a Comedy Centralon.",
+  "chunks": [
+    {
+      "text": " A Család új tagokkal bővül.",
+      "start": 21.72,
+      "end": 24.92
+    },
+    {
+      "text": " Comedy Club. Új évad új szereplőkkel. Szeptember 16-ától a Comedy Centralon.",
+      "start": 24.92,
+      "end": 29.92
+    }
+  ],
+  "processing_time": 0.18903708457946777,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

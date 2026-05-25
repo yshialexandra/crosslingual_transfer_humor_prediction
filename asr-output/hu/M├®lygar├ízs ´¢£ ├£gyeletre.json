@@ -1,0 +1,94 @@
+{
+  "audio_file": "Mélygarázs ｜ Ügyeletre.wav",
+  "full_text": "A TAKSZI T HÍVTÁS A munka mi? Körmödre égett! Na jó van! Érzed ezt? Mit? Az volt aki legpirosa tenyere! Elég! Jó, azt az egyet árul el, hogy mégis miért? Fogadásból! És nem jön ki? Nem jön! Ne mondd már, hát tök nagy a rés! Kipróbálod, van még egy rés! Igen és? Na és most? Tudnál váltani jogkézzel?",
+  "chunks": [
+    {
+      "text": " A TAKSZI T HÍVTÁS",
+      "start": 11.4,
+      "end": 14.5
+    },
+    {
+      "text": " A munka mi?",
+      "start": 30.0,
+      "end": 30.56
+    },
+    {
+      "text": " Körmödre égett!",
+      "start": 33.52,
+      "end": 34.4
+    },
+    {
+      "text": " Na jó van!",
+      "start": 35.72,
+      "end": 36.58
+    },
+    {
+      "text": " Érzed ezt?",
+      "start": 38.28,
+      "end": 38.94
+    },
+    {
+      "text": " Mit?",
+      "start": 39.26,
+      "end": 39.7
+    },
+    {
+      "text": " Az volt aki legpirosa tenyere!",
+      "start": 40.24,
+      "end": 41.9
+    },
+    {
+      "text": " Elég!",
+      "start": 44.72,
+      "end": 45.16
+    },
+    {
+      "text": " Jó, azt az egyet árul el, hogy mégis miért?",
+      "start": 45.6,
+      "end": 48.28
+    },
+    {
+      "text": " Fogadásból!",
+      "start": 49.06,
+      "end": 49.5
+    },
+    {
+      "text": " És nem jön ki?",
+      "start": 49.72,
+      "end": 50.48
+    },
+    {
+      "text": " Nem jön!",
+      "start": 50.72,
+      "end": 51.22
+    },
+    {
+      "text": " Ne mondd már, hát tök nagy a rés!",
+      "start": 51.42,
+      "end": 52.7
+    },
+    {
+      "text": " Kipróbálod, van még egy rés!",
+      "start": 53.06,
+      "end": 54.18
+    },
+    {
+      "text": " Igen és?",
+      "start": 55.800000000000004,
+      "end": 56.52
+    },
+    {
+      "text": " Na és most?",
+      "start": 56.76,
+      "end": 57.3
+    },
+    {
+      "text": " Tudnál váltani jogkézzel?",
+      "start": 62.8,
+      "end": 65.0
+    }
+  ],
+  "processing_time": 0.3158700466156006,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,199 @@
+{
+  "audio_file": "A Férfiak Nem Értik 🤷🏻‍♂️ ｜ Csenki Attila ｜ Comedy Club.wav",
+  "full_text": "Egyszerűen a férfi ember, mi egy rakás dolgot nem látunk, nem veszünk észre, sokszor nem vagyunk nőkompatibilisek. Nem tudom, hogy történt. Fogalmam sem, hogy múltkor rossz kerülőutat használtam a lakásban, fogalmam sem, hogy mi volt, egyszer csak szembe jött a feleségem. Most amúgy tök paraszt vagyok, hiszen egyenrangúan élünk ott a bal a lakásban, ami mellesleg eredetileg az övé. Ezért nem várhatom el, hogy ők kerüljön ki engemnek. Láttam, hogy tök ideges már, amikor jön, és azt mondja nekem, hogy figyelj csak, olyan nagy barom tudsz néha lenni, olyan nagy barom tudsz lenni. Hat hete figyelem azt a rohadt portörőröny rongyot a könyves polc alján. Miért nem veszed észre és teszed el? Hát drágám, ott a válasz a kérdésben, azért nem teszem el, mert nem veszem észre. De mondom, figyelj csak, te hat hete tudsz arról, hogy ott van az a rohadt portörőröny. Akkor ebben a pillanatban melyik önk a barom ebben a háztartásban? De minden reggel úgy kell szó, hogy mikor veszi már észre ez a hülye barom azt a portörőrönyot, mikor veszi már észre. De hát mindegy bocsánatot kértem tőle, megfogadtam a soha többet nem ford lelő ilyen, elnaktam a portörőrönyot, aztán rájöttem, hogy két hete még ott sem volt a szekrény. Én meg simán beszívtam ezt az egészet. Szóval az van, hogy nagyon sokszor szerintem tényleg mi férfiak vagyunk hülyék. Egyszerűen nem értjük néha, hogy mit akarnak a nők. Egyszer odajött hozzám, kérdezi tőlem a konyhába, hogy te figyelj csak, te át nem főztél véletlenül. Ez azóta sem tudom, hogy lehet véletlenül teát főzni. Mire gondolt, hogy ford a víz a leveshez? Én meg akkora barom voltam már, megint vakargatom, hogy drágám, tiszta gyökér vagyok, tényleg. Hát beleborult 36 teafilter megint a vízbe. Érdesen főztem véletlenül 4 liter teát. Megiszod, vagy beletöltsük a gyerekbe, mert én a kedvedért beletöltöm esküszöm. Hogy az angolok isszák nap, mint nap, beletöltjük. Hát, és mondtam múltkor azért, drágám, hogy figyelj ide, legalább egy választ, legalább egy választ találj már ki, ha kérdezlek. Levegyél már ilyen hülye, hogy nem tudsz egy választ kitalálni. Drágám, ki tudok én találni hat választ is, mert átlagféri vagyok, csak nem tudom, melyiket merjem mondani. Az a helyzet. Mert átlagféri vagyok. A helyzet.",
+  "chunks": [
+    {
+      "text": " Egyszerűen a férfi ember, mi egy rakás dolgot nem látunk, nem veszünk észre,",
+      "start": 0.0,
+      "end": 7.72
+    },
+    {
+      "text": " sokszor nem vagyunk nőkompatibilisek.",
+      "start": 7.84,
+      "end": 9.98
+    },
+    {
+      "text": " Nem tudom, hogy történt.",
+      "start": 10.2,
+      "end": 10.9
+    },
+    {
+      "text": " Fogalmam sem, hogy múltkor rossz kerülőutat használtam a lakásban,",
+      "start": 11.16,
+      "end": 13.78
+    },
+    {
+      "text": " fogalmam sem, hogy mi volt, egyszer csak szembe jött a feleségem.",
+      "start": 13.82,
+      "end": 16.86
+    },
+    {
+      "text": " Most amúgy tök paraszt vagyok, hiszen egyenrangúan élünk ott a bal a lakásban,",
+      "start": 18.32,
+      "end": 23.9
+    },
+    {
+      "text": " ami mellesleg eredetileg az övé.",
+      "start": 24.38,
+      "end": 26.06
+    },
+    {
+      "text": " Ezért nem várhatom el, hogy ők kerüljön ki engemnek.",
+      "start": 27.4,
+      "end": 29.72
+    },
+    {
+      "text": " Láttam, hogy tök ideges már, amikor jön, és azt mondja nekem, hogy figyelj csak,",
+      "start": 30.0,
+      "end": 32.8
+    },
+    {
+      "text": " olyan nagy barom tudsz néha lenni, olyan nagy barom tudsz lenni.",
+      "start": 33.2,
+      "end": 36.38
+    },
+    {
+      "text": " Hat hete figyelem azt a rohadt portörőröny rongyot a könyves polc alján.",
+      "start": 36.74,
+      "end": 40.52
+    },
+    {
+      "text": " Miért nem veszed észre és teszed el?",
+      "start": 40.84,
+      "end": 42.66
+    },
+    {
+      "text": " Hát drágám, ott a válasz a kérdésben, azért nem teszem el, mert nem veszem észre.",
+      "start": 44.300000000000004,
+      "end": 50.6
+    },
+    {
+      "text": " De mondom, figyelj csak, te hat hete tudsz arról, hogy ott van az a rohadt portörőröny.",
+      "start": 51.96,
+      "end": 56.54
+    },
+    {
+      "text": " Akkor ebben a pillanatban melyik önk a barom ebben a háztartásban?",
+      "start": 56.54,
+      "end": 59.92
+    },
+    {
+      "text": " De minden reggel úgy kell szó, hogy mikor veszi már észre ez a hülye barom azt a portörőrönyot,",
+      "start": 60.16,
+      "end": 66.22
+    },
+    {
+      "text": " mikor veszi már észre.",
+      "start": 66.3,
+      "end": 67.58
+    },
+    {
+      "text": " De hát mindegy bocsánatot kértem tőle, megfogadtam a soha többet nem ford lelő ilyen,",
+      "start": 67.98,
+      "end": 72.8
+    },
+    {
+      "text": " elnaktam a portörőrönyot, aztán rájöttem, hogy két hete még ott sem volt a szekrény.",
+      "start": 73.35999999999999,
+      "end": 77.32
+    },
+    {
+      "text": " Én meg simán beszívtam ezt az egészet.",
+      "start": 78.9,
+      "end": 81.14
+    },
+    {
+      "text": " Szóval az van, hogy nagyon sokszor szerintem tényleg mi férfiak vagyunk hülyék.",
+      "start": 85.78,
+      "end": 89.88
+    },
+    {
+      "text": " Egyszerűen nem értjük néha, hogy mit akarnak a nők.",
+      "start": 89.96,
+      "end": 93.8
+    },
+    {
+      "text": " Egyszer odajött hozzám, kérdezi tőlem a konyhába, hogy te figyelj csak, te át nem főztél véletlenül.",
+      "start": 94.5,
+      "end": 99.12
+    },
+    {
+      "text": " Ez azóta sem tudom, hogy lehet véletlenül teát főzni.",
+      "start": 99.12,
+      "end": 101.9
+    },
+    {
+      "text": " Mire gondolt, hogy ford a víz a leveshez?",
+      "start": 102.56,
+      "end": 105.1
+    },
+    {
+      "text": " Én meg akkora barom voltam már, megint vakargatom, hogy drágám, tiszta gyökér vagyok, tényleg.",
+      "start": 106.34,
+      "end": 110.98
+    },
+    {
+      "text": " Hát beleborult 36 teafilter megint a vízbe.",
+      "start": 111.12,
+      "end": 113.9
+    },
+    {
+      "text": " Érdesen főztem véletlenül 4 liter teát.",
+      "start": 114.72,
+      "end": 117.26
+    },
+    {
+      "text": " Megiszod, vagy beletöltsük a gyerekbe, mert én a kedvedért beletöltöm esküszöm.",
+      "start": 118.36,
+      "end": 121.92
+    },
+    {
+      "text": " Hogy az angolok isszák nap, mint nap, beletöltjük.",
+      "start": 122.0,
+      "end": 124.06
+    },
+    {
+      "text": " Hát, és mondtam múltkor azért, drágám, hogy figyelj ide, legalább egy választ,",
+      "start": 124.18,
+      "end": 128.44
+    },
+    {
+      "text": " legalább egy választ találj már ki, ha kérdezlek.",
+      "start": 128.44,
+      "end": 130.72
+    },
+    {
+      "text": " Levegyél már ilyen hülye, hogy nem tudsz egy választ kitalálni.",
+      "start": 130.8,
+      "end": 133.22
+    },
+    {
+      "text": " Drágám, ki tudok én találni hat választ is, mert átlagféri vagyok,",
+      "start": 133.54,
+      "end": 137.02
+    },
+    {
+      "text": " csak nem tudom, melyiket merjem mondani.",
+      "start": 137.26,
+      "end": 139.0
+    },
+    {
+      "text": " Az a helyzet.",
+      "start": 139.1,
+      "end": 139.86
+    },
+    {
+      "text": " Mert átlagféri vagyok.",
+      "start": 140.08,
+      "end": 141.5
+    },
+    {
+      "text": " A helyzet.",
+      "start": 158.44,
+      "end": 159.56
+    }
+  ],
+  "processing_time": 1.0589346885681152,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

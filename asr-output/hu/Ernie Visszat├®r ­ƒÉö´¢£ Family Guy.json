@@ -1,0 +1,44 @@
+{
+  "audio_file": "Ernie Visszatér 🐔｜ Family Guy.wav",
+  "full_text": "Örni, én vagyok, az hív vissza. Tudom, hogy a legutóbbi évad után azt mondtad, a családra fogsz koncentrálni, és igen, aláírom azt is, hogy a helikopteres üldözést mi szúrtuk el. Sajnálom, hogy akkor megsérültél. De még mindig te vagy a legjobb, nem fogok valami jelmezes bohócot odaállítani a helyedre. Tudom, hogy hallasz, úgyhogy éme az ajánlatom 1 millió dollár epizódonként. Na mit mondasz? Köszönöm, hogy megnézted!",
+  "chunks": [
+    {
+      "text": " Örni, én vagyok, az hív vissza.",
+      "start": 8.279999999999998,
+      "end": 10.04
+    },
+    {
+      "text": " Tudom, hogy a legutóbbi évad után azt mondtad, a családra fogsz koncentrálni,",
+      "start": 10.88,
+      "end": 14.38
+    },
+    {
+      "text": " és igen, aláírom azt is, hogy a helikopteres üldözést mi szúrtuk el.",
+      "start": 14.44,
+      "end": 17.88
+    },
+    {
+      "text": " Sajnálom, hogy akkor megsérültél.",
+      "start": 18.22,
+      "end": 19.72
+    },
+    {
+      "text": " De még mindig te vagy a legjobb, nem fogok valami jelmezes bohócot odaállítani a helyedre.",
+      "start": 20.14,
+      "end": 24.76
+    },
+    {
+      "text": " Tudom, hogy hallasz, úgyhogy éme az ajánlatom 1 millió dollár epizódonként. Na mit mondasz?",
+      "start": 24.76,
+      "end": 32.38
+    },
+    {
+      "text": " Köszönöm, hogy megnézted!",
+      "start": 56.120000000000005,
+      "end": 59.68
+    }
+  ],
+  "processing_time": 2.055617570877075,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

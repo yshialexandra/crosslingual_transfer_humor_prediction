@@ -1,0 +1,129 @@
+{
+  "audio_file": "Sanya a mosógépben ｜ Susogós Mackók 🐻.wav",
+  "full_text": "A TORONTOSYÉS A TORONTOSYÉS Telefoni Péplést Telefoni Péplést Telefoni Péplést Telefoni Péplést Telefoni Péplést Telefoni Péplést Telefoni Péplést – Sanya! Neked már mi bajod? Miért szédeleksz, mint egy őszi lény? – Délután rendim lesz. Szóval bemásztam a mosógépbe, hogy szép legyen a bundám, de annyi volt tisztítót nyeltem, hogy azóta hallózni. Emocinálok. És akkor éppen most mit látsz? A fejed, Brandon a fejed. Nem medvefej, hanem tigris fej. Tigris? Azt az nagyon menő. Állat, mi? Most már nem tigris fejed van, Brandon, hanem pulyka. Mi? Pujka? Pujka. A nagyobb éna, ne pulykázzál már, hanem tigris, tigris, csináld a tigris, gyerünk! Brandon, most meg, most meg egyáltalán nem is látok semmit. Brandon, hol vagy? Brandon, hé, Brandon, megvakultam. Brandon! A szem ebből vakrandi lesz.",
+  "chunks": [
+    {
+      "text": " A TORONTOSYÉS",
+      "start": 0.0,
+      "end": 0.1
+    },
+    {
+      "text": " A TORONTOSYÉS",
+      "start": 0.1,
+      "end": 0.54
+    },
+    {
+      "text": " Telefoni Péplést",
+      "start": 3.58,
+      "end": 4.38
+    },
+    {
+      "text": " Telefoni Péplést",
+      "start": 4.38,
+      "end": 4.68
+    },
+    {
+      "text": " Telefoni Péplést",
+      "start": 4.68,
+      "end": 5.72
+    },
+    {
+      "text": " Telefoni Péplést",
+      "start": 6.88,
+      "end": 7.96
+    },
+    {
+      "text": " Telefoni Péplést",
+      "start": 7.96,
+      "end": 9.1
+    },
+    {
+      "text": " Telefoni Péplést",
+      "start": 9.1,
+      "end": 9.46
+    },
+    {
+      "text": " Telefoni Péplést",
+      "start": 9.46,
+      "end": 10.0
+    },
+    {
+      "text": " – Sanya! Neked már mi bajod?",
+      "start": 10.0,
+      "end": 17.84
+    },
+    {
+      "text": " Miért szédeleksz, mint egy őszi lény?",
+      "start": 18.02,
+      "end": 19.78
+    },
+    {
+      "text": " – Délután rendim lesz.",
+      "start": 20.08,
+      "end": 22.48
+    },
+    {
+      "text": " Szóval bemásztam a mosógépbe, hogy szép legyen a bundám,",
+      "start": 22.88,
+      "end": 26.86
+    },
+    {
+      "text": " de annyi volt tisztítót nyeltem, hogy azóta hallózni.",
+      "start": 27.02,
+      "end": 29.98
+    },
+    {
+      "text": " Emocinálok.",
+      "start": 30.0,
+      "end": 30.66
+    },
+    {
+      "text": " És akkor éppen most mit látsz?",
+      "start": 31.5,
+      "end": 33.46
+    },
+    {
+      "text": " A fejed, Brandon a fejed. Nem medvefej, hanem tigris fej.",
+      "start": 36.28,
+      "end": 41.52
+    },
+    {
+      "text": " Tigris? Azt az nagyon menő. Állat, mi?",
+      "start": 42.72,
+      "end": 48.28
+    },
+    {
+      "text": " Most már nem tigris fejed van, Brandon, hanem pulyka.",
+      "start": 50.24,
+      "end": 55.1
+    },
+    {
+      "text": " Mi? Pujka? Pujka.",
+      "start": 56.620000000000005,
+      "end": 59.22
+    },
+    {
+      "text": " A nagyobb éna, ne pulykázzál már, hanem tigris, tigris, csináld a tigris, gyerünk!",
+      "start": 59.22,
+      "end": 64.26
+    },
+    {
+      "text": " Brandon, most meg, most meg egyáltalán nem is látok semmit.",
+      "start": 65.26,
+      "end": 69.12
+    },
+    {
+      "text": " Brandon, hol vagy? Brandon, hé, Brandon, megvakultam. Brandon!",
+      "start": 69.3,
+      "end": 73.5
+    },
+    {
+      "text": " A szem ebből vakrandi lesz.",
+      "start": 75.76,
+      "end": 77.62
+    }
+  ],
+  "processing_time": 1.411632776260376,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

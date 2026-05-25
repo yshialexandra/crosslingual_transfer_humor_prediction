@@ -1,0 +1,254 @@
+{
+  "audio_file": "A radiátor szerelő ｜ Bruti ｜ A Comedy Central bemutatja.wav",
+  "full_text": "A LAKÓK Dehogy folyik, az csak csöpög A macskának a tányérját alárakja Majd az kiszedi belőle, azt ó, el lesznek az, amik három évig Persze, semmi van Ha az mondja, hogy ömlik a radiátor Akkor dehogy ömlik, mocsony folyik Tehát, hogy mindig egy ilyen a jobbat Hazudnak olyan, hogy ömlés, olyan meg nincsen Mert az a nagy hiba, ugye, amire várunk Háromszázan Húsz évig Illetve, hát van, de akkor úgy is hallod a szerencsétlennek a hangjában Azt a pánikot, hogy Úristen, falik a víz És akkor, persze, persze, akkor már kimegyünk hát Meg amúgy is van annak a víznek, ahogy így kijön négy bár nyomással a radiátorba Van egy ilyen semmivel össze nem tévezthető hangja Na most, a nagy hiba A nagy hiba, hát az nem túl egyszerű Mondom, nagyon ritkán van Az én pályafutásom adtán kétszer volt És valami részakal vannak ezek a nagy hibák Ezt sem tudom megfejteni, hogy miért éjszakal És hát éjszaka, mi nem dolgozunk, hanem... Ejszaka? Mit? Miért te dolgozol éjszaka? Hát nem vagyok én... nem dolgozunk éjszaka Hanem házi ügyelet van A házi ügyelet, na most azt nem úgy kell elképzelni, mint egy tech-komando, hogy... Hát hallsz készültségbe érted, hogy csizmába, meg játszós ruhádba, fejed alatt a csőfogóval így állsz, és... Várod a nagy hibát, ugye, mert hát... Mikor 20 évi kurvára nem jött, akkor most miért jönne ma, pont ma este? Hát nem úgy vagy, hogy szépen pizsama parti, ahogy az kell... Beőtt ez a kis hálósípka, és kinek hogy... Én nem hordog... És akkor kismatrac, nagymatrac, emlékezőpárna... Tudod, minden szépen... És a szúnyász telefon minél messzebb elrakva, ugye, hogy nehogy meghalt, hogyha csörök... És asszol, asszol, és hajnal egy óra... Éppen azt támadott, hogy a karibtengeren lóbálod a lábadat a türki zöld vízbe, pörgeted a korál homokot az ujjat közt, és egyszer csak hallod, hogy a dzsungel felől a hátad mögött csirip el egy kismadály... És így jön közelep... Csirip, csirip, nézd, mi a jóisten ez... Csirip, csirip, csirip, csirip, csirip, csirip... És akkor jössze el, hogy basszus, hát ez a telefon, úgyhogy karibtenger balra, eh? Telefon, nézd, ki a jóisten akar egy óra a kor? Telefon, és azzal a mozdulattal ki is nyomod a p***sába... És dobod vissza... És akkor csak visszafekszes, ahó, léci, léci, csak karibtenger legyen, léci, léci, léci... Persze, nem lesz egy semmilyen karibtenger onnantól kezdve... Ugyanis a diszpéjcser bent üvöltve telefonál, és ugye egyből hív vissza, 20 másodperc múlva csörög... Felveszed, mert ezt már csak felveszed, és azt hallott, hogy... Te állat, hát miért nyomod ki a telefon? Hát úrják, ki föl a c***hú csápol azonnal? Hát ömlik a víz! Jújjúj... Hát én meg már nem tudsz elaludni? Hát hogy? Hát hogy? Hát... Hát csak 5-10 pecik forgalodsz az ágyban... Nem víz! Hát nem enged a lelkiismeret! Hát... Hát valahol a világban ömlik a víz! Köszönjük a kémet ömlik a vízi polcíkot Zene",
+  "chunks": [
+    {
+      "text": " A LAKÓK",
+      "start": 3.0400000000000005,
+      "end": 5.16
+    },
+    {
+      "text": " Dehogy folyik, az csak csöpög",
+      "start": 30.320000000000004,
+      "end": 32.0
+    },
+    {
+      "text": " A macskának a tányérját alárakja",
+      "start": 32.0,
+      "end": 34.32
+    },
+    {
+      "text": " Majd az kiszedi belőle, azt ó, el lesznek az, amik három évig",
+      "start": 34.32,
+      "end": 37.66
+    },
+    {
+      "text": " Persze, semmi van",
+      "start": 37.66,
+      "end": 38.58
+    },
+    {
+      "text": " Ha az mondja, hogy ömlik a radiátor",
+      "start": 38.58,
+      "end": 40.62
+    },
+    {
+      "text": " Akkor dehogy ömlik, mocsony folyik",
+      "start": 40.62,
+      "end": 42.58
+    },
+    {
+      "text": " Tehát, hogy mindig egy ilyen a jobbat",
+      "start": 42.58,
+      "end": 43.9
+    },
+    {
+      "text": " Hazudnak olyan, hogy ömlés, olyan meg nincsen",
+      "start": 44.68000000000001,
+      "end": 47.32
+    },
+    {
+      "text": " Mert az a nagy hiba, ugye, amire várunk",
+      "start": 47.32,
+      "end": 49.84
+    },
+    {
+      "text": " Háromszázan",
+      "start": 50.60000000000001,
+      "end": 51.06
+    },
+    {
+      "text": " Húsz évig",
+      "start": 52.22,
+      "end": 53.04
+    },
+    {
+      "text": " Illetve, hát van, de akkor úgy is hallod a szerencsétlennek a hangjában",
+      "start": 54.040000000000006,
+      "end": 57.74
+    },
+    {
+      "text": " Azt a pánikot, hogy",
+      "start": 57.74,
+      "end": 58.68
+    },
+    {
+      "text": " Úristen, falik a víz",
+      "start": 58.68,
+      "end": 60.82
+    },
+    {
+      "text": " És akkor, persze, persze, akkor már kimegyünk hát",
+      "start": 60.82,
+      "end": 64.6
+    },
+    {
+      "text": " Meg amúgy is van annak a víznek, ahogy így kijön négy bár nyomással a radiátorba",
+      "start": 64.6,
+      "end": 70.78
+    },
+    {
+      "text": " Van egy ilyen semmivel össze nem tévezthető hangja",
+      "start": 70.78,
+      "end": 73.44
+    },
+    {
+      "text": " Na most, a nagy hiba",
+      "start": 74.58,
+      "end": 76.5
+    },
+    {
+      "text": " A nagy hiba, hát az nem túl egyszerű",
+      "start": 76.5,
+      "end": 79.32
+    },
+    {
+      "text": " Mondom, nagyon ritkán van",
+      "start": 79.32,
+      "end": 80.46
+    },
+    {
+      "text": " Az én pályafutásom adtán kétszer volt",
+      "start": 80.46,
+      "end": 82.62
+    },
+    {
+      "text": " És valami részakal vannak ezek a nagy hibák",
+      "start": 82.62,
+      "end": 85.28
+    },
+    {
+      "text": " Ezt sem tudom megfejteni, hogy miért éjszakal",
+      "start": 85.28,
+      "end": 87.78
+    },
+    {
+      "text": " És hát éjszaka, mi nem dolgozunk, hanem...",
+      "start": 87.78,
+      "end": 91.78
+    },
+    {
+      "text": " Ejszaka?",
+      "start": 91.78,
+      "end": 92.28
+    },
+    {
+      "text": " Mit? Miért te dolgozol éjszaka?",
+      "start": 92.64,
+      "end": 94.78
+    },
+    {
+      "text": " Hát nem vagyok én... nem dolgozunk éjszaka",
+      "start": 96.12,
+      "end": 99.46
+    },
+    {
+      "text": " Hanem házi ügyelet van",
+      "start": 99.46,
+      "end": 102.38
+    },
+    {
+      "text": " A házi ügyelet, na most azt nem úgy kell elképzelni, mint egy tech-komando, hogy...",
+      "start": 102.38,
+      "end": 106.56
+    },
+    {
+      "text": " Hát hallsz készültségbe érted, hogy csizmába, meg játszós ruhádba, fejed alatt a csőfogóval így állsz, és...",
+      "start": 108.08,
+      "end": 115.96
+    },
+    {
+      "text": " Várod a nagy hibát, ugye, mert hát...",
+      "start": 116.82,
+      "end": 119.34
+    },
+    {
+      "text": " Mikor 20 évi kurvára nem jött, akkor most miért jönne ma, pont ma este?",
+      "start": 119.34,
+      "end": 122.78
+    },
+    {
+      "text": " Hát nem úgy vagy, hogy szépen pizsama parti, ahogy az kell...",
+      "start": 123.02,
+      "end": 125.88000000000001
+    },
+    {
+      "text": " Beőtt ez a kis hálósípka, és kinek hogy...",
+      "start": 126.58,
+      "end": 129.68
+    },
+    {
+      "text": " Én nem hordog...",
+      "start": 129.68,
+      "end": 130.88
+    },
+    {
+      "text": " És akkor kismatrac, nagymatrac, emlékezőpárna...",
+      "start": 131.52,
+      "end": 135.28
+    },
+    {
+      "text": " Tudod, minden szépen...",
+      "start": 135.28,
+      "end": 136.66
+    },
+    {
+      "text": " És a szúnyász telefon minél messzebb elrakva, ugye, hogy nehogy meghalt, hogyha csörök...",
+      "start": 136.66,
+      "end": 142.34
+    },
+    {
+      "text": " És asszol, asszol, és hajnal egy óra...",
+      "start": 142.34,
+      "end": 145.28
+    },
+    {
+      "text": " Éppen azt támadott, hogy a karibtengeren lóbálod a lábadat a türki zöld vízbe, pörgeted a korál homokot az ujjat közt, és egyszer csak hallod, hogy a dzsungel felől a hátad mögött csirip el egy kismadály...",
+      "start": 145.28,
+      "end": 160.22
+    },
+    {
+      "text": " És így jön közelep... Csirip, csirip, nézd, mi a jóisten ez... Csirip, csirip, csirip, csirip, csirip, csirip... És akkor jössze el, hogy basszus, hát ez a telefon, úgyhogy karibtenger balra, eh?",
+      "start": 162.1,
+      "end": 171.6
+    },
+    {
+      "text": " Telefon, nézd, ki a jóisten akar egy óra a kor? Telefon, és azzal a mozdulattal ki is nyomod a p***sába...",
+      "start": 172.9,
+      "end": 178.72
+    },
+    {
+      "text": " És dobod vissza... És akkor csak visszafekszes, ahó, léci, léci, csak karibtenger legyen, léci, léci, léci... Persze, nem lesz egy semmilyen karibtenger onnantól kezdve...",
+      "start": 179.4,
+      "end": 189.5
+    },
+    {
+      "text": " Ugyanis a diszpéjcser bent üvöltve telefonál, és ugye egyből hív vissza, 20 másodperc múlva csörög... Felveszed, mert ezt már csak felveszed, és azt hallott, hogy...",
+      "start": 189.5,
+      "end": 199.38
+    },
+    {
+      "text": " Te állat, hát miért nyomod ki a telefon? Hát úrják, ki föl a c***hú csápol azonnal? Hát ömlik a víz! Jújjúj... Hát én meg már nem tudsz elaludni? Hát hogy? Hát hogy? Hát...",
+      "start": 199.38,
+      "end": 212.82
+    },
+    {
+      "text": " Hát csak 5-10 pecik forgalodsz az ágyban... Nem víz! Hát nem enged a lelkiismeret! Hát... Hát valahol a világban ömlik a víz!",
+      "start": 212.82,
+      "end": 222.5
+    },
+    {
+      "text": " Köszönjük a kémet ömlik a vízi polcíkot",
+      "start": 223.62,
+      "end": 224.86
+    },
+    {
+      "text": " Zene",
+      "start": 224.86,
+      "end": 225.02
+    }
+  ],
+  "processing_time": 3.1537036895751953,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

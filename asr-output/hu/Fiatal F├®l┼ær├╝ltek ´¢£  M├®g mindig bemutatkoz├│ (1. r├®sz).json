@@ -1,0 +1,64 @@
+{
+  "audio_file": "Fiatal Félőrültek ｜  Még mindig bemutatkozó (1. rész).wav",
+  "full_text": "Bocsi, kicsit undi lesz. Nem akarok hűségkártyát. Két hétig fosztam miattal. Minden pillanatát élveztem. Túl meleg volt. Csak szeretném használni a mostút. Egy sörrel kezdenék. A legjobb asztalt akarom. A legjobb asztal. Köszönöm, hogy megtaláltad! Köszönöm, hogy megtaláltad!",
+  "chunks": [
+    {
+      "text": " Bocsi, kicsit undi lesz.",
+      "start": 1.0800000000000003,
+      "end": 3.04
+    },
+    {
+      "text": " Nem akarok hűségkártyát.",
+      "start": 30.0,
+      "end": 31.1
+    },
+    {
+      "text": " Két hétig fosztam miattal.",
+      "start": 33.0,
+      "end": 34.8
+    },
+    {
+      "text": " Minden pillanatát élveztem.",
+      "start": 37.0,
+      "end": 38.44
+    },
+    {
+      "text": " Túl meleg volt.",
+      "start": 40.0,
+      "end": 40.68
+    },
+    {
+      "text": " Csak szeretném használni a mostút.",
+      "start": 41.42,
+      "end": 43.98
+    },
+    {
+      "text": " Egy sörrel kezdenék.",
+      "start": 46.0,
+      "end": 47.4
+    },
+    {
+      "text": " A legjobb asztalt akarom.",
+      "start": 47.9,
+      "end": 49.46
+    },
+    {
+      "text": " A legjobb asztal.",
+      "start": 61.08,
+      "end": 61.52
+    },
+    {
+      "text": " Köszönöm, hogy megtaláltad!",
+      "start": 117.22,
+      "end": 119.74
+    },
+    {
+      "text": " Köszönöm, hogy megtaláltad!",
+      "start": 123.05999999999999,
+      "end": 125.8
+    }
+  ],
+  "processing_time": 1.3666150569915771,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

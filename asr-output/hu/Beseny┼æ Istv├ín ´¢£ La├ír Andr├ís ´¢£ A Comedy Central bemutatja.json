@@ -1,0 +1,149 @@
+{
+  "audio_file": "Besenyő István ｜ Laár András ｜ A Comedy Central bemutatja.wav",
+  "full_text": "Besenyő István! Na kérem! Besenyő N-T-U-H-M-A-M István, aki vagyok, azaz. Besenyő nem tudják, ugye, hogy mit akarok mondani István. Eljöttem örökre bebizonyítani, hogy nem tudják, ugye, hogy mit akarok mondani. Igaz? Nem tudják. Ha nem, ha de. Igaz, a de az az, hogy nem. Érti? Ha nem, ha de. Jól mondom. Tehát nem. Na, mert kérem szépen. Tehát itt azért nem árt, hogyha a következőket figyelembe veszik. Ú, de ravasszul nézod valaki. Pedig még nem is mondtam el semmit, kérem, de nem tudja, hogy mit fogok. Miért kérem szépen? Mert azt én nem ígérhetem meg, hogy majd mit fogok mondani később. Igaz? Hát azt fogom mondani, amit akarok. Na de mit akarok? Igaz? Hát arra nem vállalhatok garanciát, hogy amit most akarok, majd azt akarom máskor. Hát igaz. Hát például idefigyel. Hát most akarom azt, amit majd mondok. Most. Tehát most ezt mondtam. Na de mit akarok később? Hát az, hát kérem. Tehát azt nem vállalhatom, hogy majd később is azt mondom önöknek, amire most ráveszem magukat. Hát hogy vállalnám? Igaz? Ha nem lehet. Hát nem ígérhetek olyat, kérem, hogy majd azt akarom később, amit most akarok, de még lehet, hogy most se akarom. Igaz? Hát ezt ő nem tudja. De arra nem tehetek ígéretet, mert egyet figyeljen ide. Egy, ami biztos. Ténylegesen azt mondom majd, amit akarok. Na de mit? Igaz? Mert például most ugye akarok valamit, de majd máskor ki tudja. És ezért mondom kérem, hogy már most nem lehet se mit se tudni. És mi van akkor, hogyha majd más mondok? Ugye? Mert amit most mondok, ahhoz képest mondhatok mást, ha már mást akarok. Igaz? Ugye? És olyan is van kérem szépen, hogy más mondok, pedig azt nem is akarok. Hanem csak úgy kicsúszik a számon. Igaz? Jaj, jaj, jaj, jaj, jaj. Ezt nem akartam önékek elmondani. Bocsánatot, kérem! Hát elnézést, hogy ezt így elmondtam önöknek. Jó, jó, jó. Hát normális. Hát ez buta ember az ilyen. Igaz? És még az is van kérem, van olyan, hogy valaki hazudik. Ugye? És akkor itt elmondanám önöknek, hogy tudták? Vajon tudták? Ön tudta? Hát nem tudta. Az se tudja mit. Hát ez a... Tudták? Tudták? Hogy már a régi görögök is hazudtak? A görög-rómaiak, illetve a római görög, tudjad? Régi... Izé, ezek a filozófus, kérem, ilyen töprengő egyének. Azok, kérem, hazudtak végig, és volt egy valaki, kérem, egy személyiség, aki már akkor megmondta, de ma se igaz, hogy platón az állam. Normális. Hát hogy lenne már platón az állam, kérem szépen? Hát nézze meg, az állam ide van nőve arcomra alulva. Hát nem a platón van, itt van, hát mindenki látja, hogy nem máshol van. Hát hülye az ilyen. És kérem, de jó, tegyük fel, hogy nem itt van az állam, mert annyira leesik az állam, hogy már valóba kell rakni. Na de miért egy platóra? Hát a plató az nagyon nagy. Látott már platót? Hát oda van a teraltóra kasírozva a plató, kérem. Hát az nagyon nagy. Tudja, mit raktak arra? Betongurigát. Na de ne menjet! Hát nyócat vagy kilencek. Tele betongurigával a plató. Na de nézze meg, hát az állam az ilyen kicsike. Hát ez nagyon nagy a plató, annak nem kell akkora. Elég egy ilyen kis hasába lakú statív. Egy ilyen kis állványzat. Hülye az ilyen, na ekkor áthazudott a barom. Ugye? Köszönöm.",
+  "chunks": [
+    {
+      "text": " Besenyő István!",
+      "start": 1.2800000000000011,
+      "end": 2.96
+    },
+    {
+      "text": " Na kérem! Besenyő N-T-U-H-M-A-M István, aki vagyok, azaz.",
+      "start": 10.840000000000002,
+      "end": 19.72
+    },
+    {
+      "text": " Besenyő nem tudják, ugye, hogy mit akarok mondani István.",
+      "start": 20.62,
+      "end": 25.12
+    },
+    {
+      "text": " Eljöttem örökre bebizonyítani, hogy nem tudják, ugye, hogy mit akarok mondani. Igaz? Nem tudják. Ha nem, ha de. Igaz, a de az az, hogy nem. Érti? Ha nem, ha de. Jól mondom. Tehát nem. Na, mert kérem szépen. Tehát itt azért nem árt, hogyha a következőket figyelembe veszik.",
+      "start": 26.48,
+      "end": 49.7
+    },
+    {
+      "text": " Ú, de ravasszul nézod valaki. Pedig még nem is mondtam el semmit, kérem, de nem tudja, hogy mit fogok. Miért kérem szépen?",
+      "start": 55.239999999999995,
+      "end": 62.68
+    },
+    {
+      "text": " Mert azt én nem ígérhetem meg, hogy majd mit fogok mondani később. Igaz?",
+      "start": 62.94,
+      "end": 69.16
+    },
+    {
+      "text": " Hát azt fogom mondani, amit akarok. Na de mit akarok? Igaz?",
+      "start": 69.58,
+      "end": 73.1
+    },
+    {
+      "text": " Hát arra nem vállalhatok garanciát, hogy amit most akarok, majd azt akarom máskor.",
+      "start": 73.22,
+      "end": 78.26
+    },
+    {
+      "text": " Hát igaz. Hát például idefigyel. Hát most akarom azt, amit majd mondok. Most. Tehát most ezt mondtam.",
+      "start": 78.26,
+      "end": 84.96
+    },
+    {
+      "text": " Na de mit akarok később? Hát az, hát kérem. Tehát azt nem vállalhatom, hogy majd később is azt mondom önöknek, amire most ráveszem magukat.",
+      "start": 85.34,
+      "end": 96.3
+    },
+    {
+      "text": " Hát hogy vállalnám? Igaz? Ha nem lehet. Hát nem ígérhetek olyat, kérem, hogy majd azt akarom később, amit most akarok,",
+      "start": 96.84,
+      "end": 105.02
+    },
+    {
+      "text": " de még lehet, hogy most se akarom. Igaz? Hát ezt ő nem tudja. De arra nem tehetek ígéretet, mert egyet figyeljen ide. Egy, ami biztos.",
+      "start": 105.02,
+      "end": 114.8
+    },
+    {
+      "text": " Ténylegesen azt mondom majd, amit akarok. Na de mit? Igaz? Mert például most ugye akarok valamit, de majd máskor ki tudja.",
+      "start": 116.42,
+      "end": 125.88
+    },
+    {
+      "text": " És ezért mondom kérem, hogy már most nem lehet se mit se tudni. És mi van akkor, hogyha majd más mondok? Ugye?",
+      "start": 126.06,
+      "end": 132.58
+    },
+    {
+      "text": " Mert amit most mondok, ahhoz képest mondhatok mást, ha már mást akarok. Igaz? Ugye?",
+      "start": 132.58,
+      "end": 138.04
+    },
+    {
+      "text": " És olyan is van kérem szépen, hogy más mondok, pedig azt nem is akarok.",
+      "start": 138.16,
+      "end": 142.32
+    },
+    {
+      "text": " Hanem csak úgy kicsúszik a számon. Igaz?",
+      "start": 142.94,
+      "end": 145.2
+    },
+    {
+      "text": " Jaj, jaj, jaj, jaj, jaj. Ezt nem akartam önékek elmondani. Bocsánatot, kérem!",
+      "start": 145.76000000000002,
+      "end": 150.62
+    },
+    {
+      "text": " Hát elnézést, hogy ezt így elmondtam önöknek. Jó, jó, jó.",
+      "start": 150.72,
+      "end": 154.96
+    },
+    {
+      "text": " Hát normális. Hát ez buta ember az ilyen. Igaz? És még az is van kérem, van olyan, hogy valaki hazudik.",
+      "start": 154.96,
+      "end": 163.72
+    },
+    {
+      "text": " Ugye? És akkor itt elmondanám önöknek, hogy tudták? Vajon tudták? Ön tudta? Hát nem tudta. Az se tudja mit.",
+      "start": 164.98000000000002,
+      "end": 174.98
+    },
+    {
+      "text": " Hát ez a... Tudták? Tudták? Hogy már a régi görögök is hazudtak? A görög-rómaiak, illetve a római görög, tudjad? Régi... Izé, ezek a filozófus, kérem, ilyen töprengő egyének.",
+      "start": 175.92,
+      "end": 190.44
+    },
+    {
+      "text": " Azok, kérem, hazudtak végig, és volt egy valaki, kérem, egy személyiség, aki már akkor megmondta, de ma se igaz,",
+      "start": 191.54,
+      "end": 199.72
+    },
+    {
+      "text": " hogy platón az állam. Normális. Hát hogy lenne már platón az állam, kérem szépen? Hát nézze meg, az állam ide van nőve arcomra alulva.",
+      "start": 202.02,
+      "end": 214.46
+    },
+    {
+      "text": " Hát nem a platón van, itt van, hát mindenki látja, hogy nem máshol van. Hát hülye az ilyen. És kérem, de jó, tegyük fel, hogy nem itt van az állam, mert annyira leesik az állam,",
+      "start": 214.86,
+      "end": 225.28
+    },
+    {
+      "text": " hogy már valóba kell rakni. Na de miért egy platóra? Hát a plató az nagyon nagy. Látott már platót? Hát oda van a teraltóra kasírozva a plató, kérem.",
+      "start": 225.28,
+      "end": 236.26
+    },
+    {
+      "text": " Hát az nagyon nagy. Tudja, mit raktak arra? Betongurigát. Na de ne menjet! Hát nyócat vagy kilencek. Tele betongurigával a plató.",
+      "start": 236.58,
+      "end": 245.9
+    },
+    {
+      "text": " Na de nézze meg, hát az állam az ilyen kicsike. Hát ez nagyon nagy a plató, annak nem kell akkora. Elég egy ilyen kis hasába lakú statív. Egy ilyen kis állványzat. Hülye az ilyen, na ekkor áthazudott a barom. Ugye? Köszönöm.",
+      "start": 245.9,
+      "end": 261.64
+    }
+  ],
+  "processing_time": 1.4630763530731201,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

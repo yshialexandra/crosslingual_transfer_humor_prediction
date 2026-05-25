@@ -1,0 +1,159 @@
+{
+  "audio_file": "Mélyvíz ｜ Happy hour.wav",
+  "full_text": "A FVERTECCHON BELTBooksor者จek. Csak a sőr volt? Igen. 480 forint lesz, már is hozom a szémlet. Bocsánat, nem happy hour van? De igen. És egyet ingyen kapok? Egyet fizet, kettőt kap. De az van kiírva, hogy ingyenes. A második, az elsőért fizetnie kell. Nem lehet, hogy az első ingyenes, és a másodikért fizetek? Hmm... pillanat mindjárt megkérdezem a kollégát. Na, hallom, nem akar fizetni. Nem az a kérdés, hanem, hogy lehet-e az, hogy az első ingyenes és a másodikért fizet az úr? Mert? Jó, nem bánom, most az egyszer legyen. Hozhatom a másodikat? Köszönöm, egy elég volt. Értem, minden jót. Viszlát! Viszlát! Te értetted, hogy mit akar? Hát, azt hiszem, hogy ivott egy pohársört ingyen. És az nekünk rossz? Hát végül is ez az akció lényege, nem? De. Akkor...",
+  "chunks": [
+    {
+      "text": " A FVERTECCHON BELTBooksor者จek.",
+      "start": 0.0,
+      "end": 2.68
+    },
+    {
+      "text": " Csak a sőr volt?",
+      "start": 7.72,
+      "end": 8.8
+    },
+    {
+      "text": " Igen.",
+      "start": 9.02,
+      "end": 9.26
+    },
+    {
+      "text": " 480 forint lesz, már is hozom a szémlet.",
+      "start": 9.82,
+      "end": 11.68
+    },
+    {
+      "text": " Bocsánat, nem happy hour van?",
+      "start": 11.74,
+      "end": 13.22
+    },
+    {
+      "text": " De igen.",
+      "start": 13.54,
+      "end": 14.14
+    },
+    {
+      "text": " És egyet ingyen kapok?",
+      "start": 14.88,
+      "end": 16.26
+    },
+    {
+      "text": " Egyet fizet, kettőt kap.",
+      "start": 16.7,
+      "end": 18.04
+    },
+    {
+      "text": " De az van kiírva, hogy ingyenes.",
+      "start": 18.62,
+      "end": 20.92
+    },
+    {
+      "text": " A második, az elsőért fizetnie kell.",
+      "start": 21.1,
+      "end": 22.8
+    },
+    {
+      "text": " Nem lehet, hogy az első ingyenes,",
+      "start": 23.0,
+      "end": 24.8
+    },
+    {
+      "text": " és a másodikért fizetek?",
+      "start": 24.88,
+      "end": 26.08
+    },
+    {
+      "text": " Hmm...",
+      "start": 28.4,
+      "end": 28.88
+    },
+    {
+      "text": " pillanat mindjárt megkérdezem a kollégát.",
+      "start": 30.879999999999995,
+      "end": 32.52
+    },
+    {
+      "text": " Na, hallom, nem akar fizetni.",
+      "start": 37.79999999999999,
+      "end": 39.62
+    },
+    {
+      "text": " Nem az a kérdés, hanem, hogy lehet-e az,",
+      "start": 39.8,
+      "end": 41.98
+    },
+    {
+      "text": " hogy az első ingyenes és a másodikért fizet az úr?",
+      "start": 42.06,
+      "end": 44.7
+    },
+    {
+      "text": " Mert?",
+      "start": 44.92,
+      "end": 45.26
+    },
+    {
+      "text": " Jó, nem bánom, most az egyszer legyen.",
+      "start": 49.62,
+      "end": 55.68
+    },
+    {
+      "text": " Hozhatom a másodikat?",
+      "start": 56.42,
+      "end": 57.4
+    },
+    {
+      "text": " Köszönöm, egy elég volt.",
+      "start": 57.58,
+      "end": 58.66
+    },
+    {
+      "text": " Értem, minden jót.",
+      "start": 58.88,
+      "end": 60.24
+    },
+    {
+      "text": " Viszlát!",
+      "start": 60.8,
+      "end": 61.36
+    },
+    {
+      "text": " Viszlát!",
+      "start": 61.5,
+      "end": 61.88
+    },
+    {
+      "text": " Te értetted, hogy mit akar?",
+      "start": 64.6,
+      "end": 66.12
+    },
+    {
+      "text": " Hát, azt hiszem, hogy ivott egy pohársört ingyen.",
+      "start": 66.54,
+      "end": 69.32
+    },
+    {
+      "text": " És az nekünk rossz?",
+      "start": 69.58,
+      "end": 70.54
+    },
+    {
+      "text": " Hát végül is ez az akció lényege, nem?",
+      "start": 71.18,
+      "end": 73.34
+    },
+    {
+      "text": " De.",
+      "start": 73.9,
+      "end": 74.46
+    },
+    {
+      "text": " Akkor...",
+      "start": 75.66,
+      "end": 76.22
+    }
+  ],
+  "processing_time": 1.6038484573364258,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,124 @@
+{
+  "audio_file": "Alberte Montes： Chocar Con Tu Pareja ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "Tengo novia y muy bien. Y no voy a contar ni que me ha dejado, ni las tapas del váter, ni mierdas de esas. Simplemente el dato. Pues si la gente se lo cree, coño, que tengo novia. Y cometo dos temeridades. Cuidado, no solo la tengo. Tengo novia y vivo con ella. Y desde hace un mes, cuenta compartida. Estoy en un callejón sin salida. ¿Qué será lo próximo? ¿Eh? ¿Qué será lo próximo? Cuando tengamos una hija, ponle el nombre Monserrat. Porque ella es catalana y le gusta mucho. ¿Qué es niño? Monserrat también. Que es muy catalana. Y claro, cuando vives en pareja, pues hay roces. ¿Cómo no va a haber roces? Y choques con tu pareja y chocas, coño. Yo vivo con mi pareja en un piso muy pequeño y chocamos constantemente. ¿Eh? ¿Dónde vas? ¿Dónde vas? Vengo del baño. ¿Has cagado? Sí, pues cierra. Y así siempre. Tus costumbres, las tuyas cambian para siempre. O se desvanecen. Vais a flipar con esto, pero mi novia no me remueve el colacao. Que yo le digo, joder, que quedan grumos, coño. Que me como la galleta y toso. ¡Pues no! ¡Fliparéis más con esto! No me cortan las uñas de los pies. Eso lo ha hecho mi madre de toda la vida. Las diez. El único requisito, dúchate que me las dejas blandas. Y yo viendo estudio, estadio y ella, clis, clis, clis, clis, clis, clis. ¡Fliparéis más con esto! ¡No! ¡No! Voy a darle a un poco a favor! ¡No! ¡No! ¡No! ¡No! ¡No! ¡No! ¡No! ¡No!",
+  "chunks": [
+    {
+      "text": " Tengo novia y muy bien. Y no voy a contar ni que me ha dejado, ni las tapas del váter, ni mierdas de esas.",
+      "start": 1.3399999999999952,
+      "end": 7.3
+    },
+    {
+      "text": " Simplemente el dato. Pues si la gente se lo cree, coño, que tengo novia.",
+      "start": 8.18,
+      "end": 10.88
+    },
+    {
+      "text": " Y cometo dos temeridades. Cuidado, no solo la tengo. Tengo novia y vivo con ella.",
+      "start": 11.36,
+      "end": 16.24
+    },
+    {
+      "text": " Y desde hace un mes, cuenta compartida. Estoy en un callejón sin salida.",
+      "start": 17.74,
+      "end": 24.78
+    },
+    {
+      "text": " ¿Qué será lo próximo? ¿Eh? ¿Qué será lo próximo?",
+      "start": 25.82,
+      "end": 27.88
+    },
+    {
+      "text": " Cuando tengamos una hija, ponle el nombre Monserrat.",
+      "start": 27.88,
+      "end": 31.02
+    },
+    {
+      "text": " Porque ella es catalana y le gusta mucho. ¿Qué es niño? Monserrat también.",
+      "start": 32.64,
+      "end": 37.06
+    },
+    {
+      "text": " Que es muy catalana.",
+      "start": 39.24,
+      "end": 40.26
+    },
+    {
+      "text": " Y claro, cuando vives en pareja, pues hay roces. ¿Cómo no va a haber roces?",
+      "start": 45.82,
+      "end": 48.48
+    },
+    {
+      "text": " Y choques con tu pareja y chocas, coño. Yo vivo con mi pareja en un piso muy pequeño y chocamos constantemente.",
+      "start": 48.56,
+      "end": 54.32
+    },
+    {
+      "text": " ¿Eh? ¿Dónde vas? ¿Dónde vas? Vengo del baño. ¿Has cagado? Sí, pues cierra.",
+      "start": 54.32,
+      "end": 59.1
+    },
+    {
+      "text": " Y así siempre. Tus costumbres, las tuyas cambian para siempre. O se desvanecen.",
+      "start": 60.22,
+      "end": 66.52
+    },
+    {
+      "text": " Vais a flipar con esto, pero mi novia no me remueve el colacao.",
+      "start": 69.52,
+      "end": 74.02
+    },
+    {
+      "text": " Que yo le digo, joder, que quedan grumos, coño.",
+      "start": 76.22,
+      "end": 78.56
+    },
+    {
+      "text": " Que me como la galleta y toso.",
+      "start": 81.3,
+      "end": 82.8
+    },
+    {
+      "text": " ¡Pues no! ¡Fliparéis más con esto!",
+      "start": 92.28,
+      "end": 95.22
+    },
+    {
+      "text": " No me cortan las uñas de los pies.",
+      "start": 95.22,
+      "end": 97.74
+    },
+    {
+      "text": " Eso lo ha hecho mi madre de toda la vida.",
+      "start": 99.08000000000001,
+      "end": 102.64
+    },
+    {
+      "text": " Las diez.",
+      "start": 103.86,
+      "end": 104.84
+    },
+    {
+      "text": " El único requisito, dúchate que me las dejas blandas.",
+      "start": 106.80000000000001,
+      "end": 110.08
+    },
+    {
+      "text": " Y yo viendo estudio, estadio y ella, clis, clis, clis, clis, clis, clis.",
+      "start": 111.18,
+      "end": 116.78
+    },
+    {
+      "text": " ¡Fliparéis más con esto! ¡No! ¡No! Voy a darle a un poco a favor!",
+      "start": 125.22,
+      "end": 133.82
+    },
+    {
+      "text": " ¡No! ¡No! ¡No! ¡No! ¡No! ¡No! ¡No! ¡No!",
+      "start": 134.38,
+      "end": 135.0
+    }
+  ],
+  "processing_time": 2.145909547805786,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

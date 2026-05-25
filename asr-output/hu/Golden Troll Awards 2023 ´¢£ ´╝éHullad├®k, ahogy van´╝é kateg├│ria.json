@@ -1,0 +1,74 @@
+{
+  "audio_file": "Golden Troll Awards 2023 ｜ ＂Hulladék, ahogy van＂ kategória.wav",
+  "full_text": "Arany Troll D. 2023, ahol a legjobb műsorok megkapják a legdurvább kommenteket. Élőben a nyújt... Hölgyeim és uraim! Welcome to the show! Jó, hogy így újra együtt vagyunk. A következő díjat Pityu vezérnek köszönhetjük. Beteges, guztustalan és semmi vicces nincs benne. De életemben ennél debilebb sorozatot nem láttam. Hulladék, ahogy van. És ezt a díjat kapja nem más, mint a Family Guy! Néha én írom a saját jeleneteimet. Ez csodálatos. Family Guy ma a Comedy Centralon. Köszönöm, hogy vel nem lenne.",
+  "chunks": [
+    {
+      "text": " Arany Troll D. 2023, ahol a legjobb műsorok megkapják a legdurvább kommenteket.",
+      "start": 1.1000000000000003,
+      "end": 7.28
+    },
+    {
+      "text": " Élőben a nyújt...",
+      "start": 7.82,
+      "end": 10.0
+    },
+    {
+      "text": " Hölgyeim és uraim!",
+      "start": 11.620000000000001,
+      "end": 12.98
+    },
+    {
+      "text": " Welcome to the show!",
+      "start": 13.76,
+      "end": 14.68
+    },
+    {
+      "text": " Jó, hogy így újra együtt vagyunk.",
+      "start": 15.0,
+      "end": 16.76
+    },
+    {
+      "text": " A következő díjat Pityu vezérnek köszönhetjük.",
+      "start": 16.9,
+      "end": 21.52
+    },
+    {
+      "text": " Beteges, guztustalan és semmi vicces nincs benne.",
+      "start": 24.64,
+      "end": 27.78
+    },
+    {
+      "text": " De életemben ennél debilebb sorozatot nem láttam.",
+      "start": 27.78,
+      "end": 32.76
+    },
+    {
+      "text": " Hulladék, ahogy van.",
+      "start": 33.04,
+      "end": 34.54
+    },
+    {
+      "text": " És ezt a díjat kapja nem más, mint a Family Guy!",
+      "start": 35.86,
+      "end": 40.68
+    },
+    {
+      "text": " Néha én írom a saját jeleneteimet.",
+      "start": 42.32,
+      "end": 44.26
+    },
+    {
+      "text": " Ez csodálatos. Family Guy ma a Comedy Centralon.",
+      "start": 45.56,
+      "end": 50.8
+    },
+    {
+      "text": " Köszönöm, hogy vel nem lenne.",
+      "start": 57.78,
+      "end": 59.58
+    }
+  ],
+  "processing_time": 1.3977313041687012,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,59 @@
+{
+  "audio_file": "A Zacskós Énekes ｜ Szakács Geri.wav",
+  "full_text": "Végre megérkezett a show, amire mindenki vált! Az internetes videók legjobban őrzött titka. Ki van a zacskó alap? Soha nem látott jelmezek? Változatos díszlet. Tíz ember, aki hajlandó hülyét csinálni magából. És akkor lássuk az ehetű zacskós énekest! Évében már nincs semmi más, csak szex meg bűn, ez lett a szórakozás. A régi jó dolgok úgy eltűnt el, hogy tátva marad a száj. Jó, hogy van a Family Guy! Megmutatjuk neked, foghatod a fejed, sérsz vagy nevetsz rajta, hasad fáj! Itt a Family Guy! A Family Centralon!",
+  "chunks": [
+    {
+      "text": " Végre megérkezett a show, amire mindenki vált!",
+      "start": 0.0,
+      "end": 3.22
+    },
+    {
+      "text": " Az internetes videók legjobban őrzött titka.",
+      "start": 3.34,
+      "end": 6.04
+    },
+    {
+      "text": " Ki van a zacskó alap? Soha nem látott jelmezek?",
+      "start": 6.24,
+      "end": 9.48
+    },
+    {
+      "text": " Változatos díszlet. Tíz ember, aki hajlandó hülyét csinálni magából.",
+      "start": 10.26,
+      "end": 14.62
+    },
+    {
+      "text": " És akkor lássuk az ehetű zacskós énekest!",
+      "start": 14.84,
+      "end": 17.52
+    },
+    {
+      "text": " Évében már nincs semmi más, csak szex meg bűn, ez lett a szórakozás.",
+      "start": 18.88,
+      "end": 24.66
+    },
+    {
+      "text": " A régi jó dolgok úgy eltűnt el, hogy tátva marad a száj.",
+      "start": 24.66,
+      "end": 31.06
+    },
+    {
+      "text": " Jó, hogy van a Family Guy! Megmutatjuk neked, foghatod a fejed,",
+      "start": 31.4,
+      "end": 38.12
+    },
+    {
+      "text": " sérsz vagy nevetsz rajta, hasad fáj! Itt a Family Guy!",
+      "start": 38.34,
+      "end": 45.6
+    },
+    {
+      "text": " A Family Centralon!",
+      "start": 54.66,
+      "end": 55.6
+    }
+  ],
+  "processing_time": 0.330186128616333,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

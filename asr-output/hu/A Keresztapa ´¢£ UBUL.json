@@ -1,0 +1,29 @@
+{
+  "audio_file": "A Keresztapa ｜ UBUL.wav",
+  "full_text": "Köszönöm szépen! Tyvénny és oké wiszték! Köszönöm! Köszönöm!",
+  "chunks": [
+    {
+      "text": " Köszönöm szépen!",
+      "start": 14.04,
+      "end": 15.44
+    },
+    {
+      "text": " Tyvénny és oké wiszték!",
+      "start": 15.44,
+      "end": 16.5
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 33.24,
+      "end": 34.64
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 60.02,
+      "end": 61.42
+    }
+  ],
+  "processing_time": 1.1043918132781982,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

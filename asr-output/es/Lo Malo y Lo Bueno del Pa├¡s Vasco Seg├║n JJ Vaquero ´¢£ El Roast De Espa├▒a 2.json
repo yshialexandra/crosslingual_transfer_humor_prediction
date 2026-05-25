@@ -1,0 +1,1591 @@
+{
+  "audio_file": "Lo Malo y Lo Bueno del País Vasco Según JJ Vaquero ｜ El Roast De España 2.wav",
+  "full_text": " En el País Vasco llueve mucho, muchísimo. Yo tengo un tío en Zarauz y en el Sobaco en vez de pelo tiene musgo. En el País Vasco saludan muy fuerte, muy contundente. Ahí va la hostia, te dan en la espalda, te saltan un empaste, pero la primera, bueno, que un vasco te da la mano y te funde los anillos. Te da un abrazo y se te olvida sumar. No sabes si se están saludando o es una reyerta. Las puñeteras cuestas. Aquí todo está en cuesta, todo está empinado. En el País Vasco, si te compras un nivel, te tienes que ir a Logroño a calibrarlo. Esos peinados típicos del País Vasco. Luego dicen que no follan. ¿Cómo vais a follar con esos pelos? Y os lo digo yo, que sé de lo que hablo. La manía de llamar Eusko a todo. A todo le ponen el prefijo Eusko. Método de transporte, Euskotren. Compañía de teléfono, Euskaltel. Para guardar silencio, Euskalléis. ¿Te imaginas que en Valladolid hiciéramos lo mismo? Vaya tren, vaya teléfono. Para pedir que guarden silencio, vaya tarde que me estás dando. Por fin, un sombrero que hace que cuando me señalen no digan que lo grande es la cabeza. Mirad qué cabezón tengo, imaginaros con una chapela. Me puse una chapela azul y el Google Earth me marcó como piscina. Gracias.",
+  "chunks": [
+    {
+      "text": " En",
+      "timestamp": [
+        0.0,
+        5.9
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        5.9,
+        7.3
+      ]
+    },
+    {
+      "text": " País",
+      "timestamp": [
+        7.3,
+        7.56
+      ]
+    },
+    {
+      "text": " Vasco",
+      "timestamp": [
+        7.56,
+        7.84
+      ]
+    },
+    {
+      "text": " llueve",
+      "timestamp": [
+        7.84,
+        8.16
+      ]
+    },
+    {
+      "text": " mucho,",
+      "timestamp": [
+        8.16,
+        8.62
+      ]
+    },
+    {
+      "text": " muchísimo.",
+      "timestamp": [
+        8.62,
+        9.44
+      ]
+    },
+    {
+      "text": " Yo",
+      "timestamp": [
+        9.8,
+        9.84
+      ]
+    },
+    {
+      "text": " tengo",
+      "timestamp": [
+        9.84,
+        10.06
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        10.06,
+        10.22
+      ]
+    },
+    {
+      "text": " tío",
+      "timestamp": [
+        10.22,
+        10.38
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        10.38,
+        10.5
+      ]
+    },
+    {
+      "text": " Zarauz",
+      "timestamp": [
+        10.5,
+        10.88
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        10.88,
+        11.04
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        11.04,
+        11.18
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        11.18,
+        11.22
+      ]
+    },
+    {
+      "text": " Sobaco",
+      "timestamp": [
+        11.22,
+        11.5
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        11.5,
+        11.66
+      ]
+    },
+    {
+      "text": " vez",
+      "timestamp": [
+        11.66,
+        11.74
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        11.74,
+        11.84
+      ]
+    },
+    {
+      "text": " pelo",
+      "timestamp": [
+        11.84,
+        12.02
+      ]
+    },
+    {
+      "text": " tiene",
+      "timestamp": [
+        12.02,
+        12.22
+      ]
+    },
+    {
+      "text": " musgo.",
+      "timestamp": [
+        12.22,
+        12.72
+      ]
+    },
+    {
+      "text": " En",
+      "timestamp": [
+        14.14,
+        15.26
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        15.26,
+        15.38
+      ]
+    },
+    {
+      "text": " País",
+      "timestamp": [
+        15.38,
+        15.62
+      ]
+    },
+    {
+      "text": " Vasco",
+      "timestamp": [
+        15.62,
+        15.92
+      ]
+    },
+    {
+      "text": " saludan",
+      "timestamp": [
+        15.92,
+        16.36
+      ]
+    },
+    {
+      "text": " muy",
+      "timestamp": [
+        16.36,
+        16.64
+      ]
+    },
+    {
+      "text": " fuerte,",
+      "timestamp": [
+        16.64,
+        17.1
+      ]
+    },
+    {
+      "text": " muy",
+      "timestamp": [
+        17.1,
+        17.3
+      ]
+    },
+    {
+      "text": " contundente.",
+      "timestamp": [
+        17.3,
+        18.56
+      ]
+    },
+    {
+      "text": " Ahí",
+      "timestamp": [
+        18.7,
+        18.78
+      ]
+    },
+    {
+      "text": " va",
+      "timestamp": [
+        18.78,
+        18.88
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        18.88,
+        19.0
+      ]
+    },
+    {
+      "text": " hostia,",
+      "timestamp": [
+        19.0,
+        19.28
+      ]
+    },
+    {
+      "text": " te",
+      "timestamp": [
+        19.28,
+        19.34
+      ]
+    },
+    {
+      "text": " dan",
+      "timestamp": [
+        19.34,
+        19.48
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        19.48,
+        19.6
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        19.6,
+        19.6
+      ]
+    },
+    {
+      "text": " espalda,",
+      "timestamp": [
+        19.6,
+        20.0
+      ]
+    },
+    {
+      "text": " te",
+      "timestamp": [
+        20.0,
+        20.1
+      ]
+    },
+    {
+      "text": " saltan",
+      "timestamp": [
+        20.1,
+        20.44
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        20.44,
+        20.54
+      ]
+    },
+    {
+      "text": " empaste,",
+      "timestamp": [
+        20.54,
+        20.98
+      ]
+    },
+    {
+      "text": " pero",
+      "timestamp": [
+        21.08,
+        21.14
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        21.14,
+        21.26
+      ]
+    },
+    {
+      "text": " primera,",
+      "timestamp": [
+        21.26,
+        21.62
+      ]
+    },
+    {
+      "text": " bueno,",
+      "timestamp": [
+        21.62,
+        21.84
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        21.84,
+        21.92
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        21.92,
+        22.02
+      ]
+    },
+    {
+      "text": " vasco",
+      "timestamp": [
+        22.02,
+        22.28
+      ]
+    },
+    {
+      "text": " te",
+      "timestamp": [
+        22.28,
+        22.42
+      ]
+    },
+    {
+      "text": " da",
+      "timestamp": [
+        22.42,
+        22.56
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        22.56,
+        22.64
+      ]
+    },
+    {
+      "text": " mano",
+      "timestamp": [
+        22.64,
+        22.9
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        22.9,
+        23.1
+      ]
+    },
+    {
+      "text": " te",
+      "timestamp": [
+        23.1,
+        23.2
+      ]
+    },
+    {
+      "text": " funde",
+      "timestamp": [
+        23.2,
+        23.64
+      ]
+    },
+    {
+      "text": " los",
+      "timestamp": [
+        23.64,
+        23.72
+      ]
+    },
+    {
+      "text": " anillos.",
+      "timestamp": [
+        23.72,
+        24.32
+      ]
+    },
+    {
+      "text": " Te",
+      "timestamp": [
+        24.58,
+        24.68
+      ]
+    },
+    {
+      "text": " da",
+      "timestamp": [
+        24.68,
+        24.82
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        24.82,
+        24.96
+      ]
+    },
+    {
+      "text": " abrazo",
+      "timestamp": [
+        24.96,
+        25.34
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        25.34,
+        25.42
+      ]
+    },
+    {
+      "text": " se",
+      "timestamp": [
+        25.42,
+        25.5
+      ]
+    },
+    {
+      "text": " te",
+      "timestamp": [
+        25.5,
+        25.58
+      ]
+    },
+    {
+      "text": " olvida",
+      "timestamp": [
+        25.58,
+        25.92
+      ]
+    },
+    {
+      "text": " sumar.",
+      "timestamp": [
+        25.92,
+        26.42
+      ]
+    },
+    {
+      "text": " No",
+      "timestamp": [
+        26.42,
+        26.8
+      ]
+    },
+    {
+      "text": " sabes",
+      "timestamp": [
+        26.8,
+        27.02
+      ]
+    },
+    {
+      "text": " si",
+      "timestamp": [
+        27.02,
+        27.2
+      ]
+    },
+    {
+      "text": " se",
+      "timestamp": [
+        27.2,
+        27.32
+      ]
+    },
+    {
+      "text": " están",
+      "timestamp": [
+        27.32,
+        27.48
+      ]
+    },
+    {
+      "text": " saludando",
+      "timestamp": [
+        27.48,
+        27.94
+      ]
+    },
+    {
+      "text": " o",
+      "timestamp": [
+        27.94,
+        28.18
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        28.18,
+        28.36
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        28.36,
+        28.56
+      ]
+    },
+    {
+      "text": " reyerta.",
+      "timestamp": [
+        28.56,
+        29.18
+      ]
+    },
+    {
+      "text": " Las",
+      "timestamp": [
+        30.46,
+        31.62
+      ]
+    },
+    {
+      "text": " puñeteras",
+      "timestamp": [
+        31.62,
+        32.54
+      ]
+    },
+    {
+      "text": " cuestas.",
+      "timestamp": [
+        32.54,
+        33.04
+      ]
+    },
+    {
+      "text": " Aquí",
+      "timestamp": [
+        33.04,
+        33.46
+      ]
+    },
+    {
+      "text": " todo",
+      "timestamp": [
+        33.46,
+        33.68
+      ]
+    },
+    {
+      "text": " está",
+      "timestamp": [
+        33.68,
+        33.92
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        33.92,
+        34.02
+      ]
+    },
+    {
+      "text": " cuesta,",
+      "timestamp": [
+        34.02,
+        34.32
+      ]
+    },
+    {
+      "text": " todo",
+      "timestamp": [
+        34.32,
+        34.48
+      ]
+    },
+    {
+      "text": " está",
+      "timestamp": [
+        34.48,
+        34.74
+      ]
+    },
+    {
+      "text": " empinado.",
+      "timestamp": [
+        34.74,
+        35.24
+      ]
+    },
+    {
+      "text": " En",
+      "timestamp": [
+        35.44,
+        35.46
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        35.46,
+        35.58
+      ]
+    },
+    {
+      "text": " País",
+      "timestamp": [
+        35.58,
+        35.8
+      ]
+    },
+    {
+      "text": " Vasco,",
+      "timestamp": [
+        35.8,
+        36.16
+      ]
+    },
+    {
+      "text": " si",
+      "timestamp": [
+        36.16,
+        36.26
+      ]
+    },
+    {
+      "text": " te",
+      "timestamp": [
+        36.26,
+        36.34
+      ]
+    },
+    {
+      "text": " compras",
+      "timestamp": [
+        36.34,
+        36.72
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        36.72,
+        36.86
+      ]
+    },
+    {
+      "text": " nivel,",
+      "timestamp": [
+        36.86,
+        37.26
+      ]
+    },
+    {
+      "text": " te",
+      "timestamp": [
+        37.26,
+        37.36
+      ]
+    },
+    {
+      "text": " tienes",
+      "timestamp": [
+        37.36,
+        37.6
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        37.6,
+        37.72
+      ]
+    },
+    {
+      "text": " ir",
+      "timestamp": [
+        37.72,
+        37.86
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        37.86,
+        37.86
+      ]
+    },
+    {
+      "text": " Logroño",
+      "timestamp": [
+        37.86,
+        38.24
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        38.24,
+        38.34
+      ]
+    },
+    {
+      "text": " calibrarlo.",
+      "timestamp": [
+        38.34,
+        39.36
+      ]
+    },
+    {
+      "text": " Esos",
+      "timestamp": [
+        40.6,
+        41.68
+      ]
+    },
+    {
+      "text": " peinados",
+      "timestamp": [
+        41.68,
+        42.14
+      ]
+    },
+    {
+      "text": " típicos",
+      "timestamp": [
+        42.14,
+        42.68
+      ]
+    },
+    {
+      "text": " del",
+      "timestamp": [
+        42.68,
+        42.84
+      ]
+    },
+    {
+      "text": " País",
+      "timestamp": [
+        42.84,
+        43.12
+      ]
+    },
+    {
+      "text": " Vasco.",
+      "timestamp": [
+        43.12,
+        43.58
+      ]
+    },
+    {
+      "text": " Luego",
+      "timestamp": [
+        43.58,
+        44.04
+      ]
+    },
+    {
+      "text": " dicen",
+      "timestamp": [
+        44.04,
+        44.3
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        44.3,
+        44.48
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        44.48,
+        44.62
+      ]
+    },
+    {
+      "text": " follan.",
+      "timestamp": [
+        44.62,
+        45.04
+      ]
+    },
+    {
+      "text": " ¿Cómo",
+      "timestamp": [
+        45.22,
+        45.4
+      ]
+    },
+    {
+      "text": " vais",
+      "timestamp": [
+        45.4,
+        45.66
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        45.66,
+        45.86
+      ]
+    },
+    {
+      "text": " follar",
+      "timestamp": [
+        45.86,
+        46.32
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        46.32,
+        46.62
+      ]
+    },
+    {
+      "text": " esos",
+      "timestamp": [
+        46.62,
+        46.88
+      ]
+    },
+    {
+      "text": " pelos?",
+      "timestamp": [
+        46.88,
+        47.56
+      ]
+    },
+    {
+      "text": " Y",
+      "timestamp": [
+        47.98,
+        48.16
+      ]
+    },
+    {
+      "text": " os",
+      "timestamp": [
+        48.16,
+        48.28
+      ]
+    },
+    {
+      "text": " lo",
+      "timestamp": [
+        48.28,
+        48.38
+      ]
+    },
+    {
+      "text": " digo",
+      "timestamp": [
+        48.38,
+        48.64
+      ]
+    },
+    {
+      "text": " yo,",
+      "timestamp": [
+        48.64,
+        48.86
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        48.86,
+        49.78
+      ]
+    },
+    {
+      "text": " sé",
+      "timestamp": [
+        49.78,
+        49.94
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        49.94,
+        50.06
+      ]
+    },
+    {
+      "text": " lo",
+      "timestamp": [
+        50.06,
+        50.1
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        50.1,
+        50.22
+      ]
+    },
+    {
+      "text": " hablo.",
+      "timestamp": [
+        50.22,
+        50.66
+      ]
+    },
+    {
+      "text": " La",
+      "timestamp": [
+        51.42,
+        52.96
+      ]
+    },
+    {
+      "text": " manía",
+      "timestamp": [
+        52.96,
+        53.24
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        53.24,
+        53.36
+      ]
+    },
+    {
+      "text": " llamar",
+      "timestamp": [
+        53.36,
+        53.64
+      ]
+    },
+    {
+      "text": " Eusko",
+      "timestamp": [
+        53.64,
+        53.98
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        53.98,
+        54.24
+      ]
+    },
+    {
+      "text": " todo.",
+      "timestamp": [
+        54.24,
+        54.6
+      ]
+    },
+    {
+      "text": " A",
+      "timestamp": [
+        54.74,
+        54.78
+      ]
+    },
+    {
+      "text": " todo",
+      "timestamp": [
+        54.78,
+        55.0
+      ]
+    },
+    {
+      "text": " le",
+      "timestamp": [
+        55.0,
+        55.18
+      ]
+    },
+    {
+      "text": " ponen",
+      "timestamp": [
+        55.18,
+        55.44
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        55.44,
+        55.56
+      ]
+    },
+    {
+      "text": " prefijo",
+      "timestamp": [
+        55.56,
+        55.98
+      ]
+    },
+    {
+      "text": " Eusko.",
+      "timestamp": [
+        55.98,
+        56.6
+      ]
+    },
+    {
+      "text": " Método",
+      "timestamp": [
+        56.86,
+        57.16
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        57.16,
+        57.3
+      ]
+    },
+    {
+      "text": " transporte,",
+      "timestamp": [
+        57.3,
+        57.84
+      ]
+    },
+    {
+      "text": " Euskotren.",
+      "timestamp": [
+        57.84,
+        58.62
+      ]
+    },
+    {
+      "text": " Compañía",
+      "timestamp": [
+        58.94,
+        59.4
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        59.4,
+        59.48
+      ]
+    },
+    {
+      "text": " teléfono,",
+      "timestamp": [
+        59.48,
+        60.0
+      ]
+    },
+    {
+      "text": " Euskaltel.",
+      "timestamp": [
+        60.0,
+        60.94
+      ]
+    },
+    {
+      "text": " Para",
+      "timestamp": [
+        61.12,
+        61.26
+      ]
+    },
+    {
+      "text": " guardar",
+      "timestamp": [
+        61.26,
+        61.62
+      ]
+    },
+    {
+      "text": " silencio,",
+      "timestamp": [
+        61.62,
+        62.1
+      ]
+    },
+    {
+      "text": " Euskalléis.",
+      "timestamp": [
+        62.1,
+        63.02
+      ]
+    },
+    {
+      "text": " ¿Te",
+      "timestamp": [
+        63.02,
+        63.84
+      ]
+    },
+    {
+      "text": " imaginas",
+      "timestamp": [
+        63.84,
+        64.1
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        64.1,
+        64.2
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        64.2,
+        64.3
+      ]
+    },
+    {
+      "text": " Valladolid",
+      "timestamp": [
+        64.3,
+        64.64
+      ]
+    },
+    {
+      "text": " hiciéramos",
+      "timestamp": [
+        64.64,
+        64.98
+      ]
+    },
+    {
+      "text": " lo",
+      "timestamp": [
+        65.06,
+        65.12
+      ]
+    },
+    {
+      "text": " mismo?",
+      "timestamp": [
+        65.12,
+        65.62
+      ]
+    },
+    {
+      "text": " Vaya",
+      "timestamp": [
+        65.62,
+        66.26
+      ]
+    },
+    {
+      "text": " tren,",
+      "timestamp": [
+        66.26,
+        66.66
+      ]
+    },
+    {
+      "text": " vaya",
+      "timestamp": [
+        66.66,
+        67.88
+      ]
+    },
+    {
+      "text": " teléfono.",
+      "timestamp": [
+        67.88,
+        68.68
+      ]
+    },
+    {
+      "text": " Para",
+      "timestamp": [
+        68.68,
+        69.3
+      ]
+    },
+    {
+      "text": " pedir",
+      "timestamp": [
+        69.3,
+        69.52
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        69.52,
+        69.68
+      ]
+    },
+    {
+      "text": " guarden",
+      "timestamp": [
+        69.68,
+        69.94
+      ]
+    },
+    {
+      "text": " silencio,",
+      "timestamp": [
+        69.94,
+        70.46
+      ]
+    },
+    {
+      "text": " vaya",
+      "timestamp": [
+        70.46,
+        70.92
+      ]
+    },
+    {
+      "text": " tarde",
+      "timestamp": [
+        70.92,
+        71.24
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        71.24,
+        71.44
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        71.5,
+        71.5
+      ]
+    },
+    {
+      "text": " estás",
+      "timestamp": [
+        71.5,
+        71.72
+      ]
+    },
+    {
+      "text": " dando.",
+      "timestamp": [
+        71.72,
+        72.22
+      ]
+    },
+    {
+      "text": " Por",
+      "timestamp": [
+        72.22,
+        74.3
+      ]
+    },
+    {
+      "text": " fin,",
+      "timestamp": [
+        74.3,
+        74.72
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        74.72,
+        74.98
+      ]
+    },
+    {
+      "text": " sombrero",
+      "timestamp": [
+        74.98,
+        75.52
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        75.52,
+        75.7
+      ]
+    },
+    {
+      "text": " hace",
+      "timestamp": [
+        75.7,
+        75.9
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        75.9,
+        76.26
+      ]
+    },
+    {
+      "text": " cuando",
+      "timestamp": [
+        76.26,
+        76.52
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        76.52,
+        76.66
+      ]
+    },
+    {
+      "text": " señalen",
+      "timestamp": [
+        76.66,
+        77.06
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        77.06,
+        77.4
+      ]
+    },
+    {
+      "text": " digan",
+      "timestamp": [
+        77.4,
+        77.66
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        77.66,
+        77.76
+      ]
+    },
+    {
+      "text": " lo",
+      "timestamp": [
+        77.76,
+        77.86
+      ]
+    },
+    {
+      "text": " grande",
+      "timestamp": [
+        77.9,
+        78.06
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        78.06,
+        78.22
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        78.22,
+        78.36
+      ]
+    },
+    {
+      "text": " cabeza.",
+      "timestamp": [
+        78.36,
+        78.94
+      ]
+    },
+    {
+      "text": " Mirad",
+      "timestamp": [
+        78.94,
+        79.38
+      ]
+    },
+    {
+      "text": " qué",
+      "timestamp": [
+        79.38,
+        79.54
+      ]
+    },
+    {
+      "text": " cabezón",
+      "timestamp": [
+        79.54,
+        79.92
+      ]
+    },
+    {
+      "text": " tengo,",
+      "timestamp": [
+        79.92,
+        80.32
+      ]
+    },
+    {
+      "text": " imaginaros",
+      "timestamp": [
+        80.32,
+        80.78
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        80.78,
+        80.94
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        80.94,
+        81.14
+      ]
+    },
+    {
+      "text": " chapela.",
+      "timestamp": [
+        81.14,
+        81.68
+      ]
+    },
+    {
+      "text": " Me",
+      "timestamp": [
+        81.68,
+        82.04
+      ]
+    },
+    {
+      "text": " puse",
+      "timestamp": [
+        82.04,
+        82.26
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        82.26,
+        82.4
+      ]
+    },
+    {
+      "text": " chapela",
+      "timestamp": [
+        82.4,
+        82.76
+      ]
+    },
+    {
+      "text": " azul",
+      "timestamp": [
+        82.8,
+        82.96
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        82.96,
+        83.24
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        83.24,
+        83.38
+      ]
+    },
+    {
+      "text": " Google",
+      "timestamp": [
+        83.38,
+        83.52
+      ]
+    },
+    {
+      "text": " Earth",
+      "timestamp": [
+        83.52,
+        83.78
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        83.78,
+        84.02
+      ]
+    },
+    {
+      "text": " marcó",
+      "timestamp": [
+        84.02,
+        84.38
+      ]
+    },
+    {
+      "text": " como",
+      "timestamp": [
+        84.38,
+        84.54
+      ]
+    },
+    {
+      "text": " piscina.",
+      "timestamp": [
+        84.54,
+        85.14
+      ]
+    },
+    {
+      "text": " Gracias.",
+      "timestamp": [
+        100.0,
+        100.88
+      ]
+    }
+  ],
+  "processing_time": 7923.445235013962,
+  "language": "es",
+  "model_id": "openai/whisper-large-v3"
+}

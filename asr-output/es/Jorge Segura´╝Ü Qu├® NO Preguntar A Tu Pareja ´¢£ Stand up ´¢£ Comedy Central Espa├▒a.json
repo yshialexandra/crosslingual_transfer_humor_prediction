@@ -1,0 +1,54 @@
+{
+  "audio_file": "Jorge Segura： Qué NO Preguntar A Tu Pareja ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "Yo busqué pareja en su día y al final, pues con el tiempo conocí a una chica y pues bueno, nos terminamos casando, era todo muy bonito y tal, pero luego se fue apagando un poco a lo mejor la llama y tal. Me preocupé un día que miré el reloj y dije, anda, pero si llevamos cinco años sin follar. Y me preocupé, ¿no? De esto que te preocupas por la salud interna de la relación, ¿no? Y dije, venga, de hoy no pasa. Ese día tenía una actuación, después de la actuación llegué a casa, bueno, fueron los siete minutos más apasionados de los últimos años. Buah, increíble. Y lo podía haber alejado, pero no, al día siguiente por la mañana me dio por preguntar. Chicos de la sala, si queréis que os dure una relación nunca preguntéis nada, ni siquiera qué tal estás, porque te puedes llevar un... Ah, ahora te preocupa qué tal estoy. O sea, no preguntéis nada y menos si es arriesgado. Al día siguiente, imagínate, después de tanto tiempo, durante el desayuno le digo, anoche fingías. Y me dice, ¿qué va? Estaba dormida de verdad. ¿Qué va? Estaba dormida de verdad.",
+  "chunks": [
+    {
+      "text": " Yo busqué pareja en su día y al final, pues con el tiempo conocí a una chica y pues bueno, nos terminamos casando, era todo muy bonito y tal, pero luego se fue apagando un poco a lo mejor la llama y tal.",
+      "start": 1.3000000000000005,
+      "end": 13.48
+    },
+    {
+      "text": " Me preocupé un día que miré el reloj y dije, anda, pero si llevamos cinco años sin follar. Y me preocupé, ¿no? De esto que te preocupas por la salud interna de la relación, ¿no?",
+      "start": 13.58,
+      "end": 22.54
+    },
+    {
+      "text": " Y dije, venga, de hoy no pasa. Ese día tenía una actuación, después de la actuación llegué a casa, bueno, fueron los siete minutos más apasionados de los últimos años.",
+      "start": 22.919999999999998,
+      "end": 30.06
+    },
+    {
+      "text": " Buah, increíble. Y lo podía haber alejado, pero no, al día siguiente por la mañana me dio por preguntar.",
+      "start": 30.64,
+      "end": 36.46
+    },
+    {
+      "text": " Chicos de la sala, si queréis que os dure una relación nunca preguntéis nada, ni siquiera qué tal estás, porque te puedes llevar un...",
+      "start": 36.76,
+      "end": 41.5
+    },
+    {
+      "text": " Ah, ahora te preocupa qué tal estoy. O sea, no preguntéis nada y menos si es arriesgado.",
+      "start": 41.5,
+      "end": 45.52
+    },
+    {
+      "text": " Al día siguiente, imagínate, después de tanto tiempo, durante el desayuno le digo, anoche fingías.",
+      "start": 45.52,
+      "end": 52.4
+    },
+    {
+      "text": " Y me dice, ¿qué va? Estaba dormida de verdad.",
+      "start": 53.58,
+      "end": 55.72
+    },
+    {
+      "text": " ¿Qué va? Estaba dormida de verdad.",
+      "start": 75.52000000000001,
+      "end": 76.78
+    }
+  ],
+  "processing_time": 0.44725799560546875,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

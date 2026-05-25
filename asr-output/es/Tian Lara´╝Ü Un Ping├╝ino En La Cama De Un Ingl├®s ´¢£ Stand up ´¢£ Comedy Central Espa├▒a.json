@@ -1,0 +1,39 @@
+{
+  "audio_file": "Tian Lara： Un Pingüino En La Cama De Un Inglés ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "Pero bueno, ya he empezado hablando de animales y me gustaría despedirme igual con una noticia real de dos británicos que se pegaron un festival, bueno, como salimos los tíos, ¿no? Que decimos, no, no, y de tranquis. Y por la noche se colaron en un zoo, se bañaron con los delfines y lo que más me gusta a mí de la noticia es que al día siguiente, cuando se despertaron en la habitación, había un pingüino. Ninguno de los dos sabía bien bien lo que hacer con él, ¿no? Pero yo me pongo la pobre piel de pingüino pensando que el pobre tuvo que estar ahí, no sé, 10, 12 horas esperando a que estos cabrones se despertasen, ¿no? De pie. Porque no sé vosotros, pero yo soy incapaz de imaginarme un pingüino tumbado. Y menos sentado, ¿eh? Yo me lo imagino ahí al pobre, ¿no? ¡Qué bien lo pasamos ayer! De tranquis, dice el otro, ¿sabes? Hola, ¿qué hace? ¿Tenéis licor del polo? ¡Ah!",
+  "chunks": [
+    {
+      "text": " Pero bueno, ya he empezado hablando de animales y me gustaría despedirme igual con una noticia real de dos británicos que se pegaron un festival, bueno, como salimos los tíos, ¿no? Que decimos, no, no, y de tranquis.",
+      "start": 1.2200000000000009,
+      "end": 13.54
+    },
+    {
+      "text": " Y por la noche se colaron en un zoo, se bañaron con los delfines y lo que más me gusta a mí de la noticia es que al día siguiente, cuando se despertaron en la habitación, había un pingüino.",
+      "start": 14.540000000000003,
+      "end": 26.12
+    },
+    {
+      "text": " Ninguno de los dos sabía bien bien lo que hacer con él, ¿no? Pero yo me pongo la pobre piel de pingüino pensando que el pobre tuvo que estar ahí, no sé, 10, 12 horas esperando a que estos cabrones se despertasen, ¿no? De pie.",
+      "start": 30.0,
+      "end": 45.6
+    },
+    {
+      "text": " Porque no sé vosotros, pero yo soy incapaz de imaginarme un pingüino tumbado. Y menos sentado, ¿eh? Yo me lo imagino ahí al pobre, ¿no?",
+      "start": 47.5,
+      "end": 56.8
+    },
+    {
+      "text": " ¡Qué bien lo pasamos ayer! De tranquis, dice el otro, ¿sabes? Hola, ¿qué hace? ¿Tenéis licor del polo?",
+      "start": 77.46,
+      "end": 87.46
+    },
+    {
+      "text": " ¡Ah!",
+      "start": 87.46,
+      "end": 88.2
+    }
+  ],
+  "processing_time": 0.4114675521850586,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

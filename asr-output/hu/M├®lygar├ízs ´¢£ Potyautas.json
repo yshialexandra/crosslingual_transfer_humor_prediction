@@ -1,0 +1,104 @@
+{
+  "audio_file": "Mélygarázs ｜ Potyautas.wav",
+  "full_text": "Képtelenek összehangolni ezeket a lámpákat. Kálvín térre legyen széles? Rára, ugyan foglalt vagyok. De ki nagyon fúj a szél. Akkor menjen metróval. Jól van, na megyek már. Nagyon kérem, hogy a következő lámpánál szálljon ki. Minket nem zavar? Merre mennek? Deákra. Na, akkor az pont jó a kávéra. Na, abszolút. Akkor beszállok egy ezressel, ha az úgy jó. Emberek, ez itt egy taxi, nem pedig egy iskolabusz. Maga utána már remegy tovább? Az oktogonra, fél tízre. Akkor maga is beszállhat ne egy ezressel, nem? Hogy? Szarág.",
+  "chunks": [
+    {
+      "text": " Képtelenek összehangolni ezeket a lámpákat.",
+      "start": 8.839999999999998,
+      "end": 10.6
+    },
+    {
+      "text": " Kálvín térre legyen széles?",
+      "start": 13.36,
+      "end": 14.8
+    },
+    {
+      "text": " Rára, ugyan foglalt vagyok.",
+      "start": 14.86,
+      "end": 16.28
+    },
+    {
+      "text": " De ki nagyon fúj a szél.",
+      "start": 16.36,
+      "end": 17.36
+    },
+    {
+      "text": " Akkor menjen metróval.",
+      "start": 17.44,
+      "end": 18.56
+    },
+    {
+      "text": " Jól van, na megyek már.",
+      "start": 18.86,
+      "end": 20.1
+    },
+    {
+      "text": " Nagyon kérem, hogy a következő lámpánál szálljon ki.",
+      "start": 22.1,
+      "end": 24.44
+    },
+    {
+      "text": " Minket nem zavar?",
+      "start": 24.8,
+      "end": 25.64
+    },
+    {
+      "text": " Merre mennek?",
+      "start": 25.9,
+      "end": 26.58
+    },
+    {
+      "text": " Deákra.",
+      "start": 27.04,
+      "end": 27.5
+    },
+    {
+      "text": " Na, akkor az pont jó a kávéra.",
+      "start": 27.7,
+      "end": 29.22
+    },
+    {
+      "text": " Na, abszolút.",
+      "start": 29.22,
+      "end": 30.16
+    },
+    {
+      "text": " Akkor beszállok egy ezressel, ha az úgy jó.",
+      "start": 30.28,
+      "end": 32.44
+    },
+    {
+      "text": " Emberek, ez itt egy taxi, nem pedig egy iskolabusz.",
+      "start": 33.08,
+      "end": 35.3
+    },
+    {
+      "text": " Maga utána már remegy tovább?",
+      "start": 35.8,
+      "end": 37.18
+    },
+    {
+      "text": " Az oktogonra, fél tízre.",
+      "start": 37.34,
+      "end": 38.76
+    },
+    {
+      "text": " Akkor maga is beszállhat ne egy ezressel, nem?",
+      "start": 39.04,
+      "end": 41.46
+    },
+    {
+      "text": " Hogy?",
+      "start": 43.08,
+      "end": 43.52
+    },
+    {
+      "text": " Szarág.",
+      "start": 44.760000000000005,
+      "end": 45.2
+    }
+  ],
+  "processing_time": 0.8188631534576416,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

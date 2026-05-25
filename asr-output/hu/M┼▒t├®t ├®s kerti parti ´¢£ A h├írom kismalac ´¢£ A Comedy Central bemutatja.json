@@ -1,0 +1,214 @@
+{
+  "audio_file": "Műtét és kerti parti ｜ A három kismalac ｜ A Comedy Central bemutatja.wav",
+  "full_text": "Viszonylag eseménytelen volt a nyarunk. Nekem volt egy kisebb műtétem, egy szívátültetés, de nem fájt különösebben. Ilyen homeopátiás műtét volt. Egy haverom csinálta. Érdekes, mert fél éve még könyvelő volt, aztán egyszer csak kitaláltad, hogy sebész akar lenni. Elvégzett egy ilyen óká és gyors talpalót, ilyen jobb agyféltek és sebész higzést. Úgyhogy ő operált meg. Mindekinek csak ajánlani tudom, hogyha már szívműtétre megy, akkor barátja operálja, mert óriási a hangulat. Tehát ott feküdtem, ugye így kinyitva, mint a mesekönyv, és akkor így mentek a poénak, hogy tegyük a szívünkre a kezünket, mert az ember kiteszi a szívét, lelkét, mert nagyon-nagyon jó volt. De nem szeretem egyébként ezeket a kórházi dolgokat, ezek ilyen privát, privát ügyek, és senki nem beszél szívesen az ilyen magándolgokról. Pedig amikor volt az a fitma szűkület operáció, marul azért, hogy volt esetleg valakinek? Tegyek való a kezétekinek. Heresér, furunkulus valamelyik farpofán. Na mindegy, a műtétnek egyetlen egy ilyen kellemetlen következmény volt, sajnos le kellett vágni a jobb lábamat. Tudom, hogy mire gondolnak, de ezüst koloiddal kellegedtem, úgyhogy most már mindenekül. A másik, ami kicsit szar, hogy nem ehetek akármit. Tehát összeült a konzilium, és megállapították, hogy most már gyakorlatilag életem végéig biokölest lehet csak enni. De nem baj, mert erre tart a világ, ugye. Jöttünk is egy dalt arról, hogy milyen lesz mondjuk egy kerti parti 2020-ban. Anyu egy kondér bulát a pürét hoz, a teljes kiörlésű pacal hoz. Békni módra készült brokkoli, kézműves kólával valami isteni. A nalkoholmentes sör és bubis víz, a bográcsban már rogyog a tejbe gríz. A szomszéd palacsintával szaladt át, kenyek rá tisztek a paleon nutellát. A nagymama szélites gumicukrot hozott, lehelpiaci frissen centírozott. A cukkin is kofri jobb, mint a ton halas, és a kóser vegán sertés oldalas. A fajjuk a hentes mentes sült husit, és az ős termelői makit és szusit. A burzsui kajákhoz nyilván sorba állsz, de a láva kövönsült bundás kenyér az áll. Az antikandida kenyeret felszelik, bómus lisztben meghempergetik, de az igazi ízhatást akkor érik el, az omega tojás taxisok velik fel. A szabályon szépen, fél a dőle.",
+  "chunks": [
+    {
+      "text": " Viszonylag eseménytelen volt a nyarunk.",
+      "start": 1.2999999999999972,
+      "end": 3.66
+    },
+    {
+      "text": " Nekem volt egy kisebb műtétem, egy szívátültetés,",
+      "start": 4.22,
+      "end": 8.02
+    },
+    {
+      "text": " de nem fájt különösebben.",
+      "start": 9.18,
+      "end": 11.32
+    },
+    {
+      "text": " Ilyen homeopátiás műtét volt.",
+      "start": 11.44,
+      "end": 13.44
+    },
+    {
+      "text": " Egy haverom csinálta.",
+      "start": 15.040000000000001,
+      "end": 16.24
+    },
+    {
+      "text": " Érdekes, mert fél éve még könyvelő volt,",
+      "start": 18.86,
+      "end": 21.26
+    },
+    {
+      "text": " aztán egyszer csak kitaláltad, hogy sebész akar lenni.",
+      "start": 21.32,
+      "end": 24.04
+    },
+    {
+      "text": " Elvégzett egy ilyen óká és gyors talpalót,",
+      "start": 24.88,
+      "end": 28.38
+    },
+    {
+      "text": " ilyen jobb agyféltek és sebész higzést.",
+      "start": 29.120000000000005,
+      "end": 32.92
+    },
+    {
+      "text": " Úgyhogy ő operált meg.",
+      "start": 33.22,
+      "end": 34.26
+    },
+    {
+      "text": " Mindekinek csak ajánlani tudom, hogyha már szívműtétre megy,",
+      "start": 34.46,
+      "end": 37.42
+    },
+    {
+      "text": " akkor barátja operálja, mert óriási a hangulat.",
+      "start": 37.46,
+      "end": 40.74
+    },
+    {
+      "text": " Tehát ott feküdtem, ugye így kinyitva, mint a mesekönyv,",
+      "start": 40.92,
+      "end": 44.78
+    },
+    {
+      "text": " és akkor így mentek a poénak, hogy tegyük a szívünkre a kezünket,",
+      "start": 45.36,
+      "end": 49.16
+    },
+    {
+      "text": " mert az ember kiteszi a szívét, lelkét, mert nagyon-nagyon jó volt.",
+      "start": 49.3,
+      "end": 55.14
+    },
+    {
+      "text": " De nem szeretem egyébként ezeket a kórházi dolgokat,",
+      "start": 56.22,
+      "end": 59.02
+    },
+    {
+      "text": " ezek ilyen privát, privát ügyek,",
+      "start": 59.08,
+      "end": 60.78
+    },
+    {
+      "text": " és senki nem beszél szívesen az ilyen magándolgokról.",
+      "start": 60.86,
+      "end": 64.52
+    },
+    {
+      "text": " Pedig amikor volt az a fitma szűkület operáció,",
+      "start": 65.34,
+      "end": 68.12
+    },
+    {
+      "text": " marul azért, hogy volt esetleg valakinek?",
+      "start": 68.2,
+      "end": 71.62
+    },
+    {
+      "text": " Tegyek való a kezétekinek.",
+      "start": 72.38,
+      "end": 74.12
+    },
+    {
+      "text": " Heresér, furunkulus valamelyik farpofán.",
+      "start": 79.36,
+      "end": 82.0
+    },
+    {
+      "text": " Na mindegy, a műtétnek egyetlen egy ilyen kellemetlen következmény volt,",
+      "start": 84.38,
+      "end": 89.86
+    },
+    {
+      "text": " sajnos le kellett vágni a jobb lábamat.",
+      "start": 89.9,
+      "end": 91.86
+    },
+    {
+      "text": " Tudom, hogy mire gondolnak, de ezüst koloiddal kellegedtem,",
+      "start": 93.38,
+      "end": 98.08
+    },
+    {
+      "text": " úgyhogy most már mindenekül.",
+      "start": 98.08,
+      "end": 99.46
+    },
+    {
+      "text": " A másik, ami kicsit szar, hogy nem ehetek akármit.",
+      "start": 101.76,
+      "end": 104.82
+    },
+    {
+      "text": " Tehát összeült a konzilium, és megállapították,",
+      "start": 105.06,
+      "end": 108.48
+    },
+    {
+      "text": " hogy most már gyakorlatilag életem végéig biokölest lehet csak enni.",
+      "start": 108.56,
+      "end": 112.78
+    },
+    {
+      "text": " De nem baj, mert erre tart a világ, ugye.",
+      "start": 113.04,
+      "end": 115.26
+    },
+    {
+      "text": " Jöttünk is egy dalt arról, hogy milyen lesz mondjuk egy kerti parti 2020-ban.",
+      "start": 115.7,
+      "end": 121.32
+    },
+    {
+      "text": " Anyu egy kondér bulát a pürét hoz, a teljes kiörlésű pacal hoz.",
+      "start": 124.72,
+      "end": 137.24
+    },
+    {
+      "text": " Békni módra készült brokkoli, kézműves kólával valami isteni.",
+      "start": 137.94,
+      "end": 148.24
+    },
+    {
+      "text": " A nalkoholmentes sör és bubis víz, a bográcsban már rogyog a tejbe gríz.",
+      "start": 155.27999999999997,
+      "end": 165.2
+    },
+    {
+      "text": " A szomszéd palacsintával szaladt át, kenyek rá tisztek a paleon nutellát.",
+      "start": 166.24,
+      "end": 176.64
+    },
+    {
+      "text": " A nagymama szélites gumicukrot hozott, lehelpiaci frissen centírozott.",
+      "start": 176.64,
+      "end": 187.58
+    },
+    {
+      "text": " A cukkin is kofri jobb, mint a ton halas, és a kóser vegán sertés oldalas.",
+      "start": 188.46,
+      "end": 198.58
+    },
+    {
+      "text": " A fajjuk a hentes mentes sült husit, és az ős termelői makit és szusit.",
+      "start": 198.58,
+      "end": 209.76
+    },
+    {
+      "text": " A burzsui kajákhoz nyilván sorba állsz, de a láva kövönsült bundás kenyér az áll.",
+      "start": 210.64,
+      "end": 223.0
+    },
+    {
+      "text": " Az antikandida kenyeret felszelik, bómus lisztben meghempergetik, de az igazi ízhatást akkor érik el, az omega tojás taxisok velik fel.",
+      "start": 224.89999999999998,
+      "end": 247.54
+    },
+    {
+      "text": " A szabályon szépen, fél a dőle.",
+      "start": 253.0,
+      "end": 256.32
+    }
+  ],
+  "processing_time": 2.2420265674591064,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

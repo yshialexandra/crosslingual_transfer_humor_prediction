@@ -1,0 +1,139 @@
+{
+  "audio_file": "Mélyvíz ｜ Elsősegély.wav",
+  "full_text": "Na gyerekek, nagyon figyeljetek, mert egyszer mutatja meg a Pali bácsi, jó? Tehát nagyon lényeges, hogyha valakit kimentettetek a vízből... Amihez szükséges az, hogy tudjatok úszni. Pofabe, eszméletlen vagy, igaz? Igen. Na. Akkor az első az, hogy ellenőrizzétek a légzését. Endi lélegzel? Igen. Na. Ez az életben egy picit bonyolultabb, de most ugorjunk a mesterséges lélegeztetéshez. Na először összekulcsoljátok... Hozzám ne érjél, mert megöllek, hallod? Tedd le a kezed... ne teszed a kezed! Eszméletlen vagy, igaz? Az eszem megáll. Na, összekulcsoljátok a kezeteket így, és a melkasát elkezditek pumpálni diszkó ritmusra 30-at. Mokincsel én a szemét tesztevőre... Ne érjél hozzám, mert tényleg megöllek. Na. Utána a 30 pumpálás után jön a befúvás. Ti majd az életbe próbáljátok meg túltenni magatokat azon, hogy akit kimentettetek, egy guztustalan bajszos féreg. Na. Ne érj! Az anyád! Jó, akkor csináljátok nélkülem azt, amit akartok. Befejeztem. Tudtátok, hogy állítólag nem is tud úszni? Na, kérek egy önkéntest!",
+  "chunks": [
+    {
+      "text": " Na gyerekek, nagyon figyeljetek, mert egyszer mutatja meg a Pali bácsi, jó?",
+      "start": 2.779999999999998,
+      "end": 6.68
+    },
+    {
+      "text": " Tehát nagyon lényeges, hogyha valakit kimentettetek a vízből...",
+      "start": 6.94,
+      "end": 10.32
+    },
+    {
+      "text": " Amihez szükséges az, hogy tudjatok úszni.",
+      "start": 10.32,
+      "end": 12.38
+    },
+    {
+      "text": " Pofabe, eszméletlen vagy, igaz?",
+      "start": 12.4,
+      "end": 14.02
+    },
+    {
+      "text": " Igen.",
+      "start": 14.24,
+      "end": 14.5
+    },
+    {
+      "text": " Na.",
+      "start": 14.74,
+      "end": 14.94
+    },
+    {
+      "text": " Akkor az első az, hogy ellenőrizzétek a légzését.",
+      "start": 15.8,
+      "end": 19.22
+    },
+    {
+      "text": " Endi lélegzel?",
+      "start": 20.159999999999993,
+      "end": 21.24
+    },
+    {
+      "text": " Igen.",
+      "start": 21.52,
+      "end": 22.02
+    },
+    {
+      "text": " Na.",
+      "start": 22.82,
+      "end": 23.14
+    },
+    {
+      "text": " Ez az életben egy picit bonyolultabb, de most ugorjunk a mesterséges lélegeztetéshez.",
+      "start": 23.74,
+      "end": 28.28
+    },
+    {
+      "text": " Na először összekulcsoljátok... Hozzám ne érjél, mert megöllek, hallod?",
+      "start": 28.28,
+      "end": 32.7
+    },
+    {
+      "text": " Tedd le a kezed... ne teszed a kezed! Eszméletlen vagy, igaz?",
+      "start": 32.92,
+      "end": 35.76
+    },
+    {
+      "text": " Az eszem megáll.",
+      "start": 36.16,
+      "end": 37.42
+    },
+    {
+      "text": " Na, összekulcsoljátok a kezeteket így, és a melkasát elkezditek pumpálni diszkó ritmusra 30-at.",
+      "start": 38.18,
+      "end": 45.32
+    },
+    {
+      "text": " Mokincsel én a szemét tesztevőre...",
+      "start": 46.52,
+      "end": 49.34
+    },
+    {
+      "text": " Ne érjél hozzám, mert tényleg megöllek.",
+      "start": 49.34,
+      "end": 51.38
+    },
+    {
+      "text": " Na.",
+      "start": 52.02,
+      "end": 52.12
+    },
+    {
+      "text": " Utána a 30 pumpálás után jön a befúvás.",
+      "start": 53.36,
+      "end": 56.32
+    },
+    {
+      "text": " Ti majd az életbe próbáljátok meg túltenni magatokat azon, hogy akit kimentettetek, egy guztustalan bajszos féreg.",
+      "start": 57.28,
+      "end": 64.64
+    },
+    {
+      "text": " Na.",
+      "start": 65.0,
+      "end": 65.18
+    },
+    {
+      "text": " Ne érj! Az anyád!",
+      "start": 66.64,
+      "end": 68.66
+    },
+    {
+      "text": " Jó, akkor csináljátok nélkülem azt, amit akartok.",
+      "start": 68.82,
+      "end": 72.0
+    },
+    {
+      "text": " Befejeztem.",
+      "start": 73.26,
+      "end": 73.98
+    },
+    {
+      "text": " Tudtátok, hogy állítólag nem is tud úszni?",
+      "start": 75.72,
+      "end": 77.86
+    },
+    {
+      "text": " Na, kérek egy önkéntest!",
+      "start": 79.72,
+      "end": 81.68
+    }
+  ],
+  "processing_time": 0.6120071411132812,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,39 @@
+{
+  "audio_file": "Beteg a mikulás ｜ Télvíz.wav",
+  "full_text": "Sziasztok! Csak, Tam. Mit szeretnél? Amikor a selébe szeretnék ülni. A Mikulás bácsi beteg. Tudod? De én akkor is az ölébe akarok ülni. A Mikulás bácsi kínai tevet az ételudvarban, és most egy olyan helyen üldögél, ahol te nem szeretnél az ölébe ülni. De én akarok. Semmi van, gyere, ülj az én ölembe. Én a Mikulás ébe akarok. De ésd már meg, hogy nem tudsz a Mikulás bácsi ölébe ülni. De én akarok. De nem tudsz, nyugodjál már meg, nyugodjál meg, nyugodjál meg, nyugodjál meg. Hagyd a ba, hagyd a ba. És mi van? Krampusz vagyok. Látták az ördögűzőt? Egész visszafogott voltam.",
+  "chunks": [
+    {
+      "text": " Sziasztok!",
+      "start": 20.820000000000004,
+      "end": 21.62
+    },
+    {
+      "text": " Csak, Tam.",
+      "start": 21.94,
+      "end": 22.6
+    },
+    {
+      "text": " Mit szeretnél?",
+      "start": 25.960000000000004,
+      "end": 27.24
+    },
+    {
+      "text": " Amikor a selébe szeretnék ülni.",
+      "start": 27.42,
+      "end": 29.7
+    },
+    {
+      "text": " A Mikulás bácsi beteg. Tudod? De én akkor is az ölébe akarok ülni. A Mikulás bácsi kínai tevet az ételudvarban, és most egy olyan helyen üldögél, ahol te nem szeretnél az ölébe ülni. De én akarok. Semmi van, gyere, ülj az én ölembe. Én a Mikulás ébe akarok. De ésd már meg, hogy nem tudsz a Mikulás bácsi ölébe ülni. De én akarok. De nem tudsz, nyugodjál már meg, nyugodjál meg, nyugodjál meg, nyugodjál meg. Hagyd a ba, hagyd a ba.",
+      "start": 30.299999999999997,
+      "end": 55.66
+    },
+    {
+      "text": " És mi van? Krampusz vagyok. Látták az ördögűzőt? Egész visszafogott voltam.",
+      "start": 63.879999999999995,
+      "end": 73.86
+    }
+  ],
+  "processing_time": 1.4197676181793213,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,109 @@
+{
+  "audio_file": "Családi matekpélda： (👩🏼 +👱🏻‍♂️) + 8x🧑🏻 = ？ ｜ Csók a családnak.wav",
+  "full_text": "Raaa! Mi a szörnyeket nevelünk? Állatokat. Nyújtsz fiamban. Kész a kaja! Elvileg. Nem garantálom. Nyami. Nagyon ügyes voltál a színpadon. Még apa is megnézte. A monc volt bár. Mi a fene ütött a fiúka? Titkos barátnője van? A korunk beliek, sokat lúgnak együtt. Paráználkodsz az én Edim-mel? Apádnak túl sokat öbben! Új sorozat a kiegyensúlyozott családi életről. Nem érdekel, hogy mit csinálnak a gyerekeim. A lényeg, hogy boldogok legyenek. Még a boldogságuk sem érdekel, csak legyenek körülöttem. NAMASTE",
+  "chunks": [
+    {
+      "text": " Raaa!",
+      "start": 0.0,
+      "end": 0.52
+    },
+    {
+      "text": " Mi a szörnyeket nevelünk?",
+      "start": 2.0,
+      "end": 3.7
+    },
+    {
+      "text": " Állatokat.",
+      "start": 4.04,
+      "end": 4.64
+    },
+    {
+      "text": " Nyújtsz fiamban.",
+      "start": 4.74,
+      "end": 5.68
+    },
+    {
+      "text": " Kész a kaja!",
+      "start": 6.5,
+      "end": 7.58
+    },
+    {
+      "text": " Elvileg.",
+      "start": 7.82,
+      "end": 8.38
+    },
+    {
+      "text": " Nem garantálom.",
+      "start": 8.48,
+      "end": 9.2
+    },
+    {
+      "text": " Nyami.",
+      "start": 9.76,
+      "end": 10.36
+    },
+    {
+      "text": " Nagyon ügyes voltál a színpadon.",
+      "start": 10.5,
+      "end": 12.2
+    },
+    {
+      "text": " Még apa is megnézte.",
+      "start": 12.26,
+      "end": 13.38
+    },
+    {
+      "text": " A monc volt bár.",
+      "start": 14.58,
+      "end": 15.78
+    },
+    {
+      "text": " Mi a fene ütött a fiúka?",
+      "start": 16.42,
+      "end": 18.16
+    },
+    {
+      "text": " Titkos barátnője van?",
+      "start": 19.46,
+      "end": 20.84
+    },
+    {
+      "text": " A korunk beliek, sokat lúgnak együtt.",
+      "start": 20.96,
+      "end": 22.76
+    },
+    {
+      "text": " Paráználkodsz az én Edim-mel?",
+      "start": 22.88,
+      "end": 24.36
+    },
+    {
+      "text": " Apádnak túl sokat öbben!",
+      "start": 25.74,
+      "end": 27.22
+    },
+    {
+      "text": " Új sorozat a kiegyensúlyozott családi életről.",
+      "start": 28.72,
+      "end": 32.2
+    },
+    {
+      "text": " Nem érdekel, hogy mit csinálnak a gyerekeim. A lényeg, hogy boldogok legyenek.",
+      "start": 32.4,
+      "end": 36.28
+    },
+    {
+      "text": " Még a boldogságuk sem érdekel, csak legyenek körülöttem.",
+      "start": 36.36,
+      "end": 38.86
+    },
+    {
+      "text": " NAMASTE",
+      "start": 57.9,
+      "end": 59.3
+    }
+  ],
+  "processing_time": 1.991744041442871,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

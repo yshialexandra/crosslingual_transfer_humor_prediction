@@ -1,0 +1,304 @@
+{
+  "audio_file": "Miguel Esteban： Debate Sobre Canibalismo ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "El otro día estaba con unos colegas... ¿Habéis visto que viene el lazo de más? Estaba con unos colegas hablando de Viven. ¿Habéis visto Viven? La peli Viven. Unos tíos, unos jugadores de rugby argentinos, que se... O guayos, no sé, la misma mierda. Que se estrellan, tienen un accidente de avión y caen en los Andes y sobrevienen son unos pocos y se tienen que comer a los demás. Dices, joder, qué puta locura, tiene que comerse a los demás. ¿Sabes qué horror? ¿Y tú qué harías en esa situación? ¿Qué harías? No hay ningún puto debate. ¿Qué harías? O sea, tú estás ahí, sobrevives, hay unos compañeros tuyos que se han muerto de los putos, ¿comes? ¿Qué debate? Además, la gente es como, joder, ¿qué harías? No, no, no hay debate. Existe la otra opción. ¿Alguien defiende la teoría de no deberías comértelos, deberías morir de hambre? No, no existe. No existe. Si tú te caes en un avión, tienes que comer a tus compañeros y sobrevives, es como que te ha tocado la puta lotería, ¿sabes? A partir de ahí, vas a poder ganar una película basada en ti, podrás escribir un libro, te harás charlas, no tendrás que trabajar jamás, jamás. Es un puto chollo, ¿sabes? Y vas a sobrevivir, ¿sabes? No hay nada. Y nadie va a reprocharte nada. No hay ningún debate. ¿Te comerías a tus compañeros si tuvieras que hacerlo? Claro que sí. No hay ningún debate. No hay debate. No existe debate. ¿Te comerías a tus compañeros? Claro que sí. El debate empieza. Si estás en el Vivens, si te ha caído tu avión, si te ha estrellado contra los Andes, si alguien dice, tenemos que comernos a los compañeros. de joder, qué putada, tío. Por cierto, he encontrado un bote de orégano. Ahí empieza el debate. ¿Sazonas a Rafa? ¿O no le sazonas? ¿Se puede hacer merienda cena? Él no va a sufrir. Tú no sabes si va a ser tu última comida. No.",
+  "chunks": [
+    {
+      "text": " El otro día estaba con unos colegas...",
+      "start": 1.2200000000000022,
+      "end": 3.38
+    },
+    {
+      "text": " ¿Habéis visto que viene el lazo de más?",
+      "start": 4.640000000000002,
+      "end": 6.36
+    },
+    {
+      "text": " Estaba con unos colegas hablando de Viven.",
+      "start": 8.420000000000002,
+      "end": 10.34
+    },
+    {
+      "text": " ¿Habéis visto Viven? La peli Viven.",
+      "start": 10.52,
+      "end": 12.16
+    },
+    {
+      "text": " Unos tíos, unos jugadores de rugby argentinos, que se...",
+      "start": 12.820000000000002,
+      "end": 15.46
+    },
+    {
+      "text": " O guayos, no sé, la misma mierda.",
+      "start": 15.46,
+      "end": 17.08
+    },
+    {
+      "text": " Que se estrellan, tienen un accidente de avión",
+      "start": 18.020000000000003,
+      "end": 20.58
+    },
+    {
+      "text": " y caen en los Andes y sobrevienen son unos pocos",
+      "start": 20.58,
+      "end": 24.2
+    },
+    {
+      "text": " y se tienen que comer a los demás.",
+      "start": 24.2,
+      "end": 25.44
+    },
+    {
+      "text": " Dices, joder, qué puta locura, tiene que comerse a los demás.",
+      "start": 25.44,
+      "end": 29.22
+    },
+    {
+      "text": " ¿Sabes qué horror?",
+      "start": 29.58,
+      "end": 30.2
+    },
+    {
+      "text": " ¿Y tú qué harías en esa situación?",
+      "start": 30.58,
+      "end": 32.04
+    },
+    {
+      "text": " ¿Qué harías? No hay ningún puto debate.",
+      "start": 32.2,
+      "end": 34.46
+    },
+    {
+      "text": " ¿Qué harías?",
+      "start": 35.7,
+      "end": 36.3
+    },
+    {
+      "text": " O sea, tú estás ahí, sobrevives,",
+      "start": 36.5,
+      "end": 38.22
+    },
+    {
+      "text": " hay unos compañeros tuyos que se han muerto de los putos, ¿comes?",
+      "start": 38.56,
+      "end": 40.9
+    },
+    {
+      "text": " ¿Qué debate?",
+      "start": 42.14,
+      "end": 42.84
+    },
+    {
+      "text": " Además, la gente es como, joder, ¿qué harías?",
+      "start": 43.04,
+      "end": 45.32
+    },
+    {
+      "text": " No, no, no hay debate.",
+      "start": 45.66,
+      "end": 46.5
+    },
+    {
+      "text": " Existe la otra opción.",
+      "start": 47.059999999999995,
+      "end": 48.32
+    },
+    {
+      "text": " ¿Alguien defiende la teoría de",
+      "start": 49.34,
+      "end": 50.78
+    },
+    {
+      "text": " no deberías comértelos, deberías morir de hambre?",
+      "start": 50.78,
+      "end": 52.68
+    },
+    {
+      "text": " No, no existe.",
+      "start": 52.76,
+      "end": 53.5
+    },
+    {
+      "text": " No existe.",
+      "start": 54.16,
+      "end": 54.9
+    },
+    {
+      "text": " Si tú te caes en un avión,",
+      "start": 55.04,
+      "end": 56.26
+    },
+    {
+      "text": " tienes que comer a tus compañeros",
+      "start": 56.5,
+      "end": 57.68
+    },
+    {
+      "text": " y sobrevives,",
+      "start": 57.68,
+      "end": 59.12
+    },
+    {
+      "text": " es como que te ha tocado la puta lotería, ¿sabes?",
+      "start": 59.4,
+      "end": 61.58
+    },
+    {
+      "text": " A partir de ahí, vas a poder ganar una película basada en ti,",
+      "start": 61.94,
+      "end": 64.78
+    },
+    {
+      "text": " podrás escribir un libro,",
+      "start": 65.0,
+      "end": 66.0
+    },
+    {
+      "text": " te harás charlas,",
+      "start": 66.46,
+      "end": 67.3
+    },
+    {
+      "text": " no tendrás que trabajar jamás, jamás.",
+      "start": 67.6,
+      "end": 70.0
+    },
+    {
+      "text": " Es un puto chollo, ¿sabes?",
+      "start": 70.52,
+      "end": 72.46
+    },
+    {
+      "text": " Y vas a sobrevivir, ¿sabes?",
+      "start": 72.54,
+      "end": 74.16
+    },
+    {
+      "text": " No hay nada.",
+      "start": 74.22,
+      "end": 74.64
+    },
+    {
+      "text": " Y nadie va a reprocharte nada.",
+      "start": 75.16,
+      "end": 77.5
+    },
+    {
+      "text": " No hay ningún debate.",
+      "start": 77.92,
+      "end": 79.06
+    },
+    {
+      "text": " ¿Te comerías a tus compañeros si tuvieras que hacerlo?",
+      "start": 79.36,
+      "end": 81.54
+    },
+    {
+      "text": " Claro que sí.",
+      "start": 81.54,
+      "end": 82.56
+    },
+    {
+      "text": " No hay ningún debate.",
+      "start": 83.68,
+      "end": 85.14
+    },
+    {
+      "text": " No hay debate.",
+      "start": 85.34,
+      "end": 86.16
+    },
+    {
+      "text": " No existe debate.",
+      "start": 86.3,
+      "end": 87.28
+    },
+    {
+      "text": " ¿Te comerías a tus compañeros?",
+      "start": 92.26,
+      "end": 93.5
+    },
+    {
+      "text": " Claro que sí.",
+      "start": 93.6,
+      "end": 94.0
+    },
+    {
+      "text": " El debate empieza.",
+      "start": 94.52,
+      "end": 95.54
+    },
+    {
+      "text": " Si estás en el Vivens,",
+      "start": 96.2,
+      "end": 97.6
+    },
+    {
+      "text": " si te ha caído tu avión,",
+      "start": 97.66,
+      "end": 98.4
+    },
+    {
+      "text": " si te ha estrellado contra los Andes,",
+      "start": 98.54,
+      "end": 99.62
+    },
+    {
+      "text": " si alguien dice,",
+      "start": 99.68,
+      "end": 100.22
+    },
+    {
+      "text": " tenemos que comernos a los compañeros.",
+      "start": 100.32,
+      "end": 101.76
+    },
+    {
+      "text": " de joder, qué putada, tío.",
+      "start": 101.76,
+      "end": 103.24
+    },
+    {
+      "text": " Por cierto, he encontrado un bote de orégano.",
+      "start": 103.48,
+      "end": 105.86
+    },
+    {
+      "text": " Ahí empieza el debate.",
+      "start": 109.58000000000001,
+      "end": 111.32
+    },
+    {
+      "text": " ¿Sazonas a Rafa?",
+      "start": 112.88000000000001,
+      "end": 114.0
+    },
+    {
+      "text": " ¿O no le sazonas?",
+      "start": 115.98,
+      "end": 117.52
+    },
+    {
+      "text": " ¿Se puede hacer merienda cena?",
+      "start": 122.3,
+      "end": 124.0
+    },
+    {
+      "text": " Él no va a sufrir.",
+      "start": 126.58,
+      "end": 127.9
+    },
+    {
+      "text": " Tú no sabes si va a ser tu última comida.",
+      "start": 129.74,
+      "end": 133.04
+    },
+    {
+      "text": " No.",
+      "start": 147.52,
+      "end": 147.82
+    }
+  ],
+  "processing_time": 1.5046656131744385,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

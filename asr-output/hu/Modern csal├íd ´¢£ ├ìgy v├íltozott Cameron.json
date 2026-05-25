@@ -1,0 +1,14 @@
+{
+  "audio_file": "Modern család ｜ Így változott Cameron.wav",
+  "full_text": "Már csak egy nap, amit túl kell élnem.",
+  "chunks": [
+    {
+      "text": " Már csak egy nap, amit túl kell élnem.",
+      "start": 0.0,
+      "end": 2.28
+    }
+  ],
+  "processing_time": 0.1171579360961914,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

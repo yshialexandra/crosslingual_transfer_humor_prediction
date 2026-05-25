@@ -1,0 +1,119 @@
+{
+  "audio_file": "Checklist ｜ Mélynyomó.wav",
+  "full_text": "Azt mondja a mai rettenet amatőr metál tehetségkutatóhoz. Rakódó kesztyű. Megvan. Metál tehetségkutató. Jó. Szigetelő szalag fekete. Megvan. Jó. Szigetelő szalag piros. Nem elég a fekete? Jó. Szigetelő szalag sárga, zöld, csíkos. Ugyanúgy szigetel, mint a fekete. Jó. Kombinált fogó. Megvan. Jó. Nem hagytunk ki semmit? Füldugó. Füldugó. Hogy? Megvan.",
+  "chunks": [
+    {
+      "text": " Azt mondja a mai rettenet amatőr metál tehetségkutatóhoz.",
+      "start": 4.319999999999998,
+      "end": 9.7
+    },
+    {
+      "text": " Rakódó kesztyű.",
+      "start": 9.96,
+      "end": 11.48
+    },
+    {
+      "text": " Megvan.",
+      "start": 11.6,
+      "end": 12.3
+    },
+    {
+      "text": " Metál tehetségkutató.",
+      "start": 12.82,
+      "end": 15.0
+    },
+    {
+      "text": " Jó.",
+      "start": 15.18,
+      "end": 15.6
+    },
+    {
+      "text": " Szigetelő szalag fekete.",
+      "start": 16.02,
+      "end": 18.06
+    },
+    {
+      "text": " Megvan.",
+      "start": 18.38,
+      "end": 19.12
+    },
+    {
+      "text": " Jó.",
+      "start": 19.54,
+      "end": 19.98
+    },
+    {
+      "text": " Szigetelő szalag piros.",
+      "start": 20.5,
+      "end": 22.8
+    },
+    {
+      "text": " Nem elég a fekete?",
+      "start": 23.02,
+      "end": 24.16
+    },
+    {
+      "text": " Jó.",
+      "start": 24.5,
+      "end": 25.14
+    },
+    {
+      "text": " Szigetelő szalag sárga, zöld, csíkos.",
+      "start": 25.7,
+      "end": 29.4
+    },
+    {
+      "text": " Ugyanúgy szigetel, mint a fekete.",
+      "start": 29.4,
+      "end": 31.5
+    },
+    {
+      "text": " Jó.",
+      "start": 31.62,
+      "end": 32.02
+    },
+    {
+      "text": " Kombinált fogó.",
+      "start": 33.34,
+      "end": 34.64
+    },
+    {
+      "text": " Megvan.",
+      "start": 35.32,
+      "end": 36.26
+    },
+    {
+      "text": " Jó.",
+      "start": 36.7,
+      "end": 37.48
+    },
+    {
+      "text": " Nem hagytunk ki semmit?",
+      "start": 38.82,
+      "end": 40.3
+    },
+    {
+      "text": " Füldugó.",
+      "start": 40.62,
+      "end": 41.68
+    },
+    {
+      "text": " Füldugó.",
+      "start": 43.760000000000005,
+      "end": 44.84
+    },
+    {
+      "text": " Hogy?",
+      "start": 45.42,
+      "end": 45.84
+    },
+    {
+      "text": " Megvan.",
+      "start": 46.44,
+      "end": 47.36
+    }
+  ],
+  "processing_time": 0.3192172050476074,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,19 @@
+{
+  "audio_file": "A Zacskós Énekes ｜ All stars.wav",
+  "full_text": "A TV-ben már is semmi más, Csak szex meg bűn, Ez lett a szórakozás. A régi jó dolgok úgy eltűnt, Tejét, hogy tátva marad a száj. Jó, hogy van a Family Guy! Megmutatjuk neked, foghatod a fejed, Csízz, hogy ne vets rajta, ha sott fáj, Itt a Fan-Fly-Guy! A Family Guy, baby! All right!",
+  "chunks": [
+    {
+      "text": " A TV-ben már is semmi más, Csak szex meg bűn, Ez lett a szórakozás. A régi jó dolgok úgy eltűnt, Tejét, hogy tátva marad a száj. Jó, hogy van a Family Guy! Megmutatjuk neked, foghatod a fejed, Csízz, hogy ne vets rajta, ha sott fáj, Itt a Fan-Fly-Guy!",
+      "start": 1.9599999999999973,
+      "end": 29.54
+    },
+    {
+      "text": " A Family Guy, baby! All right!",
+      "start": 31.240000000000002,
+      "end": 33.82
+    }
+  ],
+  "processing_time": 0.291593074798584,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

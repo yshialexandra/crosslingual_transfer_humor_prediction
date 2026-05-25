@@ -1,0 +1,44 @@
+{
+  "audio_file": "Tűz ｜ Mélynyomó.wav",
+  "full_text": "Köszönöm! Tűzet? Már...tényleg nem azért csak... Kösz! Ez nekem... Nagyon jó gyerek vagy! Szigi? Á? Adj, azt majd kérek mástól!",
+  "chunks": [
+    {
+      "text": " Köszönöm!",
+      "start": 7.779999999999999,
+      "end": 9.18
+    },
+    {
+      "text": " Tűzet? Már...tényleg nem azért csak...",
+      "start": 29.54,
+      "end": 33.0
+    },
+    {
+      "text": " Kösz!",
+      "start": 37.32,
+      "end": 38.08
+    },
+    {
+      "text": " Ez nekem...",
+      "start": 39.160000000000004,
+      "end": 40.62
+    },
+    {
+      "text": " Nagyon jó gyerek vagy!",
+      "start": 43.92,
+      "end": 45.48
+    },
+    {
+      "text": " Szigi?",
+      "start": 45.94,
+      "end": 46.58
+    },
+    {
+      "text": " Á? Adj, azt majd kérek mástól!",
+      "start": 47.02,
+      "end": 49.22
+    }
+  ],
+  "processing_time": 0.24065232276916504,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

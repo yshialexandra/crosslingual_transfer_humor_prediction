@@ -1,0 +1,44 @@
+{
+  "audio_file": "Apazenél X PartyGéza - Téged vár Magyarország (Official Music Video)  ｜ Heti Dörgés Villám Gézával.wav",
+  "full_text": "Kis-sé nehéz bejutni, mert sok itt a kerítés, ha bent vagy már, úgy könnyebb a merítés. Jók itt a programok, állhattok sorban, csak köcsögökből. Hát abból sok van, nézd meg a Balatonta, magyar tengert, romkocsmar, romkorház vonza az embert. Hát, hogyha már itt vagy, nincs hova menni, éld át milyen is magyarnak lenni. Téged vár, vár, vár Magyarország, innen nem, nem, nem szabadulsz már. Minden nap egy új bulivár rád, s lassan elmúlik a szabadság. Köszönöm, hogy megnézted!",
+  "chunks": [
+    {
+      "text": " Kis-sé nehéz bejutni, mert sok itt a kerítés, ha bent vagy már, úgy könnyebb a merítés.",
+      "start": 8.979999999999999,
+      "end": 14.94
+    },
+    {
+      "text": " Jók itt a programok, állhattok sorban, csak köcsögökből.",
+      "start": 15.02,
+      "end": 18.76
+    },
+    {
+      "text": " Hát abból sok van, nézd meg a Balatonta, magyar tengert, romkocsmar, romkorház vonza az embert.",
+      "start": 18.82,
+      "end": 25.2
+    },
+    {
+      "text": " Hát, hogyha már itt vagy, nincs hova menni, éld át milyen is magyarnak lenni.",
+      "start": 25.2,
+      "end": 30.52
+    },
+    {
+      "text": " Téged vár, vár, vár Magyarország, innen nem, nem, nem szabadulsz már.",
+      "start": 32.08,
+      "end": 41.36
+    },
+    {
+      "text": " Minden nap egy új bulivár rád, s lassan elmúlik a szabadság.",
+      "start": 42.34,
+      "end": 51.74
+    },
+    {
+      "text": " Köszönöm, hogy megnézted!",
+      "start": 51.74,
+      "end": 54.48
+    }
+  ],
+  "processing_time": 0.3262176513671875,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,64 @@
+{
+  "audio_file": "SPANOK ｜ Barátság.wav",
+  "full_text": "Zsína a menek van. És borocska. Az azt mondja, hogy elmegy, majd jön, de most nem jelzi. Egészség, perc főnöm. Egészség. Honolt az volna? Hogy? Hat éve, jó van rosszul. Megjobb falon vagy esküszem. Én szeretlek. Nényi szeretlek volna. Hat éve? Mi kell mentünk már végig is. Szóval amikor mentünk túl az orcinát, azt lerobbadtak, akkor s az jöttél, hogy a kúton nem volná a pénzt. Tehát sos is állt pénzt, ez nekem vidik fura volt. De tudod az az a két dagat? Jó volt, ez nagyon jó volt. Megjobb meg a fejét. Különet tőltem a kezem. Jó volt az, ez nekem látni. Megláttak? Nem gondoltam, hogy ez lesz. Nem gondoltam? Megláttam. Mit gondol? Gondolom, ki ez a menekünk. Nem a Denzel Washington. Olyan óra van, mint a mágyar királyak. Jó, nagyon nagy van. Piszka fábak. Két szerencsétlenségnak. Tuti nincsenek barátai. Ezt gondoltad? Ja. Ez az, hogy olyan van, mint egy árva kiskutyának az ócélén kidobnak. Az ahogy is szám. Nagyon szeretlek. Igaz se volt. Tudod, mit gondoltam? Először megállt a... Mondom, figyelj, de ott áll a csávó. Ki van pattintva, rendezz, orra. Ott álltál mellette te. Nagy kordó gyomor. Figyelj, de ilyen kalácsképet. Azt mondom, mondom, mondom, az 30 éves úgy néz ki, hogy 65 éves, tehát csoda egy életben maradtnak. Mondom, ekkora, mondom, ilyen dagat, mondom, ez a csávó. Fú, hallott. Ám, mondom, ezt gondoltam. Mondom, beállett, tudod, mindig mondod, hogy ó, felvitted ezt a csaj, buliból, meg tudod azt a csajt. Mondom, hogy hogy nézel ki, mondom, ilyen nagy kordod. Mondom, te nőre még biztos, hogy nem voltam. Mondom, tudom, hogy te szűz vagy még. A Fannyval is voltam. Voltál, akkor végig is, te, megyik Fannyval volt? Az ex-eddel a Fannyval. Az ex-emben voltál a Fannyval? Igen, a Fannyval. Várjál már, várjál már, várjál már. Az ex-emben voltál a Fannyval? Jóház Fannyval? A Fannyval voltál, igenis, jó volt és nem bánok. Jó volt a Fannyval. Jó volt. Te tudod, hogy a barátod, te tudod, hogy milyen veszé vagy? Te tudod, hogy te Doni Brászkó vagy. Te egy áruló vagy, egy Brászkó vagy, és te nem vagy az én barátom, és te nem is voltál az én barátom. Te vagyok a barátod. Nem voltál az én barátom. Te vagyok a barátod Nem is voltam a Fannyval. Ne is legyél vele, és ha már ezzel vicces, az én barátságom az nekem nem kell nekem. A te barátságot se nekem, mert ez nem barátság. Tényleg képvesen, hogy engem egy csajén? Nem is voltam a Fannyval, vigyázz a barátság, mint van. Akkor mi viszlesz ezzel? Tudod, hogy szerettem. De voltál tényleg a Fannyval? Nem voltam a Fannyval. A Vivivel voltam. A",
+  "chunks": [
+    {
+      "text": " Zsína a menek van. És borocska.",
+      "start": 6.62,
+      "end": 10.34
+    },
+    {
+      "text": " Az azt mondja, hogy elmegy, majd jön, de most nem jelzi. Egészség, perc főnöm. Egészség.",
+      "start": 11.540000000000001,
+      "end": 18.66
+    },
+    {
+      "text": " Honolt az volna? Hogy? Hat éve, jó van rosszul. Megjobb falon vagy esküszem. Én szeretlek. Nényi szeretlek volna. Hat éve? Mi kell mentünk már végig is. Szóval amikor mentünk túl az orcinát, azt lerobbadtak, akkor s az jöttél, hogy a kúton nem volná a pénzt. Tehát sos is állt pénzt, ez nekem vidik fura volt. De tudod az az a két dagat?",
+      "start": 21.72,
+      "end": 47.54
+    },
+    {
+      "text": " Jó volt, ez nagyon jó volt. Megjobb meg a fejét. Különet tőltem a kezem. Jó volt az, ez nekem látni. Megláttak? Nem gondoltam, hogy ez lesz. Nem gondoltam? Megláttam. Mit gondol? Gondolom, ki ez a menekünk. Nem a Denzel Washington. Olyan óra van, mint a mágyar királyak. Jó, nagyon nagy van. Piszka fábak.",
+      "start": 49.06,
+      "end": 76.5
+    },
+    {
+      "text": " Két szerencsétlenségnak. Tuti nincsenek barátai. Ezt gondoltad? Ja. Ez az, hogy olyan van, mint egy árva kiskutyának az ócélén kidobnak. Az ahogy is szám. Nagyon szeretlek. Igaz se volt.",
+      "start": 78.64,
+      "end": 93.98
+    },
+    {
+      "text": " Tudod, mit gondoltam? Először megállt a... Mondom, figyelj, de ott áll a csávó. Ki van pattintva, rendezz, orra. Ott álltál mellette te. Nagy kordó gyomor. Figyelj, de ilyen kalácsképet.",
+      "start": 95.22,
+      "end": 107.76
+    },
+    {
+      "text": " Azt mondom, mondom, mondom, az 30 éves úgy néz ki, hogy 65 éves, tehát csoda egy életben maradtnak. Mondom, ekkora, mondom, ilyen dagat, mondom, ez a csávó. Fú, hallott. Ám, mondom, ezt gondoltam.",
+      "start": 107.76,
+      "end": 118.5
+    },
+    {
+      "text": " Mondom, beállett, tudod, mindig mondod, hogy ó, felvitted ezt a csaj, buliból, meg tudod azt a csajt. Mondom, hogy hogy nézel ki, mondom, ilyen nagy kordod. Mondom, te nőre még biztos, hogy nem voltam. Mondom, tudom, hogy te szűz vagy még.",
+      "start": 121.62,
+      "end": 134.76
+    },
+    {
+      "text": " A Fannyval is voltam. Voltál, akkor végig is, te, megyik Fannyval volt? Az ex-eddel a Fannyval. Az ex-emben voltál a Fannyval? Igen, a Fannyval. Várjál már, várjál már, várjál már. Az ex-emben voltál a Fannyval? Jóház Fannyval? A Fannyval voltál, igenis, jó volt és nem bánok. Jó volt a Fannyval. Jó volt. Te tudod, hogy a barátod, te tudod, hogy milyen veszé vagy? Te tudod, hogy te Doni Brászkó vagy. Te egy áruló vagy, egy Brászkó vagy, és te nem vagy az én barátom, és te nem is voltál az én barátom. Te vagyok a barátod. Nem voltál az én barátom. Te vagyok a barátod",
+      "start": 136.07999999999998,
+      "end": 164.74
+    },
+    {
+      "text": " Nem is voltam a Fannyval. Ne is legyél vele, és ha már ezzel vicces, az én barátságom az nekem nem kell nekem. A te barátságot se nekem, mert ez nem barátság. Tényleg képvesen, hogy engem egy csajén? Nem is voltam a Fannyval, vigyázz a barátság, mint van. Akkor mi viszlesz ezzel? Tudod, hogy szerettem. De voltál tényleg a Fannyval? Nem voltam a Fannyval. A Vivivel voltam.",
+      "start": 164.74,
+      "end": 186.2
+    },
+    {
+      "text": " A",
+      "start": 186.2,
+      "end": 188.6
+    }
+  ],
+  "processing_time": 3.48298716545105,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

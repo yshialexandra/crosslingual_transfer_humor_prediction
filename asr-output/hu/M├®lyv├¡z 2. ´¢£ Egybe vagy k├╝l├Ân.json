@@ -1,0 +1,34 @@
+{
+  "audio_file": "Mélyvíz 2. ｜ Egybe vagy külön.wav",
+  "full_text": "Fizetnénk. Értem. Egyben vagy külön? Külön. De... 90 vannak. Tehát, azért szeretnénk külön. Nem fogok tudni annyiszor visszaadni. Nem érdekel, oldja meg. Kert helység hatos fizetne. Az igen, 64 ezer. Külön. Hogyhogy külön? Szét kéne szedni. Te emlékszel? Szétszedem. Na végre. Elnézést. Mi tartott ilyen sokáig? Nem volt egyszerű, de külön szedtük. Na. Itt vannak a levesek, főételek, desszertek és az italok. Bontsam le belőle külön a kávét.",
+  "chunks": [
+    {
+      "text": " Fizetnénk. Értem. Egyben vagy külön? Külön.",
+      "start": 11.420000000000002,
+      "end": 13.86
+    },
+    {
+      "text": " De... 90 vannak. Tehát, azért szeretnénk külön.",
+      "start": 15.240000000000002,
+      "end": 18.84
+    },
+    {
+      "text": " Nem fogok tudni annyiszor visszaadni. Nem érdekel, oldja meg.",
+      "start": 23.0,
+      "end": 26.68
+    },
+    {
+      "text": " Kert helység hatos fizetne. Az igen, 64 ezer. Külön. Hogyhogy külön? Szét kéne szedni. Te emlékszel? Szétszedem. Na végre. Elnézést. Mi tartott ilyen sokáig? Nem volt egyszerű, de külön szedtük. Na.",
+      "start": 30.859999999999996,
+      "end": 55.04
+    },
+    {
+      "text": " Itt vannak a levesek, főételek, desszertek és az italok. Bontsam le belőle külön a kávét.",
+      "start": 56.88,
+      "end": 68.64
+    }
+  ],
+  "processing_time": 1.338463306427002,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

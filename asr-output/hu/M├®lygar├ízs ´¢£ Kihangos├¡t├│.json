@@ -1,0 +1,134 @@
+{
+  "audio_file": "Mélygarázs ｜ Kihangosító.wav",
+  "full_text": "Köszönjük! Köszönjük! Bocsana! Haló Palibá! Koliás! Hol vagy? Épp az András indöfök! Figyelj, tegnap a legrosszabbkor mentél el! Mert mi volt még? Fél kettőkor kibontottuk a viszkid, kettőkor megjöttek a gyuszikájék, áááááá, nagyon lementtünk kutyába, hallod? És te így vezetsz? Mostanfogad. Na, Endike nem is ezért hívlak, hanem hogy hol vettétek az asszonynal azt a szájpecket? Azt most nem fogom tudni megmondani. Mert? Utassal vagyok. Na és, pattinsd be neki is, tetszeni fog. Nem az a baj. Ha nem? Ha nem, hogy férfi. Meg hogy ki vagy hangosítva. Jó napot! NAMASTE",
+  "chunks": [
+    {
+      "text": " Köszönjük!",
+      "start": 1.4399999999999973,
+      "end": 2.32
+    },
+    {
+      "text": " Köszönjük!",
+      "start": 4.28,
+      "end": 4.92
+    },
+    {
+      "text": " Bocsana!",
+      "start": 6.62,
+      "end": 7.5
+    },
+    {
+      "text": " Haló Palibá!",
+      "start": 8.86,
+      "end": 9.76
+    },
+    {
+      "text": " Koliás!",
+      "start": 10.0,
+      "end": 10.88
+    },
+    {
+      "text": " Hol vagy?",
+      "start": 11.86,
+      "end": 12.3
+    },
+    {
+      "text": " Épp az András indöfök!",
+      "start": 12.94,
+      "end": 14.72
+    },
+    {
+      "text": " Figyelj, tegnap a legrosszabbkor mentél el!",
+      "start": 15.18,
+      "end": 17.86
+    },
+    {
+      "text": " Mert mi volt még?",
+      "start": 17.98,
+      "end": 18.82
+    },
+    {
+      "text": " Fél kettőkor kibontottuk a viszkid,",
+      "start": 19.26,
+      "end": 21.28
+    },
+    {
+      "text": " kettőkor megjöttek a gyuszikájék,",
+      "start": 21.36,
+      "end": 23.16
+    },
+    {
+      "text": " áááááá, nagyon lementtünk kutyába, hallod?",
+      "start": 23.28,
+      "end": 26.02
+    },
+    {
+      "text": " És te így vezetsz?",
+      "start": 26.36,
+      "end": 27.62
+    },
+    {
+      "text": " Mostanfogad.",
+      "start": 27.7,
+      "end": 28.56
+    },
+    {
+      "text": " Na, Endike nem is ezért hívlak, hanem hogy hol vettétek az asszonynal azt a szájpecket?",
+      "start": 28.56,
+      "end": 32.6
+    },
+    {
+      "text": " Azt most nem fogom tudni megmondani.",
+      "start": 34.68000000000001,
+      "end": 36.98
+    },
+    {
+      "text": " Mert?",
+      "start": 37.16,
+      "end": 37.58
+    },
+    {
+      "text": " Utassal vagyok.",
+      "start": 39.02,
+      "end": 39.92
+    },
+    {
+      "text": " Na és, pattinsd be neki is, tetszeni fog.",
+      "start": 40.34,
+      "end": 42.84
+    },
+    {
+      "text": " Nem az a baj.",
+      "start": 44.28,
+      "end": 45.28
+    },
+    {
+      "text": " Ha nem?",
+      "start": 45.6,
+      "end": 45.92
+    },
+    {
+      "text": " Ha nem, hogy férfi.",
+      "start": 46.66,
+      "end": 47.74
+    },
+    {
+      "text": " Meg hogy ki vagy hangosítva.",
+      "start": 49.46,
+      "end": 51.06
+    },
+    {
+      "text": " Jó napot!",
+      "start": 52.86,
+      "end": 53.8
+    },
+    {
+      "text": " NAMASTE",
+      "start": 64.14,
+      "end": 65.54
+    }
+  ],
+  "processing_time": 2.0832924842834473,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

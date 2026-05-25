@@ -1,0 +1,44 @@
+{
+  "audio_file": "Mélyvíz ｜ Foci.wav",
+  "full_text": "Micsoda játék, micsoda küzdelem! A második fél idő 36. percében járunk, ez a két magyar fiú pedig csodákat művel a pályán. 86 ezer néző öröngő zúgása tölti be a hatalmas stadiont. Ezek a fiúk győzni jöttek, és addig nem is mennek haza, amíg meg nem szerzik az aranyat. Micsoda passzok, micsoda elegáns labdakezelés, micsoda fejelések, micsoda szerelések, micsoda szögletek, és micsoda tizenegyesek, hölgyeim és uraim! Ezek a fiúk még hallatni fognak magukról. Andy és Palibá a...",
+  "chunks": [
+    {
+      "text": " Micsoda játék, micsoda küzdelem!",
+      "start": 2.780000000000003,
+      "end": 4.78
+    },
+    {
+      "text": " A második fél idő 36. percében járunk, ez a két magyar fiú pedig csodákat művel a pályán.",
+      "start": 4.92,
+      "end": 10.68
+    },
+    {
+      "text": " 86 ezer néző öröngő zúgása tölti be a hatalmas stadiont.",
+      "start": 10.94,
+      "end": 15.06
+    },
+    {
+      "text": " Ezek a fiúk győzni jöttek, és addig nem is mennek haza, amíg meg nem szerzik az aranyat.",
+      "start": 15.18,
+      "end": 20.1
+    },
+    {
+      "text": " Micsoda passzok, micsoda elegáns labdakezelés, micsoda fejelések, micsoda szerelések, micsoda szögletek,",
+      "start": 20.46,
+      "end": 27.12
+    },
+    {
+      "text": " és micsoda tizenegyesek, hölgyeim és uraim!",
+      "start": 27.24,
+      "end": 29.52
+    },
+    {
+      "text": " Ezek a fiúk még hallatni fognak magukról. Andy és Palibá a...",
+      "start": 30.0,
+      "end": 34.64
+    }
+  ],
+  "processing_time": 0.2967100143432617,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

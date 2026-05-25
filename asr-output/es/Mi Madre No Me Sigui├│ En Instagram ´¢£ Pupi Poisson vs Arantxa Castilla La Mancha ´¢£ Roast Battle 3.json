@@ -1,0 +1,54 @@
+{
+  "audio_file": "Mi Madre No Me Siguió En Instagram ｜ Pupi Poisson vs Arantxa Castilla La Mancha ｜ Roast Battle 3.wav",
+  "full_text": "Pupi, te voy a dar tres datos y solo uno de ellos es verdad. Tengo un periquito que se llama Jordi, por Jordi el niño polla. Trabajé durante dos días en un bus de turismo de Ciudad Real. Hasta que no entré en Drag Race, mi madre no me siguió en Instagram. Voy a decir lo del bus de turismo. Eso es mentira. Mi madre no me siguió en Instagram hasta que no entré en Drag Race. Yo actué con Lorín. Soy seguidora y forofa del Rayo Vallecano. En un local actuando, una de las compañeras me di cuenta que era el padre de una expareja mía. Me ha de cantar por la tres. La tres es falsa. Yo actué con Lorín. Soy seguidora y porque notías. Conor, dieser Jesús, sinhadá la senzera. Lo que más dealing es que no es que se veía en esa. La primera Serra, la primera S LG.",
+  "chunks": [
+    {
+      "text": " Pupi, te voy a dar tres datos y solo uno de ellos es verdad. Tengo un periquito que se llama Jordi, por Jordi el niño polla.",
+      "start": 3.9799999999999995,
+      "end": 11.96
+    },
+    {
+      "text": " Trabajé durante dos días en un bus de turismo de Ciudad Real. Hasta que no entré en Drag Race, mi madre no me siguió en Instagram.",
+      "start": 12.98,
+      "end": 21.46
+    },
+    {
+      "text": " Voy a decir lo del bus de turismo.",
+      "start": 22.12,
+      "end": 25.68
+    },
+    {
+      "text": " Eso es mentira.",
+      "start": 26.64,
+      "end": 28.52
+    },
+    {
+      "text": " Mi madre no me siguió en Instagram hasta que no entré en Drag Race.",
+      "start": 29.44,
+      "end": 32.04
+    },
+    {
+      "text": " Yo actué con Lorín. Soy seguidora y forofa del Rayo Vallecano. En un local actuando, una de las compañeras me di cuenta que era el padre de una expareja mía.",
+      "start": 32.56,
+      "end": 48.12
+    },
+    {
+      "text": " Me ha de cantar por la tres. La tres es falsa.",
+      "start": 48.16,
+      "end": 51.76
+    },
+    {
+      "text": " Yo actué con Lorín. Soy seguidora y porque notías. Conor, dieser Jesús, sinhadá la senzera. Lo que más dealing es que no es que se veía en esa.",
+      "start": 58.54,
+      "end": 59.74
+    },
+    {
+      "text": " La primera Serra, la primera S LG.",
+      "start": 59.74,
+      "end": 59.86
+    }
+  ],
+  "processing_time": 1.604440450668335,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

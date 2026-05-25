@@ -1,0 +1,19 @@
+{
+  "audio_file": "Mélygarázs ｜ Defekt.wav",
+  "full_text": "Köszönöm szépen! Aha. Kösz. De várjál, most hova viszed? Hogy hogy hova, mondom, hogy kicserélem. De mire? Hogy hogy mire? Az én bal elsőmre. Nézd meg milyen lapos. Két kilométert jöttem vele így.",
+  "chunks": [
+    {
+      "text": " Köszönöm szépen!",
+      "start": 16.860000000000003,
+      "end": 18.32
+    },
+    {
+      "text": " Aha. Kösz. De várjál, most hova viszed? Hogy hogy hova, mondom, hogy kicserélem. De mire? Hogy hogy mire? Az én bal elsőmre. Nézd meg milyen lapos. Két kilométert jöttem vele így.",
+      "start": 30.32,
+      "end": 44.64
+    }
+  ],
+  "processing_time": 1.2575461864471436,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

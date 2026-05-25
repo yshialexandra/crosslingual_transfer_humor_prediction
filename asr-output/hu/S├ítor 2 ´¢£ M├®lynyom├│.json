@@ -1,0 +1,64 @@
+{
+  "audio_file": "Sátor 2 ｜ Mélynyomó.wav",
+  "full_text": "Hála a jó Istennek, Andy Gint! Jó, jó, jó, jó, mondd, mi volt az a vészhelyzet, amihez délben kellett felkelni? Nem íttam sokat, csak beleteszik a buborékot a vodkába, és az olyan alattomosan vágja a gyomron az embert a nyolc pálinka után, hogy azt már aztán tényleg csak sörökkel lehet kibédni. Jó, mondjad, hogy mi van, mert lehet, hogy még visszafeküdnek. Jó, hát az a lényeg, hogy ellopták, érted? Nincs itt. Itt volt, nincs itt. Csak ez a matrac van, meg ez a hálózsák, mondjuk nem tudom ki édes. Se a sátra, mi érted? Se a ruhám, se semmi. Jó, hogy nézed ki? Fekete póló. Jó, a ruhád az rajtad van. Ja? Hála a jó Istennek! A sátrat hogy nézed ki? Egy kék sátor, sötét kék bejárattal, rajta egy molinó, hogy szexbarlang. Aha. Jön, mondjuk az első, akinek szóltál. Persze, Endike. Hát én ezekben nem bízom, ezek lopnak. Na jó, gyere, most megiszol egy kávét, utána megiszol még négyet, és mindent másképp fogsz látni. De mi lesz a sátrammal, Endike? Nem érted? Hát ezek hiénák, ezek kösejük!",
+  "chunks": [
+    {
+      "text": " Hála a jó Istennek, Andy Gint!",
+      "start": 9.100000000000001,
+      "end": 11.56
+    },
+    {
+      "text": " Jó, jó, jó, jó, mondd, mi volt az a vészhelyzet, amihez délben kellett felkelni?",
+      "start": 11.62,
+      "end": 15.54
+    },
+    {
+      "text": " Nem íttam sokat, csak beleteszik a buborékot a vodkába,",
+      "start": 15.58,
+      "end": 18.6
+    },
+    {
+      "text": " és az olyan alattomosan vágja a gyomron az embert a nyolc pálinka után,",
+      "start": 18.66,
+      "end": 22.04
+    },
+    {
+      "text": " hogy azt már aztán tényleg csak sörökkel lehet kibédni.",
+      "start": 22.26,
+      "end": 24.64
+    },
+    {
+      "text": " Jó, mondjad, hogy mi van, mert lehet, hogy még visszafeküdnek.",
+      "start": 24.66,
+      "end": 27.16
+    },
+    {
+      "text": " Jó, hát az a lényeg, hogy ellopták, érted? Nincs itt. Itt volt, nincs itt. Csak ez a matrac van, meg ez a hálózsák, mondjuk nem tudom ki édes. Se a sátra, mi érted? Se a ruhám, se semmi.",
+      "start": 27.16,
+      "end": 39.0
+    },
+    {
+      "text": " Jó, hogy nézed ki? Fekete póló. Jó, a ruhád az rajtad van. Ja? Hála a jó Istennek! A sátrat hogy nézed ki?",
+      "start": 39.04,
+      "end": 46.18
+    },
+    {
+      "text": " Egy kék sátor, sötét kék bejárattal, rajta egy molinó, hogy szexbarlang. Aha. Jön, mondjuk az első, akinek szóltál.",
+      "start": 46.22,
+      "end": 54.54
+    },
+    {
+      "text": " Persze, Endike. Hát én ezekben nem bízom, ezek lopnak. Na jó, gyere, most megiszol egy kávét, utána megiszol még négyet, és mindent másképp fogsz látni.",
+      "start": 54.54,
+      "end": 65.64
+    },
+    {
+      "text": " De mi lesz a sátrammal, Endike? Nem érted? Hát ezek hiénák, ezek kösejük!",
+      "start": 65.78,
+      "end": 70.44
+    }
+  ],
+  "processing_time": 1.249997615814209,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

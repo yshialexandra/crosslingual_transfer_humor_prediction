@@ -1,0 +1,404 @@
+{
+  "audio_file": "Alexis Tramoni – Humour noir.wav",
+  "full_text": "... ... ... ... ... Eh, je vous prie indirect, moi je fais du ça, là ! ... ... Vous trouvez pas qu'on se foute notre gueule ? En France, en tout cas, Macron, il a dit il y a quelques mois qu'il voulait relancer la natalité. Mais regarde l'état de la France, on va pas faire des enfants ! Hein, t'invites pas des gens quand la soirée part en cou... ... ... Macron, c'est le mec au Bataclan, il aurait appelé des potes. Ouais, tu devrais venir, y a des places qui se libèrent, là ! ... Ça coûte 200 000 balles d'élever un gosse en France. Ils nous disent, faites des gosses, on paye le congé de naissance. Viens à Auschwitz, on paye le train ! ... ... 200 000 balles, vu l'inflation, on va finir par acheter d'occaze. Hein, moi pour 2 000, je te trouve un indien reconditionné. ... C'est moins cher, et au moins la ch*** de ta meuf reste intacte. ... ... ... ... ... Si vous avez pas rigolé à cette vanne, vous allez pas rigoler de tout mon sketch, les gars ! J'ai rien de plus drôle... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...",
+  "chunks": [
+    {
+      "text": " ...",
+      "start": 0.7199999999999998,
+      "end": 1.0
+    },
+    {
+      "text": " ...",
+      "start": 2.5199999999999996,
+      "end": 2.8
+    },
+    {
+      "text": " ...",
+      "start": 3.1399999999999997,
+      "end": 3.42
+    },
+    {
+      "text": " ...",
+      "start": 3.76,
+      "end": 4.04
+    },
+    {
+      "text": " ...",
+      "start": 6.0,
+      "end": 6.28
+    },
+    {
+      "text": " Eh, je vous prie indirect, moi je fais du ça, là !",
+      "start": 6.28,
+      "end": 8.54
+    },
+    {
+      "text": " ...",
+      "start": 9.02,
+      "end": 9.3
+    },
+    {
+      "text": " ...",
+      "start": 10.34,
+      "end": 10.62
+    },
+    {
+      "text": " Vous trouvez pas qu'on se foute notre gueule ?",
+      "start": 14.0,
+      "end": 15.94
+    },
+    {
+      "text": " En France, en tout cas, Macron, il a dit il y a quelques mois",
+      "start": 16.419999999999998,
+      "end": 18.4
+    },
+    {
+      "text": " qu'il voulait relancer la natalité.",
+      "start": 18.4,
+      "end": 19.82
+    },
+    {
+      "text": " Mais regarde l'état de la France, on va pas faire des enfants !",
+      "start": 19.94,
+      "end": 22.42
+    },
+    {
+      "text": " Hein, t'invites pas des gens quand la soirée part en cou...",
+      "start": 22.42,
+      "end": 24.62
+    },
+    {
+      "text": " ...",
+      "start": 25.299999999999997,
+      "end": 25.58
+    },
+    {
+      "text": " ...",
+      "start": 25.58,
+      "end": 25.62
+    },
+    {
+      "text": " Macron, c'est le mec au Bataclan, il aurait appelé des potes.",
+      "start": 25.62,
+      "end": 28.08
+    },
+    {
+      "text": " Ouais, tu devrais venir, y a des places qui se libèrent, là !",
+      "start": 28.08,
+      "end": 31.26
+    },
+    {
+      "text": " ...",
+      "start": 31.26,
+      "end": 31.3
+    },
+    {
+      "text": " Ça coûte 200 000 balles d'élever un gosse en France.",
+      "start": 34.0,
+      "end": 36.62
+    },
+    {
+      "text": " Ils nous disent, faites des gosses, on paye le congé de naissance.",
+      "start": 36.8,
+      "end": 39.24
+    },
+    {
+      "text": " Viens à Auschwitz, on paye le train !",
+      "start": 39.44,
+      "end": 41.08
+    },
+    {
+      "text": " ...",
+      "start": 42.1,
+      "end": 42.46
+    },
+    {
+      "text": " ...",
+      "start": 43.02,
+      "end": 43.38
+    },
+    {
+      "text": " 200 000 balles, vu l'inflation, on va finir par acheter d'occaze.",
+      "start": 43.38,
+      "end": 46.56
+    },
+    {
+      "text": " Hein, moi pour 2 000, je te trouve un indien reconditionné.",
+      "start": 47.6,
+      "end": 50.38
+    },
+    {
+      "text": " ...",
+      "start": 51.6,
+      "end": 51.96
+    },
+    {
+      "text": " C'est moins cher, et au moins la ch*** de ta meuf reste intacte.",
+      "start": 51.96,
+      "end": 54.92
+    },
+    {
+      "text": " ...",
+      "start": 56.5,
+      "end": 56.86
+    },
+    {
+      "text": " ...",
+      "start": 56.86,
+      "end": 58.24
+    },
+    {
+      "text": " ...",
+      "start": 58.24,
+      "end": 58.28
+    },
+    {
+      "text": " ...",
+      "start": 58.28,
+      "end": 58.36
+    },
+    {
+      "text": " ...",
+      "start": 63.160000000000004,
+      "end": 64.56
+    },
+    {
+      "text": " Si vous avez pas rigolé à cette vanne, vous allez pas rigoler de tout mon sketch, les gars !",
+      "start": 64.56,
+      "end": 68.66
+    },
+    {
+      "text": " J'ai rien de plus drôle...",
+      "start": 69.94,
+      "end": 71.86
+    },
+    {
+      "text": " ...",
+      "start": 72.86000000000001,
+      "end": 73.18
+    },
+    {
+      "text": " ...",
+      "start": 73.18,
+      "end": 73.36
+    },
+    {
+      "text": " ...",
+      "start": 73.36,
+      "end": 73.44
+    },
+    {
+      "text": " ...",
+      "start": 73.44,
+      "end": 73.96
+    },
+    {
+      "text": " ...",
+      "start": 73.96,
+      "end": 74.18
+    },
+    {
+      "text": " ...",
+      "start": 75.84,
+      "end": 76.16
+    },
+    {
+      "text": " ...",
+      "start": 77.75999999999999,
+      "end": 77.8
+    },
+    {
+      "text": " ...",
+      "start": 77.8,
+      "end": 77.82
+    },
+    {
+      "text": " ...",
+      "start": 77.82,
+      "end": 77.84
+    },
+    {
+      "text": " ...",
+      "start": 79.76,
+      "end": 79.86
+    },
+    {
+      "text": " ...",
+      "start": 79.86,
+      "end": 79.9
+    },
+    {
+      "text": " ...",
+      "start": 79.9,
+      "end": 79.92
+    },
+    {
+      "text": " ...",
+      "start": 79.92,
+      "end": 79.98
+    },
+    {
+      "text": " ...",
+      "start": 111.08,
+      "end": 111.16
+    },
+    {
+      "text": " ...",
+      "start": 111.16,
+      "end": 111.18
+    },
+    {
+      "text": " ...",
+      "start": 111.18,
+      "end": 111.2
+    },
+    {
+      "text": " ...",
+      "start": 111.2,
+      "end": 111.22
+    },
+    {
+      "text": " ...",
+      "start": 111.22,
+      "end": 111.34
+    },
+    {
+      "text": " ...",
+      "start": 111.34,
+      "end": 111.4
+    },
+    {
+      "text": " ...",
+      "start": 137.84,
+      "end": 138.98
+    },
+    {
+      "text": " ...",
+      "start": 138.98,
+      "end": 139.0
+    },
+    {
+      "text": " ...",
+      "start": 139.0,
+      "end": 139.74
+    },
+    {
+      "text": " ...",
+      "start": 139.74,
+      "end": 140.04
+    },
+    {
+      "text": " ...",
+      "start": 200.04,
+      "end": 201.26
+    },
+    {
+      "text": " ...",
+      "start": 201.26,
+      "end": 201.62
+    },
+    {
+      "text": " ...",
+      "start": 201.88,
+      "end": 202.04
+    },
+    {
+      "text": " ...",
+      "start": 204.3,
+      "end": 204.46
+    },
+    {
+      "text": " ...",
+      "start": 204.46,
+      "end": 204.54
+    },
+    {
+      "text": " ...",
+      "start": 204.54,
+      "end": 204.62
+    },
+    {
+      "text": " ...",
+      "start": 204.62,
+      "end": 204.68
+    },
+    {
+      "text": " ...",
+      "start": 204.68,
+      "end": 205.38
+    },
+    {
+      "text": " ...",
+      "start": 205.38,
+      "end": 206.36
+    },
+    {
+      "text": " ...",
+      "start": 206.36,
+      "end": 207.06
+    },
+    {
+      "text": " ...",
+      "start": 207.06,
+      "end": 207.12
+    },
+    {
+      "text": " ...",
+      "start": 207.12,
+      "end": 207.16
+    },
+    {
+      "text": " ...",
+      "start": 237.16,
+      "end": 238.54
+    },
+    {
+      "text": " ...",
+      "start": 238.54,
+      "end": 239.44
+    },
+    {
+      "text": " ...",
+      "start": 239.44,
+      "end": 240.6
+    },
+    {
+      "text": " ...",
+      "start": 240.6,
+      "end": 240.62
+    },
+    {
+      "text": " ...",
+      "start": 240.62,
+      "end": 242.98
+    },
+    {
+      "text": " ...",
+      "start": 242.98,
+      "end": 243.08
+    },
+    {
+      "text": " ...",
+      "start": 243.08,
+      "end": 243.88
+    },
+    {
+      "text": " ...",
+      "start": 543.88,
+      "end": 544.2
+    },
+    {
+      "text": " ...",
+      "start": 544.2,
+      "end": 544.58
+    },
+    {
+      "text": " ...",
+      "start": 544.58,
+      "end": 544.62
+    }
+  ],
+  "processing_time": 1.7907025814056396,
+  "language": "fr",
+  "model_id": "large-v3-turbo"
+}

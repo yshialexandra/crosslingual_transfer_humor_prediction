@@ -1,0 +1,154 @@
+{
+  "audio_file": "Mélygarázs ｜ Brékó.wav",
+  "full_text": "Itt vagy Nitro, Bréko. Itt vagyok, Szenna. Mi a helyzet nálad Nitro, Bréko? Semmi. Nálad? Nálam se. Bréko. Figyelj, ne mondd azt mindig, hogy Bréko légy szíves, jó? Mert arról mindig a 80-as évek jut eszembe, meg a gyerekkorom, arról meg a konyhásnél. Én ilykes az egész napom tönkre van téve. Aztán tudnod kell, hogy kiszálltam a vonalból és beszélhetsz. Figyelj, nem vetted észre, hogy amikor elengeded a gombot, akkor csippan egyet ez a szar, abból pontosan fogom tudni, hogy kiszálltál a vonalból. Az azért csippan. Jézusom, Jézusom. Figyelj, nincs nálad véletlenül a pendrive-od? Melyik? Amin az édesvizi óriás cápa 4 van. De itt van a zsebembe. Majd átdobod alkalom aztán? Figyelj, átdobom most. Nem gond? Nem, nem. Nem, Siben, belefér. Vétel. Köszi, haver vagy. Szívesen. Bréko? Köszönöm.",
+  "chunks": [
+    {
+      "text": " Itt vagy Nitro, Bréko.",
+      "start": 6.120000000000001,
+      "end": 7.68
+    },
+    {
+      "text": " Itt vagyok, Szenna.",
+      "start": 9.48,
+      "end": 10.86
+    },
+    {
+      "text": " Mi a helyzet nálad Nitro, Bréko?",
+      "start": 11.22,
+      "end": 13.4
+    },
+    {
+      "text": " Semmi. Nálad?",
+      "start": 15.240000000000002,
+      "end": 16.44
+    },
+    {
+      "text": " Nálam se.",
+      "start": 17.82,
+      "end": 18.62
+    },
+    {
+      "text": " Bréko.",
+      "start": 18.92,
+      "end": 19.4
+    },
+    {
+      "text": " Figyelj, ne mondd azt mindig, hogy Bréko légy szíves, jó?",
+      "start": 21.360000000000003,
+      "end": 24.4
+    },
+    {
+      "text": " Mert arról mindig a 80-as évek jut eszembe,",
+      "start": 24.56,
+      "end": 26.72
+    },
+    {
+      "text": " meg a gyerekkorom, arról meg a konyhásnél.",
+      "start": 26.84,
+      "end": 28.76
+    },
+    {
+      "text": " Én ilykes az egész napom tönkre van téve.",
+      "start": 28.76,
+      "end": 30.88
+    },
+    {
+      "text": " Aztán tudnod kell, hogy kiszálltam a vonalból és beszélhetsz.",
+      "start": 31.96,
+      "end": 35.52
+    },
+    {
+      "text": " Figyelj, nem vetted észre, hogy amikor elengeded a gombot,",
+      "start": 35.62,
+      "end": 38.16
+    },
+    {
+      "text": " akkor csippan egyet ez a szar, abból pontosan fogom tudni,",
+      "start": 38.26,
+      "end": 41.24
+    },
+    {
+      "text": " hogy kiszálltál a vonalból.",
+      "start": 41.32,
+      "end": 42.6
+    },
+    {
+      "text": " Az azért csippan.",
+      "start": 43.8,
+      "end": 45.14
+    },
+    {
+      "text": " Jézusom, Jézusom.",
+      "start": 46.8,
+      "end": 48.0
+    },
+    {
+      "text": " Figyelj, nincs nálad véletlenül a pendrive-od?",
+      "start": 49.6,
+      "end": 51.98
+    },
+    {
+      "text": " Melyik?",
+      "start": 52.82,
+      "end": 53.42
+    },
+    {
+      "text": " Amin az édesvizi óriás cápa 4 van.",
+      "start": 54.2,
+      "end": 56.62
+    },
+    {
+      "text": " De itt van a zsebembe.",
+      "start": 59.56,
+      "end": 61.2
+    },
+    {
+      "text": " Majd átdobod alkalom aztán?",
+      "start": 62.32,
+      "end": 64.46
+    },
+    {
+      "text": " Figyelj, átdobom most.",
+      "start": 64.86,
+      "end": 66.34
+    },
+    {
+      "text": " Nem gond?",
+      "start": 66.92,
+      "end": 67.7
+    },
+    {
+      "text": " Nem, nem.",
+      "start": 68.36,
+      "end": 69.32
+    },
+    {
+      "text": " Nem, Siben, belefér. Vétel.",
+      "start": 69.52,
+      "end": 71.36
+    },
+    {
+      "text": " Köszi, haver vagy.",
+      "start": 76.86,
+      "end": 78.34
+    },
+    {
+      "text": " Szívesen.",
+      "start": 78.42,
+      "end": 79.02
+    },
+    {
+      "text": " Bréko?",
+      "start": 79.48,
+      "end": 80.04
+    },
+    {
+      "text": " Köszönöm.",
+      "start": 88.76,
+      "end": 89.82
+    }
+  ],
+  "processing_time": 1.5850906372070312,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

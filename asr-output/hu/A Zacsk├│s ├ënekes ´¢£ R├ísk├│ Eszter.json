@@ -1,0 +1,69 @@
+{
+  "audio_file": "A Zacskós Énekes ｜ Ráskó Eszter.wav",
+  "full_text": "Végre megérkezett a show, amire mindenki bánt! Az internetes videók legjobban őrzött titka. Ki van a zacskó alap? Soha nem látott jelmezek? Változatos díszlet! Tíz ember, aki hajlandó hülyét csinálni magából! És akkor lássuk az ehetű zacskós énekest! A TV-ben már nincs semmi más, csak szecs megbűnez lett a szórakozás. A régi jó dolgok úgy eltűntek, hogy tátva marad a száj. Vég jó, hogy van a Family Guy! Megmutatjuk neked, foghatod a fejed, sész vagy nyelvetsz, halta, hasad fáj! Itt a Family Guy! Van ötleted? Ki van a zacskó alatt? Kommenteld be a tipped a videók alá! Addig is nézd a Family Guy új évadát a Kennedy Centralon!",
+  "chunks": [
+    {
+      "text": " Végre megérkezett a show, amire mindenki bánt!",
+      "start": 0.0,
+      "end": 2.96
+    },
+    {
+      "text": " Az internetes videók legjobban őrzött titka.",
+      "start": 3.1,
+      "end": 5.82
+    },
+    {
+      "text": " Ki van a zacskó alap? Soha nem látott jelmezek? Változatos díszlet!",
+      "start": 6.06,
+      "end": 11.18
+    },
+    {
+      "text": " Tíz ember, aki hajlandó hülyét csinálni magából!",
+      "start": 11.6,
+      "end": 14.4
+    },
+    {
+      "text": " És akkor lássuk az ehetű zacskós énekest!",
+      "start": 14.56,
+      "end": 17.3
+    },
+    {
+      "text": " A TV-ben már nincs semmi más, csak szecs megbűnez lett a szórakozás.",
+      "start": 17.88,
+      "end": 24.78
+    },
+    {
+      "text": " A régi jó dolgok úgy eltűntek, hogy tátva marad a száj.",
+      "start": 24.78,
+      "end": 30.78
+    },
+    {
+      "text": " Vég jó, hogy van a Family Guy!",
+      "start": 31.68,
+      "end": 33.82
+    },
+    {
+      "text": " Megmutatjuk neked, foghatod a fejed, sész vagy nyelvetsz, halta, hasad fáj!",
+      "start": 35.24,
+      "end": 40.78
+    },
+    {
+      "text": " Itt a Family Guy!",
+      "start": 41.62,
+      "end": 45.78
+    },
+    {
+      "text": " Van ötleted? Ki van a zacskó alatt? Kommenteld be a tipped a videók alá!",
+      "start": 47.34,
+      "end": 51.78
+    },
+    {
+      "text": " Addig is nézd a Family Guy új évadát a Kennedy Centralon!",
+      "start": 51.78,
+      "end": 54.78
+    }
+  ],
+  "processing_time": 0.36991381645202637,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,64 @@
+{
+  "audio_file": "Csornája ｜ Mélynyomó.wav",
+  "full_text": "Szevasztok, sziasztok, jól vagytok? Köszönöm szépen, hogy megvártátok mind a négyen az idei év legnagyobb fehér orosz technopunk bandáját, a csordája usránkát. Mit már észrevettétek, történt egy kis marőr, ugyanis a zenekar tagjai legésték a hívet, a Batyányi téren futottak utána és a DJ ugye nem érte, de sajnos az énekes vitárost kicsukta a vezető. Négyötök közül tudja-e valaki, hogy hogy néznek ki a zenekar tagjai? Önyeik és üreim, színpadon a Csordája usránká! Hello! Zdraszbujterdi átá! Akrotje knyigi, koncert, stát!JO HOSSIKI ONCEERTéo崛álya Oszu koncert lesz!",
+  "chunks": [
+    {
+      "text": " Szevasztok, sziasztok, jól vagytok?",
+      "start": 6.0600000000000005,
+      "end": 8.34
+    },
+    {
+      "text": " Köszönöm szépen, hogy megvártátok mind a négyen az idei év legnagyobb fehér orosz technopunk bandáját, a csordája usránkát.",
+      "start": 10.26,
+      "end": 19.42
+    },
+    {
+      "text": " Mit már észrevettétek, történt egy kis marőr, ugyanis a zenekar tagjai legésték a hívet,",
+      "start": 20.14,
+      "end": 27.94
+    },
+    {
+      "text": " a Batyányi téren futottak utána és a DJ ugye nem érte, de sajnos az énekes vitárost kicsukta a vezető.",
+      "start": 27.94,
+      "end": 34.78
+    },
+    {
+      "text": " Négyötök közül tudja-e valaki, hogy hogy néznek ki a zenekar tagjai?",
+      "start": 35.16,
+      "end": 38.8
+    },
+    {
+      "text": " Önyeik és üreim, színpadon a Csordája usránká!",
+      "start": 40.04,
+      "end": 43.76
+    },
+    {
+      "text": " Hello!",
+      "start": 46.72,
+      "end": 47.46
+    },
+    {
+      "text": " Zdraszbujterdi átá!",
+      "start": 49.08,
+      "end": 50.36
+    },
+    {
+      "text": " Akrotje knyigi, koncert, stát!",
+      "start": 53.2,
+      "end": 57.3
+    },
+    {
+      "text": "JO HOSSIKI ONCEERTéo崛álya",
+      "start": 57.94,
+      "end": 65.5
+    },
+    {
+      "text": " Oszu koncert lesz!",
+      "start": 65.5,
+      "end": 65.9
+    }
+  ],
+  "processing_time": 1.8049359321594238,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,39 @@
+{
+  "audio_file": "Mélyvíz 2. ｜ Reklamáció 3..wav",
+  "full_text": "A TORONTOS KÖZÖNÖK Nem tudom, de a halászlé akkor igazán jó, ha friss a ponty. De hát ennyire ne legyen már friss. Most fogják, vagy mi van? Ez jó. Ezt elmondom, a szalkásnak nagyon fog neki tetszeni. Sanyi! Sanyi, csinálj már valamit, ez nagyon kalimpál! Verd már nagyon, Sanyi! Kenyérrel kéri, vagy tésztával.",
+  "chunks": [
+    {
+      "text": " A TORONTOS KÖZÖNÖK",
+      "start": 14.0,
+      "end": 29.9
+    },
+    {
+      "text": " Nem tudom, de a halászlé akkor igazán jó, ha friss a ponty.",
+      "start": 30.0,
+      "end": 33.14
+    },
+    {
+      "text": " De hát ennyire ne legyen már friss. Most fogják, vagy mi van?",
+      "start": 33.32,
+      "end": 36.24
+    },
+    {
+      "text": " Ez jó. Ezt elmondom, a szalkásnak nagyon fog neki tetszeni.",
+      "start": 39.36,
+      "end": 43.92
+    },
+    {
+      "text": " Sanyi! Sanyi, csinálj már valamit, ez nagyon kalimpál! Verd már nagyon, Sanyi!",
+      "start": 44.32,
+      "end": 49.04
+    },
+    {
+      "text": " Kenyérrel kéri, vagy tésztával.",
+      "start": 52.08,
+      "end": 53.48
+    }
+  ],
+  "processing_time": 0.23696565628051758,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

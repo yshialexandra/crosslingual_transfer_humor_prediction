@@ -1,0 +1,29 @@
+{
+  "audio_file": "Luis Álvaro： Canción A Mi Perro Muerto ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "La siguiente canción es sobre un perro, ¿entendido? No puedo conciliar el sueño, no quiero comer solo como perritos cuando pienso en él, porque el perrito es el mejor amigo del hambre. Además, tenía un perro pero murió, dice la autopsia que no sufrió, porque era de peluche. La segunda canción es sobre un perro, ¿entendido?",
+  "chunks": [
+    {
+      "text": " La siguiente canción es sobre un perro, ¿entendido?",
+      "start": 1.2199999999999998,
+      "end": 3.44
+    },
+    {
+      "text": " No puedo conciliar el sueño, no quiero comer solo como perritos cuando pienso en él, porque el perrito es el mejor amigo del hambre.",
+      "start": 32.36,
+      "end": 46.42
+    },
+    {
+      "text": " Además, tenía un perro pero murió, dice la autopsia que no sufrió, porque era de peluche.",
+      "start": 59.9,
+      "end": 67.48
+    },
+    {
+      "text": " La segunda canción es sobre un perro, ¿entendido?",
+      "start": 90.2,
+      "end": 90.42
+    }
+  ],
+  "processing_time": 0.3240795135498047,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

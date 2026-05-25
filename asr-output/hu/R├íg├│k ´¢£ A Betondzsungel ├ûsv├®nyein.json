@@ -1,0 +1,114 @@
+{
+  "audio_file": "Rágók ｜ A Betondzsungel Ösvényein.wav",
+  "full_text": "A betondzsungel ösvényein rágók. A rágó egyedek lelki nyugalmuk érdekében fogaikkal folyamatosan őrlik a nyálukra puhuló kis bogyót. Állkapcsuk ilyen monoton mozgatással pozitívan hat idegrendszerükre. Megfigyeltük, hogy a szakrális oszlopuk tövében valamiért sűrűbben köpik ki a bogyókat. Ezzel vélhetőleg áldozatot mutatnak be a törzs szellemei felé. A rituálé végeztével a rágók üdvözítő búcsú cédulával távoznak az oszloptól. Most végre megszerezhetjük a kis bogyót. Poshatnyál, Izevon. De megéri az áldozat, mert ennek rágásával álcázhatom magam, és feltűnésmentesen közelíthetem meg a rágókat. Azért, hogy ne kapjak tőlük fertőzést, persze beveszek. Sikerül kivenni ebből a makacs kis fiolából egy pirulát, így el tudom kerülni a járványaikat. Kisér arrébb húzódik, de nem szalad el. Az álca működni látszik. Talizmánt visel, és a fején lévő szemfedővel tartja távol szőrzetét a szájától ez a... Tessék a bogyom! Ezt a hatalmas bogyómezőt éjszakai rágók hagyták hátra. A fiatal rágók itt az igó előtt ülekeznek. Ki köpte a bogyót? Ezt elteszem a labornak. A fiatal nő jegyed a bogyó eldobásával pár választó szándékát jelzi. Így már érthető, hogy... Fürges égem ezúttal kihúzott a csávából. Ennyi fért műsorunkba. Viszontlátásra!",
+  "chunks": [
+    {
+      "text": " A betondzsungel ösvényein rágók.",
+      "start": 5.0,
+      "end": 9.74
+    },
+    {
+      "text": " A rágó egyedek lelki nyugalmuk érdekében fogaikkal folyamatosan őrlik a nyálukra puhuló kis bogyót.",
+      "start": 35.84,
+      "end": 43.06
+    },
+    {
+      "text": " Állkapcsuk ilyen monoton mozgatással pozitívan hat idegrendszerükre.",
+      "start": 43.56,
+      "end": 47.0
+    },
+    {
+      "text": " Megfigyeltük, hogy a szakrális oszlopuk tövében valamiért sűrűbben köpik ki a bogyókat.",
+      "start": 48.260000000000005,
+      "end": 53.96
+    },
+    {
+      "text": " Ezzel vélhetőleg áldozatot mutatnak be a törzs szellemei felé.",
+      "start": 54.86,
+      "end": 58.62
+    },
+    {
+      "text": " A rituálé végeztével a rágók üdvözítő búcsú cédulával távoznak az oszloptól.",
+      "start": 60.0,
+      "end": 65.0
+    },
+    {
+      "text": " Most végre megszerezhetjük a kis bogyót.",
+      "start": 68.38,
+      "end": 70.78
+    },
+    {
+      "text": " Poshatnyál, Izevon. De megéri az áldozat, mert ennek rágásával álcázhatom magam,",
+      "start": 76.34,
+      "end": 81.28
+    },
+    {
+      "text": " és feltűnésmentesen közelíthetem meg a rágókat.",
+      "start": 81.44,
+      "end": 84.26
+    },
+    {
+      "text": " Azért, hogy ne kapjak tőlük fertőzést, persze beveszek.",
+      "start": 84.58,
+      "end": 87.5
+    },
+    {
+      "text": " Sikerül kivenni ebből a makacs kis fiolából egy pirulát, így el tudom kerülni a járványaikat.",
+      "start": 88.61999999999999,
+      "end": 94.84
+    },
+    {
+      "text": " Kisér arrébb húzódik, de nem szalad el. Az álca működni látszik.",
+      "start": 111.68,
+      "end": 115.48
+    },
+    {
+      "text": " Talizmánt visel, és a fején lévő szemfedővel tartja távol szőrzetét a szájától ez a...",
+      "start": 119.91999999999999,
+      "end": 125.6
+    },
+    {
+      "text": " Tessék a bogyom!",
+      "start": 125.6,
+      "end": 126.62
+    },
+    {
+      "text": " Ezt a hatalmas bogyómezőt éjszakai rágók hagyták hátra.",
+      "start": 135.78,
+      "end": 139.68
+    },
+    {
+      "text": " A fiatal rágók itt az igó előtt ülekeznek.",
+      "start": 142.62,
+      "end": 145.86
+    },
+    {
+      "text": " Ki köpte a bogyót?",
+      "start": 147.26,
+      "end": 148.26
+    },
+    {
+      "text": " Ezt elteszem a labornak.",
+      "start": 152.7,
+      "end": 154.46
+    },
+    {
+      "text": " A fiatal nő jegyed a bogyó eldobásával pár választó szándékát jelzi.",
+      "start": 155.22,
+      "end": 159.54
+    },
+    {
+      "text": " Így már érthető, hogy...",
+      "start": 159.66,
+      "end": 161.34
+    },
+    {
+      "text": " Fürges égem ezúttal kihúzott a csávából. Ennyi fért műsorunkba. Viszontlátásra!",
+      "start": 166.74,
+      "end": 171.3
+    }
+  ],
+  "processing_time": 1.1751277446746826,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

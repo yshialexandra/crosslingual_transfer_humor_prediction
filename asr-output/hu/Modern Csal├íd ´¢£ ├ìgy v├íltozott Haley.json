@@ -1,0 +1,19 @@
+{
+  "audio_file": "Modern Család ｜ Így változott Haley.wav",
+  "full_text": "Ma megosztok anyáikkal egy óriási hírt. Néha én is olyan rendes tudok lenni.",
+  "chunks": [
+    {
+      "text": " Ma megosztok anyáikkal egy óriási hírt.",
+      "start": 0.0,
+      "end": 2.4
+    },
+    {
+      "text": " Néha én is olyan rendes tudok lenni.",
+      "start": 11.38,
+      "end": 13.7
+    }
+  ],
+  "processing_time": 0.13430571556091309,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

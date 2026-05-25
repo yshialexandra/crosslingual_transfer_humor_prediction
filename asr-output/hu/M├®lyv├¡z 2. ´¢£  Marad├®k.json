@@ -1,0 +1,89 @@
+{
+  "audio_file": "Mélyvíz 2. ｜  Maradék.wav",
+  "full_text": "Na, látod? Automata, kronométeres, fém szíjjal, száz méterig vízálló, mondjuk csak 30-at úszom, úgyhogy... Durva. Várjál, becsukom a kaput, mert még bejön a vendég. Elrontják nekem ezt a szép délelőttöt. És menny az óra? 17 ezer, de full oridzsi. Sose adtam ennyit óráj. Ez a te bajot, tudod? Mert nincs stílusod, te pornóbajszos Kopingermajon. Ennyitva vannak. Elvileg, igen. Látod? 11-től este 10-ig. Tovább! Látod? Van 12-ért is. Egyetbihet-vannak. Örnyi vannak a rendszer. Mert a rendszer. Nális a rendszer. Egyetbihet-vannak. Egyetbihet-vannak.",
+  "chunks": [
+    {
+      "text": " Na, látod? Automata, kronométeres, fém szíjjal, száz méterig vízálló, mondjuk csak 30-at úszom, úgyhogy...",
+      "start": 4.840000000000004,
+      "end": 12.18
+    },
+    {
+      "text": " Durva.",
+      "start": 12.760000000000003,
+      "end": 13.28
+    },
+    {
+      "text": " Várjál, becsukom a kaput, mert még bejön a vendég. Elrontják nekem ezt a szép délelőttöt.",
+      "start": 15.740000000000006,
+      "end": 20.42
+    },
+    {
+      "text": " És menny az óra?",
+      "start": 23.800000000000004,
+      "end": 24.92
+    },
+    {
+      "text": " 17 ezer, de full oridzsi.",
+      "start": 26.700000000000003,
+      "end": 28.62
+    },
+    {
+      "text": " Sose adtam ennyit óráj. Ez a te bajot, tudod? Mert nincs stílusod, te pornóbajszos Kopingermajon.",
+      "start": 29.58,
+      "end": 37.0
+    },
+    {
+      "text": " Ennyitva vannak.",
+      "start": 37.02,
+      "end": 37.88
+    },
+    {
+      "text": " Elvileg, igen. Látod? 11-től este 10-ig.",
+      "start": 38.04,
+      "end": 42.24
+    },
+    {
+      "text": " Tovább!",
+      "start": 49.64,
+      "end": 50.14
+    },
+    {
+      "text": " Látod? Van 12-ért is.",
+      "start": 54.4,
+      "end": 56.3
+    },
+    {
+      "text": " Egyetbihet-vannak.",
+      "start": 60.199999999999996,
+      "end": 61.4
+    },
+    {
+      "text": " Örnyi vannak a rendszer.",
+      "start": 61.9,
+      "end": 62.5
+    },
+    {
+      "text": " Mert a rendszer.",
+      "start": 62.5,
+      "end": 62.54
+    },
+    {
+      "text": " Nális a rendszer.",
+      "start": 62.54,
+      "end": 62.58
+    },
+    {
+      "text": " Egyetbihet-vannak.",
+      "start": 62.58,
+      "end": 62.64
+    },
+    {
+      "text": " Egyetbihet-vannak.",
+      "start": 62.64,
+      "end": 62.94
+    }
+  ],
+  "processing_time": 1.270493745803833,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

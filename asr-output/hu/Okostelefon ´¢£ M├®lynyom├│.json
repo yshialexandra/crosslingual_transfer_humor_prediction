@@ -1,0 +1,129 @@
+{
+  "audio_file": "Okostelefon ｜ Mélynyomó.wav",
+  "full_text": "Isztia-nél! Köszönöm. Köszönöm. Gyere, bemondjuk. Valaki biztos megtaláltak. Köszönöm. Sziasztok! Mindjárt kezdődik a Polar Axis, de előtte keresünk egy okostelefont. Eaaaaah! Azt mondom eeeeeah! Figyelj, ezt majd én fogom, jó? Köszönöm. Keresünk egy okostelefont, ami milyen típusú készülék volt. Gabi, itt vagy. Gabi itt vagyok el, hogy érte Gabi? Jó, milyen típusú mobiltelefont hagytál el? Öh, öh, én 3S, öh, 4S, 5 Igazából én Kylie Binoktól kérdem... Jó, hogyha valaki itt a sátorban, itt a sátorban hagytad el? Gabi itt vagy, itt vagy Gabi, eloptad a söröbe, rohgyam! Jó, erre felé megtad el a telefonod el? Gabi, hugoljam vele a kérém a Gabi! Jó, mikor láttad utoljára? Hogy? A telefonodat, mikor láttad utoljára? Én, én Gyerekek! 2015-ben!",
+  "chunks": [
+    {
+      "text": " Isztia-nél! Köszönöm.",
+      "start": 1.7400000000000002,
+      "end": 5.74
+    },
+    {
+      "text": " Köszönöm.",
+      "start": 7.12,
+      "end": 7.8
+    },
+    {
+      "text": " Gyere, bemondjuk. Valaki biztos megtaláltak.",
+      "start": 7.8,
+      "end": 9.36
+    },
+    {
+      "text": " Köszönöm.",
+      "start": 9.44,
+      "end": 9.78
+    },
+    {
+      "text": " Sziasztok! Mindjárt kezdődik a Polar Axis, de előtte keresünk egy okostelefont.",
+      "start": 11.06,
+      "end": 16.08
+    },
+    {
+      "text": " Eaaaaah!",
+      "start": 17.2,
+      "end": 17.88
+    },
+    {
+      "text": " Azt mondom eeeeeah!",
+      "start": 19.14,
+      "end": 21.22
+    },
+    {
+      "text": " Figyelj, ezt majd én fogom, jó?",
+      "start": 21.6,
+      "end": 23.06
+    },
+    {
+      "text": " Köszönöm.",
+      "start": 23.22,
+      "end": 23.62
+    },
+    {
+      "text": " Keresünk egy okostelefont, ami milyen típusú készülék volt.",
+      "start": 23.84,
+      "end": 27.82
+    },
+    {
+      "text": " Gabi, itt vagy.",
+      "start": 28.06,
+      "end": 29.06
+    },
+    {
+      "text": " Gabi itt vagyok el, hogy érte Gabi?",
+      "start": 29.06,
+      "end": 30.68
+    },
+    {
+      "text": " Jó, milyen típusú mobiltelefont hagytál el?",
+      "start": 30.92,
+      "end": 33.98
+    },
+    {
+      "text": " Öh, öh, én 3S, öh, 4S, 5",
+      "start": 34.1,
+      "end": 37.82
+    },
+    {
+      "text": " Igazából én Kylie Binoktól kérdem...",
+      "start": 38.559999999999995,
+      "end": 40.28
+    },
+    {
+      "text": " Jó, hogyha valaki itt a sátorban, itt a sátorban hagytad el?",
+      "start": 40.28,
+      "end": 44.42
+    },
+    {
+      "text": " Gabi itt vagy, itt vagy Gabi, eloptad a söröbe, rohgyam!",
+      "start": 44.58,
+      "end": 47.8
+    },
+    {
+      "text": " Jó, erre felé megtad el a telefonod el?",
+      "start": 48.02,
+      "end": 49.76
+    },
+    {
+      "text": " Gabi, hugoljam vele a kérém a Gabi!",
+      "start": 50.71999999999999,
+      "end": 52.66
+    },
+    {
+      "text": " Jó, mikor láttad utoljára?",
+      "start": 53.06,
+      "end": 54.5
+    },
+    {
+      "text": " Hogy?",
+      "start": 55.46,
+      "end": 55.9
+    },
+    {
+      "text": " A telefonodat, mikor láttad utoljára?",
+      "start": 56.16,
+      "end": 58.46
+    },
+    {
+      "text": " Én, én",
+      "start": 58.46,
+      "end": 59.4
+    },
+    {
+      "text": " Gyerekek! 2015-ben!",
+      "start": 59.4,
+      "end": 61.48
+    }
+  ],
+  "processing_time": 3.209533214569092,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

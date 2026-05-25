@@ -1,0 +1,99 @@
+{
+  "audio_file": "Te Szépszemű Barna Lény - Zsolt és Rezső [Official Video].wav",
+  "full_text": "69-ben, Amerikában szabadkű művesek földjén. Verülremorú, videgháború, kellett egy jobb hely a földnél. 30 milliárd volt, arra forgód minden tekintet. Mindentől távol, nagy lépés volt be ugyankiknek Soha sem volt holgaszállás, az már tény, tesszék szemű barna lény, de barna lény Ne így, hogy a bűne ide lévőnek, a piracisok sem sinálybe képültek Szászlómi lobog, furcsa lábnyomog, pigajszerű képződmények A kamerát viszed, jobb, ha elviszed, a marson is meg ismét lőthet Hé, Mr. Bankár, szállj el rólam, szégyeljed magad Fénylő barna lá, hogy kifáradsz, mert mindegy bőr vagy Soha sem volt holgaszállás, az már tény, tesszék szemű barna lény, de barna lény Ne így, hogy a bűne ide lévőnek, a piracisok sem sinálybe képültek Soha sem volt holgaszállás, az már tény, tesszék szemű barna lény, de barna lény Nem hétetek elmelünk, hogy nincsen baj, fel ismertünk erről szóta dar Ebbe éjzik a szemű barna lény, de barna lény... ...ni akkó készítettel'de látni... ...ik, hogy a piracis.com szemű barna lény... ...dépjük a szemű barna lény... ...dépjük a szemű barna lény...",
+  "chunks": [
+    {
+      "text": " 69-ben, Amerikában szabadkű művesek földjén.",
+      "start": 11.94,
+      "end": 17.52
+    },
+    {
+      "text": " Verülremorú, videgháború, kellett egy jobb hely a földnél.",
+      "start": 19.6,
+      "end": 23.7
+    },
+    {
+      "text": " 30 milliárd volt, arra forgód minden tekintet.",
+      "start": 26.12,
+      "end": 29.7
+    },
+    {
+      "text": " Mindentől távol, nagy lépés volt be ugyankiknek",
+      "start": 32.26,
+      "end": 35.92
+    },
+    {
+      "text": " Soha sem volt holgaszállás, az már tény, tesszék szemű barna lény, de barna lény",
+      "start": 36.82,
+      "end": 43.0
+    },
+    {
+      "text": " Ne így, hogy a bűne ide lévőnek, a piracisok sem sinálybe képültek",
+      "start": 43.0,
+      "end": 49.08
+    },
+    {
+      "text": " Szászlómi lobog, furcsa lábnyomog, pigajszerű képződmények",
+      "start": 61.89999999999999,
+      "end": 67.02
+    },
+    {
+      "text": " A kamerát viszed, jobb, ha elviszed, a marson is meg ismét lőthet",
+      "start": 67.02,
+      "end": 73.32
+    },
+    {
+      "text": " Hé, Mr. Bankár, szállj el rólam, szégyeljed magad",
+      "start": 73.32,
+      "end": 79.32
+    },
+    {
+      "text": " Fénylő barna lá, hogy kifáradsz, mert mindegy bőr vagy",
+      "start": 81.01999999999998,
+      "end": 85.46
+    },
+    {
+      "text": " Soha sem volt holgaszállás, az már tény, tesszék szemű barna lény, de barna lény",
+      "start": 86.30000000000001,
+      "end": 92.54
+    },
+    {
+      "text": " Ne így, hogy a bűne ide lévőnek, a piracisok sem sinálybe képültek",
+      "start": 92.54,
+      "end": 98.6
+    },
+    {
+      "text": " Soha sem volt holgaszállás, az már tény, tesszék szemű barna lény, de barna lény",
+      "start": 98.6,
+      "end": 105.0
+    },
+    {
+      "text": " Nem hétetek elmelünk, hogy nincsen baj, fel ismertünk erről szóta dar",
+      "start": 105.0,
+      "end": 110.26
+    },
+    {
+      "text": " Ebbe éjzik a szemű barna lény, de barna lény...",
+      "start": 115.46,
+      "end": 118.74
+    },
+    {
+      "text": " ...ni akkó készítettel'de látni...",
+      "start": 120.64,
+      "end": 121.72
+    },
+    {
+      "text": " ...ik, hogy a piracis.com szemű barna lény...",
+      "start": 121.72,
+      "end": 125.42
+    },
+    {
+      "text": " ...dépjük a szemű barna lény... ...dépjük a szemű barna lény...",
+      "start": 125.42,
+      "end": 126.26
+    }
+  ],
+  "processing_time": 2.846325635910034,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

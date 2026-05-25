@@ -1,0 +1,174 @@
+{
+  "audio_file": "Titeket kérdeztünk ： Ki a kedvenc női karakteretek？.wav",
+  "full_text": "A Hártt mennek az anyukájú a legszórakoztatók peregter. Megmerőt, szétcigatják. Egyértelmű, hogy lának-e én az Archerből. A Nyaki Glub Griffin, Family Guyból. Két darab láb, meg egy fej. Penny. Meg jól néz ki. Bím! Az Atoni ruháim nagyon tetszenek. Annyiféle ruhát, azt arra kíváncsi vagyok. Hol tart ki ezeket? A Lois-t vágom, és vele elteltenék egy apot. Főznénk valamit. Alatkert bevinném. Fényt bóloznánk, biztosan játszóházba vennék. Kijönnék egy sétáló utcára, és csak ülnék és judging vanék minden. Enkem jobban megmaradtak a férfi karakterek. Ők vannak jobban kiépítve erre a komikus szerepre. Rajtuk mehet így jobban inkább nevetni. Mindegyik nagyon divers, tehát hogy végletekbe menő. Hát azt mondom, hogy Sheldon meg a Penny-nek a dinamikája az elég jól el lett kapva. Meg! Vennék egy csokor virágot, és elvinném életeleg jobb rondijára. Ide? Abba a könyvesbordba oda. Én nem tudom, én nem meg ezt választom rá, hogy lágy bűronda. Meg van a Kárta-nek a felesége? Megkérném, hogy mondjál nagyon sokszor azt, hogy megvinni az életkora. Én az idősebbek lányokra bukom. Megkérnénk először, hogy mindenki kapcsolja ki a hauzókészülékét. És utána utána menném. Köszönöm azt! Köszönöm! Köszönöm! Köszönöm!",
+  "chunks": [
+    {
+      "text": " A Hártt mennek az anyukájú a legszórakoztatók peregter.",
+      "start": 7.919999999999998,
+      "end": 10.94
+    },
+    {
+      "text": " Megmerőt, szétcigatják.",
+      "start": 12.179999999999996,
+      "end": 13.3
+    },
+    {
+      "text": " Egyértelmű, hogy lának-e én az Archerből.",
+      "start": 13.4,
+      "end": 15.0
+    },
+    {
+      "text": " A Nyaki Glub Griffin, Family Guyból. Két darab láb, meg egy fej.",
+      "start": 15.82,
+      "end": 19.7
+    },
+    {
+      "text": " Penny.",
+      "start": 20.14,
+      "end": 20.7
+    },
+    {
+      "text": " Meg jól néz ki.",
+      "start": 21.04,
+      "end": 21.86
+    },
+    {
+      "text": " Bím!",
+      "start": 22.46,
+      "end": 23.02
+    },
+    {
+      "text": " Az Atoni ruháim nagyon tetszenek.",
+      "start": 25.94,
+      "end": 28.4
+    },
+    {
+      "text": " Annyiféle ruhát, azt arra kíváncsi vagyok. Hol tart ki ezeket?",
+      "start": 28.4,
+      "end": 33.14
+    },
+    {
+      "text": " A Lois-t vágom, és vele elteltenék egy apot.",
+      "start": 33.22,
+      "end": 36.2
+    },
+    {
+      "text": " Főznénk valamit.",
+      "start": 36.36,
+      "end": 37.4
+    },
+    {
+      "text": " Alatkert bevinném.",
+      "start": 37.58,
+      "end": 38.78
+    },
+    {
+      "text": " Fényt bóloznánk, biztosan játszóházba vennék.",
+      "start": 39.9,
+      "end": 43.7
+    },
+    {
+      "text": " Kijönnék egy sétáló utcára, és csak ülnék és judging vanék minden.",
+      "start": 44.2,
+      "end": 48.64
+    },
+    {
+      "text": " Enkem jobban megmaradtak a férfi karakterek.",
+      "start": 52.2,
+      "end": 54.94
+    },
+    {
+      "text": " Ők vannak jobban kiépítve erre a komikus szerepre.",
+      "start": 54.94,
+      "end": 58.16
+    },
+    {
+      "text": " Rajtuk mehet így jobban inkább nevetni.",
+      "start": 58.58,
+      "end": 61.36
+    },
+    {
+      "text": " Mindegyik nagyon divers, tehát hogy végletekbe menő.",
+      "start": 61.54,
+      "end": 65.44
+    },
+    {
+      "text": " Hát azt mondom, hogy Sheldon meg a Penny-nek a dinamikája az elég jól el lett kapva.",
+      "start": 65.62,
+      "end": 70.22
+    },
+    {
+      "text": " Meg!",
+      "start": 70.34,
+      "end": 70.64
+    },
+    {
+      "text": " Vennék egy csokor virágot, és elvinném életeleg jobb rondijára.",
+      "start": 70.8,
+      "end": 75.56
+    },
+    {
+      "text": " Ide?",
+      "start": 75.68,
+      "end": 75.96
+    },
+    {
+      "text": " Abba a könyvesbordba oda.",
+      "start": 76.16,
+      "end": 77.4
+    },
+    {
+      "text": " Én nem tudom, én nem meg ezt választom rá, hogy lágy bűronda.",
+      "start": 77.74,
+      "end": 80.62
+    },
+    {
+      "text": " Meg van a Kárta-nek a felesége?",
+      "start": 80.62,
+      "end": 82.88
+    },
+    {
+      "text": " Megkérném, hogy mondjál nagyon sokszor azt, hogy megvinni az életkora.",
+      "start": 84.26,
+      "end": 87.36
+    },
+    {
+      "text": " Én az idősebbek lányokra bukom.",
+      "start": 87.64,
+      "end": 89.32
+    },
+    {
+      "text": " Megkérnénk először, hogy mindenki kapcsolja ki a hauzókészülékét.",
+      "start": 89.48,
+      "end": 91.62
+    },
+    {
+      "text": " És utána utána menném.",
+      "start": 92.68,
+      "end": 94.28
+    },
+    {
+      "text": " Köszönöm azt!",
+      "start": 94.84,
+      "end": 95.46
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 95.58,
+      "end": 96.04
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 97.68,
+      "end": 98.24
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 98.24,
+      "end": 99.34
+    }
+  ],
+  "processing_time": 0.6746864318847656,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

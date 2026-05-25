@@ -1,0 +1,119 @@
+{
+  "audio_file": "Új évad, új formák ｜ Bob Burgerfalodája.wav",
+  "full_text": "Szívesen bemutatjuk! Da-da-da-da-da-da-da-da-da-da! Új évad! És ez lesz a legjobb! Pa-dám-pám-pám-pám! Itt sokkal jobb! Új formát! Zázom nekik a kis bucimat! Icsikét sem fura! Ne-ne-ne, ezt ne csináld! Régi arcok! Készülj, nyosszifő! Ne-ne-ne, ne csináld! Bob Burger falodája! Új részek hétvégén reggel 7 óra 55-kor a KMT-i Centrálon! Csak, haj wayne lige kézvégén reggelgelox! Né-ne, ezt a a KMT-i Centrálon! Amikor, a KMT-i Centrálon! A KMT-i Centrálon! Jó látom! Jó látom! Benjörürtti! A KMT-i Centrálon!",
+  "chunks": [
+    {
+      "text": " Szívesen bemutatjuk!",
+      "start": 0.0,
+      "end": 2.28
+    },
+    {
+      "text": " Da-da-da-da-da-da-da-da-da-da!",
+      "start": 2.32,
+      "end": 4.18
+    },
+    {
+      "text": " Új évad!",
+      "start": 4.38,
+      "end": 5.22
+    },
+    {
+      "text": " És ez lesz a legjobb!",
+      "start": 5.86,
+      "end": 7.24
+    },
+    {
+      "text": " Pa-dám-pám-pám-pám!",
+      "start": 7.28,
+      "end": 9.36
+    },
+    {
+      "text": " Itt sokkal jobb!",
+      "start": 9.52,
+      "end": 10.64
+    },
+    {
+      "text": " Új formát!",
+      "start": 10.7,
+      "end": 13.02
+    },
+    {
+      "text": " Zázom nekik a kis bucimat!",
+      "start": 13.42,
+      "end": 15.12
+    },
+    {
+      "text": " Icsikét sem fura!",
+      "start": 15.24,
+      "end": 16.32
+    },
+    {
+      "text": " Ne-ne-ne, ezt ne csináld!",
+      "start": 17.56,
+      "end": 19.18
+    },
+    {
+      "text": " Régi arcok!",
+      "start": 19.5,
+      "end": 20.64
+    },
+    {
+      "text": " Készülj, nyosszifő!",
+      "start": 21.259999999999998,
+      "end": 22.42
+    },
+    {
+      "text": " Ne-ne-ne, ne csináld!",
+      "start": 22.44,
+      "end": 24.28
+    },
+    {
+      "text": " Bob Burger falodája! Új részek hétvégén reggel 7 óra 55-kor a KMT-i Centrálon!",
+      "start": 24.6,
+      "end": 29.56
+    },
+    {
+      "text": " Csak, haj wayne lige kézvégén reggelgelox!",
+      "start": 30.0,
+      "end": 31.32
+    },
+    {
+      "text": " Né-ne, ezt a a KMT-i Centrálon!",
+      "start": 32.44,
+      "end": 39.66
+    },
+    {
+      "text": " Amikor, a KMT-i Centrálon!",
+      "start": 39.98,
+      "end": 40.82
+    },
+    {
+      "text": " A KMT-i Centrálon!",
+      "start": 41.44,
+      "end": 43.14
+    },
+    {
+      "text": " Jó látom!",
+      "start": 43.72,
+      "end": 43.86
+    },
+    {
+      "text": " Jó látom!",
+      "start": 43.86,
+      "end": 43.92
+    },
+    {
+      "text": " Benjörürtti!",
+      "start": 43.92,
+      "end": 43.94
+    },
+    {
+      "text": " A KMT-i Centrálon!",
+      "start": 43.94,
+      "end": 44.48
+    }
+  ],
+  "processing_time": 2.1774742603302,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

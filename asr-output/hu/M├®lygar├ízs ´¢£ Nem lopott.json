@@ -1,0 +1,94 @@
+{
+  "audio_file": "Mélygarázs ｜ Nem lopott.wav",
+  "full_text": "NAMASTE Jó. 3600 Ft. Készpénz vagy kártya? Figyelj! Nincs nálam most KP. Ó, ezt ismerem! Nem, nem, figyelj, tényleg nincs nálam a KP-t. Na jó, hívjunk a rendőrt? Pessó, ne csináljunk, fel lőtt emberek van itt. Van elom egy tarfünk. Nem kamu, most loptam. Boldó, 20 ezer, 10 ér odaadom. Jó, 3600 Ft-t kérlek. Adják, akkor 7400-et. Na. 3600-at kérek, hogy rendőrt hívok. Jó szívem, adják, akkor hatot. Adják, hatot, ha itt sem vagyok. Nem adok. De miért? Próbáld ki. Nehogy próbálom. Hát ez minőségi jó cucc. Innen érzem, hogy nőjék. Hogy lenne már nőj, szagolj már rá. Hú, ez retteretes. Most mondod, hogy elhasználtad a felét? Na húzzá innen, de nagyon gyorsan. Dehogy lóga. Nem fizetem. Menjél inná, ne nyúkáljál már. Ne nyúkáljál, halagásném. Menjél innen, menjél innen. Ilyen, hogy meg akarsz zölni? Lóksz nekem áru ezen. Én vagyok a hülye. Kocsi bagásspray, s még így is tiszta párfűmszag van. A a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+  "chunks": [
+    {
+      "text": " NAMASTE",
+      "start": 0.0,
+      "end": 0.06
+    },
+    {
+      "text": " Jó. 3600 Ft. Készpénz vagy kártya?",
+      "start": 13.760000000000007,
+      "end": 15.84
+    },
+    {
+      "text": " Figyelj! Nincs nálam most KP.",
+      "start": 16.480000000000004,
+      "end": 18.1
+    },
+    {
+      "text": " Ó, ezt ismerem!",
+      "start": 18.38,
+      "end": 19.74
+    },
+    {
+      "text": " Nem, nem, figyelj, tényleg nincs nálam a KP-t.",
+      "start": 20.08,
+      "end": 22.28
+    },
+    {
+      "text": " Na jó, hívjunk a rendőrt?",
+      "start": 22.32,
+      "end": 23.16
+    },
+    {
+      "text": " Pessó, ne csináljunk, fel lőtt emberek van itt.",
+      "start": 23.46,
+      "end": 25.48
+    },
+    {
+      "text": " Van elom egy tarfünk.",
+      "start": 26.32,
+      "end": 27.18
+    },
+    {
+      "text": " Nem kamu, most loptam.",
+      "start": 27.64,
+      "end": 29.44
+    },
+    {
+      "text": " Boldó, 20 ezer, 10 ér odaadom. Jó, 3600 Ft-t kérlek. Adják, akkor 7400-et. Na. 3600-at kérek, hogy rendőrt hívok.",
+      "start": 29.44,
+      "end": 37.16
+    },
+    {
+      "text": " Jó szívem, adják, akkor hatot. Adják, hatot, ha itt sem vagyok. Nem adok. De miért? Próbáld ki. Nehogy próbálom.",
+      "start": 37.7,
+      "end": 42.6
+    },
+    {
+      "text": " Hát ez minőségi jó cucc. Innen érzem, hogy nőjék. Hogy lenne már nőj, szagolj már rá. Hú, ez retteretes.",
+      "start": 42.62,
+      "end": 47.6
+    },
+    {
+      "text": " Most mondod, hogy elhasználtad a felét? Na húzzá innen, de nagyon gyorsan.",
+      "start": 47.88,
+      "end": 50.74
+    },
+    {
+      "text": " Dehogy lóga. Nem fizetem. Menjél inná, ne nyúkáljál már. Ne nyúkáljál, halagásném. Menjél innen, menjél innen.",
+      "start": 50.74,
+      "end": 57.76
+    },
+    {
+      "text": " Ilyen, hogy meg akarsz zölni? Lóksz nekem áru ezen.",
+      "start": 59.8,
+      "end": 62.5
+    },
+    {
+      "text": " Én vagyok a hülye. Kocsi bagásspray, s még így is tiszta párfűmszag van.",
+      "start": 67.58,
+      "end": 73.12
+    },
+    {
+      "text": " A a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+      "start": 80.77999999999999,
+      "end": 81.82
+    }
+  ],
+  "processing_time": 3.3291382789611816,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

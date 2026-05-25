@@ -1,0 +1,34 @@
+{
+  "audio_file": "Így készül a Comedy Central ｜ Rekreációs szoba.wav",
+  "full_text": "A Kámedicentrál csatornájánál is megvizsgálatunk. A Kámedicentrál csatornájánál is megvizsgálatunk. A Kámedicentrál csatornájánál is megvizsgálatunk. kollégáknak. Mi az a kezedben? Nyúl. Nyúl. Itt nincs kreatívkodás. Persze sokan képtelenek, vagy nem is akarnak kiszakadni a kreatív gondolkodásból. Őket sajnos erővel kell visszaterelni. Meg kell érteni ők, hogy ez az ő érdekük, és az ő szellemi egészségük megőrzése érdekében történik.",
+  "chunks": [
+    {
+      "text": " A Kámedicentrál csatornájánál is megvizsgálatunk.",
+      "start": 10.32,
+      "end": 27.54
+    },
+    {
+      "text": " A Kámedicentrál csatornájánál is megvizsgálatunk.",
+      "start": 36.0,
+      "end": 55.86
+    },
+    {
+      "text": " A Kámedicentrál csatornájánál is megvizsgálatunk.",
+      "start": 67.79999999999998,
+      "end": 72.5
+    },
+    {
+      "text": " kollégáknak. Mi az a kezedben? Nyúl. Nyúl. Itt nincs kreatívkodás. Persze sokan képtelenek, vagy nem is akarnak kiszakadni a kreatív gondolkodásból.",
+      "start": 72.5,
+      "end": 97.98
+    },
+    {
+      "text": " Őket sajnos erővel kell visszaterelni. Meg kell érteni ők, hogy ez az ő érdekük, és az ő szellemi egészségük megőrzése érdekében történik.",
+      "start": 97.98,
+      "end": 113.72
+    }
+  ],
+  "processing_time": 0.9852752685546875,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

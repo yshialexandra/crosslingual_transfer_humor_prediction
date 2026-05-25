@@ -1,0 +1,289 @@
+{
+  "audio_file": "Nincs idő a gólörömre ｜ Bödőcs Tibor (részlet).wav",
+  "full_text": "Mert van egy Hajdú Balázs paródiám, nem csak Ródi Gyuláról írtam paródiát, hanem... Csak ez át kell alakulnom Stanisztapcí módszerrel. Hajdú Balázsra... Sziasztom! Sziasztom! Ez a műsor, ezt otthon megírja. De télen... A jegesmedvék azok alszanak térjámat. Durva lenne, nem? Mintha az eszkimó gyerekeknek lenne sí szünet. Azért elkapkodni sem akarom mindenáról. Nem tudom, vannak-e itt bánavadászok? Honnét tudnám, nem? Nem tudom, vannak-e itt bánavadászok? Mondjuk az a legjobb szakma lehet, ha bánavadász, mert... Egyszer van kapás, aztán... Soha többé nem lesz kérdés, mi legyen a vacsora. De mi van, hogyha kigyullad a tűzótólaktanya? Mondjuk egy előnye már van? Telefonálgatni már nem kell? Mindig csúsznak le a tűzótók a rúdon... Ha miért nem asszanak? Eleve lent. Volt nálam anyukám... Van egy anyukám... mondta, hogy... Balázs... Gondolom nekem mondta, mert én Balázs vagyok... Anyukám nem Balázs... De ő névezettel csak jobban tudja, más meg nem volt ott... Mondom... Tessék... Balázs... Ez ugyanaz a Balázs, csak... Még egyszer mondta, ugyanaz az anyukám... Balázs... Csöpög a csap... Csináltas meg így a semmiért fizetsz... Á, mondom... Nem a semmiért fizetek... Csöpögésért fizetek... Nem tudom, kinek van otthon vakondja... Mivel, hogyha megdöglik a kedvenc vakondod... Hova temeted? Na, még egy van, jó? De az bármertig eltarthat... Múltkor meg... Ja, nem, előtte... Kipróbáltam ezt a testradírt... Mert... Elég nagy átbagásnak tartom, mert... Itt vagyok... Ali! Ali! Ali! Ali! Aztán gondolok meg... Aztán gondolok meg? Köszönöm, hogy megtaláltad!",
+  "chunks": [
+    {
+      "text": " Mert van egy Hajdú Balázs paródiám, nem csak Ródi Gyuláról írtam paródiát, hanem...",
+      "start": 0.0,
+      "end": 3.82
+    },
+    {
+      "text": " Csak ez át kell alakulnom Stanisztapcí módszerrel.",
+      "start": 4.7,
+      "end": 6.82
+    },
+    {
+      "text": " Hajdú Balázsra...",
+      "start": 7.12,
+      "end": 8.5
+    },
+    {
+      "text": " Sziasztom!",
+      "start": 24.240000000000002,
+      "end": 24.82
+    },
+    {
+      "text": " Sziasztom!",
+      "start": 30.0,
+      "end": 30.38
+    },
+    {
+      "text": " Ez a műsor, ezt otthon megírja.",
+      "start": 40.0,
+      "end": 41.54
+    },
+    {
+      "text": " De télen...",
+      "start": 49.92,
+      "end": 52.08
+    },
+    {
+      "text": " A jegesmedvék azok alszanak térjámat.",
+      "start": 55.0,
+      "end": 58.68
+    },
+    {
+      "text": " Durva lenne, nem?",
+      "start": 61.0,
+      "end": 62.24
+    },
+    {
+      "text": " Mintha az eszkimó gyerekeknek lenne sí szünet.",
+      "start": 67.5,
+      "end": 71.3
+    },
+    {
+      "text": " Azért elkapkodni sem akarom mindenáról.",
+      "start": 82.32000000000001,
+      "end": 86.54
+    },
+    {
+      "text": " Nem tudom, vannak-e itt bánavadászok?",
+      "start": 95.74000000000001,
+      "end": 99.08
+    },
+    {
+      "text": " Honnét tudnám, nem?",
+      "start": 101.4,
+      "end": 102.96
+    },
+    {
+      "text": " Nem tudom, vannak-e itt bánavadászok?",
+      "start": 106.82,
+      "end": 107.58
+    },
+    {
+      "text": " Mondjuk az a legjobb szakma lehet, ha bánavadász, mert...",
+      "start": 107.58,
+      "end": 112.34
+    },
+    {
+      "text": " Egyszer van kapás, aztán...",
+      "start": 112.96000000000001,
+      "end": 117.56
+    },
+    {
+      "text": " Soha többé nem lesz kérdés, mi legyen a vacsora.",
+      "start": 118.72,
+      "end": 122.52
+    },
+    {
+      "text": " De mi van, hogyha kigyullad a tűzótólaktanya?",
+      "start": 135.18,
+      "end": 138.06
+    },
+    {
+      "text": " Mondjuk egy előnye már van?",
+      "start": 140.58,
+      "end": 142.96
+    },
+    {
+      "text": " Telefonálgatni már nem kell?",
+      "start": 144.8,
+      "end": 146.54
+    },
+    {
+      "text": " Mindig csúsznak le a tűzótók a rúdon...",
+      "start": 151.98000000000002,
+      "end": 155.56
+    },
+    {
+      "text": " Ha miért nem asszanak? Eleve lent.",
+      "start": 157.54,
+      "end": 160.92
+    },
+    {
+      "text": " Volt nálam anyukám...",
+      "start": 180.06,
+      "end": 181.06
+    },
+    {
+      "text": " Van egy anyukám...",
+      "start": 181.6,
+      "end": 183.4
+    },
+    {
+      "text": " mondta, hogy...",
+      "start": 184.62,
+      "end": 186.2
+    },
+    {
+      "text": " Balázs...",
+      "start": 187.12,
+      "end": 187.9
+    },
+    {
+      "text": " Gondolom nekem mondta, mert én Balázs vagyok...",
+      "start": 189.4,
+      "end": 191.72
+    },
+    {
+      "text": " Anyukám nem Balázs...",
+      "start": 193.06,
+      "end": 194.9
+    },
+    {
+      "text": " De ő névezettel csak jobban tudja, más meg nem volt ott...",
+      "start": 195.72,
+      "end": 199.82
+    },
+    {
+      "text": " Mondom...",
+      "start": 199.82,
+      "end": 201.02
+    },
+    {
+      "text": " Tessék...",
+      "start": 201.9,
+      "end": 202.42
+    },
+    {
+      "text": " Balázs...",
+      "start": 208.28,
+      "end": 209.06
+    },
+    {
+      "text": " Ez ugyanaz a Balázs, csak...",
+      "start": 209.06,
+      "end": 210.9
+    },
+    {
+      "text": " Még egyszer mondta, ugyanaz az anyukám...",
+      "start": 211.9,
+      "end": 214.78
+    },
+    {
+      "text": " Balázs...",
+      "start": 217.76000000000002,
+      "end": 218.52
+    },
+    {
+      "text": " Csöpög a csap...",
+      "start": 219.72,
+      "end": 221.02
+    },
+    {
+      "text": " Csináltas meg így a semmiért fizetsz...",
+      "start": 222.82,
+      "end": 227.44
+    },
+    {
+      "text": " Á, mondom...",
+      "start": 227.44,
+      "end": 228.02
+    },
+    {
+      "text": " Nem a semmiért fizetek...",
+      "start": 228.55,
+      "end": 231.05
+    },
+    {
+      "text": " Csöpögésért fizetek...",
+      "start": 233.26999999999998,
+      "end": 235.05
+    },
+    {
+      "text": " Nem tudom, kinek van otthon vakondja...",
+      "start": 237.35,
+      "end": 240.05
+    },
+    {
+      "text": " Mivel, hogyha megdöglik a kedvenc vakondod...",
+      "start": 244.26999999999998,
+      "end": 249.57
+    },
+    {
+      "text": " Hova temeted?",
+      "start": 249.57,
+      "end": 251.15
+    },
+    {
+      "text": " Na, még egy van, jó?",
+      "start": 251.57,
+      "end": 253.59
+    },
+    {
+      "text": " De az bármertig eltarthat...",
+      "start": 255.57,
+      "end": 258.07
+    },
+    {
+      "text": " Múltkor meg...",
+      "start": 261.03000000000003,
+      "end": 263.07
+    },
+    {
+      "text": " Ja, nem, előtte...",
+      "start": 263.07,
+      "end": 266.79
+    },
+    {
+      "text": " Kipróbáltam ezt a testradírt...",
+      "start": 268.63,
+      "end": 271.71
+    },
+    {
+      "text": " Mert...",
+      "start": 273.21000000000004,
+      "end": 273.29
+    },
+    {
+      "text": " Elég nagy átbagásnak tartom, mert...",
+      "start": 274.49,
+      "end": 277.29
+    },
+    {
+      "text": " Itt vagyok...",
+      "start": 278.47,
+      "end": 279.29
+    },
+    {
+      "text": " Ali! Ali! Ali!",
+      "start": 281.27,
+      "end": 285.09
+    },
+    {
+      "text": " Ali!",
+      "start": 285.61,
+      "end": 286.05
+    },
+    {
+      "text": " Aztán gondolok meg...",
+      "start": 286.05,
+      "end": 289.25
+    },
+    {
+      "text": " Aztán gondolok meg?",
+      "start": 289.25,
+      "end": 290.39
+    },
+    {
+      "text": " Köszönöm, hogy megtaláltad!",
+      "start": 290.39,
+      "end": 292.21
+    }
+  ],
+  "processing_time": 2.7279319763183594,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

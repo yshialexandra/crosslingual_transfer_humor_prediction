@@ -1,0 +1,34 @@
+{
+  "audio_file": "Mobilvécé ｜ Mélynyomó.wav",
+  "full_text": "A Poliba! Mi van? Azt észrevetted, hogy ezekben a mobil WC-kben sose nincs légy? Adjál már hülyeségeddel, Endicay! Tudod mi volt a legzurább dolog, amit eddig ilyen WC-ben lát? Tudom! Elmondjam! Ne mondd el, már egyszer elmondtad! Egy fenék lenyomott, de úgy! Figyelj és ezt te tudtad, hogy ha bemész és bezárod belülről, akkor nem tudsz kijönni! Há hogyne tudnék, előbb jöttem ki! Próbál csak meg! Hülyeség ez! Bezárom! Kinyitom! És? Hát tényleg nem tudok kijönni. Hát de durva! Itt egy légy! Üdvözlően megtehet a vécé, el tudnák vinni? Köszönöm szépen, viszont hallásra! Jé, te palibá figyelj, már itt is van egy ilyen fenéklenyomot! Hehehe! Palibá! Palibá!",
+  "chunks": [
+    {
+      "text": " A",
+      "start": 5.119999999999998,
+      "end": 5.56
+    },
+    {
+      "text": " Poliba! Mi van? Azt észrevetted, hogy ezekben a mobil WC-kben sose nincs légy? Adjál már hülyeségeddel, Endicay!",
+      "start": 5.56,
+      "end": 12.06
+    },
+    {
+      "text": " Tudod mi volt a legzurább dolog, amit eddig ilyen WC-ben lát? Tudom! Elmondjam! Ne mondd el, már egyszer elmondtad! Egy fenék lenyomott, de úgy! Figyelj és ezt te tudtad,",
+      "start": 12.5,
+      "end": 19.08
+    },
+    {
+      "text": " hogy ha bemész és bezárod belülről, akkor nem tudsz kijönni! Há hogyne tudnék, előbb jöttem ki! Próbál csak meg! Hülyeség ez! Bezárom! Kinyitom!",
+      "start": 19.14,
+      "end": 29.62
+    },
+    {
+      "text": " És? Hát tényleg nem tudok kijönni. Hát de durva! Itt egy légy! Üdvözlően megtehet a vécé, el tudnák vinni? Köszönöm szépen, viszont hallásra! Jé, te palibá figyelj, már itt is van egy ilyen fenéklenyomot! Hehehe! Palibá! Palibá!",
+      "start": 30.0,
+      "end": 50.02
+    }
+  ],
+  "processing_time": 1.3841075897216797,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

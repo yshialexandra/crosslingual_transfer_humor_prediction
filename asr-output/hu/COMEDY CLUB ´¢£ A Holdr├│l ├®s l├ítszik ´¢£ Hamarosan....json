@@ -1,0 +1,114 @@
+{
+  "audio_file": "COMEDY CLUB ｜ A Holdról és látszik ｜ Hamarosan....wav",
+  "full_text": "A TURUL Ezer éves turul itt a Fehérbár megy a Nyőrköztpont. Mi a helyzeted? Szia, uram, itt vagyunk a dobozos-sal, jövünk... Dobozos? Hogy a f***n haza dobozos? Turul 1 megkezdheti a parkolást. Kicsi fék, kicsi fék. Hármazól szépen vissza, nyugodtan. Ja. Jelentem a parkolás befejezve. Ez az! Jól van fiúk, rajtatok az ország szeme. Jöhet az ászló. Durul egy. Lackó! Mi a *** művel? Most mit fogunk ide ***? Durul egy. Srácok, mondjatok már valamit élő egyenesben vagyunk. Fő ispán úr, minden stabil. Lackóka, okosba megoldjuk, ne idegeskedj. Lackóka, ott figyél el, hegyet tesz a holdon! Mit művelnek ezek a barmok? Durul kettő, durul kettő álmalat szövek? Bcsár lett, apám! Jelentem a küldetés teljesítve! Mi ez a kénköves tetves telibevert mocskos útvarkányadics? Nya! Halló, rossz a vétenszőnök! Lackóka húzunk hazafele, jó? Vasárnap, Dívos zsírmecs! Comedy Club, még a Holdról is látszik! Hatházi László, Aranyosi Péter, új sztendapestek április 14-től a Comedy Centralon. Na, ez bára nem helyzott.",
+  "chunks": [
+    {
+      "text": " A TURUL",
+      "start": 6.5,
+      "end": 7.14
+    },
+    {
+      "text": " Ezer éves turul itt a Fehérbár megy a Nyőrköztpont.",
+      "start": 7.14,
+      "end": 9.4
+    },
+    {
+      "text": " Mi a helyzeted?",
+      "start": 9.56,
+      "end": 10.24
+    },
+    {
+      "text": " Szia, uram, itt vagyunk a dobozos-sal, jövünk...",
+      "start": 10.48,
+      "end": 13.22
+    },
+    {
+      "text": " Dobozos?",
+      "start": 13.22,
+      "end": 13.86
+    },
+    {
+      "text": " Hogy a f***n haza dobozos?",
+      "start": 14.3,
+      "end": 15.5
+    },
+    {
+      "text": " Turul 1 megkezdheti a parkolást.",
+      "start": 17.24,
+      "end": 19.52
+    },
+    {
+      "text": " Kicsi fék, kicsi fék.",
+      "start": 20.52,
+      "end": 21.98
+    },
+    {
+      "text": " Hármazól szépen vissza, nyugodtan.",
+      "start": 22.22,
+      "end": 24.1
+    },
+    {
+      "text": " Ja.",
+      "start": 24.72,
+      "end": 24.9
+    },
+    {
+      "text": " Jelentem a parkolás befejezve.",
+      "start": 26.36,
+      "end": 28.8
+    },
+    {
+      "text": " Ez az! Jól van fiúk, rajtatok az ország szeme. Jöhet az ászló.",
+      "start": 30.0,
+      "end": 35.52
+    },
+    {
+      "text": " Durul egy. Lackó! Mi a *** művel? Most mit fogunk ide ***? Durul egy. Srácok, mondjatok már valamit élő egyenesben vagyunk.",
+      "start": 44.76,
+      "end": 54.76
+    },
+    {
+      "text": " Fő ispán úr, minden stabil. Lackóka, okosba megoldjuk, ne idegeskedj.",
+      "start": 60.42,
+      "end": 65.58
+    },
+    {
+      "text": " Lackóka, ott figyél el, hegyet tesz a holdon! Mit művelnek ezek a barmok?",
+      "start": 74.66,
+      "end": 79.96
+    },
+    {
+      "text": " Durul kettő, durul kettő álmalat szövek?",
+      "start": 84.4,
+      "end": 87.28
+    },
+    {
+      "text": " Bcsár lett, apám! Jelentem a küldetés teljesítve!",
+      "start": 93.26,
+      "end": 97.66
+    },
+    {
+      "text": " Mi ez a kénköves tetves telibevert mocskos útvarkányadics? Nya!",
+      "start": 97.82,
+      "end": 101.84
+    },
+    {
+      "text": " Halló, rossz a vétenszőnök! Lackóka húzunk hazafele, jó? Vasárnap, Dívos zsírmecs!",
+      "start": 102.08,
+      "end": 107.32
+    },
+    {
+      "text": " Comedy Club, még a Holdról is látszik! Hatházi László, Aranyosi Péter, új sztendapestek április 14-től a Comedy Centralon.",
+      "start": 109.6,
+      "end": 117.0
+    },
+    {
+      "text": " Na, ez bára nem helyzott.",
+      "start": 117.7,
+      "end": 119.68
+    }
+  ],
+  "processing_time": 2.350205659866333,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

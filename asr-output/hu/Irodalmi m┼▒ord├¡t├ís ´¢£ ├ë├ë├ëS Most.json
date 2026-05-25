@@ -1,0 +1,19 @@
+{
+  "audio_file": "Irodalmi műordítás ｜ ÉÉÉS Most.wav",
+  "full_text": "A TÓPARTRA KOCOGOTT A TÓPARTRA KOCOGÓN",
+  "chunks": [
+    {
+      "text": " A TÓPARTRA KOCOGOTT",
+      "start": 14.3,
+      "end": 17.82
+    },
+    {
+      "text": " A TÓPARTRA KOCOGÓN",
+      "start": 35.040000000000006,
+      "end": 52.34
+    }
+  ],
+  "processing_time": 0.18428707122802734,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

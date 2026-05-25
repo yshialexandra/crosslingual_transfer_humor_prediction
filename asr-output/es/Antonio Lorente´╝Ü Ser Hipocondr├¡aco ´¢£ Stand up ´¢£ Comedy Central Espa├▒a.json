@@ -1,0 +1,114 @@
+{
+  "audio_file": "Antonio Lorente： Ser Hipocondríaco ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "Tengo un amigo, también es un gran apoyo para mí, tiene un problemita, no ve muy bien la realidad, ¿vale? Que diréis, tú sí, no, cabrón, con esto de los padres recíprocos tú la ves de puta madre, ¿no? Pues él, el peor todavía. Él es muy hipocondríaco, él tiene miedo de fallecer de las enfermedades que cree que fallecieron sus padres. Me explico. Él cree que su madre falleció de Alzheimer, ¿vale? Por lo visto, una banda armada irrumpió en su casa y el Alzheimer hizo que olvidara las nociones básicas de defensa personal y la acribillaron a balazos, aprovechando esto. Su padre, en cambio, él cree que falleció de alopecia. Ese mismo día había olvidado el crecepelo, al volver a recuperarlo a casa estaba todavía ahí la banda armada y le acribillaron a balazos junto a su mujer. Y está muy preocupado mi colega. De hecho, ahora se ha comprado un chaleco antibalas porque ha empezado a salir de coronilla. Pues venid a por mí, venid, os estoy esperando. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias.",
+  "chunks": [
+    {
+      "text": " Tengo un amigo, también es un gran apoyo para mí, tiene un problemita, no ve muy bien la realidad, ¿vale?",
+      "start": 1.1600000000000001,
+      "end": 6.08
+    },
+    {
+      "text": " Que diréis, tú sí, no, cabrón, con esto de los padres recíprocos tú la ves de puta madre, ¿no?",
+      "start": 6.46,
+      "end": 10.24
+    },
+    {
+      "text": " Pues él, el peor todavía. Él es muy hipocondríaco, él tiene miedo de fallecer de las enfermedades que cree que fallecieron sus padres.",
+      "start": 10.6,
+      "end": 17.54
+    },
+    {
+      "text": " Me explico. Él cree que su madre falleció de Alzheimer, ¿vale?",
+      "start": 17.76,
+      "end": 21.36
+    },
+    {
+      "text": " Por lo visto, una banda armada irrumpió en su casa y el Alzheimer hizo que olvidara las nociones básicas de defensa personal",
+      "start": 21.94,
+      "end": 29.14
+    },
+    {
+      "text": " y la acribillaron a balazos, aprovechando esto.",
+      "start": 29.14,
+      "end": 31.04
+    },
+    {
+      "text": " Su padre, en cambio, él cree que falleció de alopecia.",
+      "start": 32.68,
+      "end": 35.92
+    },
+    {
+      "text": " Ese mismo día había olvidado el crecepelo, al volver a recuperarlo a casa estaba todavía ahí la banda armada",
+      "start": 37.86,
+      "end": 43.12
+    },
+    {
+      "text": " y le acribillaron a balazos junto a su mujer.",
+      "start": 43.12,
+      "end": 46.52
+    },
+    {
+      "text": " Y está muy preocupado mi colega. De hecho, ahora se ha comprado un chaleco antibalas porque ha empezado a salir de coronilla.",
+      "start": 48.34,
+      "end": 53.32
+    },
+    {
+      "text": " Pues venid a por mí, venid, os estoy esperando.",
+      "start": 54.8,
+      "end": 57.36
+    },
+    {
+      "text": " Gracias.",
+      "start": 60.14,
+      "end": 60.68
+    },
+    {
+      "text": " Gracias.",
+      "start": 60.68,
+      "end": 60.98
+    },
+    {
+      "text": " Gracias.",
+      "start": 61.7,
+      "end": 61.76
+    },
+    {
+      "text": " Gracias.",
+      "start": 67.4,
+      "end": 67.72
+    },
+    {
+      "text": " Gracias.",
+      "start": 67.72,
+      "end": 68.04
+    },
+    {
+      "text": " Gracias.",
+      "start": 69.0,
+      "end": 69.14
+    },
+    {
+      "text": " Gracias.",
+      "start": 70.78,
+      "end": 72.18
+    },
+    {
+      "text": " Gracias.",
+      "start": 74.46,
+      "end": 75.86
+    },
+    {
+      "text": " Gracias.",
+      "start": 75.86,
+      "end": 76.18
+    },
+    {
+      "text": " Gracias.",
+      "start": 76.88,
+      "end": 77.08
+    }
+  ],
+  "processing_time": 0.608569860458374,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

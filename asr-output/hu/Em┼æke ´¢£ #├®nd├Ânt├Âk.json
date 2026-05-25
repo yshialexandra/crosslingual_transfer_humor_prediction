@@ -1,0 +1,84 @@
+{
+  "audio_file": "Emőke ｜ #éndöntök.wav",
+  "full_text": "Öjjt Emőke! Emőke szerint a föld lapos mind a 17 oldalán. A szelektív hulladékgyűjtés van gyemberek érdeke, valamint, és ez a lényeg, az oltások miatt van annyi betegség, meg szemüveges. És kinek jó ez? Persze, hogy csak az új hollandoknak. Emőke úgy gondolja, hogy Ausztrália nem létezik, az időjárást három indiai kamasz irányítja egy londoni laptopról, és az Újpest hívóvíztől lett homoszexuális az unokaöccse, Gabi. Emőkeben és benned van valami közös. Neki épp úgy egy szavazata van, mint neked. Ön elmegy szavazni, Emő? Nem, nem! Emőke szívesen eldönti helyettel a jövődet. De ha nem bíznál benne, szerintem menjen szavazni te is. Április 8-án.",
+  "chunks": [
+    {
+      "text": " Öjjt Emőke!",
+      "start": 1.4399999999999995,
+      "end": 2.42
+    },
+    {
+      "text": " Emőke szerint a föld lapos mind a 17 oldalán.",
+      "start": 2.92,
+      "end": 5.98
+    },
+    {
+      "text": " A szelektív hulladékgyűjtés van gyemberek érdeke,",
+      "start": 6.24,
+      "end": 8.96
+    },
+    {
+      "text": " valamint, és ez a lényeg, az oltások miatt van annyi betegség, meg szemüveges.",
+      "start": 9.14,
+      "end": 13.64
+    },
+    {
+      "text": " És kinek jó ez? Persze, hogy csak az új hollandoknak.",
+      "start": 13.94,
+      "end": 16.9
+    },
+    {
+      "text": " Emőke úgy gondolja, hogy Ausztrália nem létezik,",
+      "start": 17.46,
+      "end": 20.02
+    },
+    {
+      "text": " az időjárást három indiai kamasz irányítja egy londoni laptopról,",
+      "start": 20.14,
+      "end": 23.44
+    },
+    {
+      "text": " és az Újpest hívóvíztől lett homoszexuális az unokaöccse, Gabi.",
+      "start": 23.5,
+      "end": 26.84
+    },
+    {
+      "text": " Emőkeben és benned van valami közös.",
+      "start": 27.64,
+      "end": 29.44
+    },
+    {
+      "text": " Neki épp úgy egy szavazata van, mint neked.",
+      "start": 29.44,
+      "end": 32.02
+    },
+    {
+      "text": " Ön elmegy szavazni, Emő?",
+      "start": 32.24,
+      "end": 33.44
+    },
+    {
+      "text": " Nem, nem!",
+      "start": 33.68,
+      "end": 34.2
+    },
+    {
+      "text": " Emőke szívesen eldönti helyettel a jövődet.",
+      "start": 34.900000000000006,
+      "end": 36.98
+    },
+    {
+      "text": " De ha nem bíznál benne, szerintem menjen szavazni te is.",
+      "start": 37.2,
+      "end": 40.2
+    },
+    {
+      "text": " Április 8-án.",
+      "start": 40.76,
+      "end": 41.98
+    }
+  ],
+  "processing_time": 0.38391757011413574,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

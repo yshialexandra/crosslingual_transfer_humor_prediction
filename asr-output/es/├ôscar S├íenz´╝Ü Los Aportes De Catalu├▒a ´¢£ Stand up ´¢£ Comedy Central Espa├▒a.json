@@ -1,0 +1,114 @@
+{
+  "audio_file": "Óscar Sáenz： Los Aportes De Cataluña ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "¿Qué camiseta deberíamos llevar a Madrid si queremos realmente tocarle los cojones a los madrileños? Una de Barcelona 92. ¡Donde duele! Y bueno, después de todo esto, pues con los tres o cuatro que sobrevivamos, porque nos van a fusilar, nos montamos un estado más pequeñito en Andorra, ¿no? Por ejemplo, señor Acción. ¿Habéis oído que los catalanes caemos mal fuera de Cataluña? ¿Soy el único que tiene Twitter aquí? No, ¿verdad? Yo intento ser positivo, ¿vale? Yo no pienso que los catalanes caemos mal fuera de Cataluña. Solo pienso que si el primer caso de ébola hubiera sido en Barcelona, nos hubieran dado la independencia sin pedirla, tíos. O nos hubieran sacrificado, no lo sé. El caso es que, bueno, ya lo he dicho, ni soy independentista ni soy lo otro, me da exactamente igual, pero soy catalán. Y me molesta que caigamos mal los catalanes, porque los catalanes hemos aportado cosas al resto del mundo, cosas de puta madre los catalanes. Hemos aportado cosas como, por ejemplo, la sardana, tíos. La sardana es una mierda de baile, pero... La sardana ha aportado una cosa muy importante al resto del mundo, que es la costumbre de bailar en círculos dejando la ropa en medio para no tener que pagar el guardarropa. Esto es nuestro, hay que reivindicarlo.",
+  "chunks": [
+    {
+      "text": " ¿Qué camiseta deberíamos llevar a Madrid si queremos realmente tocarle los cojones a los madrileños?",
+      "start": 1.1399999999999997,
+      "end": 5.6
+    },
+    {
+      "text": " Una de Barcelona 92.",
+      "start": 7.5,
+      "end": 9.02
+    },
+    {
+      "text": " ¡Donde duele!",
+      "start": 12.799999999999997,
+      "end": 13.68
+    },
+    {
+      "text": " Y bueno, después de todo esto, pues con los tres o cuatro que sobrevivamos, porque nos van a fusilar,",
+      "start": 18.18,
+      "end": 24.04
+    },
+    {
+      "text": " nos montamos un estado más pequeñito en Andorra, ¿no? Por ejemplo, señor Acción.",
+      "start": 24.52,
+      "end": 27.34
+    },
+    {
+      "text": " ¿Habéis oído que los catalanes caemos mal fuera de Cataluña?",
+      "start": 28.139999999999997,
+      "end": 30.86
+    },
+    {
+      "text": " ¿Soy el único que tiene Twitter aquí? No, ¿verdad?",
+      "start": 31.68,
+      "end": 34.06
+    },
+    {
+      "text": " Yo intento ser positivo, ¿vale?",
+      "start": 34.58,
+      "end": 36.06
+    },
+    {
+      "text": " Yo no pienso que los catalanes caemos mal fuera de Cataluña.",
+      "start": 36.8,
+      "end": 39.54
+    },
+    {
+      "text": " Solo pienso que si el primer caso de ébola hubiera sido en Barcelona,",
+      "start": 40.38,
+      "end": 44.84
+    },
+    {
+      "text": " nos hubieran dado la independencia sin pedirla, tíos.",
+      "start": 46.03999999999999,
+      "end": 48.34
+    },
+    {
+      "text": " O nos hubieran sacrificado, no lo sé.",
+      "start": 49.32,
+      "end": 51.12
+    },
+    {
+      "text": " El caso es que, bueno, ya lo he dicho, ni soy independentista ni soy lo otro, me da exactamente igual,",
+      "start": 52.38,
+      "end": 56.9
+    },
+    {
+      "text": " pero soy catalán.",
+      "start": 56.9,
+      "end": 58.06
+    },
+    {
+      "text": " Y me molesta que caigamos mal los catalanes, porque los catalanes hemos aportado cosas al resto del mundo,",
+      "start": 58.46,
+      "end": 65.28
+    },
+    {
+      "text": " cosas de puta madre los catalanes.",
+      "start": 65.36,
+      "end": 66.64
+    },
+    {
+      "text": " Hemos aportado cosas como, por ejemplo, la sardana, tíos.",
+      "start": 66.78,
+      "end": 69.98
+    },
+    {
+      "text": " La sardana es una mierda de baile, pero...",
+      "start": 73.0,
+      "end": 75.3
+    },
+    {
+      "text": " La sardana ha aportado una cosa muy importante al resto del mundo,",
+      "start": 75.3,
+      "end": 78.62
+    },
+    {
+      "text": " que es la costumbre de bailar en círculos dejando la ropa en medio para no tener que pagar el guardarropa.",
+      "start": 78.62,
+      "end": 84.5
+    },
+    {
+      "text": " Esto es nuestro, hay que reivindicarlo.",
+      "start": 85.12,
+      "end": 86.9
+    }
+  ],
+  "processing_time": 0.49288487434387207,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,74 @@
+{
+  "audio_file": "Mélygarázs ｜ Jól húz.wav",
+  "full_text": "Köszönjük! Jól. Hadsebességes? Annyi. Plusz rükvert? Plusz. Jól húz. Jó, beszéljünk másról. Látta a kalambót? Láttam, és? Én is. Jól nyomoz. Jól nyomoz.",
+  "chunks": [
+    {
+      "text": " Köszönjük!",
+      "start": 8.58,
+      "end": 9.98
+    },
+    {
+      "text": " Jól.",
+      "start": 30.68,
+      "end": 31.78
+    },
+    {
+      "text": " Hadsebességes?",
+      "start": 33.92,
+      "end": 35.02
+    },
+    {
+      "text": " Annyi.",
+      "start": 36.24,
+      "end": 37.34
+    },
+    {
+      "text": " Plusz rükvert?",
+      "start": 38.68,
+      "end": 40.12
+    },
+    {
+      "text": " Plusz.",
+      "start": 40.62,
+      "end": 41.72
+    },
+    {
+      "text": " Jól húz.",
+      "start": 43.94,
+      "end": 45.42
+    },
+    {
+      "text": " Jó, beszéljünk másról.",
+      "start": 45.68,
+      "end": 47.3
+    },
+    {
+      "text": " Látta a kalambót?",
+      "start": 50.24,
+      "end": 52.02
+    },
+    {
+      "text": " Láttam, és?",
+      "start": 52.44,
+      "end": 53.76
+    },
+    {
+      "text": " Én is.",
+      "start": 53.96,
+      "end": 54.5
+    },
+    {
+      "text": " Jól nyomoz.",
+      "start": 56.42,
+      "end": 58.0
+    },
+    {
+      "text": " Jól nyomoz.",
+      "start": 64.82,
+      "end": 67.62
+    }
+  ],
+  "processing_time": 1.516753911972046,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

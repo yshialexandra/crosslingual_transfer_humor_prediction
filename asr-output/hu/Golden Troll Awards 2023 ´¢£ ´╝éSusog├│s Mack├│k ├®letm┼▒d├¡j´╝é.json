@@ -1,0 +1,64 @@
+{
+  "audio_file": "Golden Troll Awards 2023 ｜ ＂Susogós Mackók életműdíj＂.wav",
+  "full_text": "Arany Troll díj 2023, ahol a legjobb műsorok megkapják a legdurvább kommenteket. Élőben a nyújjó... Hölgyeim és uraim! Sziasztok, csajok, hellos rácok! A következő díjat Lilaliba lánynak köszönhetjük. Borzalmas nézhetetlen, még az egyórás susogós macskókat is előbb nézném, mint ebből még egy részt. És ezt a díjat kapja a Kísértetek! Ez komoly, senki sem döbbent meg? Hát, ha nem döbbentetek meg, nem vagyok azok a döbbenősek? Ez fantasztikus! Kísértetek! Ma a Comedy Centralon! Köszönöm! Köszönöm!",
+  "chunks": [
+    {
+      "text": " Arany Troll díj 2023, ahol a legjobb műsorok megkapják a legdurvább kommenteket.",
+      "start": 1.0,
+      "end": 7.28
+    },
+    {
+      "text": " Élőben a nyújjó...",
+      "start": 7.6,
+      "end": 10.42
+    },
+    {
+      "text": " Hölgyeim és uraim! Sziasztok, csajok, hellos rácok!",
+      "start": 10.42,
+      "end": 15.2
+    },
+    {
+      "text": " A következő díjat Lilaliba lánynak köszönhetjük.",
+      "start": 16.080000000000002,
+      "end": 21.38
+    },
+    {
+      "text": " Borzalmas nézhetetlen, még az egyórás susogós macskókat is előbb nézném,",
+      "start": 23.48,
+      "end": 28.7
+    },
+    {
+      "text": " mint ebből még egy részt.",
+      "start": 28.7,
+      "end": 30.68
+    },
+    {
+      "text": " És ezt a díjat kapja a Kísértetek!",
+      "start": 31.92,
+      "end": 36.64
+    },
+    {
+      "text": " Ez komoly, senki sem döbbent meg? Hát, ha nem döbbentetek meg, nem vagyok azok a döbbenősek?",
+      "start": 40.28,
+      "end": 45.96
+    },
+    {
+      "text": " Ez fantasztikus! Kísértetek! Ma a Comedy Centralon!",
+      "start": 46.44,
+      "end": 52.52
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 58.7,
+      "end": 59.4
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 59.52,
+      "end": 59.98
+    }
+  ],
+  "processing_time": 0.558527946472168,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

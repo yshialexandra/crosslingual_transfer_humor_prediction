@@ -1,0 +1,179 @@
+{
+  "audio_file": "Te Abandonaron de Pequeño ｜ Arturo González vs Juan Gómez ｜ ROAST BATTLE 4.wav",
+  "full_text": "Y ahora voy contigo Juan, Juan Gómez Jurado. Eres el tío, el autor en castellano más vendido del mundo, más leído del mundo. Has superado a Isabel Allende. Creo que no lo has superado, lo has agotado, Juan, porque eres... En serio, eres muy guay como escritor, pero eres muy cansino. Te llaman el rey del thriller y yo me he leído tus libros y estoy buscando la resolución del único misterio que no está en tus libros, que es cómo es posible que se venda esa mierda, Juan. Te dedicas al podcast y tú eres el rey del podcast. Pero aparte de los que haces conmigo, haces también uno con Dani Rovira, ¿no? Sí, veo que Dani sigue obsesionado con salvar seres vivos vulnerables. Es curioso porque es cierto, gracias a Arturo González Campos hemos descubierto cuál es la raza favorita de Dani Rovira. Es el perrito faldero. También Dani Rovira te quiere mandar un saludo, quiere darte las gracias, sí, porque me ha puesto un WhatsApp mientras estaba aquí esperando a que empezáramos y me ha dicho, oye, dile a Arturo que gracias a él el cáncer es la segunda peor cosa que me ha pasado en la vida. ¡No! No, no me quiero meter con Juan, no me quiero meter con Juan porque ya lo ha contado él muchas veces. A Juan le abandonaron sus padres cuando era pequeño, Juan el huérfano. A Juan le pegaban en el colegio, le hicieron muchísimo bullying. Yo he visto las fotos de Juan cuando era pequeño. Juan era un niño bajito, gordo, con gafas, redicho. Juan era un niño que estaba pidiendo hostias todo el rato. En serio, o sea, yo creo que el juez de la minifalda diría vale, es que le pegan, pero es que va provocando, joder. Sí. Gracias.",
+  "chunks": [
+    {
+      "text": " Y ahora voy contigo Juan, Juan Gómez Jurado.",
+      "start": 1.0800000000000012,
+      "end": 3.9
+    },
+    {
+      "text": " Eres el tío, el autor en castellano más vendido del mundo,",
+      "start": 4.3,
+      "end": 9.7
+    },
+    {
+      "text": " más leído del mundo.",
+      "start": 9.86,
+      "end": 11.28
+    },
+    {
+      "text": " Has superado a Isabel Allende.",
+      "start": 11.5,
+      "end": 13.98
+    },
+    {
+      "text": " Creo que no lo has superado, lo has agotado, Juan, porque eres...",
+      "start": 14.2,
+      "end": 16.58
+    },
+    {
+      "text": " En serio, eres muy guay como escritor, pero eres muy cansino.",
+      "start": 18.200000000000003,
+      "end": 22.98
+    },
+    {
+      "text": " Te llaman el rey del thriller y yo me he leído tus libros",
+      "start": 23.1,
+      "end": 26.9
+    },
+    {
+      "text": " y estoy buscando la resolución del único misterio que no está en tus libros,",
+      "start": 26.9,
+      "end": 30.72
+    },
+    {
+      "text": " que es cómo es posible que se venda esa mierda, Juan.",
+      "start": 30.84,
+      "end": 33.48
+    },
+    {
+      "text": " Te dedicas al podcast y tú eres el rey del podcast.",
+      "start": 39.32,
+      "end": 42.14
+    },
+    {
+      "text": " Pero aparte de los que haces conmigo, haces también uno con Dani Rovira, ¿no?",
+      "start": 42.96,
+      "end": 45.92
+    },
+    {
+      "text": " Sí, veo que Dani sigue obsesionado con salvar seres vivos vulnerables.",
+      "start": 46.12,
+      "end": 49.76
+    },
+    {
+      "text": " Es curioso porque es cierto, gracias a Arturo González Campos",
+      "start": 56.9,
+      "end": 61.3
+    },
+    {
+      "text": " hemos descubierto cuál es la raza favorita de Dani Rovira.",
+      "start": 61.3,
+      "end": 64.98
+    },
+    {
+      "text": " Es el perrito faldero.",
+      "start": 65.12,
+      "end": 66.08
+    },
+    {
+      "text": " También Dani Rovira te quiere mandar un saludo,",
+      "start": 71.16,
+      "end": 73.34
+    },
+    {
+      "text": " quiere darte las gracias, sí, porque me ha puesto un WhatsApp",
+      "start": 73.48,
+      "end": 76.66
+    },
+    {
+      "text": " mientras estaba aquí esperando a que empezáramos",
+      "start": 76.66,
+      "end": 78.86
+    },
+    {
+      "text": " y me ha dicho, oye, dile a Arturo que gracias a él",
+      "start": 78.86,
+      "end": 82.12
+    },
+    {
+      "text": " el cáncer es la segunda peor cosa que me ha pasado en la vida.",
+      "start": 82.12,
+      "end": 85.34
+    },
+    {
+      "text": " ¡No!",
+      "start": 85.46,
+      "end": 85.64
+    },
+    {
+      "text": " No, no me quiero meter con Juan, no me quiero meter con Juan",
+      "start": 88.9,
+      "end": 91.2
+    },
+    {
+      "text": " porque ya lo ha contado él muchas veces.",
+      "start": 91.2,
+      "end": 92.88
+    },
+    {
+      "text": " A Juan le abandonaron sus padres cuando era pequeño,",
+      "start": 93.34,
+      "end": 96.52
+    },
+    {
+      "text": " Juan el huérfano.",
+      "start": 96.68,
+      "end": 97.38
+    },
+    {
+      "text": " A Juan le pegaban en el colegio,",
+      "start": 98.12,
+      "end": 100.38
+    },
+    {
+      "text": " le hicieron muchísimo bullying.",
+      "start": 100.56,
+      "end": 102.24
+    },
+    {
+      "text": " Yo he visto las fotos de Juan cuando era pequeño.",
+      "start": 102.8,
+      "end": 104.82
+    },
+    {
+      "text": " Juan era un niño bajito, gordo, con gafas, redicho.",
+      "start": 105.6,
+      "end": 112.22
+    },
+    {
+      "text": " Juan era un niño que estaba pidiendo hostias todo el rato.",
+      "start": 113.2,
+      "end": 116.24
+    },
+    {
+      "text": " En serio, o sea, yo creo que el juez de la minifalda diría",
+      "start": 116.86,
+      "end": 120.28
+    },
+    {
+      "text": " vale, es que le pegan, pero es que va provocando, joder.",
+      "start": 120.28,
+      "end": 122.66
+    },
+    {
+      "text": " Sí.",
+      "start": 124.52000000000001,
+      "end": 125.04
+    },
+    {
+      "text": " Gracias.",
+      "start": 134.82,
+      "end": 135.1
+    }
+  ],
+  "processing_time": 0.7005329132080078,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,19 @@
+{
+  "audio_file": "Drágaság ｜ Mélynyomó.wav",
+  "full_text": "Na végre! Na ne haragudj, nagyon nagy sor volt! Emélem nem valami szart hoztál! Hát 1200-ért én is! Mennyiért? Várjál itt a kártyát! Mennyiért? 1200 darabja, ne nézzél drágaságban! Az eszem megáll! És te is te! Te ez csak víz! Ugye? Képzelheted mennyi a pálinka! Mondom, hogy drágaságban! NAMASTE",
+  "chunks": [
+    {
+      "text": " Na végre! Na ne haragudj, nagyon nagy sor volt! Emélem nem valami szart hoztál! Hát 1200-ért én is! Mennyiért? Várjál itt a kártyát! Mennyiért? 1200 darabja, ne nézzél drágaságban! Az eszem megáll! És te is te! Te ez csak víz! Ugye? Képzelheted mennyi a pálinka! Mondom, hogy drágaságban!",
+      "start": 5.159999999999994,
+      "end": 29.94
+    },
+    {
+      "text": " NAMASTE",
+      "start": 32.1,
+      "end": 33.5
+    }
+  ],
+  "processing_time": 0.9521079063415527,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

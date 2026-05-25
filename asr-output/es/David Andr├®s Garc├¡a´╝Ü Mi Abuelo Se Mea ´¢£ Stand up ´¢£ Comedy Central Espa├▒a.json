@@ -1,0 +1,229 @@
+{
+  "audio_file": "David Andrés García： Mi Abuelo Se Mea ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "Así es que sería una persona con discapacidad menos en el sentido del humor. Yo sentido del humor, tengo mucho sentido del humor, como mi abuelo. Mi abuelo, es decir que tiene sentido del humor, mi abuelo en cuanto me escucha se mea. Bueno, se mea igual, se mea igual, pero le encanta verme haciendo monólogos. E incluso mi abuelo fue un héroe, de los primeros socorristas de playa que hubo en España. Trabajó 40 años de socorrista en la playa, se jubiló de socorrista en la playa y aún le gusta ir a la playa. Mi abuelo cuando le gusta algo no lo deja nunca. Hizo la mil en Melilla y todavía fuma porros. Y cuando trabajaba de socorrista hacía de todo, de vigilante, de enfermero hasta de alarma. Si miraba al agua y veía algo decía ¡Topa fue! Las fantaserbetas coge con agua. Hacia de todo, de verdad. Los socorristas de ahora son más delicados. Que estás en la playa y se oye, posible presencia de medusas. Parece que te avisan con indirectas. Cualquier día te estás bañando en el agua y se oye por megafonía, ahí está el tiburón. Ahí está el tiburón. Y la gente en el agua, fiesta, fiesta. Mira si haciendo el muerto, no se ha enterado. Mi abuelo está mayor, está mayor ya el hombre, ya no puede ser socorrista. Mi abuelo ahora es banquero, está todo el día sentado en un banco. Pero sigue siendo un valiente, que no le tiene miedo, vamos, ni a la muerte. Dice que a lo mejor la muerte no es como pensamos. Un esqueleto vestido de negro, que a lo mejor la muerte no es así. A lo mejor la muerte es una tía con las tetas grandes que te dice, ven, no te va a pasar nada, ven. Igual por eso los hombres vivimos menos que las mujeres. Yo viniendo de él lo entiendo, porque los hombres reconozcamos todo lo que tenga que ver con mujeres y sexo, hace que nos ilusionemos. Como cuando un amigo decía, tío, que me he enrollado con una alemana. Y piensas en Claudia Schiffer como si la Merkel no fuera alemana. A ver, ¿en qué quedamos? Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias.",
+  "chunks": [
+    {
+      "text": " Así es que sería una persona con discapacidad menos en el sentido del humor.",
+      "start": 1.1800000000000013,
+      "end": 6.04
+    },
+    {
+      "text": " Yo sentido del humor, tengo mucho sentido del humor, como mi abuelo.",
+      "start": 6.32,
+      "end": 9.74
+    },
+    {
+      "text": " Mi abuelo, es decir que tiene sentido del humor, mi abuelo en cuanto me escucha se mea.",
+      "start": 9.82,
+      "end": 14.5
+    },
+    {
+      "text": " Bueno, se mea igual, se mea igual, pero le encanta verme haciendo monólogos.",
+      "start": 16.740000000000002,
+      "end": 23.04
+    },
+    {
+      "text": " E incluso mi abuelo fue un héroe, de los primeros socorristas de playa que hubo en España.",
+      "start": 23.32,
+      "end": 28.24
+    },
+    {
+      "text": " Trabajó 40 años de socorrista en la playa, se jubiló de socorrista en la playa y aún le gusta ir a la playa.",
+      "start": 29.020000000000007,
+      "end": 35.36
+    },
+    {
+      "text": " Mi abuelo cuando le gusta algo no lo deja nunca.",
+      "start": 36.00000000000001,
+      "end": 39.1
+    },
+    {
+      "text": " Hizo la mil en Melilla y todavía fuma porros.",
+      "start": 39.68,
+      "end": 41.94
+    },
+    {
+      "text": " Y cuando trabajaba de socorrista hacía de todo, de vigilante, de enfermero hasta de alarma.",
+      "start": 43.660000000000004,
+      "end": 50.4
+    },
+    {
+      "text": " Si miraba al agua y veía algo decía ¡Topa fue!",
+      "start": 50.66,
+      "end": 54.28
+    },
+    {
+      "text": " Las fantaserbetas coge con agua.",
+      "start": 68.24000000000001,
+      "end": 70.92
+    },
+    {
+      "text": " Hacia de todo, de verdad.",
+      "start": 78.8,
+      "end": 80.2
+    },
+    {
+      "text": " Los socorristas de ahora son más delicados.",
+      "start": 81.08,
+      "end": 83.14
+    },
+    {
+      "text": " Que estás en la playa y se oye, posible presencia de medusas.",
+      "start": 84.22,
+      "end": 87.96
+    },
+    {
+      "text": " Parece que te avisan con indirectas.",
+      "start": 89.56,
+      "end": 91.6
+    },
+    {
+      "text": " Cualquier día te estás bañando en el agua y se oye por megafonía, ahí está el tiburón.",
+      "start": 92.42,
+      "end": 97.56
+    },
+    {
+      "text": " Ahí está el tiburón.",
+      "start": 97.72,
+      "end": 99.14
+    },
+    {
+      "text": " Y la gente en el agua, fiesta, fiesta.",
+      "start": 107.5,
+      "end": 109.98
+    },
+    {
+      "text": " Mira si haciendo el muerto, no se ha enterado.",
+      "start": 111.38,
+      "end": 113.54
+    },
+    {
+      "text": " Mi abuelo está mayor, está mayor ya el hombre, ya no puede ser socorrista.",
+      "start": 116.04,
+      "end": 120.96
+    },
+    {
+      "text": " Mi abuelo ahora es banquero, está todo el día sentado en un banco.",
+      "start": 121.62,
+      "end": 124.68
+    },
+    {
+      "text": " Pero sigue siendo un valiente, que no le tiene miedo, vamos, ni a la muerte.",
+      "start": 126.42,
+      "end": 130.6
+    },
+    {
+      "text": " Dice que a lo mejor la muerte no es como pensamos.",
+      "start": 131.52,
+      "end": 133.8
+    },
+    {
+      "text": " Un esqueleto vestido de negro, que a lo mejor la muerte no es así.",
+      "start": 134.62,
+      "end": 138.06
+    },
+    {
+      "text": " A lo mejor la muerte es una tía con las tetas grandes que te dice, ven, no te va a pasar nada, ven.",
+      "start": 138.2,
+      "end": 142.2
+    },
+    {
+      "text": " Igual por eso los hombres vivimos menos que las mujeres.",
+      "start": 144.22,
+      "end": 146.92
+    },
+    {
+      "text": " Yo viniendo de él lo entiendo, porque los hombres reconozcamos todo lo que tenga que ver con mujeres y sexo, hace que nos ilusionemos.",
+      "start": 155.64000000000004,
+      "end": 163.68
+    },
+    {
+      "text": " Como cuando un amigo decía, tío, que me he enrollado con una alemana.",
+      "start": 164.38,
+      "end": 168.62
+    },
+    {
+      "text": " Y piensas en Claudia Schiffer como si la Merkel no fuera alemana.",
+      "start": 168.62,
+      "end": 172.16
+    },
+    {
+      "text": " A ver, ¿en qué quedamos?",
+      "start": 173.56,
+      "end": 174.98
+    },
+    {
+      "text": " Gracias.",
+      "start": 174.98,
+      "end": 176.2
+    },
+    {
+      "text": " Gracias.",
+      "start": 176.2,
+      "end": 176.56
+    },
+    {
+      "text": " Gracias.",
+      "start": 176.56,
+      "end": 176.9
+    },
+    {
+      "text": " Gracias.",
+      "start": 176.9,
+      "end": 177.16
+    },
+    {
+      "text": " Gracias.",
+      "start": 178.16,
+      "end": 178.58
+    },
+    {
+      "text": " Gracias.",
+      "start": 178.58,
+      "end": 179.2
+    },
+    {
+      "text": " Gracias.",
+      "start": 179.3,
+      "end": 179.44
+    },
+    {
+      "text": " Gracias.",
+      "start": 179.44,
+      "end": 179.48
+    },
+    {
+      "text": " Gracias.",
+      "start": 180.22,
+      "end": 180.54
+    },
+    {
+      "text": " Gracias.",
+      "start": 180.54,
+      "end": 180.86
+    },
+    {
+      "text": " Gracias.",
+      "start": 181.56,
+      "end": 181.64
+    },
+    {
+      "text": " Gracias.",
+      "start": 181.64,
+      "end": 181.94
+    },
+    {
+      "text": " Gracias.",
+      "start": 182.1,
+      "end": 182.14
+    },
+    {
+      "text": " Gracias.",
+      "start": 182.14,
+      "end": 182.42
+    }
+  ],
+  "processing_time": 2.435103416442871,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,99 @@
+{
+  "audio_file": "Mélygarázs ｜ Kedvesség.wav",
+  "full_text": "EZŐKERSZÁSZLÐ Ez az te gyökér! Látod, hogy jövök, hát be ne engedjél te, büdös paraszt! Na, te meg állj meg ott a bussába, mint akit odaszartak! Nagyon jó! Jaj, igen, igen, ott lesz az Index. Használjad bátran, te köpedék, te! Na, most akkor a sutyerák kiáll a kapuhajból, vagy letaroljam a hátulját úgy, ahogy van. Na, végre! Na, meg is jöttünk, uram, kereken 2000 lesz. Pillanat. Igen, dudájál, dudájál, te túrha puttony, ki ne szállhasson az utaz! Parancsoljon. Köszönöm szépen. Gondolom, miket mond az utasokra? Kérem, az utasasz szent, én az utasért vagyok. Viszlát! Viszlát! Egy élmény volt, hajat nem is te, díszparaszt, te!",
+  "chunks": [
+    {
+      "text": " EZŐKERSZÁSZLÐ",
+      "start": 5.859999999999996,
+      "end": 6.34
+    },
+    {
+      "text": " Ez az te gyökér!",
+      "start": 6.34,
+      "end": 7.36
+    },
+    {
+      "text": " Látod, hogy jövök, hát be ne engedjél te, büdös paraszt!",
+      "start": 7.8,
+      "end": 12.02
+    },
+    {
+      "text": " Na, te meg állj meg ott a bussába, mint akit odaszartak!",
+      "start": 13.1,
+      "end": 17.18
+    },
+    {
+      "text": " Nagyon jó!",
+      "start": 17.72,
+      "end": 18.5
+    },
+    {
+      "text": " Jaj, igen, igen, ott lesz az Index. Használjad bátran, te köpedék, te!",
+      "start": 19.9,
+      "end": 25.48
+    },
+    {
+      "text": " Na, most akkor a sutyerák kiáll a kapuhajból, vagy letaroljam a hátulját úgy, ahogy van.",
+      "start": 26.259999999999998,
+      "end": 32.96
+    },
+    {
+      "text": " Na, végre!",
+      "start": 33.58,
+      "end": 34.98
+    },
+    {
+      "text": " Na, meg is jöttünk, uram, kereken 2000 lesz.",
+      "start": 37.480000000000004,
+      "end": 42.78
+    },
+    {
+      "text": " Pillanat.",
+      "start": 42.96,
+      "end": 43.62
+    },
+    {
+      "text": " Igen, dudájál, dudájál, te túrha puttony, ki ne szállhasson az utaz!",
+      "start": 45.480000000000004,
+      "end": 51.36
+    },
+    {
+      "text": " Parancsoljon.",
+      "start": 51.94,
+      "end": 52.7
+    },
+    {
+      "text": " Köszönöm szépen.",
+      "start": 52.96,
+      "end": 54.0
+    },
+    {
+      "text": " Gondolom, miket mond az utasokra?",
+      "start": 54.0,
+      "end": 56.14
+    },
+    {
+      "text": " Kérem, az utasasz szent, én az utasért vagyok.",
+      "start": 56.22,
+      "end": 58.54
+    },
+    {
+      "text": " Viszlát!",
+      "start": 58.78,
+      "end": 59.28
+    },
+    {
+      "text": " Viszlát!",
+      "start": 59.84,
+      "end": 60.44
+    },
+    {
+      "text": " Egy élmény volt, hajat nem is te, díszparaszt, te!",
+      "start": 63.18,
+      "end": 68.94
+    }
+  ],
+  "processing_time": 1.2826721668243408,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

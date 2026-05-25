@@ -1,0 +1,29 @@
+{
+  "audio_file": "Kövek ｜ ÉÉÉÉS Most.wav",
+  "full_text": "Köszönöm! Köszönöm! Köszönöm! Köszönöm!",
+  "chunks": [
+    {
+      "text": " Köszönöm!",
+      "start": 2.42,
+      "end": 3.82
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 37.9,
+      "end": 39.3
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 72.17999999999999,
+      "end": 73.58
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 92.02,
+      "end": 93.42
+    }
+  ],
+  "processing_time": 0.2581062316894531,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

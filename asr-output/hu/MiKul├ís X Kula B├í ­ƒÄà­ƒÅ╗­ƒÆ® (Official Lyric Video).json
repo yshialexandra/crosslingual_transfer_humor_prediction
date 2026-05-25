@@ -1,0 +1,54 @@
+{
+  "audio_file": "MiKulás X Kula Bá 🎅🏻💩 (Official Lyric Video).wav",
+  "full_text": "Egy, két, hárok! Barra lesz a hú, és csíkot húz a szám. Mind kitolni jó, meg könnyebb ősz talán. A párkány már havas, dél nagy kabát. Ha jó voltál már, érzed is az ünnepek szagát. Mikulás, Mikulás, vala Mikulás, A nap nem süt, de így is üt egy spontán barnulás. Mikulás, Mikulás, vala Mikulás, Decemberben kula nélkül nincsen Mikulás.",
+  "chunks": [
+    {
+      "text": " Egy, két, hárok!",
+      "start": 0.0,
+      "end": 2.36
+    },
+    {
+      "text": " Barra lesz a hú, és csíkot húz a szám.",
+      "start": 2.46,
+      "end": 6.04
+    },
+    {
+      "text": " Mind kitolni jó, meg könnyebb ősz talán.",
+      "start": 6.6,
+      "end": 10.14
+    },
+    {
+      "text": " A párkány már havas, dél nagy kabát.",
+      "start": 10.4,
+      "end": 14.1
+    },
+    {
+      "text": " Ha jó voltál már, érzed is az ünnepek szagát.",
+      "start": 14.42,
+      "end": 18.1
+    },
+    {
+      "text": " Mikulás, Mikulás, vala Mikulás,",
+      "start": 19.240000000000002,
+      "end": 22.04
+    },
+    {
+      "text": " A nap nem süt, de így is üt egy spontán barnulás.",
+      "start": 22.12,
+      "end": 26.1
+    },
+    {
+      "text": " Mikulás, Mikulás, vala Mikulás,",
+      "start": 26.1,
+      "end": 30.18
+    },
+    {
+      "text": " Decemberben kula nélkül nincsen Mikulás.",
+      "start": 30.72,
+      "end": 34.2
+    }
+  ],
+  "processing_time": 0.263552188873291,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

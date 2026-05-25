@@ -1,0 +1,24 @@
+{
+  "audio_file": "Mélyvíz ｜ Ne pisilj a vízbe.wav",
+  "full_text": "Hallod? Lécivers, te ott! Figyelj! Mit csinálsz? Bele ne pisíjél a vízbe, hallod? Bele akarsz pisílni? Nehogy bele pisíjél, mert kihozlak, hallod? Bemegyek és ki... Bele pisíltél? Új, én be nem megyek. Endély, hogy mi helyzet vagy be? Hozd ki azt a gyereket, Lécivers, jó? Ne, mi csinált? Mi csináltál? Hozzad ki azonnal, jó? Hozz ki te? Ja persze, nem tudsz hozzni. Ne, tudok, csak összeférhetetlen vagyok. Na, hozz ki! Na jó, van. Hozzad ki! Na, jön a kölött! Mi van?",
+  "chunks": [
+    {
+      "text": " Hallod? Lécivers, te ott! Figyelj! Mit csinálsz? Bele ne pisíjél a vízbe, hallod? Bele akarsz pisílni? Nehogy bele pisíjél, mert kihozlak, hallod? Bemegyek és ki... Bele pisíltél? Új, én be nem megyek.",
+      "start": 4.260000000000004,
+      "end": 18.24
+    },
+    {
+      "text": " Endély, hogy mi helyzet vagy be? Hozd ki azt a gyereket, Lécivers, jó? Ne, mi csinált? Mi csináltál? Hozzad ki azonnal, jó? Hozz ki te? Ja persze, nem tudsz hozzni.",
+      "start": 19.500000000000004,
+      "end": 27.84
+    },
+    {
+      "text": " Ne, tudok, csak összeférhetetlen vagyok. Na, hozz ki! Na jó, van. Hozzad ki! Na, jön a kölött! Mi van?",
+      "start": 27.84,
+      "end": 42.8
+    }
+  ],
+  "processing_time": 0.2926969528198242,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,94 @@
+{
+  "audio_file": "Ha bármit megcsinálhatnál... ｜ Susogós Mackók 🐻.wav",
+  "full_text": "Sanya, te mit csinálnál, ha bármit megcsinálhatnál? Közös képviselő lennék. Nem azt kérdeztem, hogy mikor csinálhatnál meg bármit, hanem hogy mit csinálnál. Hát, öööö... Na? Megennék négy üveg mézet. Ennyi? Bármit megcsinálhatsz? Ha mindent megcsinálnék, amire van lehetőségem, nem lenne időm mézet enni, amit a legjobban szeretek. Akkor meg minek csinálom a többit. És te? Nem tudom. Én nem szeretek gondolkodni. Fáraszt, meg veszélyes is. Eszedbe jut például valami, aztán nem megy ki a fejedből. Én azt csinálnám, hogy ne jusson eszembe semmi. Kivéve a mézet. Persze, kivéve a mézet. Igazi haver vagy. Kivéve a mézet.",
+  "chunks": [
+    {
+      "text": " Sanya, te mit csinálnál, ha bármit megcsinálhatnál?",
+      "start": 0.58,
+      "end": 4.44
+    },
+    {
+      "text": " Közös képviselő lennék.",
+      "start": 5.22,
+      "end": 6.92
+    },
+    {
+      "text": " Nem azt kérdeztem, hogy mikor csinálhatnál meg bármit, hanem hogy mit csinálnál.",
+      "start": 7.48,
+      "end": 12.0
+    },
+    {
+      "text": " Hát, öööö...",
+      "start": 12.32,
+      "end": 14.1
+    },
+    {
+      "text": " Na?",
+      "start": 14.1,
+      "end": 14.3
+    },
+    {
+      "text": " Megennék négy üveg mézet.",
+      "start": 16.14,
+      "end": 17.64
+    },
+    {
+      "text": " Ennyi? Bármit megcsinálhatsz?",
+      "start": 17.86,
+      "end": 20.68
+    },
+    {
+      "text": " Ha mindent megcsinálnék, amire van lehetőségem, nem lenne időm mézet enni, amit a legjobban szeretek.",
+      "start": 20.98,
+      "end": 27.16
+    },
+    {
+      "text": " Akkor meg minek csinálom a többit.",
+      "start": 27.9,
+      "end": 29.9
+    },
+    {
+      "text": " És te?",
+      "start": 30.0,
+      "end": 31.24
+    },
+    {
+      "text": " Nem tudom. Én nem szeretek gondolkodni. Fáraszt, meg veszélyes is.",
+      "start": 35.14,
+      "end": 40.92
+    },
+    {
+      "text": " Eszedbe jut például valami, aztán nem megy ki a fejedből.",
+      "start": 41.64,
+      "end": 44.76
+    },
+    {
+      "text": " Én azt csinálnám, hogy ne jusson eszembe semmi.",
+      "start": 45.06,
+      "end": 47.7
+    },
+    {
+      "text": " Kivéve a mézet.",
+      "start": 47.9,
+      "end": 48.86
+    },
+    {
+      "text": " Persze, kivéve a mézet.",
+      "start": 49.06,
+      "end": 50.74
+    },
+    {
+      "text": " Igazi haver vagy.",
+      "start": 53.160000000000004,
+      "end": 54.48
+    },
+    {
+      "text": " Kivéve a mézet.",
+      "start": 57.24,
+      "end": 62.5
+    }
+  ],
+  "processing_time": 0.8641226291656494,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,1101 @@
+{
+  "audio_file": "Rajoy Me Dio Un Beso ｜ Bibiana Fernández vs María Barranco ｜ Roast Battle 3.wav",
+  "full_text": " María, te voy a dar tres datos y tú tienes que adivinar cuál de ellos se acerca. Mariano Rajoy me dio un beso en la boca. Con 12 años pesaba 80 kilos. Soy adicta a TikTok, que yo no he colgado ninguno, pero me paso el día mirando videos. Lo de Mariano no me lo creo. ¿No? Yo creo que eres adicta al TikTok. Pues estás equivocada. Vaya por Dios. Con 12 años pesaba 80 kilos. ¿Tú? Pero si nunca has pesado 80 kilos. Con 12 años pesaba, después me dio por la carne a la planta. Pero el E.P. Cruz un día me pidió un vestido prestado para los Goya. Mi primer papel fue de portera de una discoteca. Cuando yo hice mujer al borde de un ataque nervioso, los pendientes de la cafetera me dio una alergia horrorosa. Te dieron alergia a los pendientes de la cafetera. Es verdad, cariño. ¡Suscríbete al canal!",
+  "chunks": [
+    {
+      "text": " María,",
+      "timestamp": [
+        0.0,
+        5.4
+      ]
+    },
+    {
+      "text": " te",
+      "timestamp": [
+        5.4,
+        5.9
+      ]
+    },
+    {
+      "text": " voy",
+      "timestamp": [
+        5.9,
+        6.06
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        6.06,
+        6.14
+      ]
+    },
+    {
+      "text": " dar",
+      "timestamp": [
+        6.14,
+        6.28
+      ]
+    },
+    {
+      "text": " tres",
+      "timestamp": [
+        6.28,
+        6.54
+      ]
+    },
+    {
+      "text": " datos",
+      "timestamp": [
+        6.54,
+        6.78
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        6.78,
+        7.12
+      ]
+    },
+    {
+      "text": " tú",
+      "timestamp": [
+        7.12,
+        7.26
+      ]
+    },
+    {
+      "text": " tienes",
+      "timestamp": [
+        7.26,
+        7.5
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        7.5,
+        7.58
+      ]
+    },
+    {
+      "text": " adivinar",
+      "timestamp": [
+        7.58,
+        7.9
+      ]
+    },
+    {
+      "text": " cuál",
+      "timestamp": [
+        7.9,
+        8.14
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        8.14,
+        8.26
+      ]
+    },
+    {
+      "text": " ellos",
+      "timestamp": [
+        8.26,
+        8.42
+      ]
+    },
+    {
+      "text": " se",
+      "timestamp": [
+        8.42,
+        8.56
+      ]
+    },
+    {
+      "text": " acerca.",
+      "timestamp": [
+        8.56,
+        8.88
+      ]
+    },
+    {
+      "text": " Mariano",
+      "timestamp": [
+        9.08,
+        9.42
+      ]
+    },
+    {
+      "text": " Rajoy",
+      "timestamp": [
+        9.42,
+        9.8
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        9.8,
+        9.92
+      ]
+    },
+    {
+      "text": " dio",
+      "timestamp": [
+        9.92,
+        10.08
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        10.08,
+        10.18
+      ]
+    },
+    {
+      "text": " beso",
+      "timestamp": [
+        10.18,
+        10.42
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        10.42,
+        10.42
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        10.42,
+        10.48
+      ]
+    },
+    {
+      "text": " boca.",
+      "timestamp": [
+        10.48,
+        10.9
+      ]
+    },
+    {
+      "text": " Con",
+      "timestamp": [
+        11.56,
+        11.84
+      ]
+    },
+    {
+      "text": " 12",
+      "timestamp": [
+        11.84,
+        12.06
+      ]
+    },
+    {
+      "text": " años",
+      "timestamp": [
+        12.06,
+        12.4
+      ]
+    },
+    {
+      "text": " pesaba",
+      "timestamp": [
+        12.4,
+        12.72
+      ]
+    },
+    {
+      "text": " 80",
+      "timestamp": [
+        12.72,
+        12.88
+      ]
+    },
+    {
+      "text": " kilos.",
+      "timestamp": [
+        12.88,
+        13.42
+      ]
+    },
+    {
+      "text": " Soy",
+      "timestamp": [
+        14.22,
+        14.4
+      ]
+    },
+    {
+      "text": " adicta",
+      "timestamp": [
+        14.4,
+        14.82
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        14.82,
+        14.88
+      ]
+    },
+    {
+      "text": " TikTok,",
+      "timestamp": [
+        14.88,
+        15.3
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        15.3,
+        15.76
+      ]
+    },
+    {
+      "text": " yo",
+      "timestamp": [
+        15.76,
+        16.0
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        16.0,
+        16.26
+      ]
+    },
+    {
+      "text": " he",
+      "timestamp": [
+        16.26,
+        16.36
+      ]
+    },
+    {
+      "text": " colgado",
+      "timestamp": [
+        16.36,
+        16.66
+      ]
+    },
+    {
+      "text": " ninguno,",
+      "timestamp": [
+        16.66,
+        17.24
+      ]
+    },
+    {
+      "text": " pero",
+      "timestamp": [
+        17.24,
+        17.38
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        17.38,
+        17.48
+      ]
+    },
+    {
+      "text": " paso",
+      "timestamp": [
+        17.48,
+        17.68
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        17.68,
+        17.8
+      ]
+    },
+    {
+      "text": " día",
+      "timestamp": [
+        17.8,
+        17.96
+      ]
+    },
+    {
+      "text": " mirando",
+      "timestamp": [
+        17.96,
+        18.38
+      ]
+    },
+    {
+      "text": " videos.",
+      "timestamp": [
+        18.38,
+        18.86
+      ]
+    },
+    {
+      "text": " Lo",
+      "timestamp": [
+        19.4,
+        19.42
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        19.42,
+        19.5
+      ]
+    },
+    {
+      "text": " Mariano",
+      "timestamp": [
+        19.5,
+        19.94
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        19.94,
+        20.16
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        20.16,
+        20.24
+      ]
+    },
+    {
+      "text": " lo",
+      "timestamp": [
+        20.24,
+        20.36
+      ]
+    },
+    {
+      "text": " creo.",
+      "timestamp": [
+        20.36,
+        20.76
+      ]
+    },
+    {
+      "text": " ¿No?",
+      "timestamp": [
+        20.98,
+        21.18
+      ]
+    },
+    {
+      "text": " Yo",
+      "timestamp": [
+        21.34,
+        21.38
+      ]
+    },
+    {
+      "text": " creo",
+      "timestamp": [
+        21.38,
+        21.62
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        21.62,
+        21.78
+      ]
+    },
+    {
+      "text": " eres",
+      "timestamp": [
+        21.78,
+        21.9
+      ]
+    },
+    {
+      "text": " adicta",
+      "timestamp": [
+        21.9,
+        22.4
+      ]
+    },
+    {
+      "text": " al",
+      "timestamp": [
+        22.4,
+        22.5
+      ]
+    },
+    {
+      "text": " TikTok.",
+      "timestamp": [
+        22.5,
+        23.44
+      ]
+    },
+    {
+      "text": " Pues",
+      "timestamp": [
+        23.96,
+        24.24
+      ]
+    },
+    {
+      "text": " estás",
+      "timestamp": [
+        24.24,
+        24.44
+      ]
+    },
+    {
+      "text": " equivocada.",
+      "timestamp": [
+        24.44,
+        24.98
+      ]
+    },
+    {
+      "text": " Vaya",
+      "timestamp": [
+        25.06,
+        25.16
+      ]
+    },
+    {
+      "text": " por",
+      "timestamp": [
+        25.16,
+        25.34
+      ]
+    },
+    {
+      "text": " Dios.",
+      "timestamp": [
+        25.34,
+        25.66
+      ]
+    },
+    {
+      "text": " Con",
+      "timestamp": [
+        25.78,
+        25.9
+      ]
+    },
+    {
+      "text": " 12",
+      "timestamp": [
+        25.9,
+        26.16
+      ]
+    },
+    {
+      "text": " años",
+      "timestamp": [
+        26.16,
+        26.52
+      ]
+    },
+    {
+      "text": " pesaba",
+      "timestamp": [
+        26.52,
+        26.8
+      ]
+    },
+    {
+      "text": " 80",
+      "timestamp": [
+        26.8,
+        26.98
+      ]
+    },
+    {
+      "text": " kilos.",
+      "timestamp": [
+        26.98,
+        27.52
+      ]
+    },
+    {
+      "text": " ¿Tú?",
+      "timestamp": [
+        27.66,
+        27.92
+      ]
+    },
+    {
+      "text": " Pero",
+      "timestamp": [
+        27.92,
+        28.16
+      ]
+    },
+    {
+      "text": " si",
+      "timestamp": [
+        28.16,
+        28.3
+      ]
+    },
+    {
+      "text": " nunca",
+      "timestamp": [
+        28.3,
+        28.56
+      ]
+    },
+    {
+      "text": " has",
+      "timestamp": [
+        28.56,
+        28.7
+      ]
+    },
+    {
+      "text": " pesado",
+      "timestamp": [
+        28.7,
+        29.0
+      ]
+    },
+    {
+      "text": " 80",
+      "timestamp": [
+        29.0,
+        29.2
+      ]
+    },
+    {
+      "text": " kilos.",
+      "timestamp": [
+        29.2,
+        29.76
+      ]
+    },
+    {
+      "text": " Con",
+      "timestamp": [
+        29.82,
+        29.94
+      ]
+    },
+    {
+      "text": " 12",
+      "timestamp": [
+        29.94,
+        30.22
+      ]
+    },
+    {
+      "text": " años",
+      "timestamp": [
+        30.22,
+        30.6
+      ]
+    },
+    {
+      "text": " pesaba,",
+      "timestamp": [
+        30.6,
+        31.0
+      ]
+    },
+    {
+      "text": " después",
+      "timestamp": [
+        31.0,
+        31.22
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        31.22,
+        31.38
+      ]
+    },
+    {
+      "text": " dio",
+      "timestamp": [
+        31.38,
+        31.54
+      ]
+    },
+    {
+      "text": " por",
+      "timestamp": [
+        31.54,
+        31.66
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        31.66,
+        31.78
+      ]
+    },
+    {
+      "text": " carne",
+      "timestamp": [
+        31.78,
+        31.96
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        31.96,
+        32.1
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        32.1,
+        32.16
+      ]
+    },
+    {
+      "text": " planta.",
+      "timestamp": [
+        32.16,
+        32.42
+      ]
+    },
+    {
+      "text": " Pero",
+      "timestamp": [
+        33.04,
+        33.42
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        33.42,
+        33.58
+      ]
+    },
+    {
+      "text": " E",
+      "timestamp": [
+        33.58,
+        33.68
+      ]
+    },
+    {
+      "text": ".P.",
+      "timestamp": [
+        33.68,
+        33.78
+      ]
+    },
+    {
+      "text": " Cruz",
+      "timestamp": [
+        33.78,
+        33.94
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        33.94,
+        34.1
+      ]
+    },
+    {
+      "text": " día",
+      "timestamp": [
+        34.1,
+        34.36
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        34.36,
+        34.68
+      ]
+    },
+    {
+      "text": " pidió",
+      "timestamp": [
+        34.68,
+        35.18
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        35.18,
+        35.48
+      ]
+    },
+    {
+      "text": " vestido",
+      "timestamp": [
+        35.48,
+        36.04
+      ]
+    },
+    {
+      "text": " prestado",
+      "timestamp": [
+        36.04,
+        36.4
+      ]
+    },
+    {
+      "text": " para",
+      "timestamp": [
+        36.4,
+        36.54
+      ]
+    },
+    {
+      "text": " los",
+      "timestamp": [
+        36.54,
+        36.68
+      ]
+    },
+    {
+      "text": " Goya.",
+      "timestamp": [
+        36.68,
+        37.04
+      ]
+    },
+    {
+      "text": " Mi",
+      "timestamp": [
+        37.68,
+        38.1
+      ]
+    },
+    {
+      "text": " primer",
+      "timestamp": [
+        38.1,
+        38.34
+      ]
+    },
+    {
+      "text": " papel",
+      "timestamp": [
+        38.34,
+        38.56
+      ]
+    },
+    {
+      "text": " fue",
+      "timestamp": [
+        38.56,
+        39.64
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        39.64,
+        39.8
+      ]
+    },
+    {
+      "text": " portera",
+      "timestamp": [
+        39.8,
+        40.24
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        40.24,
+        40.36
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        40.36,
+        40.46
+      ]
+    },
+    {
+      "text": " discoteca.",
+      "timestamp": [
+        40.46,
+        41.22
+      ]
+    },
+    {
+      "text": " Cuando",
+      "timestamp": [
+        42.06,
+        42.28
+      ]
+    },
+    {
+      "text": " yo",
+      "timestamp": [
+        42.28,
+        42.48
+      ]
+    },
+    {
+      "text": " hice",
+      "timestamp": [
+        42.48,
+        42.68
+      ]
+    },
+    {
+      "text": " mujer",
+      "timestamp": [
+        42.68,
+        43.04
+      ]
+    },
+    {
+      "text": " al",
+      "timestamp": [
+        43.04,
+        43.22
+      ]
+    },
+    {
+      "text": " borde",
+      "timestamp": [
+        43.22,
+        43.46
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        43.46,
+        43.54
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        43.54,
+        43.58
+      ]
+    },
+    {
+      "text": " ataque",
+      "timestamp": [
+        43.58,
+        43.76
+      ]
+    },
+    {
+      "text": " nervioso,",
+      "timestamp": [
+        43.76,
+        44.58
+      ]
+    },
+    {
+      "text": " los",
+      "timestamp": [
+        44.58,
+        45.36
+      ]
+    },
+    {
+      "text": " pendientes",
+      "timestamp": [
+        45.36,
+        45.78
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        45.92,
+        45.92
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        45.92,
+        45.94
+      ]
+    },
+    {
+      "text": " cafetera",
+      "timestamp": [
+        45.94,
+        46.34
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        46.34,
+        46.58
+      ]
+    },
+    {
+      "text": " dio",
+      "timestamp": [
+        46.58,
+        46.8
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        46.8,
+        46.94
+      ]
+    },
+    {
+      "text": " alergia",
+      "timestamp": [
+        46.94,
+        47.38
+      ]
+    },
+    {
+      "text": " horrorosa.",
+      "timestamp": [
+        47.38,
+        48.14
+      ]
+    },
+    {
+      "text": " Te",
+      "timestamp": [
+        48.14,
+        48.96
+      ]
+    },
+    {
+      "text": " dieron",
+      "timestamp": [
+        48.96,
+        49.28
+      ]
+    },
+    {
+      "text": " alergia",
+      "timestamp": [
+        49.28,
+        49.68
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        49.68,
+        49.74
+      ]
+    },
+    {
+      "text": " los",
+      "timestamp": [
+        49.74,
+        49.78
+      ]
+    },
+    {
+      "text": " pendientes",
+      "timestamp": [
+        49.78,
+        50.14
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        50.14,
+        50.38
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        50.38,
+        50.44
+      ]
+    },
+    {
+      "text": " cafetera.",
+      "timestamp": [
+        50.44,
+        51.04
+      ]
+    },
+    {
+      "text": " Es",
+      "timestamp": [
+        51.72,
+        54.12
+      ]
+    },
+    {
+      "text": " verdad,",
+      "timestamp": [
+        54.12,
+        54.72
+      ]
+    },
+    {
+      "text": " cariño.",
+      "timestamp": [
+        54.72,
+        55.34
+      ]
+    },
+    {
+      "text": " ¡Suscríbete",
+      "timestamp": [
+        60.0,
+        62.82
+      ]
+    },
+    {
+      "text": " al",
+      "timestamp": [
+        62.82,
+        63.44
+      ]
+    },
+    {
+      "text": " canal!",
+      "timestamp": [
+        63.44,
+        70.6
+      ]
+    }
+  ],
+  "processing_time": 7923.445235013962,
+  "language": "es",
+  "model_id": "openai/whisper-large-v3"
+}

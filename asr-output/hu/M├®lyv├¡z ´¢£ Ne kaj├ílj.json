@@ -1,0 +1,69 @@
+{
+  "audio_file": "Mélyvíz ｜ Ne kajálj.wav",
+  "full_text": "Elnézést! Figyeljél, büféből van a szendvics. Na, nem hallottam kristálytisztán. Arra szeretnénk megkérni népegészségügyileg, csak a büféből van. Figyelj, tegyed már el, hallod? Na. Miért nem elég ezeknek a szép szint? Na, látod ezt mondom. Büfés 10%-ot ígért, hogyha kicsit löveljük a bevételét. Hát azért előszakosnak mégse kéne venni. Mi? Na, de hát látod, hogy ezekkel másképp nem lehet, nem? Mi van? Ott az a nagy darab. Ki az ogre? És? Tőle is elvesszük? Elhát, azt hiszed, hogy befosok csak azért, mert nagy. Igen, már kétszer összevert. Na jó, figyelj, szólsz neki szépen, és hogyha nem megy, akkor háromra kirúgjuk a kezéből. Jó. Na. Oké. Jó napot kívánok, arra szeretnénk nagyon szépen megkérni népegészségügyileg, hogy otthorról hozott dinnyét ne fogyasszon a strandterületén. Így van. Egy, kettő, három! Látod, Endicke? Ezekkel másképp nem lehet. Köszönöm szépen.",
+  "chunks": [
+    {
+      "text": " Elnézést! Figyeljél, büféből van a szendvics. Na, nem hallottam kristálytisztán.",
+      "start": 3.799999999999997,
+      "end": 7.98
+    },
+    {
+      "text": " Arra szeretnénk megkérni népegészségügyileg, csak a büféből van. Figyelj, tegyed már el, hallod?",
+      "start": 8.0,
+      "end": 11.96
+    },
+    {
+      "text": " Na. Miért nem elég ezeknek a szép szint? Na, látod ezt mondom.",
+      "start": 13.059999999999997,
+      "end": 18.94
+    },
+    {
+      "text": " Büfés 10%-ot ígért, hogyha kicsit löveljük a bevételét.",
+      "start": 19.08,
+      "end": 22.78
+    },
+    {
+      "text": " Hát azért előszakosnak mégse kéne venni. Mi? Na, de hát látod, hogy ezekkel másképp nem lehet, nem?",
+      "start": 22.88,
+      "end": 27.68
+    },
+    {
+      "text": " Mi van? Ott az a nagy darab. Ki az ogre? És? Tőle is elvesszük?",
+      "start": 31.46,
+      "end": 39.04
+    },
+    {
+      "text": " Elhát, azt hiszed, hogy befosok csak azért, mert nagy.",
+      "start": 39.800000000000004,
+      "end": 42.12
+    },
+    {
+      "text": " Igen, már kétszer összevert. Na jó, figyelj, szólsz neki szépen, és hogyha nem megy, akkor háromra kirúgjuk a kezéből.",
+      "start": 43.88,
+      "end": 49.98
+    },
+    {
+      "text": " Jó. Na. Oké.",
+      "start": 49.98,
+      "end": 53.2
+    },
+    {
+      "text": " Jó napot kívánok, arra szeretnénk nagyon szépen megkérni népegészségügyileg, hogy otthorról hozott dinnyét ne fogyasszon a strandterületén.",
+      "start": 59.12,
+      "end": 64.98
+    },
+    {
+      "text": " Így van. Egy, kettő, három! Látod, Endicke? Ezekkel másképp nem lehet.",
+      "start": 65.18,
+      "end": 81.66
+    },
+    {
+      "text": " Köszönöm szépen.",
+      "start": 81.66,
+      "end": 85.66
+    }
+  ],
+  "processing_time": 1.5397238731384277,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

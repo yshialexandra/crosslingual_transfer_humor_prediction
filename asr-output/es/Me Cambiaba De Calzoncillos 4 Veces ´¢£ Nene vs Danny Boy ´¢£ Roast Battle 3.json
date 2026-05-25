@@ -1,0 +1,79 @@
+{
+  "audio_file": "Me Cambiaba De Calzoncillos 4 Veces ｜ Nene vs Danny Boy ｜ Roast Battle 3.wav",
+  "full_text": "¿Cuál es el correcto? Esta es la última. En el Guardián Invisible, como estamos siempre bajo la lluvia, todo el día mojados, pues tenía que cambiar mi calzoncillos hasta 6 o 7 veces. Que tú decías que era por el rodaje. Eso es. Mi nombre artístico me lo puso un camarero. Una vez me casé con una amiga para conseguir la nacionalidad y estuvimos tres meses siendo matrimonio. Y la tercera es que odio a los gatos. La tres. Bueno, es que lo del bar, siendo monologuista... La del camarero, nene. La del camarero. ¿De un puticlub? Eso ya no hay por qué contar en la tele.",
+  "chunks": [
+    {
+      "text": " ¿Cuál es el correcto?",
+      "start": 28.200000000000003,
+      "end": 29.98
+    },
+    {
+      "text": " Esta es la última.",
+      "start": 30.0,
+      "end": 30.56
+    },
+    {
+      "text": " En el Guardián Invisible, como estamos siempre bajo la lluvia, todo el día mojados, pues tenía que cambiar mi calzoncillos hasta 6 o 7 veces.",
+      "start": 30.96,
+      "end": 36.88
+    },
+    {
+      "text": " Que tú decías que era por el rodaje.",
+      "start": 37.08,
+      "end": 38.32
+    },
+    {
+      "text": " Eso es.",
+      "start": 38.48,
+      "end": 38.88
+    },
+    {
+      "text": " Mi nombre artístico me lo puso un camarero.",
+      "start": 40.1,
+      "end": 42.84
+    },
+    {
+      "text": " Una vez me casé con una amiga para conseguir la nacionalidad y estuvimos tres meses siendo matrimonio.",
+      "start": 44.34,
+      "end": 50.12
+    },
+    {
+      "text": " Y la tercera es que odio a los gatos.",
+      "start": 50.6,
+      "end": 54.4
+    },
+    {
+      "text": " La tres.",
+      "start": 55.02,
+      "end": 56.0
+    },
+    {
+      "text": " Bueno, es que lo del bar, siendo monologuista...",
+      "start": 56.58,
+      "end": 58.78
+    },
+    {
+      "text": " La del camarero, nene.",
+      "start": 58.78,
+      "end": 59.88
+    },
+    {
+      "text": " La del camarero.",
+      "start": 60.34,
+      "end": 61.38
+    },
+    {
+      "text": " ¿De un puticlub?",
+      "start": 62.28,
+      "end": 63.28
+    },
+    {
+      "text": " Eso ya no hay por qué contar en la tele.",
+      "start": 63.760000000000005,
+      "end": 65.64
+    }
+  ],
+  "processing_time": 0.38404011726379395,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

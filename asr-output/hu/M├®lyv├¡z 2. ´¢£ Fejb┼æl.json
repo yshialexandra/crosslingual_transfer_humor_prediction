@@ -1,0 +1,114 @@
+{
+  "audio_file": "Mélyvíz 2. ｜ Fejből.wav",
+  "full_text": "A KESZI CSOKOLOM Krumpli helyett rizssel és hozzá uborka salátát. Te mit kérsz drágám? Egy borjúbécsit, de sertésből megoldható. Minden megoldható kiskezicsókoló. Akkor azt és egy tanyasi jérce mellett krokettel? Igen. És ez italok? Hallgatom. Nem írja fel? Figyelek. Sör milyen van? Korsó, illetve ugye pohár. Jó, akkor én kérnék egy nagy fröccsöt és Ildi te. Szintén. Akkor két nagy fröccsöt és egy limonádét. Rendben. Bocsánat, a desszertet is mondhat? Természetesen. Akkor egy somlóigaluskát, egy gesztenyepürét is. Igen, egy túrós palacsintát, de sodónélkül. Sodónélkül. Rendben. Szerinted megjegyezte? Elég profi megtudni. Jó helyet és profi a személyezet. És a kóla. Milyen kóla? Mik is voltak a Cézársali után? Köszönöm a f Agustus-os Kisédel.",
+  "chunks": [
+    {
+      "text": " A KESZI CSOKOLOM",
+      "start": 26.180000000000003,
+      "end": 29.52
+    },
+    {
+      "text": " Krumpli helyett rizssel és hozzá uborka salátát. Te mit kérsz drágám?",
+      "start": 30.0,
+      "end": 33.98
+    },
+    {
+      "text": " Egy borjúbécsit, de sertésből megoldható. Minden megoldható kiskezicsókoló.",
+      "start": 34.08,
+      "end": 39.74
+    },
+    {
+      "text": " Akkor azt és egy tanyasi jérce mellett krokettel? Igen.",
+      "start": 39.84,
+      "end": 43.9
+    },
+    {
+      "text": " És ez italok? Hallgatom.",
+      "start": 44.04,
+      "end": 45.88
+    },
+    {
+      "text": " Nem írja fel? Figyelek.",
+      "start": 46.08,
+      "end": 47.3
+    },
+    {
+      "text": " Sör milyen van? Korsó, illetve ugye pohár.",
+      "start": 48.12,
+      "end": 51.54
+    },
+    {
+      "text": " Jó, akkor én kérnék egy nagy fröccsöt és Ildi te.",
+      "start": 51.8,
+      "end": 55.08
+    },
+    {
+      "text": " Szintén. Akkor két nagy fröccsöt és egy limonádét.",
+      "start": 55.72,
+      "end": 58.38
+    },
+    {
+      "text": " Rendben.",
+      "start": 58.38,
+      "end": 59.02
+    },
+    {
+      "text": " Bocsánat, a desszertet is mondhat? Természetesen.",
+      "start": 59.92,
+      "end": 63.0
+    },
+    {
+      "text": " Akkor egy somlóigaluskát, egy gesztenyepürét is.",
+      "start": 63.22,
+      "end": 67.12
+    },
+    {
+      "text": " Igen, egy túrós palacsintát, de sodónélkül.",
+      "start": 67.18,
+      "end": 69.98
+    },
+    {
+      "text": " Sodónélkül. Rendben.",
+      "start": 70.24,
+      "end": 71.7
+    },
+    {
+      "text": " Szerinted megjegyezte?",
+      "start": 72.4,
+      "end": 73.62
+    },
+    {
+      "text": " Elég profi megtudni.",
+      "start": 74.26,
+      "end": 75.84
+    },
+    {
+      "text": " Jó helyet és profi a személyezet.",
+      "start": 75.98,
+      "end": 77.66
+    },
+    {
+      "text": " És a kóla.",
+      "start": 80.9,
+      "end": 82.58
+    },
+    {
+      "text": " Milyen kóla?",
+      "start": 83.58,
+      "end": 84.64
+    },
+    {
+      "text": " Mik is voltak a Cézársali után?",
+      "start": 85.38,
+      "end": 87.3
+    },
+    {
+      "text": " Köszönöm a f Agustus-os Kisédel.",
+      "start": 88.38,
+      "end": 88.94
+    }
+  ],
+  "processing_time": 1.9943218231201172,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

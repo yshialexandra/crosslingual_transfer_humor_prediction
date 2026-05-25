@@ -1,0 +1,259 @@
+{
+  "audio_file": "Önéletrajzom ｜ Litkai Gergely ｜ Comedy Club.wav",
+  "full_text": "Elhoztam azt az életrajzot, amiben az összes hibát megpróbáltam elrejteni, hogy tudják, hogy mit ne kövessenek el. Önök ugye, én doktor Lidkai Gergely vagyok, jogász, tehát időm volt, nem tehetségem. És mindig gyanús, tehát a jogászok mind be vannak öltözve, nem? Tehát van ez a talár. Ez a biztonsági öröknél van még így, hogy a rossz manban, aki áll, be van öltözve kommandósnak. Pedig azért lehet látni, hogy nem ő a tek. És szerintem ezt elirigyeltük az orvosoktól, mi jogászok, nem? Tehát, hogy nekik is van fehér köpeny, fehér klumpa, és akkor mi is van, legyen fekete talárunk. Szerintem tovább kéne menni, hogy a talár alatt is legyen fekete madrág, és ilyen fekete kroksz. A bíróknak azért az nagyobbat ütne. És az e-mailnél már rögtön lehet látni az első hibát. Tehát az e-mail cím puszimagnetkukacicamél.hu. Ezt azért érezzük, hogy a személyzeti osztálynak nem ezt fogja, leginkább felkelteni az érdeklődését, hogy van egy puncimágnás, akinek ráadásul cicaméles az e-mail címe. És már a bemutatkozásnál lehet sejteni, hogy valaki nem olvasta a Gerilla Életrajz című könyvet. Ugye mindig is álmodozó romantikus típus voltam. Óvodai jelem a pasiógyümölcs és a trópusokat juttatta eszembe. Már ekkor foglalkoztatni kezdtek a nyelvek és a kultúrák. Ezzel párhuzamosan a helyesírás viszont nem. Tehát ember egyszerre egy dologra figyel, és ugyan sok szmájli világában minek is kell a helyesírás. És a helyesírás bonyolult, nem mondom, hogy egyszerű. Mondok egy példát, hogy most a 12. javított kiadása van, azt hiszem az akadémiai helyesírási szótának. Ez eleve nem sok bizalmat ad, hogy javított kiadás. Tehát, hogy abban is vannak valózőnek hibák, vagy voltak korábban. És abban van egy ilyen szabály, hogy bizonyos szavakat, amik értelemzavaróak, ezután lehet az értelemzavarás megszüntetése érdekében kötőjelen írni. Mondok egy példát, például faszék. Ugye? Tehát most, hogy tudjuk kötőjellel írni, nem tudom, hogy segít-e, hogy ez egy tárgy, vagy egy fura család. De nézzük tovább. Angol és orosz nyelven, anyanyelvi szinten beszéltem és énekeltem. Ez nagyon fontos, ugye a 10 millió X-faktor megastár, sztárban sztár, sztár alatt sztár, sztáron sztár, sztár között sztárban. Ugye, ahol a maradék négy-öt ember a zsűri. Tehát ez az ország felépítése. Általános iskola és gimnáziumi tanulmánya miatt párhuzamosan végeztem az elte jogi karával. Sajnos diplomám egy tűzvészben elpusztult. Hát ez egy gyakori gond itt Magyarországon ezek a gyúlékony diplomák. Ugye ez az igazi személyzet is riasztó mondat. Jelenleg kilenc gyermekemet nevelem pátyon, de mivel hobbima gyorsulási versenyeken való részvétel, hamar beérnék, csepe erre. Lehet érezni, hogy nem őt fogják választani. S végül van a legnagyobb kockázat, a copy-paste, ugye a gerilla életrajzból. A tanulmányok 47-51-ig is a Buenos Airesi Egyetemre.",
+  "chunks": [
+    {
+      "text": " Elhoztam azt az életrajzot, amiben az összes hibát megpróbáltam elrejteni,",
+      "start": 0.0,
+      "end": 5.12
+    },
+    {
+      "text": " hogy tudják, hogy mit ne kövessenek el.",
+      "start": 5.32,
+      "end": 8.24
+    },
+    {
+      "text": " Önök ugye, én doktor Lidkai Gergely vagyok, jogász, tehát időm volt, nem tehetségem.",
+      "start": 8.54,
+      "end": 14.64
+    },
+    {
+      "text": " És mindig gyanús, tehát a jogászok mind be vannak öltözve, nem?",
+      "start": 16.920000000000005,
+      "end": 20.92
+    },
+    {
+      "text": " Tehát van ez a talár.",
+      "start": 21.02,
+      "end": 22.1
+    },
+    {
+      "text": " Ez a biztonsági öröknél van még így, hogy a rossz manban, aki áll, be van öltözve kommandósnak.",
+      "start": 22.26,
+      "end": 27.36
+    },
+    {
+      "text": " Pedig azért lehet látni, hogy nem ő a tek.",
+      "start": 27.36,
+      "end": 30.9
+    },
+    {
+      "text": " És szerintem ezt elirigyeltük az orvosoktól, mi jogászok, nem?",
+      "start": 31.599999999999998,
+      "end": 35.6
+    },
+    {
+      "text": " Tehát, hogy nekik is van fehér köpeny, fehér klumpa, és akkor mi is van, legyen fekete talárunk.",
+      "start": 35.72,
+      "end": 40.84
+    },
+    {
+      "text": " Szerintem tovább kéne menni, hogy a talár alatt is legyen fekete madrág, és ilyen fekete kroksz.",
+      "start": 41.12,
+      "end": 46.42
+    },
+    {
+      "text": " A bíróknak azért az nagyobbat ütne.",
+      "start": 47.72,
+      "end": 50.18
+    },
+    {
+      "text": " És az e-mailnél már rögtön lehet látni az első hibát.",
+      "start": 50.46,
+      "end": 54.3
+    },
+    {
+      "text": " Tehát az e-mail cím puszimagnetkukacicamél.hu.",
+      "start": 54.3,
+      "end": 58.32
+    },
+    {
+      "text": " Ezt azért érezzük, hogy a személyzeti osztálynak nem ezt fogja, leginkább felkelteni az érdeklődését,",
+      "start": 59.08,
+      "end": 64.94
+    },
+    {
+      "text": " hogy van egy puncimágnás, akinek ráadásul cicaméles az e-mail címe.",
+      "start": 65.02,
+      "end": 69.84
+    },
+    {
+      "text": " És már a bemutatkozásnál lehet sejteni, hogy valaki nem olvasta a Gerilla Életrajz című könyvet.",
+      "start": 70.12,
+      "end": 76.1
+    },
+    {
+      "text": " Ugye mindig is álmodozó romantikus típus voltam.",
+      "start": 76.1,
+      "end": 79.96
+    },
+    {
+      "text": " Óvodai jelem a pasiógyümölcs és a trópusokat juttatta eszembe.",
+      "start": 80.4,
+      "end": 84.26
+    },
+    {
+      "text": " Már ekkor foglalkoztatni kezdtek a nyelvek és a kultúrák.",
+      "start": 84.42,
+      "end": 88.14
+    },
+    {
+      "text": " Ezzel párhuzamosan a helyesírás viszont nem.",
+      "start": 88.26,
+      "end": 90.64
+    },
+    {
+      "text": " Tehát ember egyszerre egy dologra figyel,",
+      "start": 90.82,
+      "end": 94.08
+    },
+    {
+      "text": " és ugyan sok szmájli világában minek is kell a helyesírás.",
+      "start": 94.12,
+      "end": 98.12
+    },
+    {
+      "text": " És a helyesírás bonyolult, nem mondom, hogy egyszerű.",
+      "start": 98.24,
+      "end": 100.56
+    },
+    {
+      "text": " Mondok egy példát, hogy most a 12. javított kiadása van,",
+      "start": 100.56,
+      "end": 105.48
+    },
+    {
+      "text": " azt hiszem az akadémiai helyesírási szótának.",
+      "start": 105.62,
+      "end": 108.44
+    },
+    {
+      "text": " Ez eleve nem sok bizalmat ad, hogy javított kiadás.",
+      "start": 108.52,
+      "end": 111.56
+    },
+    {
+      "text": " Tehát, hogy abban is vannak valózőnek hibák, vagy voltak korábban.",
+      "start": 112.22,
+      "end": 115.76
+    },
+    {
+      "text": " És abban van egy ilyen szabály, hogy bizonyos szavakat, amik értelemzavaróak,",
+      "start": 116.4,
+      "end": 120.74
+    },
+    {
+      "text": " ezután lehet az értelemzavarás megszüntetése érdekében kötőjelen írni.",
+      "start": 120.84,
+      "end": 125.54
+    },
+    {
+      "text": " Mondok egy példát, például faszék.",
+      "start": 125.56,
+      "end": 127.36
+    },
+    {
+      "text": " Ugye?",
+      "start": 129.26,
+      "end": 129.76
+    },
+    {
+      "text": " Tehát most, hogy tudjuk kötőjellel írni, nem tudom, hogy segít-e,",
+      "start": 129.76,
+      "end": 133.36
+    },
+    {
+      "text": " hogy ez egy tárgy, vagy egy fura család.",
+      "start": 133.42,
+      "end": 137.96
+    },
+    {
+      "text": " De nézzük tovább.",
+      "start": 141.22,
+      "end": 142.72
+    },
+    {
+      "text": " Angol és orosz nyelven, anyanyelvi szinten beszéltem és énekeltem.",
+      "start": 142.82,
+      "end": 145.76
+    },
+    {
+      "text": " Ez nagyon fontos, ugye a 10 millió X-faktor megastár,",
+      "start": 146.32,
+      "end": 150.7
+    },
+    {
+      "text": " sztárban sztár, sztár alatt sztár, sztáron sztár, sztár között sztárban.",
+      "start": 150.86,
+      "end": 155.74
+    },
+    {
+      "text": " Ugye, ahol a maradék négy-öt ember a zsűri.",
+      "start": 155.86,
+      "end": 158.5
+    },
+    {
+      "text": " Tehát ez az ország felépítése.",
+      "start": 158.5,
+      "end": 161.08
+    },
+    {
+      "text": " Általános iskola és gimnáziumi tanulmánya miatt párhuzamosan végeztem az elte jogi karával.",
+      "start": 161.84,
+      "end": 167.28
+    },
+    {
+      "text": " Sajnos diplomám egy tűzvészben elpusztult.",
+      "start": 167.28,
+      "end": 170.76
+    },
+    {
+      "text": " Hát ez egy gyakori gond itt Magyarországon ezek a gyúlékony diplomák.",
+      "start": 170.86,
+      "end": 176.6
+    },
+    {
+      "text": " Ugye ez az igazi személyzet is riasztó mondat.",
+      "start": 176.86,
+      "end": 179.78
+    },
+    {
+      "text": " Jelenleg kilenc gyermekemet nevelem pátyon,",
+      "start": 180.0,
+      "end": 182.86
+    },
+    {
+      "text": " de mivel hobbima gyorsulási versenyeken való részvétel,",
+      "start": 182.86,
+      "end": 185.44
+    },
+    {
+      "text": " hamar beérnék, csepe erre.",
+      "start": 185.52,
+      "end": 186.98
+    },
+    {
+      "text": " Lehet érezni, hogy nem őt fogják választani.",
+      "start": 194.15999999999997,
+      "end": 197.56
+    },
+    {
+      "text": " S végül van a legnagyobb kockázat, a copy-paste,",
+      "start": 197.74,
+      "end": 200.34
+    },
+    {
+      "text": " ugye a gerilla életrajzból.",
+      "start": 200.46,
+      "end": 202.4
+    },
+    {
+      "text": " A tanulmányok 47-51-ig is a Buenos Airesi Egyetemre.",
+      "start": 202.4,
+      "end": 206.3
+    }
+  ],
+  "processing_time": 1.352142095565796,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,124 @@
+{
+  "audio_file": "Így készül a Comedy Central ｜ Állásinterjú.wav",
+  "full_text": "A Kámedicentrál csatornájánál is megvizsgálóan. A Kámedicentrál csatornájának, hogy minden pozícióra a legjobb embert találják meg. Sziasztok! Ja! Elsődleges fontosságú a Kámedicentrálnál az átlagosnál fejlettebb humorérzék. Kezd a Lufival! Lényeges, hogy minden a munkahelyen eltöltött percben, minden döntés meghozatalakor, minden feladat elvégzésekor ott dolgozzon a háttérben, ott bugyogjon a mélyben a humor! Cs**! Cs**! Cs**! Adod a labdát magasabbra dobni? Az az! A humor! Ez adja meg a gondolkodási keretet, minden ennek legyen alárendelve! Tudsz has beszélni? Akkor beszélj has. Hello! Jó, akkor táncolj a gitárral. Jobbra kettő, balra, még balra. Balra, balra. Nagyon jó, de most forogjál. Hep, mondd hep. Hep. Nagyon jó, most tedd hátra a kezedet és írsz teppel. Öröki közben forogj, úgy ütősebb. Aha. Gratulálok! Hétfő reggel nyolcra várjuk. A belépőkársáját a recepció veheti majd át. Üdv a csapatban! Egy, két, há és... Tandustrak! Yeah, yeah, yeah!",
+  "chunks": [
+    {
+      "text": " A Kámedicentrál csatornájánál is megvizsgálóan.",
+      "start": 10.32,
+      "end": 29.86
+    },
+    {
+      "text": " A Kámedicentrál csatornájának, hogy minden pozícióra a legjobb embert találják meg.",
+      "start": 34.900000000000006,
+      "end": 41.36
+    },
+    {
+      "text": " Sziasztok!",
+      "start": 46.84,
+      "end": 48.0
+    },
+    {
+      "text": " Ja! Elsődleges fontosságú a Kámedicentrálnál az átlagosnál fejlettebb humorérzék.",
+      "start": 48.18,
+      "end": 54.32
+    },
+    {
+      "text": " Kezd a Lufival!",
+      "start": 54.72,
+      "end": 55.9
+    },
+    {
+      "text": " Lényeges, hogy minden a munkahelyen eltöltött percben, minden döntés meghozatalakor, minden feladat elvégzésekor ott dolgozzon a háttérben, ott bugyogjon a mélyben a humor!",
+      "start": 55.9,
+      "end": 68.96
+    },
+    {
+      "text": " Cs**!",
+      "start": 69.2,
+      "end": 69.8
+    },
+    {
+      "text": " Cs**!",
+      "start": 70.96000000000001,
+      "end": 71.0
+    },
+    {
+      "text": " Cs**!",
+      "start": 73.5,
+      "end": 74.22
+    },
+    {
+      "text": " Adod a labdát magasabbra dobni? Az az! A humor! Ez adja meg a gondolkodási keretet, minden ennek legyen alárendelve!",
+      "start": 74.24,
+      "end": 83.36
+    },
+    {
+      "text": " Tudsz has beszélni? Akkor beszélj has.",
+      "start": 83.36,
+      "end": 86.28
+    },
+    {
+      "text": " Hello!",
+      "start": 86.6,
+      "end": 87.06
+    },
+    {
+      "text": " Jó, akkor táncolj a gitárral.",
+      "start": 90.06,
+      "end": 91.88
+    },
+    {
+      "text": " Jobbra kettő, balra, még balra. Balra, balra.",
+      "start": 93.72,
+      "end": 97.22
+    },
+    {
+      "text": " Nagyon jó, de most forogjál.",
+      "start": 97.3,
+      "end": 98.74
+    },
+    {
+      "text": " Hep, mondd hep. Hep.",
+      "start": 99.82,
+      "end": 101.34
+    },
+    {
+      "text": " Nagyon jó, most tedd hátra a kezedet és írsz teppel.",
+      "start": 101.66,
+      "end": 103.86
+    },
+    {
+      "text": " Öröki közben forogj, úgy ütősebb. Aha.",
+      "start": 103.92,
+      "end": 106.02
+    },
+    {
+      "text": " Gratulálok! Hétfő reggel nyolcra várjuk.",
+      "start": 110.1,
+      "end": 112.1
+    },
+    {
+      "text": " A belépőkársáját a recepció veheti majd át. Üdv a csapatban!",
+      "start": 112.1,
+      "end": 115.62
+    },
+    {
+      "text": " Egy, két, há és...",
+      "start": 122.34,
+      "end": 124.10000000000001
+    },
+    {
+      "text": " Tandustrak!",
+      "start": 125.98,
+      "end": 126.58
+    },
+    {
+      "text": " Yeah, yeah, yeah!",
+      "start": 129.12,
+      "end": 130.6
+    }
+  ],
+  "processing_time": 1.1481959819793701,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

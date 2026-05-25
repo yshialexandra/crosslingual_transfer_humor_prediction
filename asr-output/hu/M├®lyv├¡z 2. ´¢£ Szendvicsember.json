@@ -1,0 +1,64 @@
+{
+  "audio_file": "Mélyvíz 2. ｜ Szendvicsember.wav",
+  "full_text": "Köszönöm szépen! Ezeket nem csak azok látnak, akik itt sétálnak el az étterem előtt. Mondjad csak! Hülyeség ez az egész, komolyan mondom. Figyelj! Szerintem nagyon jó. Figyelemfelkeltő, vendégcsalogató, csak kár, hogy látszik a fejed. Jó van, na rohanok vissza az étterembe, mert mind a három vendég őrjönk. Szaladok. Csókolom! Menüt 990 ér?",
+  "chunks": [
+    {
+      "text": " Köszönöm szépen!",
+      "start": 21.1,
+      "end": 23.9
+    },
+    {
+      "text": " Ezeket nem csak azok látnak, akik itt sétálnak el az étterem előtt.",
+      "start": 30.0,
+      "end": 32.58
+    },
+    {
+      "text": " Mondjad csak!",
+      "start": 32.58,
+      "end": 33.14
+    },
+    {
+      "text": " Hülyeség ez az egész, komolyan mondom.",
+      "start": 34.160000000000004,
+      "end": 36.0
+    },
+    {
+      "text": " Figyelj!",
+      "start": 36.36,
+      "end": 36.86
+    },
+    {
+      "text": " Szerintem nagyon jó.",
+      "start": 39.540000000000006,
+      "end": 40.58
+    },
+    {
+      "text": " Figyelemfelkeltő, vendégcsalogató, csak kár, hogy látszik a fejed.",
+      "start": 41.76000000000001,
+      "end": 44.66
+    },
+    {
+      "text": " Jó van, na rohanok vissza az étterembe, mert mind a három vendég őrjönk.",
+      "start": 45.48,
+      "end": 49.54
+    },
+    {
+      "text": " Szaladok.",
+      "start": 49.94,
+      "end": 50.5
+    },
+    {
+      "text": " Csókolom!",
+      "start": 56.92,
+      "end": 57.48
+    },
+    {
+      "text": " Menüt 990 ér?",
+      "start": 57.48,
+      "end": 60.04
+    }
+  ],
+  "processing_time": 1.1937503814697266,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

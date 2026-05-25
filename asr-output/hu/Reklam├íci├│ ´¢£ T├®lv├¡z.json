@@ -1,0 +1,54 @@
+{
+  "audio_file": "Reklamáció ｜ Télvíz.wav",
+  "full_text": "Ejjnye, eljnye szamosi botond! Hát miket hallok én rólad? Verekedtél csendes pihenő alatt? Hát milyen rossz kisfiú az ilyen. Az ilyen rossz kisfiúk nem kapnak bizony csomagot, hanem megkérem mindjárt a Krampusz bácsit. Sziasztok! Sziasztok! Sziasztok! Elnézést! Na hát Éva néni az alma csoportban. Így van, onnan jött át hozzátok a Mikulás bácsi. Igen és rohadt a mandal. Nem létezik. De! Mondtam. Igen, mert fel kellett vinnünk ugye éjszakra, délről és éjszakról hoztuk hozzá. A szaloncukron fehér a bevonat. Deres! Lejárt! Deres! Na jó. Gyerekek, az a rossz hírem van, hogy a jó gyerekek ma nem kapnak te egy Mikulás csomagot. Vagy a Mikulás bácsira. és a Krampusz bácsira. Úgy rájön a nébig, hogy arról kódul. De én rám miért? Na gyerekek, hallottátok Éva nénit? A jó gyerekek ma nem csomagot kapnak, hanem... Hanem virgácsot. Így van. Viszont. Eljje, eljje szamosi botond. Te ezt most csúgnján bebuktad. Hm? És van még ott ahonnan ez jött? Na. Ki volt még rossz? Hm? Ebből majd tanultok. Jó gyerekek, a két két két két. Nagyon két. A működás két két két két két két.",
+  "chunks": [
+    {
+      "text": " Ejjnye, eljnye szamosi botond! Hát miket hallok én rólad? Verekedtél csendes pihenő alatt? Hát milyen rossz kisfiú az ilyen. Az ilyen rossz kisfiúk nem kapnak bizony csomagot, hanem megkérem mindjárt a Krampusz bácsit.",
+      "start": 5.039999999999998,
+      "end": 24.26
+    },
+    {
+      "text": " Sziasztok! Sziasztok! Sziasztok! Elnézést!",
+      "start": 24.3,
+      "end": 26.84
+    },
+    {
+      "text": " Na hát Éva néni az alma csoportban. Így van, onnan jött át hozzátok a Mikulás bácsi. Igen és rohadt a mandal. Nem létezik. De! Mondtam. Igen, mert fel kellett vinnünk ugye éjszakra, délről és éjszakról hoztuk hozzá. A szaloncukron fehér a bevonat. Deres! Lejárt! Deres! Na jó. Gyerekek, az a rossz hírem van, hogy a jó gyerekek ma nem kapnak te egy Mikulás csomagot. Vagy a Mikulás bácsira.",
+      "start": 26.84,
+      "end": 56.82
+    },
+    {
+      "text": " és a Krampusz bácsira. Úgy rájön a nébig, hogy arról kódul. De én rám miért?",
+      "start": 56.84,
+      "end": 61.94
+    },
+    {
+      "text": " Na gyerekek, hallottátok Éva nénit? A jó gyerekek ma nem csomagot kapnak, hanem... Hanem virgácsot. Így van. Viszont.",
+      "start": 65.34,
+      "end": 74.98
+    },
+    {
+      "text": " Eljje, eljje szamosi botond. Te ezt most csúgnján bebuktad. Hm? És van még ott ahonnan ez jött? Na. Ki volt még rossz? Hm? Ebből majd tanultok.",
+      "start": 76.32,
+      "end": 90.28
+    },
+    {
+      "text": " Jó gyerekek, a két két két két.",
+      "start": 90.28,
+      "end": 90.44
+    },
+    {
+      "text": " Nagyon két.",
+      "start": 90.44,
+      "end": 90.5
+    },
+    {
+      "text": " A működás két két két két két két.",
+      "start": 90.5,
+      "end": 90.52
+    }
+  ],
+  "processing_time": 1.732874870300293,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

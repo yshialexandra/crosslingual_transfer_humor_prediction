@@ -1,0 +1,19 @@
+{
+  "audio_file": "A Zacskós Énekes ｜ Papp Szabi.wav",
+  "full_text": "Végre megérkezett a show, amire mindenki vált. Az internetes videók legjobban őrzött titka. Ki van a zacskó alap? Soha nem látott jelmezek? Változatos díszlet. Tíz ember, aki hajlandó hülyét csinálni magából. És akkor lássuk az ehetű zacskós énekest. A Fem-li-gáj! Megmutatjuk neked, foghatod a fejed, sínsz, hogy nevetsz rajta, hasad fáj! Itt a Fem-li-gáj!",
+  "chunks": [
+    {
+      "text": " Végre megérkezett a show, amire mindenki vált. Az internetes videók legjobban őrzött titka. Ki van a zacskó alap? Soha nem látott jelmezek? Változatos díszlet. Tíz ember, aki hajlandó hülyét csinálni magából. És akkor lássuk az ehetű zacskós énekest.",
+      "start": 0.0,
+      "end": 17.52
+    },
+    {
+      "text": " A Fem-li-gáj! Megmutatjuk neked, foghatod a fejed, sínsz, hogy nevetsz rajta, hasad fáj! Itt a Fem-li-gáj!",
+      "start": 31.6,
+      "end": 46.32
+    }
+  ],
+  "processing_time": 0.2599153518676758,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

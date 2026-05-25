@@ -1,0 +1,549 @@
+{
+  "audio_file": "19lls14xcGo.wav",
+  "full_text": "Hey, could you, uh... put a shirt on? And some underpants? I want to watch Care Bears. Hey, get out of the way. Sweetie. Sweetie! Ally, here's your corn dog, honey. Ally's having a corn dog now? Yeah. I made enough for everybody. You want one? But it's almost dinner, and Mom's making lasagna. Mm. We shouldn't be having corn dogs now. Get one for me, too. Yeah, corn dog, yeah. Hey, brother. Hi. Hey. How was the rest of your day, hmm? It's better now. Yeah. Hey, I'm back. Oh, and I got all kinds of goody-pew-pew. But... What are you doing? We're just... we're having a little snack. Corn dog. Corn dog? I am making dinner. You should know not to eat at... I... It's good. We're eating. I know not to eat at... I know not. What's the matter with you people? I have lasagna in the oven. Oh, my God. I'm sorry, Marie. Was that for dinner? I took it out to make the corn dogs. You want a corn dog? No. Thank you, dear. I still want mine. I still want mine. I still want mine. Hey, what is this? Oh, gosh. I guess that's your dad's remote. Huh? Must have accidentally brought it upstairs with me. This was no accident. Somebody help me! Jeffy, get up. Get up, Jeffy. What are you doing? I can't breathe the one who brings this to him. He'll kill me, okay? He likes Jeffy. Jeffy. Shh. Now, would you stop? Just stop that. Stop it. Go back to Sydney. Listen, you're going too far with this. This... this is nothing compared to what they do. Oh, come on. Look, when they come over and do stuff, it's because they don't know any better. You do. You know what that's called? When you know better and you still do it? Not nice. Oh. I'm serious. Listen. We are guests in this house. Oh, my gosh. Who are you? Admiral Von Puss? No. Great kid, you see, I'm just trying to make a point here. Listen, you could help me. It could be fun. Come on. We never do anything together anymore. You are sick. If I am sick, it's because your family made me that way. Well... We made you that way. I'm sorry. That's how you feel. Oh, where are you going? I'm going to sleep elsewhere, okay? I wouldn't want to make you sick. Good night, Admiral. Hey, Robert. Robert. Robert. Oh! Oh, Raven. I'm sorry. Sorry, I think it's just a reflex. I think I know why your marriage broke up. What are you doing down here? I need a place to sleep. Deborah... She's got the kids in the bed. Go sleep on the couch. I can't. Dad's still tearing apart the living room looking for the remote control. Come on, it's just one more night. Just... move over. All right, but no noise. Got an early shift. Yeah. Hey, could you, uh... put a shirt on? Yeah. And some underpants? Excuse me. I believe this is my bed. All right, but... come on. A guy gets in bed with you, you put some pants on. I will not. You don't want to sleep with me? Go back to your wife. I'm... I'm not gonna be able to sleep... ever. So everybody has to do what Raymond wants, right? New sheets for Raymond. Brownies for Raymond. Can't sleep naked around Raymond. You know what you are? Intrusive. You're calling me that? You're calling me that? You're calling me that? Intrusive. You. Intrusive. You know what? Deborah was right. Think this is intrusive? Yeah, okay. Where are you going? Upstairs. Don't get up. You are so uptight. Ah! Ah! K-P-P-P-P? Holy crap and crap! What the hell happened here? Yeah, I wanted to tell you I tried to fix that. It was too loose. It was never this friggin' loose. Sorry, Dad. I was just trying to help. You want to help me? Find my remote. I don't understand why you would use bleach on these towels. They just seemed a little yellowy. Yes, they're yellow towels. My whole bathroom is yellow. It's my theme. Oh. What did you do with the door? Why is it always me? Why don't you ask your son there, Mr. Fix-It? Hey, I'm just trying to help. Ma, where are all the towels?",
+  "chunks": [
+    {
+      "text": " Hey, could you, uh... put a shirt on?",
+      "start": 0.0,
+      "end": 3.3
+    },
+    {
+      "text": " And some underpants?",
+      "start": 8.940000000000001,
+      "end": 10.26
+    },
+    {
+      "text": " I want to watch Care Bears.",
+      "start": 15.6,
+      "end": 17.38
+    },
+    {
+      "text": " Hey, get out of the way.",
+      "start": 17.74,
+      "end": 19.04
+    },
+    {
+      "text": " Sweetie.",
+      "start": 22.1,
+      "end": 22.54
+    },
+    {
+      "text": " Sweetie!",
+      "start": 23.74,
+      "end": 24.18
+    },
+    {
+      "text": " Ally, here's your corn dog, honey.",
+      "start": 25.06,
+      "end": 26.4
+    },
+    {
+      "text": " Ally's having a corn dog now?",
+      "start": 28.459999999999994,
+      "end": 29.94
+    },
+    {
+      "text": " Yeah. I made enough for everybody. You want one?",
+      "start": 30.699999999999996,
+      "end": 32.94
+    },
+    {
+      "text": " But it's almost dinner, and Mom's making lasagna.",
+      "start": 33.46,
+      "end": 35.88
+    },
+    {
+      "text": " Mm.",
+      "start": 36.06,
+      "end": 36.22
+    },
+    {
+      "text": " We shouldn't be having corn dogs now.",
+      "start": 37.96,
+      "end": 41.5
+    },
+    {
+      "text": " Get one for me, too.",
+      "start": 45.78,
+      "end": 47.08
+    },
+    {
+      "text": " Yeah, corn dog, yeah.",
+      "start": 51.02,
+      "end": 52.44
+    },
+    {
+      "text": " Hey, brother.",
+      "start": 55.24,
+      "end": 56.04
+    },
+    {
+      "text": " Hi.",
+      "start": 56.4,
+      "end": 56.64
+    },
+    {
+      "text": " Hey.",
+      "start": 57.02,
+      "end": 57.58
+    },
+    {
+      "text": " How was the rest of your day, hmm?",
+      "start": 57.8,
+      "end": 59.06
+    },
+    {
+      "text": " It's better now.",
+      "start": 59.46,
+      "end": 60.18
+    },
+    {
+      "text": " Yeah.",
+      "start": 60.26,
+      "end": 60.44
+    },
+    {
+      "text": " Hey, I'm back.",
+      "start": 61.12,
+      "end": 62.34
+    },
+    {
+      "text": " Oh, and I got all kinds of goody-pew-pew.",
+      "start": 63.08,
+      "end": 65.94
+    },
+    {
+      "text": " But...",
+      "start": 67.04,
+      "end": 67.08
+    },
+    {
+      "text": " What are you doing?",
+      "start": 70.36,
+      "end": 71.84
+    },
+    {
+      "text": " We're just... we're having a little snack.",
+      "start": 72.36,
+      "end": 73.9
+    },
+    {
+      "text": " Corn dog.",
+      "start": 74.5,
+      "end": 75.22
+    },
+    {
+      "text": " Corn dog?",
+      "start": 76.75999999999999,
+      "end": 77.88
+    },
+    {
+      "text": " I am making dinner.",
+      "start": 80.52,
+      "end": 82.22
+    },
+    {
+      "text": " You should know not to eat at... I...",
+      "start": 82.46,
+      "end": 85.12
+    },
+    {
+      "text": " It's good. We're eating. I know not to eat at...",
+      "start": 88.15999999999998,
+      "end": 115.48
+    },
+    {
+      "text": " I know not.",
+      "start": 115.48,
+      "end": 116.38
+    },
+    {
+      "text": " What's the matter with you people?",
+      "start": 120.36,
+      "end": 122.02
+    },
+    {
+      "text": " I have lasagna in the oven.",
+      "start": 122.26,
+      "end": 124.02
+    },
+    {
+      "text": " Oh, my God. I'm sorry, Marie.",
+      "start": 124.48,
+      "end": 126.48
+    },
+    {
+      "text": " Was that for dinner?",
+      "start": 126.58,
+      "end": 127.32
+    },
+    {
+      "text": " I took it out to make the corn dogs.",
+      "start": 128.06,
+      "end": 130.56
+    },
+    {
+      "text": " You want a corn dog?",
+      "start": 134.0,
+      "end": 135.16
+    },
+    {
+      "text": " No. Thank you, dear.",
+      "start": 137.77999999999997,
+      "end": 139.62
+    },
+    {
+      "text": " I still want mine.",
+      "start": 143.42000000000002,
+      "end": 144.86
+    },
+    {
+      "text": " I still want mine.",
+      "start": 152.32000000000002,
+      "end": 153.52
+    },
+    {
+      "text": " I still want mine.",
+      "start": 153.52,
+      "end": 153.56
+    },
+    {
+      "text": " Hey, what is this?",
+      "start": 153.56,
+      "end": 154.22
+    },
+    {
+      "text": " Oh, gosh. I guess that's your dad's remote.",
+      "start": 155.3,
+      "end": 158.04
+    },
+    {
+      "text": " Huh?",
+      "start": 158.32,
+      "end": 158.6
+    },
+    {
+      "text": " Must have accidentally brought it upstairs with me.",
+      "start": 162.1,
+      "end": 164.52
+    },
+    {
+      "text": " This was no accident.",
+      "start": 170.38,
+      "end": 172.82
+    },
+    {
+      "text": " Somebody help me!",
+      "start": 175.36,
+      "end": 176.3
+    },
+    {
+      "text": " Jeffy, get up. Get up, Jeffy.",
+      "start": 183.44,
+      "end": 184.5
+    },
+    {
+      "text": " What are you doing?",
+      "start": 184.52,
+      "end": 185.6
+    },
+    {
+      "text": " I can't breathe the one who brings this to him. He'll kill me, okay? He likes Jeffy.",
+      "start": 185.7,
+      "end": 188.58
+    },
+    {
+      "text": " Jeffy.",
+      "start": 188.78,
+      "end": 188.98
+    },
+    {
+      "text": " Shh. Now, would you stop? Just stop that. Stop it. Go back to Sydney.",
+      "start": 188.98,
+      "end": 192.06
+    },
+    {
+      "text": " Listen, you're going too far with this.",
+      "start": 192.36,
+      "end": 193.98
+    },
+    {
+      "text": " This... this is nothing compared to what they do.",
+      "start": 194.82,
+      "end": 197.12
+    },
+    {
+      "text": " Oh, come on. Look, when they come over and do stuff, it's because they don't know any better. You do.",
+      "start": 197.12,
+      "end": 201.18
+    },
+    {
+      "text": " You know what that's called? When you know better and you still do it? Not nice.",
+      "start": 201.18,
+      "end": 206.02
+    },
+    {
+      "text": " Oh.",
+      "start": 206.28,
+      "end": 206.38
+    },
+    {
+      "text": " I'm serious. Listen. We are guests in this house.",
+      "start": 207.76000000000002,
+      "end": 211.28
+    },
+    {
+      "text": " Oh, my gosh. Who are you? Admiral Von Puss?",
+      "start": 211.48,
+      "end": 215.14
+    },
+    {
+      "text": " No.",
+      "start": 217.56,
+      "end": 218.04
+    },
+    {
+      "text": " Great kid, you see, I'm just trying to make a point here. Listen, you could help me. It could be fun. Come on. We never do anything together anymore.",
+      "start": 218.92,
+      "end": 225.76
+    },
+    {
+      "text": " You are sick.",
+      "start": 226.9,
+      "end": 227.92
+    },
+    {
+      "text": " If I am sick, it's because your family made me that way.",
+      "start": 228.14,
+      "end": 231.7
+    },
+    {
+      "text": " Well...",
+      "start": 235.14000000000001,
+      "end": 235.58
+    },
+    {
+      "text": " We made you that way.",
+      "start": 238.68,
+      "end": 239.84
+    },
+    {
+      "text": " I'm sorry. That's how you feel.",
+      "start": 241.02,
+      "end": 242.3
+    },
+    {
+      "text": " Oh, where are you going?",
+      "start": 242.44,
+      "end": 244.16
+    },
+    {
+      "text": " I'm going to sleep elsewhere, okay? I wouldn't want to make you sick.",
+      "start": 244.16,
+      "end": 248.24
+    },
+    {
+      "text": " Good night, Admiral.",
+      "start": 249.14000000000001,
+      "end": 250.32
+    },
+    {
+      "text": " Hey, Robert.",
+      "start": 259.72,
+      "end": 261.12
+    },
+    {
+      "text": " Robert.",
+      "start": 264.94,
+      "end": 266.02
+    },
+    {
+      "text": " Robert.",
+      "start": 270.32,
+      "end": 270.74
+    },
+    {
+      "text": " Oh!",
+      "start": 271.08,
+      "end": 271.32
+    },
+    {
+      "text": " Oh, Raven.",
+      "start": 276.32,
+      "end": 276.76
+    },
+    {
+      "text": " I'm sorry. Sorry, I think it's just a reflex.",
+      "start": 277.98,
+      "end": 281.06
+    },
+    {
+      "text": " I think I know why your marriage broke up.",
+      "start": 283.0,
+      "end": 285.08
+    },
+    {
+      "text": " What are you doing down here?",
+      "start": 287.76000000000005,
+      "end": 289.06
+    },
+    {
+      "text": " I need a place to sleep. Deborah...",
+      "start": 289.2,
+      "end": 291.1
+    },
+    {
+      "text": " She's got the kids in the bed.",
+      "start": 292.08000000000004,
+      "end": 293.36
+    },
+    {
+      "text": " Go sleep on the couch.",
+      "start": 294.62,
+      "end": 295.98
+    },
+    {
+      "text": " I can't. Dad's still tearing apart the living room looking for the remote control.",
+      "start": 296.48,
+      "end": 300.2
+    },
+    {
+      "text": " Come on, it's just one more night. Just... move over.",
+      "start": 302.46000000000004,
+      "end": 305.66
+    },
+    {
+      "text": " All right, but no noise. Got an early shift.",
+      "start": 307.06,
+      "end": 310.32
+    },
+    {
+      "text": " Yeah.",
+      "start": 310.66,
+      "end": 310.96
+    },
+    {
+      "text": " Hey, could you, uh... put a shirt on?",
+      "start": 320.32,
+      "end": 324.04
+    },
+    {
+      "text": " Yeah.",
+      "start": 326.3,
+      "end": 326.86
+    },
+    {
+      "text": " And some underpants?",
+      "start": 329.58,
+      "end": 331.04
+    },
+    {
+      "text": " Excuse me. I believe this is my bed.",
+      "start": 343.92,
+      "end": 347.26
+    },
+    {
+      "text": " All right, but... come on. A guy gets in bed with you, you put some pants on.",
+      "start": 348.18,
+      "end": 353.24
+    },
+    {
+      "text": " I will not.",
+      "start": 355.06,
+      "end": 355.92
+    },
+    {
+      "text": " You don't want to sleep with me? Go back to your wife.",
+      "start": 356.52,
+      "end": 358.66
+    },
+    {
+      "text": " I'm... I'm not gonna be able to sleep... ever.",
+      "start": 363.8,
+      "end": 367.18
+    },
+    {
+      "text": " So everybody has to do what Raymond wants, right?",
+      "start": 369.58000000000004,
+      "end": 372.64
+    },
+    {
+      "text": " New sheets for Raymond. Brownies for Raymond. Can't sleep naked around Raymond.",
+      "start": 373.52,
+      "end": 378.48
+    },
+    {
+      "text": " You know what you are?",
+      "start": 379.88,
+      "end": 381.22
+    },
+    {
+      "text": " Intrusive.",
+      "start": 383.36,
+      "end": 384.0
+    },
+    {
+      "text": " You're calling me that? You're calling me that?",
+      "start": 386.06,
+      "end": 389.4
+    },
+    {
+      "text": " You're calling me that?",
+      "start": 389.4,
+      "end": 391.86
+    },
+    {
+      "text": " Intrusive. You. Intrusive.",
+      "start": 394.32,
+      "end": 398.34
+    },
+    {
+      "text": " You know what? Deborah was right.",
+      "start": 402.82,
+      "end": 404.92
+    },
+    {
+      "text": " Think this is intrusive? Yeah, okay.",
+      "start": 406.26,
+      "end": 408.48
+    },
+    {
+      "text": " Where are you going? Upstairs. Don't get up.",
+      "start": 410.38,
+      "end": 413.2
+    },
+    {
+      "text": " You are so uptight.",
+      "start": 415.58,
+      "end": 418.04
+    },
+    {
+      "text": " Ah!",
+      "start": 465.42,
+      "end": 465.98
+    },
+    {
+      "text": " Ah!",
+      "start": 466.34,
+      "end": 466.9
+    },
+    {
+      "text": " K-P-P-P-P?",
+      "start": 468.6,
+      "end": 469.82
+    },
+    {
+      "text": " Holy crap and crap! What the hell happened here? Yeah, I wanted to tell you I tried to fix that. It was too loose. It was never this friggin' loose. Sorry, Dad. I was just trying to help. You want to help me? Find my remote. I don't understand why you would use bleach on these towels. They just seemed a little yellowy. Yes, they're yellow towels. My whole bathroom is yellow.",
+      "start": 475.26,
+      "end": 503.18
+    },
+    {
+      "text": " It's my theme. Oh. What did you do with the door? Why is it always me? Why don't you ask your son there, Mr. Fix-It? Hey, I'm just trying to help. Ma, where are all the towels?",
+      "start": 503.70000000000005,
+      "end": 522.4
+    }
+  ],
+  "processing_time": 4.498106241226196,
+  "language": "en",
+  "model_id": "large-v3-turbo"
+}

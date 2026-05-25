@@ -1,0 +1,69 @@
+{
+  "audio_file": "Sátor 1 ｜ Mélynyomó.wav",
+  "full_text": "Ne járt meg! Szabadsz Finally. Endike most ne jó? Te ez mi lesz? Sátor vagy telepingott paplanerny? Endike félórája szopok ezzel a szarral. Szakad róla ma víz, úgyhogy most tényleg nem vagyok vevően a hülyességeidre. Nem tudod milyen sátrat kell. Mert milyen sátrat kell venni, mi? Három másodperces. Három másodperces... Egy év garanciát adtak az enyémre. Feldobod, három másodperc múlva már tető van a fejed. Aha. Figyelj. Az szép. Úristen Gyuri, mérzik a fejed? Maga volt? Igen a krendőr! Nagyon helyes! Vigyék is be! Akkor majd tényleg lesz tető a feje fölött.",
+  "chunks": [
+    {
+      "text": " Ne járt meg!",
+      "start": 6.020000000000009,
+      "end": 7.3
+    },
+    {
+      "text": " Szabadsz Finally.",
+      "start": 9.380000000000004,
+      "end": 10.12
+    },
+    {
+      "text": " Endike most ne jó?",
+      "start": 10.64,
+      "end": 11.66
+    },
+    {
+      "text": " Te ez mi lesz? Sátor vagy telepingott paplanerny?",
+      "start": 12.340000000000005,
+      "end": 15.8
+    },
+    {
+      "text": " Endike félórája szopok ezzel a szarral. Szakad róla ma víz,",
+      "start": 15.82,
+      "end": 18.78
+    },
+    {
+      "text": " úgyhogy most tényleg nem vagyok vevően a hülyességeidre.",
+      "start": 18.86,
+      "end": 20.92
+    },
+    {
+      "text": " Nem tudod milyen sátrat kell. Mert milyen sátrat kell venni,",
+      "start": 20.92,
+      "end": 23.8
+    },
+    {
+      "text": " mi? Három másodperces. Három másodperces...",
+      "start": 23.82,
+      "end": 26.56
+    },
+    {
+      "text": " Egy év garanciát adtak az enyémre. Feldobod, három másodperc múlva már tető van a fejed.",
+      "start": 26.56,
+      "end": 33.36
+    },
+    {
+      "text": " Aha. Figyelj.",
+      "start": 33.58,
+      "end": 35.56
+    },
+    {
+      "text": " Az szép. Úristen Gyuri, mérzik a fejed? Maga volt? Igen a krendőr!",
+      "start": 39.86,
+      "end": 53.38
+    },
+    {
+      "text": " Nagyon helyes! Vigyék is be! Akkor majd tényleg lesz tető a feje fölött.",
+      "start": 54.56,
+      "end": 58.92
+    }
+  ],
+  "processing_time": 1.535555124282837,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,354 @@
+{
+  "audio_file": "Le bonheur est dans le couple - Olivier de Benoist (Sketch complet).wav",
+  "full_text": "... ... ... ... ... ... ... Bonsoir ! ... ... Je ne connais pas le niveau de rire à Lausanne. Pour le savoir, j'ai un test formidable. Je fais une vanne et j'écoute le niveau de rire. On y va ? La balle est dans votre camp. J'ai une théorie. Quand on est vieux, quand on couche avec une femme plus âgée, on commence souvent par une petite pelle parce qu'en général il faut la déterrer. ... Parfait ! Non mais voilà, j'écoute, je regarde, allez, jusqu'au point avec les enfants, on s'en fout des enfants, oui ? J'ai une théorie. ... Je suis devenu écolo le jour où j'ai mis mes enfants dans des chambres séparées. Je me dis, je suis devenu écolo, pour la première fois je trie mes déchets. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...",
+  "chunks": [
+    {
+      "text": " ...",
+      "start": 0.7799999999999994,
+      "end": 1.42
+    },
+    {
+      "text": " ...",
+      "start": 1.42,
+      "end": 2.16
+    },
+    {
+      "text": " ...",
+      "start": 2.16,
+      "end": 3.22
+    },
+    {
+      "text": " ...",
+      "start": 3.22,
+      "end": 3.4
+    },
+    {
+      "text": " ...",
+      "start": 3.4,
+      "end": 3.7
+    },
+    {
+      "text": " ...",
+      "start": 3.7,
+      "end": 4.28
+    },
+    {
+      "text": " ...",
+      "start": 17.52,
+      "end": 18.16
+    },
+    {
+      "text": " Bonsoir !",
+      "start": 18.16,
+      "end": 19.42
+    },
+    {
+      "text": " ...",
+      "start": 20.0,
+      "end": 20.3
+    },
+    {
+      "text": " ...",
+      "start": 21.599999999999998,
+      "end": 22.24
+    },
+    {
+      "text": " Je ne connais pas le niveau de rire à Lausanne.",
+      "start": 23.0,
+      "end": 25.7
+    },
+    {
+      "text": " Pour le savoir, j'ai un test formidable.",
+      "start": 25.9,
+      "end": 27.92
+    },
+    {
+      "text": " Je fais une vanne et j'écoute le niveau de rire. On y va ? La balle est dans votre camp.",
+      "start": 27.92,
+      "end": 32.44
+    },
+    {
+      "text": " J'ai une théorie.",
+      "start": 34.42,
+      "end": 35.34
+    },
+    {
+      "text": " Quand on est vieux, quand on couche avec une femme plus âgée, on commence souvent par une petite pelle parce qu'en général il faut la déterrer.",
+      "start": 36.44,
+      "end": 41.92
+    },
+    {
+      "text": " ...",
+      "start": 43.0,
+      "end": 43.02
+    },
+    {
+      "text": " Parfait !",
+      "start": 46.84,
+      "end": 47.56
+    },
+    {
+      "text": " Non mais voilà, j'écoute, je regarde, allez, jusqu'au point avec les enfants, on s'en fout des enfants, oui ?",
+      "start": 48.92,
+      "end": 55.16
+    },
+    {
+      "text": " J'ai une théorie.",
+      "start": 55.78,
+      "end": 56.68
+    },
+    {
+      "text": " ...",
+      "start": 57.8,
+      "end": 58.12
+    },
+    {
+      "text": " Je suis devenu écolo le jour où j'ai mis mes enfants dans des chambres séparées.",
+      "start": 58.12,
+      "end": 60.78
+    },
+    {
+      "text": " Je me dis, je suis devenu écolo, pour la première fois je trie mes déchets.",
+      "start": 61.04,
+      "end": 63.9
+    },
+    {
+      "text": " ...",
+      "start": 65.1,
+      "end": 65.42
+    },
+    {
+      "text": " ...",
+      "start": 66.47999999999999,
+      "end": 66.8
+    },
+    {
+      "text": " ...",
+      "start": 67.30000000000001,
+      "end": 67.62
+    },
+    {
+      "text": " ...",
+      "start": 68.46000000000001,
+      "end": 68.78
+    },
+    {
+      "text": " ...",
+      "start": 68.78,
+      "end": 68.84
+    },
+    {
+      "text": " ...",
+      "start": 71.83999999999999,
+      "end": 71.88
+    },
+    {
+      "text": " ...",
+      "start": 72.46,
+      "end": 72.5
+    },
+    {
+      "text": " ...",
+      "start": 72.5,
+      "end": 72.52
+    },
+    {
+      "text": " ...",
+      "start": 72.52,
+      "end": 72.54
+    },
+    {
+      "text": " ...",
+      "start": 72.54,
+      "end": 72.56
+    },
+    {
+      "text": " ...",
+      "start": 98.84,
+      "end": 99.6
+    },
+    {
+      "text": " ...",
+      "start": 99.6,
+      "end": 100.4
+    },
+    {
+      "text": " ...",
+      "start": 100.4,
+      "end": 101.38
+    },
+    {
+      "text": " ...",
+      "start": 101.38,
+      "end": 103.12
+    },
+    {
+      "text": " ...",
+      "start": 128.84,
+      "end": 129.52
+    },
+    {
+      "text": " ...",
+      "start": 129.52,
+      "end": 130.42
+    },
+    {
+      "text": " ...",
+      "start": 130.42,
+      "end": 131.4
+    },
+    {
+      "text": " ...",
+      "start": 131.4,
+      "end": 131.84
+    },
+    {
+      "text": " ...",
+      "start": 131.84,
+      "end": 132.3
+    },
+    {
+      "text": " ...",
+      "start": 132.3,
+      "end": 132.34
+    },
+    {
+      "text": " ...",
+      "start": 132.34,
+      "end": 134.12
+    },
+    {
+      "text": " ...",
+      "start": 164.12,
+      "end": 164.66
+    },
+    {
+      "text": " ...",
+      "start": 164.66,
+      "end": 166.46
+    },
+    {
+      "text": " ...",
+      "start": 196.82,
+      "end": 197.06
+    },
+    {
+      "text": " ...",
+      "start": 200.79999999999998,
+      "end": 201.04
+    },
+    {
+      "text": " ...",
+      "start": 201.04,
+      "end": 201.16
+    },
+    {
+      "text": " ...",
+      "start": 201.16,
+      "end": 201.2
+    },
+    {
+      "text": " ...",
+      "start": 201.2,
+      "end": 201.22
+    },
+    {
+      "text": " ...",
+      "start": 201.22,
+      "end": 202.82
+    },
+    {
+      "text": " ...",
+      "start": 204.85999999999999,
+      "end": 206.26
+    },
+    {
+      "text": " ...",
+      "start": 206.26,
+      "end": 207.46
+    },
+    {
+      "text": " ...",
+      "start": 207.46,
+      "end": 209.78
+    },
+    {
+      "text": " ...",
+      "start": 241.16,
+      "end": 242.24
+    },
+    {
+      "text": " ...",
+      "start": 242.24,
+      "end": 242.74
+    },
+    {
+      "text": " ...",
+      "start": 242.74,
+      "end": 243.28
+    },
+    {
+      "text": " ...",
+      "start": 243.28,
+      "end": 244.42
+    },
+    {
+      "text": " ...",
+      "start": 244.42,
+      "end": 244.96
+    },
+    {
+      "text": " ...",
+      "start": 244.96,
+      "end": 245.08
+    },
+    {
+      "text": " ...",
+      "start": 245.08,
+      "end": 245.38
+    },
+    {
+      "text": " ...",
+      "start": 247.2,
+      "end": 248.6
+    },
+    {
+      "text": " ...",
+      "start": 248.6,
+      "end": 249.74
+    },
+    {
+      "text": " ...",
+      "start": 369.74,
+      "end": 371.84
+    },
+    {
+      "text": " ...",
+      "start": 371.84,
+      "end": 372.04
+    },
+    {
+      "text": " ...",
+      "start": 493.56,
+      "end": 494.22
+    },
+    {
+      "text": " ...",
+      "start": 494.22,
+      "end": 494.78
+    },
+    {
+      "text": " ...",
+      "start": 494.78,
+      "end": 494.88
+    },
+    {
+      "text": " ...",
+      "start": 494.88,
+      "end": 494.92
+    }
+  ],
+  "processing_time": 1.9144315719604492,
+  "language": "fr",
+  "model_id": "large-v3-turbo"
+}

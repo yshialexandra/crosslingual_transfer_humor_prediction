@@ -1,0 +1,898 @@
+{
+  "audio_file": "Mis Padres Me Desheredaron ｜ Jordi Sánchez vs Jose Luis Gil ｜ Roast battle 3.wav",
+  "full_text": " A ver Jordi, te voy a describir tres hechos sobre mí y uno de ellos es verdad. Nunca he visto ni un solo episodio, ni ninguna película, ni nada donde yo haya participado, nunca. Cuando estudiaba secundaria convencí a mis amigos de que le dijeran a una novia que tenía entonces y que quería dejar que había muerto. Durante el rodaje de la que se avecina, fui presidente de la comunidad de verdad. Yo creo que es la del presidente. Pues es verdad. Bien. Cuando trabajaba de enfermero, yo ensayaba los monólogos por la noche en los pasillos del hospital y yo una vez tuve una grandísima discusión con mis padres me desheredaron dos meses y la tercera es que hablo cinco idiomas la uno muy bien",
+  "chunks": [
+    {
+      "text": " A",
+      "timestamp": [
+        0.0,
+        5.3
+      ]
+    },
+    {
+      "text": " ver",
+      "timestamp": [
+        5.3,
+        5.6
+      ]
+    },
+    {
+      "text": " Jordi,",
+      "timestamp": [
+        5.6,
+        5.86
+      ]
+    },
+    {
+      "text": " te",
+      "timestamp": [
+        5.86,
+        6.12
+      ]
+    },
+    {
+      "text": " voy",
+      "timestamp": [
+        6.12,
+        6.26
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        6.26,
+        6.32
+      ]
+    },
+    {
+      "text": " describir",
+      "timestamp": [
+        6.32,
+        6.68
+      ]
+    },
+    {
+      "text": " tres",
+      "timestamp": [
+        6.68,
+        6.98
+      ]
+    },
+    {
+      "text": " hechos",
+      "timestamp": [
+        6.98,
+        7.44
+      ]
+    },
+    {
+      "text": " sobre",
+      "timestamp": [
+        7.44,
+        7.7
+      ]
+    },
+    {
+      "text": " mí",
+      "timestamp": [
+        7.7,
+        7.9
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        7.9,
+        8.66
+      ]
+    },
+    {
+      "text": " uno",
+      "timestamp": [
+        8.66,
+        8.96
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        8.96,
+        9.12
+      ]
+    },
+    {
+      "text": " ellos",
+      "timestamp": [
+        9.12,
+        9.4
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        9.4,
+        9.9
+      ]
+    },
+    {
+      "text": " verdad.",
+      "timestamp": [
+        9.9,
+        10.54
+      ]
+    },
+    {
+      "text": " Nunca",
+      "timestamp": [
+        11.26,
+        11.72
+      ]
+    },
+    {
+      "text": " he",
+      "timestamp": [
+        11.72,
+        11.82
+      ]
+    },
+    {
+      "text": " visto",
+      "timestamp": [
+        11.82,
+        12.12
+      ]
+    },
+    {
+      "text": " ni",
+      "timestamp": [
+        12.12,
+        12.32
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        12.32,
+        12.52
+      ]
+    },
+    {
+      "text": " solo",
+      "timestamp": [
+        12.52,
+        12.72
+      ]
+    },
+    {
+      "text": " episodio,",
+      "timestamp": [
+        12.72,
+        13.44
+      ]
+    },
+    {
+      "text": " ni",
+      "timestamp": [
+        13.44,
+        13.98
+      ]
+    },
+    {
+      "text": " ninguna",
+      "timestamp": [
+        13.98,
+        14.44
+      ]
+    },
+    {
+      "text": " película,",
+      "timestamp": [
+        14.44,
+        15.1
+      ]
+    },
+    {
+      "text": " ni",
+      "timestamp": [
+        15.1,
+        15.42
+      ]
+    },
+    {
+      "text": " nada",
+      "timestamp": [
+        15.42,
+        15.76
+      ]
+    },
+    {
+      "text": " donde",
+      "timestamp": [
+        15.76,
+        16.02
+      ]
+    },
+    {
+      "text": " yo",
+      "timestamp": [
+        16.02,
+        16.24
+      ]
+    },
+    {
+      "text": " haya",
+      "timestamp": [
+        16.24,
+        16.36
+      ]
+    },
+    {
+      "text": " participado,",
+      "timestamp": [
+        16.36,
+        17.18
+      ]
+    },
+    {
+      "text": " nunca.",
+      "timestamp": [
+        17.18,
+        17.82
+      ]
+    },
+    {
+      "text": " Cuando",
+      "timestamp": [
+        18.28,
+        18.4
+      ]
+    },
+    {
+      "text": " estudiaba",
+      "timestamp": [
+        18.4,
+        18.76
+      ]
+    },
+    {
+      "text": " secundaria",
+      "timestamp": [
+        18.76,
+        19.3
+      ]
+    },
+    {
+      "text": " convencí",
+      "timestamp": [
+        19.3,
+        19.84
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        19.84,
+        19.88
+      ]
+    },
+    {
+      "text": " mis",
+      "timestamp": [
+        19.88,
+        19.98
+      ]
+    },
+    {
+      "text": " amigos",
+      "timestamp": [
+        19.98,
+        20.34
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        20.34,
+        21.26
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        21.26,
+        21.58
+      ]
+    },
+    {
+      "text": " le",
+      "timestamp": [
+        21.58,
+        21.72
+      ]
+    },
+    {
+      "text": " dijeran",
+      "timestamp": [
+        21.72,
+        22.1
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        22.1,
+        22.18
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        22.18,
+        22.3
+      ]
+    },
+    {
+      "text": " novia",
+      "timestamp": [
+        22.3,
+        22.62
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        22.62,
+        22.76
+      ]
+    },
+    {
+      "text": " tenía",
+      "timestamp": [
+        22.76,
+        22.98
+      ]
+    },
+    {
+      "text": " entonces",
+      "timestamp": [
+        22.98,
+        23.36
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        23.44,
+        23.52
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        23.52,
+        23.6
+      ]
+    },
+    {
+      "text": " quería",
+      "timestamp": [
+        23.6,
+        23.88
+      ]
+    },
+    {
+      "text": " dejar",
+      "timestamp": [
+        23.88,
+        24.2
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        24.18,
+        24.78
+      ]
+    },
+    {
+      "text": " había",
+      "timestamp": [
+        25.0,
+        25.42
+      ]
+    },
+    {
+      "text": " muerto.",
+      "timestamp": [
+        25.42,
+        25.96
+      ]
+    },
+    {
+      "text": " Durante",
+      "timestamp": [
+        25.96,
+        26.82
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        26.82,
+        27.14
+      ]
+    },
+    {
+      "text": " rodaje",
+      "timestamp": [
+        27.14,
+        27.92
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        27.92,
+        28.54
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        28.54,
+        28.8
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        28.8,
+        28.88
+      ]
+    },
+    {
+      "text": " se",
+      "timestamp": [
+        28.88,
+        28.98
+      ]
+    },
+    {
+      "text": " avecina,",
+      "timestamp": [
+        28.98,
+        29.48
+      ]
+    },
+    {
+      "text": " fui",
+      "timestamp": [
+        29.48,
+        29.8
+      ]
+    },
+    {
+      "text": " presidente",
+      "timestamp": [
+        29.8,
+        30.5
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        30.5,
+        30.92
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        30.92,
+        31.02
+      ]
+    },
+    {
+      "text": " comunidad",
+      "timestamp": [
+        31.02,
+        31.36
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        31.72,
+        31.94
+      ]
+    },
+    {
+      "text": " verdad.",
+      "timestamp": [
+        31.94,
+        32.32
+      ]
+    },
+    {
+      "text": " Yo",
+      "timestamp": [
+        32.32,
+        32.56
+      ]
+    },
+    {
+      "text": " creo",
+      "timestamp": [
+        32.56,
+        32.74
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        32.74,
+        32.8
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        32.8,
+        32.9
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        32.9,
+        32.92
+      ]
+    },
+    {
+      "text": " del",
+      "timestamp": [
+        32.92,
+        33.04
+      ]
+    },
+    {
+      "text": " presidente.",
+      "timestamp": [
+        33.04,
+        33.72
+      ]
+    },
+    {
+      "text": " Pues",
+      "timestamp": [
+        35.18,
+        35.18
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        35.18,
+        35.34
+      ]
+    },
+    {
+      "text": " verdad.",
+      "timestamp": [
+        35.34,
+        35.74
+      ]
+    },
+    {
+      "text": " Bien.",
+      "timestamp": [
+        35.74,
+        36.7
+      ]
+    },
+    {
+      "text": " Cuando",
+      "timestamp": [
+        37.6,
+        37.84
+      ]
+    },
+    {
+      "text": " trabajaba",
+      "timestamp": [
+        37.84,
+        38.34
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        38.34,
+        38.4
+      ]
+    },
+    {
+      "text": " enfermero,",
+      "timestamp": [
+        38.4,
+        38.92
+      ]
+    },
+    {
+      "text": " yo",
+      "timestamp": [
+        38.92,
+        39.02
+      ]
+    },
+    {
+      "text": " ensayaba",
+      "timestamp": [
+        39.02,
+        39.5
+      ]
+    },
+    {
+      "text": " los",
+      "timestamp": [
+        39.5,
+        39.66
+      ]
+    },
+    {
+      "text": " monólogos",
+      "timestamp": [
+        39.66,
+        40.12
+      ]
+    },
+    {
+      "text": " por",
+      "timestamp": [
+        40.12,
+        40.24
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        40.24,
+        40.34
+      ]
+    },
+    {
+      "text": " noche",
+      "timestamp": [
+        40.34,
+        40.56
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        40.56,
+        40.84
+      ]
+    },
+    {
+      "text": " los",
+      "timestamp": [
+        40.84,
+        41.1
+      ]
+    },
+    {
+      "text": " pasillos",
+      "timestamp": [
+        41.1,
+        41.5
+      ]
+    },
+    {
+      "text": " del",
+      "timestamp": [
+        41.5,
+        41.62
+      ]
+    },
+    {
+      "text": " hospital",
+      "timestamp": [
+        41.62,
+        41.86
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        41.86,
+        42.76
+      ]
+    },
+    {
+      "text": " yo",
+      "timestamp": [
+        42.76,
+        42.9
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        42.9,
+        43.02
+      ]
+    },
+    {
+      "text": " vez",
+      "timestamp": [
+        43.02,
+        43.18
+      ]
+    },
+    {
+      "text": " tuve",
+      "timestamp": [
+        43.18,
+        43.44
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        43.44,
+        43.62
+      ]
+    },
+    {
+      "text": " grandísima",
+      "timestamp": [
+        43.8,
+        44.36
+      ]
+    },
+    {
+      "text": " discusión",
+      "timestamp": [
+        44.36,
+        44.8
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        44.8,
+        44.94
+      ]
+    },
+    {
+      "text": " mis",
+      "timestamp": [
+        44.94,
+        45.1
+      ]
+    },
+    {
+      "text": " padres",
+      "timestamp": [
+        45.1,
+        45.44
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        45.44,
+        45.7
+      ]
+    },
+    {
+      "text": " desheredaron",
+      "timestamp": [
+        45.7,
+        46.42
+      ]
+    },
+    {
+      "text": " dos",
+      "timestamp": [
+        46.42,
+        46.9
+      ]
+    },
+    {
+      "text": " meses",
+      "timestamp": [
+        46.9,
+        47.38
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        47.38,
+        47.9
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        47.9,
+        48.04
+      ]
+    },
+    {
+      "text": " tercera",
+      "timestamp": [
+        48.04,
+        48.4
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        48.4,
+        48.54
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        48.56,
+        48.56
+      ]
+    },
+    {
+      "text": " hablo",
+      "timestamp": [
+        48.56,
+        48.76
+      ]
+    },
+    {
+      "text": " cinco",
+      "timestamp": [
+        48.76,
+        49.04
+      ]
+    },
+    {
+      "text": " idiomas",
+      "timestamp": [
+        49.04,
+        49.5
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        49.5,
+        50.36
+      ]
+    },
+    {
+      "text": " uno",
+      "timestamp": [
+        50.36,
+        50.6
+      ]
+    },
+    {
+      "text": " muy",
+      "timestamp": [
+        50.6,
+        52.24
+      ]
+    },
+    {
+      "text": " bien",
+      "timestamp": [
+        52.24,
+        52.54
+      ]
+    }
+  ],
+  "processing_time": 7923.445235013962,
+  "language": "es",
+  "model_id": "openai/whisper-large-v3"
+}

@@ -1,0 +1,44 @@
+{
+  "audio_file": "A tüntető majom ｜ Susogós Mackók 🐻.wav",
+  "full_text": "Ha ah, haah! Ha ah, haah! Ha ah, haah! Ha ah! Mi volt a táblán? Nem tudom. Köszönöm.",
+  "chunks": [
+    {
+      "text": " Ha ah, haah!",
+      "start": 0.0,
+      "end": 1.26
+    },
+    {
+      "text": " Ha ah, haah!",
+      "start": 1.56,
+      "end": 2.72
+    },
+    {
+      "text": " Ha ah, haah!",
+      "start": 2.96,
+      "end": 4.16
+    },
+    {
+      "text": " Ha ah!",
+      "start": 4.42,
+      "end": 7.7
+    },
+    {
+      "text": " Mi volt a táblán?",
+      "start": 12.14,
+      "end": 13.58
+    },
+    {
+      "text": " Nem tudom.",
+      "start": 14.16,
+      "end": 15.24
+    },
+    {
+      "text": " Köszönöm.",
+      "start": 30.0,
+      "end": 31.38
+    }
+  ],
+  "processing_time": 2.3378612995147705,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

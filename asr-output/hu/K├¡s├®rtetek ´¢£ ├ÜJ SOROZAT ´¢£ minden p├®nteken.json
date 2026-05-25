@@ -1,0 +1,114 @@
+{
+  "audio_file": "Kísértetek ｜ ÚJ SOROZAT ｜ minden pénteken.wav",
+  "full_text": "Kis értetek vagyunk. Mik vagytok? Kísértetek vagyunk. Ellenéppen... Ebben a házban. Ez óriási. És mind a miénk. Sosem vagy egyedül. Ők lesznek azok. Az új tulajok. Mi a franc? Lát minket. Tennünk kell valamit. Ellie, ez csükrünket kísértetkizia. Ő...ja... Nem, bocsi. Valaki durván ide fingott. Mirel is volt szó? Bakker. Hol áll az ellenség? Kísérteni nehéz? Hú, ez durva. Kísértetek. Új sorozat január 6-ától a Comedy Centralon.",
+  "chunks": [
+    {
+      "text": " Kis értetek vagyunk.",
+      "start": 1.600000000000001,
+      "end": 2.48
+    },
+    {
+      "text": " Mik vagytok?",
+      "start": 2.48,
+      "end": 3.22
+    },
+    {
+      "text": " Kísértetek vagyunk.",
+      "start": 4.140000000000001,
+      "end": 5.7
+    },
+    {
+      "text": " Ellenéppen...",
+      "start": 7.000000000000001,
+      "end": 7.88
+    },
+    {
+      "text": " Ebben a házban. Ez óriási.",
+      "start": 7.88,
+      "end": 10.32
+    },
+    {
+      "text": " És mind a miénk.",
+      "start": 10.4,
+      "end": 11.5
+    },
+    {
+      "text": " Sosem vagy egyedül. Ők lesznek azok.",
+      "start": 11.56,
+      "end": 13.78
+    },
+    {
+      "text": " Az új tulajok.",
+      "start": 14.0,
+      "end": 15.52
+    },
+    {
+      "text": " Mi a franc?",
+      "start": 16.42,
+      "end": 17.38
+    },
+    {
+      "text": " Lát minket.",
+      "start": 17.72,
+      "end": 18.68
+    },
+    {
+      "text": " Tennünk kell valamit.",
+      "start": 19.94,
+      "end": 21.62
+    },
+    {
+      "text": " Ellie, ez csükrünket kísértetkizia.",
+      "start": 21.68,
+      "end": 23.62
+    },
+    {
+      "text": " Ő...ja...",
+      "start": 25.040000000000003,
+      "end": 25.92
+    },
+    {
+      "text": " Nem, bocsi. Valaki durván ide fingott.",
+      "start": 25.92,
+      "end": 29.0
+    },
+    {
+      "text": " Mirel is volt szó?",
+      "start": 29.0,
+      "end": 30.28
+    },
+    {
+      "text": " Bakker.",
+      "start": 32.1,
+      "end": 32.82
+    },
+    {
+      "text": " Hol áll az ellenség?",
+      "start": 34.04,
+      "end": 35.9
+    },
+    {
+      "text": " Kísérteni nehéz?",
+      "start": 37.34,
+      "end": 38.44
+    },
+    {
+      "text": " Hú, ez durva.",
+      "start": 38.88,
+      "end": 39.96
+    },
+    {
+      "text": " Kísértetek. Új sorozat január 6-ától",
+      "start": 40.24,
+      "end": 43.2
+    },
+    {
+      "text": " a Comedy Centralon.",
+      "start": 43.2,
+      "end": 44.44
+    }
+  ],
+  "processing_time": 0.31828975677490234,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

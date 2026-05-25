@@ -1,0 +1,54 @@
+{
+  "audio_file": "Golden Troll Awards 2023 ｜ ＂Olyan, mint a csótányevés' kategória.wav",
+  "full_text": "Arany Troll díj 2023, ahol a legjobb műsorok megkapják a legdurvább kommenteket. Élőben a New York... Hölgyeim és Uraim! Welcome to the show! A következő díjat Dani 87-nek köszönhetjük. Megpróbáltam megerőszakolni magam, hogy akár csak egy részt is végignézzek, de nekem továbbra is olyan, mint a csótányevés. Szi**t! És a díjat kapja... a Jó Szomszédok! Ez hihetetlen. Jó Szomszédok ma a Comedy Centralon! Köszönöm!",
+  "chunks": [
+    {
+      "text": " Arany Troll díj 2023, ahol a legjobb műsorok megkapják a legdurvább kommenteket.",
+      "start": 1.0599999999999994,
+      "end": 7.28
+    },
+    {
+      "text": " Élőben a New York...",
+      "start": 7.78,
+      "end": 10.0
+    },
+    {
+      "text": " Hölgyeim és Uraim! Welcome to the show!",
+      "start": 11.58,
+      "end": 14.68
+    },
+    {
+      "text": " A következő díjat Dani 87-nek köszönhetjük.",
+      "start": 16.92,
+      "end": 21.2
+    },
+    {
+      "text": " Megpróbáltam megerőszakolni magam, hogy akár csak egy részt is végignézzek,",
+      "start": 23.919999999999998,
+      "end": 28.34
+    },
+    {
+      "text": " de nekem továbbra is olyan, mint a csótányevés. Szi**t!",
+      "start": 28.34,
+      "end": 33.74
+    },
+    {
+      "text": " És a díjat kapja... a Jó Szomszédok!",
+      "start": 34.84,
+      "end": 39.4
+    },
+    {
+      "text": " Ez hihetetlen. Jó Szomszédok ma a Comedy Centralon!",
+      "start": 44.84,
+      "end": 50.52
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 58.58,
+      "end": 59.98
+    }
+  ],
+  "processing_time": 1.1741178035736084,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

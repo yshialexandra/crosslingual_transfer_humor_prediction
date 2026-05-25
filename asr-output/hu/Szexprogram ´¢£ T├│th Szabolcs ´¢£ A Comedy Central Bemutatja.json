@@ -1,0 +1,64 @@
+{
+  "audio_file": "Szexprogram ｜ Tóth Szabolcs ｜ A Comedy Central Bemutatja.wav",
+  "full_text": "Informatika osztályban írtam egy szeretkező programot. Elmondom nektek, hogyan működik, hogyha letöltenétek az internetről. Elég egyszerű kis program, beírod, hogy run szeretkezés.exe. Bejön az interfész. File. Open last edited. No, no, no, no. Create new action. Yes, yes, yes. Tools, view, options, edit. Ah, yes. Select edit. Import edit to the working place. Close the windows. Close the doors. Import the music file. Play killing me softly. Select edit. Zoom in. Scroll down. Zoom in. Select edit slash cc.fix. Download edit slash cc.fix. Move in the recycle bin. Yes. Select edit slash cc. Push up. Remove push up. Select the hand tool. Touch. Diddy Pontier Pégyé with the hand tool. Left click. Right click. Left right left click. Bang! Bang! Are you sure you want to cut the cookie? No, no, no, no, no. I don't want to cut my cookie. Cancel. Scroll down. Select pussy pont exe. Bang! You don't have permission to operate this file. Run crack pont exe. Patch pussy pont exe. Pussy pont exe is patched successfully. Yes, enter. Select the cookie. Enter the cookie. Bang! Error executing program. Select the hand tool. Select the hand tool. Resize the cookie. Enter the cookie. Move in. Move out. Move in. Move out. Move in. Move out. Repeat. Select edit. Rotate. Move in. Move out. Select edit. Rename. Enter. Arong. Select edit. Select edit. Select Arong. Group. Select edit. select edit. select Arong. Groupо. Move in. Move out. Rotate. Move in. Move out. Until ahah .MP3 is downloaded. Ah .MP3 is downloaded successfully. Yes. Select cookie. Cici.gumi.dll, move in the recycle bin, select Cici.fix, upload, open the windows, open the doors, select smoke.egze, fire. Köszönöm szépen.",
+  "chunks": [
+    {
+      "text": " Informatika osztályban írtam egy szeretkező programot. Elmondom nektek, hogyan működik, hogyha letöltenétek az internetről.",
+      "start": 0.0,
+      "end": 6.28
+    },
+    {
+      "text": " Elég egyszerű kis program, beírod, hogy run szeretkezés.exe. Bejön az interfész.",
+      "start": 6.82,
+      "end": 12.74
+    },
+    {
+      "text": " File. Open last edited. No, no, no, no. Create new action. Yes, yes, yes. Tools, view, options, edit. Ah, yes.",
+      "start": 13.399999999999999,
+      "end": 23.4
+    },
+    {
+      "text": " Select edit. Import edit to the working place. Close the windows. Close the doors. Import the music file. Play killing me softly. Select edit. Zoom in. Scroll down. Zoom in. Select edit slash cc.fix. Download edit slash cc.fix.",
+      "start": 23.4,
+      "end": 51.88
+    },
+    {
+      "text": " Move in the recycle bin. Yes. Select edit slash cc. Push up. Remove push up. Select the hand tool. Touch. Diddy Pontier Pégyé with the hand tool.",
+      "start": 51.88,
+      "end": 66.14
+    },
+    {
+      "text": " Left click. Right click. Left right left click. Bang! Bang! Are you sure you want to cut the cookie? No, no, no, no, no. I don't want to cut my cookie. Cancel. Scroll down. Select pussy pont exe.",
+      "start": 67.36,
+      "end": 81.52
+    },
+    {
+      "text": " Bang! You don't have permission to operate this file. Run crack pont exe. Patch pussy pont exe. Pussy pont exe is patched successfully. Yes, enter. Select the cookie. Enter the cookie. Bang! Error executing program.",
+      "start": 81.88,
+      "end": 104.64
+    },
+    {
+      "text": " Select the hand tool. Select the hand tool. Resize the cookie. Enter the cookie. Move in. Move out. Move in. Move out. Move in. Move out. Repeat. Select edit. Rotate. Move in. Move out. Select edit. Rename. Enter. Arong.",
+      "start": 105.8,
+      "end": 134.62
+    },
+    {
+      "text": " Select edit. Select edit. Select Arong. Group.",
+      "start": 136.60000000000002,
+      "end": 138.8
+    },
+    {
+      "text": " Select edit. select edit. select Arong. Groupо. Move in. Move out. Rotate. Move in. Move out. Until ahah .MP3 is downloaded. Ah .MP3 is downloaded successfully. Yes. Select cookie.",
+      "start": 138.8,
+      "end": 152.24
+    },
+    {
+      "text": " Cici.gumi.dll, move in the recycle bin, select Cici.fix, upload, open the windows, open the doors, select smoke.egze, fire. Köszönöm szépen.",
+      "start": 152.24,
+      "end": 164.0
+    }
+  ],
+  "processing_time": 1.9463777542114258,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

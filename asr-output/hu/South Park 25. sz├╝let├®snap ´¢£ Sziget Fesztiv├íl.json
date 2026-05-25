@@ -1,0 +1,34 @@
+{
+  "audio_file": "South Park 25. születésnap ｜ Sziget Fesztivál.wav",
+  "full_text": "Szevasztok! Itt vagyunk a Sziget Fesztiválon, a Comedy Central színeiben, és a South Park 25 éves, képzeljétek el, úgyhogy ezt ünnepeljük itt kint, énekeltetni fogjuk az embereket, karaokizni fognak, tartsatok velünk! Szevasztok! Eee! Ie-e! Eee! Screw you guys in the news!",
+  "chunks": [
+    {
+      "text": " Szevasztok! Itt vagyunk a Sziget Fesztiválon, a Comedy Central színeiben, és a South Park 25 éves, képzeljétek el, úgyhogy ezt ünnepeljük itt kint, énekeltetni fogjuk az embereket, karaokizni fognak, tartsatok velünk!",
+      "start": 1.2400000000000004,
+      "end": 13.82
+    },
+    {
+      "text": " Szevasztok!",
+      "start": 31.240000000000002,
+      "end": 32.06
+    },
+    {
+      "text": " Eee!",
+      "start": 51.66,
+      "end": 52.44
+    },
+    {
+      "text": " Ie-e! Eee!",
+      "start": 53.36,
+      "end": 55.1
+    },
+    {
+      "text": " Screw you guys in the news!",
+      "start": 55.58,
+      "end": 57.4
+    }
+  ],
+  "processing_time": 1.3374919891357422,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

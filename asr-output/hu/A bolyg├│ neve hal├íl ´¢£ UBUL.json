@@ -1,0 +1,24 @@
+{
+  "audio_file": "A bolygó neve halál ｜ UBUL.wav",
+  "full_text": "Köszönöm a húzás! Köszönöm! Köszönöm!",
+  "chunks": [
+    {
+      "text": " Köszönöm a húzás!",
+      "start": 6.779999999999999,
+      "end": 10.2
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 30.96,
+      "end": 32.36
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 60.06,
+      "end": 61.46
+    }
+  ],
+  "processing_time": 1.0946531295776367,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

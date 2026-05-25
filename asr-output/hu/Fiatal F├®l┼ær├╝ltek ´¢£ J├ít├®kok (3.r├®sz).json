@@ -1,0 +1,54 @@
+{
+  "audio_file": "Fiatal Félőrültek ｜ Játékok (3.rész).wav",
+  "full_text": "Itt lehet röhögni. Az első héten még tetszett, de aztán hamar meguntam. Jó, de ezt nem mondjatok el, mert múltkor is behívtak az egyik felvétel után. Mesztelenül hemperegtünk a tengerparton. Jobban szeretem, hogyha megcsinálják helyettem. Hát, hogyha lehet, akkor kérem siessenek, mert még egy állásinterjúra át kell mennem. A ház mit ajánl? Pogjaid szét és védaginak várja. Köszönöm, hogy megtaláltad!",
+  "chunks": [
+    {
+      "text": " Itt lehet röhögni.",
+      "start": 0.0,
+      "end": 1.28
+    },
+    {
+      "text": " Az első héten még tetszett, de aztán hamar meguntam.",
+      "start": 30.800000000000004,
+      "end": 33.74
+    },
+    {
+      "text": " Jó, de ezt nem mondjatok el, mert múltkor is behívtak az egyik felvétel után.",
+      "start": 34.16,
+      "end": 38.46
+    },
+    {
+      "text": " Mesztelenül hemperegtünk a tengerparton.",
+      "start": 39.22000000000001,
+      "end": 41.18
+    },
+    {
+      "text": " Jobban szeretem, hogyha megcsinálják helyettem.",
+      "start": 41.38,
+      "end": 43.28
+    },
+    {
+      "text": " Hát, hogyha lehet, akkor kérem siessenek, mert még egy állásinterjúra át kell mennem.",
+      "start": 44.14,
+      "end": 48.34
+    },
+    {
+      "text": " A ház mit ajánl?",
+      "start": 48.62,
+      "end": 49.54
+    },
+    {
+      "text": " Pogjaid szét és védaginak várja.",
+      "start": 88.58,
+      "end": 89.98
+    },
+    {
+      "text": " Köszönöm, hogy megtaláltad!",
+      "start": 115.48000000000002,
+      "end": 118.98
+    }
+  ],
+  "processing_time": 1.658381700515747,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

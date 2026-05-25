@@ -1,0 +1,84 @@
+{
+  "audio_file": "Csajom ｜ Mélynyomó.wav",
+  "full_text": "Csapéle Csapéle Jó reggelt kívánok, délután fél egykor! Tegnap összejött. Mi? Nő! Tudod ki hiszi el? Megmutassam a profilját? Nem mutasd. Megnyitva maradt. Tudj. De ez egy seprű. Nem. Hát megismerem az nyai egyéb. Az meg nem anyajegy, hanem egy csomó. Ez meg nem a Facebook, hanem a jófogás. De nekem azt mondta, modell. Legalább nem vettél neki nyakláncot, mint múltkor annak a fogasnak. Na, hol is tartottunk, kiskezi csókolom?",
+  "chunks": [
+    {
+      "text": " Csapéle",
+      "start": 2.120000000000001,
+      "end": 2.84
+    },
+    {
+      "text": " Csapéle",
+      "start": 4.000000000000001,
+      "end": 4.72
+    },
+    {
+      "text": " Jó reggelt kívánok, délután fél egykor!",
+      "start": 9.500000000000002,
+      "end": 12.74
+    },
+    {
+      "text": " Tegnap összejött.",
+      "start": 12.94,
+      "end": 14.08
+    },
+    {
+      "text": " Mi?",
+      "start": 14.22,
+      "end": 14.58
+    },
+    {
+      "text": " Nő!",
+      "start": 15.68,
+      "end": 16.4
+    },
+    {
+      "text": " Tudod ki hiszi el? Megmutassam a profilját?",
+      "start": 17.12,
+      "end": 19.86
+    },
+    {
+      "text": " Nem mutasd. Megnyitva maradt.",
+      "start": 19.88,
+      "end": 21.68
+    },
+    {
+      "text": " Tudj.",
+      "start": 21.82,
+      "end": 21.96
+    },
+    {
+      "text": " De ez egy seprű.",
+      "start": 24.200000000000003,
+      "end": 25.74
+    },
+    {
+      "text": " Nem. Hát megismerem az nyai egyéb.",
+      "start": 26.900000000000002,
+      "end": 29.1
+    },
+    {
+      "text": " Az meg nem anyajegy, hanem egy csomó. Ez meg nem a Facebook, hanem a jófogás.",
+      "start": 29.1,
+      "end": 33.64
+    },
+    {
+      "text": " De nekem azt mondta, modell.",
+      "start": 34.14,
+      "end": 35.58
+    },
+    {
+      "text": " Legalább nem vettél neki nyakláncot, mint múltkor annak a fogasnak.",
+      "start": 37.68,
+      "end": 41.34
+    },
+    {
+      "text": " Na, hol is tartottunk, kiskezi csókolom?",
+      "start": 42.8,
+      "end": 46.6
+    }
+  ],
+  "processing_time": 1.332491159439087,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

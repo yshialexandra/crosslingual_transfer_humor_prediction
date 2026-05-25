@@ -1,0 +1,404 @@
+{
+  "audio_file": "Tu Perro Se Está Muriendo ｜ Nacho García ｜ CC Presents T2.wav",
+  "full_text": "La gente que le habla al perro. Me pegué, me pegué. Que tienen perro muy pequeño. Como es muy chico ese perro. Es muy chico ese perro. No debería ser legal. Estos perros que están como... gritando todo el rato porque no encajan las piezas. El perro como tiritando, como... Como no tiene frío. No tiene frío el perro, tiene miedo. Tiene miedo, joder, hostia. Pesa como medio puto kilo. Puede morir en cualquier momento y lo sabe. Lo sabe. ¿Sabes estos perros que tienen la mirada con los ojos para afuera? ¡No le entran en la cabeza! ¡No le entran en la cabeza! ¡No le entran en la cabeza! ¡El perro está como...! Parece que está jugando. ¿Os acordáis del juego este de mesa del burro? Que estaba como... Que le ibas poniendo... Que no tenéis ni puta idea. Los de arriba. ¿Qué vais a saber? Si vosotros estaréis con el señor del tres y el quinito. No, tampoco. Bueno, qué cojones. Vosotros ya quedáis para follar directamente. Los necesitan... El perro, tío. Estos perros que no ladran. Que hace como un sonido. Y el perro empieza como... ¿A qué? ¿A qué? ¿A qué? Tu perro quiere comunicarse con nosotros. Tu perro quiere hablar. ¡Ah! ¡Ah! ¡Ah! ¡Ah! ¡Ah! ¡Ah! ¡Ah! ¡Ah! ¡Ah! ¡Ah! ¡No está bien! ¡Joder! Estos perros que van arrastrándose por encima de un charco de babas. Que van como... ¡Ah! ¡Ah! Que no respiran. Que van... ¡Ah! ¡Ah! ¡Ah! ¡Ah! ¡Ah! Como un caracol sobre su propia baba. Perdóname. Perdóname. Tu perro se está muriendo. Tu perro... Se está muriendo, tu perro. ¡Ah, no! Es que esa raza es así. Tomad por culo. Lo arreglan. Dice... No, es que esa raza... Es que esa raza no respiran bien. Ah, pues que se jodan. Que se joda toda la puta raza. Lo arreglan así. Que se joda.",
+  "chunks": [
+    {
+      "text": " La gente que le habla al perro.",
+      "start": 0.9199999999999995,
+      "end": 2.76
+    },
+    {
+      "text": " Me pegué, me pegué.",
+      "start": 3.48,
+      "end": 4.62
+    },
+    {
+      "text": " Que tienen perro muy pequeño.",
+      "start": 5.58,
+      "end": 7.16
+    },
+    {
+      "text": " Como es muy chico ese perro.",
+      "start": 8.74,
+      "end": 11.04
+    },
+    {
+      "text": " Es muy chico ese perro.",
+      "start": 11.68,
+      "end": 14.0
+    },
+    {
+      "text": " No debería ser legal.",
+      "start": 16.099999999999998,
+      "end": 18.16
+    },
+    {
+      "text": " Estos perros que están como...",
+      "start": 18.36,
+      "end": 20.2
+    },
+    {
+      "text": " gritando todo el rato porque no encajan las piezas.",
+      "start": 21.56,
+      "end": 25.2
+    },
+    {
+      "text": " El perro como tiritando, como...",
+      "start": 31.16,
+      "end": 33.36
+    },
+    {
+      "text": " Como no tiene frío.",
+      "start": 34.76,
+      "end": 35.96
+    },
+    {
+      "text": " No tiene frío el perro, tiene miedo.",
+      "start": 36.02,
+      "end": 38.02
+    },
+    {
+      "text": " Tiene miedo, joder, hostia.",
+      "start": 38.7,
+      "end": 40.34
+    },
+    {
+      "text": " Pesa como medio puto kilo.",
+      "start": 40.4,
+      "end": 42.28
+    },
+    {
+      "text": " Puede morir en cualquier momento y lo sabe.",
+      "start": 43.06,
+      "end": 45.92
+    },
+    {
+      "text": " Lo sabe.",
+      "start": 46.78,
+      "end": 47.68
+    },
+    {
+      "text": " ¿Sabes estos perros que tienen la mirada con los ojos para afuera?",
+      "start": 48.06,
+      "end": 51.98
+    },
+    {
+      "text": " ¡No le entran en la cabeza!",
+      "start": 51.98,
+      "end": 53.6
+    },
+    {
+      "text": " ¡No le entran en la cabeza!",
+      "start": 55.82,
+      "end": 58.36
+    },
+    {
+      "text": " ¡No le entran en la cabeza! ¡El perro está como...!",
+      "start": 58.36,
+      "end": 60.64
+    },
+    {
+      "text": " Parece que está jugando.",
+      "start": 61.26,
+      "end": 62.32
+    },
+    {
+      "text": " ¿Os acordáis del juego este de mesa del burro?",
+      "start": 62.38,
+      "end": 64.12
+    },
+    {
+      "text": " Que estaba como...",
+      "start": 64.24,
+      "end": 65.12
+    },
+    {
+      "text": " Que le ibas poniendo...",
+      "start": 65.12,
+      "end": 66.02
+    },
+    {
+      "text": " Que no tenéis ni puta idea.",
+      "start": 66.02,
+      "end": 67.16
+    },
+    {
+      "text": " Los de arriba.",
+      "start": 67.56,
+      "end": 68.52
+    },
+    {
+      "text": " ¿Qué vais a saber?",
+      "start": 69.78,
+      "end": 70.82
+    },
+    {
+      "text": " Si vosotros estaréis con el señor del tres y el quinito.",
+      "start": 70.9,
+      "end": 73.66
+    },
+    {
+      "text": " No, tampoco. Bueno, qué cojones.",
+      "start": 73.72,
+      "end": 75.0
+    },
+    {
+      "text": " Vosotros ya quedáis para follar directamente.",
+      "start": 75.78,
+      "end": 77.42
+    },
+    {
+      "text": " Los necesitan...",
+      "start": 80.17999999999999,
+      "end": 80.98
+    },
+    {
+      "text": " El perro, tío.",
+      "start": 80.98,
+      "end": 82.14
+    },
+    {
+      "text": " Estos perros que no ladran.",
+      "start": 82.26,
+      "end": 84.74
+    },
+    {
+      "text": " Que hace como un sonido.",
+      "start": 84.82,
+      "end": 85.64
+    },
+    {
+      "text": " Y el perro empieza como...",
+      "start": 85.64,
+      "end": 86.34
+    },
+    {
+      "text": " ¿A qué?",
+      "start": 89.78,
+      "end": 90.6
+    },
+    {
+      "text": " ¿A qué?",
+      "start": 90.78,
+      "end": 91.14
+    },
+    {
+      "text": " ¿A qué?",
+      "start": 91.34,
+      "end": 91.9
+    },
+    {
+      "text": " Tu perro quiere comunicarse con nosotros.",
+      "start": 92.14,
+      "end": 94.32
+    },
+    {
+      "text": " Tu perro quiere hablar.",
+      "start": 94.72,
+      "end": 96.3
+    },
+    {
+      "text": " ¡Ah!",
+      "start": 97.3,
+      "end": 97.58
+    },
+    {
+      "text": " ¡Ah!",
+      "start": 97.88,
+      "end": 98.36
+    },
+    {
+      "text": " ¡Ah!",
+      "start": 99.18,
+      "end": 99.4
+    },
+    {
+      "text": " ¡Ah!",
+      "start": 104.36,
+      "end": 104.96
+    },
+    {
+      "text": " ¡Ah!",
+      "start": 108.82,
+      "end": 109.32
+    },
+    {
+      "text": " ¡Ah!",
+      "start": 109.84,
+      "end": 110.34
+    },
+    {
+      "text": " ¡Ah!",
+      "start": 110.5,
+      "end": 110.98
+    },
+    {
+      "text": " ¡Ah!",
+      "start": 111.84,
+      "end": 112.32
+    },
+    {
+      "text": " ¡Ah!",
+      "start": 112.32,
+      "end": 112.44
+    },
+    {
+      "text": " ¡Ah!",
+      "start": 112.62,
+      "end": 112.78
+    },
+    {
+      "text": " ¡No está bien!",
+      "start": 112.78,
+      "end": 113.96
+    },
+    {
+      "text": " ¡Joder!",
+      "start": 114.16,
+      "end": 114.46
+    },
+    {
+      "text": " Estos perros que van arrastrándose por encima de un charco de babas.",
+      "start": 114.88,
+      "end": 118.06
+    },
+    {
+      "text": " Que van como...",
+      "start": 118.16,
+      "end": 118.66
+    },
+    {
+      "text": " ¡Ah!",
+      "start": 118.66,
+      "end": 118.86
+    },
+    {
+      "text": " ¡Ah!",
+      "start": 119.08,
+      "end": 119.34
+    },
+    {
+      "text": " Que no respiran.",
+      "start": 119.34,
+      "end": 120.08
+    },
+    {
+      "text": " Que van...",
+      "start": 120.16,
+      "end": 120.46
+    },
+    {
+      "text": " ¡Ah!",
+      "start": 120.46,
+      "end": 120.64
+    },
+    {
+      "text": " ¡Ah!",
+      "start": 120.9,
+      "end": 121.3
+    },
+    {
+      "text": " ¡Ah!",
+      "start": 121.88,
+      "end": 122.26
+    },
+    {
+      "text": " ¡Ah!",
+      "start": 122.26,
+      "end": 122.38
+    },
+    {
+      "text": " ¡Ah!",
+      "start": 122.56,
+      "end": 122.66
+    },
+    {
+      "text": " Como un caracol sobre su propia baba.",
+      "start": 122.66,
+      "end": 124.3
+    },
+    {
+      "text": " Perdóname.",
+      "start": 124.86,
+      "end": 125.3
+    },
+    {
+      "text": " Perdóname.",
+      "start": 125.66,
+      "end": 126.1
+    },
+    {
+      "text": " Tu perro se está muriendo.",
+      "start": 126.18,
+      "end": 127.46
+    },
+    {
+      "text": " Tu perro...",
+      "start": 129.56,
+      "end": 130.44
+    },
+    {
+      "text": " Se está muriendo, tu perro.",
+      "start": 131.86,
+      "end": 133.9
+    },
+    {
+      "text": " ¡Ah, no!",
+      "start": 134.3,
+      "end": 134.68
+    },
+    {
+      "text": " Es que esa raza es así.",
+      "start": 134.76,
+      "end": 135.72
+    },
+    {
+      "text": " Tomad por culo.",
+      "start": 135.84,
+      "end": 136.56
+    },
+    {
+      "text": " Lo arreglan.",
+      "start": 137.66,
+      "end": 138.54
+    },
+    {
+      "text": " Dice...",
+      "start": 138.68,
+      "end": 139.06
+    },
+    {
+      "text": " No, es que esa raza...",
+      "start": 139.06,
+      "end": 140.18
+    },
+    {
+      "text": " Es que esa raza no respiran bien.",
+      "start": 140.7,
+      "end": 142.6
+    },
+    {
+      "text": " Ah, pues que se jodan.",
+      "start": 142.74,
+      "end": 143.86
+    },
+    {
+      "text": " Que se joda toda la puta raza.",
+      "start": 144.54,
+      "end": 146.36
+    },
+    {
+      "text": " Lo arreglan así.",
+      "start": 147.56,
+      "end": 148.54
+    },
+    {
+      "text": " Que se joda.",
+      "start": 148.74,
+      "end": 149.36
+    }
+  ],
+  "processing_time": 0.867933988571167,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

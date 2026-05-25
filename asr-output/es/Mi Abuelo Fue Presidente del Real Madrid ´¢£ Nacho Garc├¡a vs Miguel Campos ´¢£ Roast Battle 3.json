@@ -1,0 +1,24 @@
+{
+  "audio_file": "Mi Abuelo Fue Presidente del Real Madrid ｜ Nacho García vs Miguel Campos ｜ Roast Battle 3.wav",
+  "full_text": "¿Qué es el Real Madrid? ¿Qué es el Real Madrid? ¿Qué es el Real Madrid?",
+  "chunks": [
+    {
+      "text": " ¿Qué es el Real Madrid?",
+      "start": 25.240000000000006,
+      "end": 29.44
+    },
+    {
+      "text": " ¿Qué es el Real Madrid?",
+      "start": 30.0,
+      "end": 55.58
+    },
+    {
+      "text": " ¿Qué es el Real Madrid?",
+      "start": 69.55999999999999,
+      "end": 70.98
+    }
+  ],
+  "processing_time": 0.24013924598693848,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,149 @@
+{
+  "audio_file": "A kis Badár  ｜ Badár Sándor ｜ A Comedy Central bemutatja.wav",
+  "full_text": "A kisgyerek korszakomból még van egy olyan kocsma, amit én folyamatosan azt gondoltam, hogy valószínűleg egy ilyen sütiző hely, tehát egy ilyen, hát nem tudom másképp mondani, annyira pici voltam, hogy nem tudtam akkor még megmagyarázni, de egy papírtölcsér, egy ilyen papírfagyi van közvetlenül előtte, törpének hívták egyébként. Oda én úgy mentem be, hogy szülősi bácsival kötöttem egy szerződés négy éves koromba, hogy amíg ő pakolja a téglát, ő lovaskocsival hordta a téglát, addig én ülhetek a lóhátán. És ugyanúgy írtuk alá mind a ketten, mint ahogy később a lottózóba, hogy ebbe mentem. Ez feljogosított bennünket arra, hogy mi már vérszerződést kötöttünk egymással, megfogott, így föltett a lóhátára, és elindultunk a téglagyárba, csak én még lovan soha az életemben nem ültem addig, és egy négy éves kisfiú egy muraközi lónak a hátára ne üljön föl, mert angol spárgába ül a lóhátán azonnal, és ugye megbolondul, mert kettő karikába kapaszkodik bele, és hogyha lenézett esetleg alá, akkor azt látta, hogy a lónak öt lába van, tehát a legborzasztó. És onnantól kezdve nem mer leesni, érted, mert mi lesz, ha fejbe vágja az ötödik lába. És így kapaszkodtam gyakorlatilag az életembe úgy, hogy majdnem ketté szakadtam, és nem mertem neki megmondani, hogy én nem vagyok az a típus, aki ilyen sokáig tud így ülni a lovan. Én... El sem tudom képzelni, hogy a kalandozó magyarok hogy bírták ki ilyen sokáig, érted? Ott elindult a kulánbátorból, érted, és idáig így jöttek, hogy Istenem, Istenem. És én nem csak azt vártam meg, hogy legeljen a ló, érted, hanem a végterméket is, csak nem mertem megnézni. És így ültem, mondom, szűz anyám, mondom, rakjam azt a rohadt téglát, de egy szőlősi bácsi, aki egyedül rakja a téglát, érted? És nem tud róla, hogy később én nyerem majd a lotton azt a rettentő sok pénzt, hogy meg tudnám vele együtt venni az egész téglagyárat, ezt nem kell elrakodni. Érted? Ő ezt így raktam el, pontosan tudta, hogy meddig kell rakni, addig, amire kimérik a sört. Tehát ez a legfontosabb. És a ló is íbólagatott egész ide, hogy jó lesz, jó lesz. Na mindegy, nem akarom sokáig húzni, mert végülis a visszahutat már én sem láttam, annyira becsuktam a szemem, és pont ott álltunk meg a törpe előtt. Ő bement, azt hittem, hogy hoz nekem egy 50 filléres fagyit, órákig nem jött ki. Aztán, mikor kijött, már ő se tudta, hogy megyünk, vagy jövünk, és aztán... Amikor hazaérkeztünk, anyám az első pofon neki adta. Anyám azért adta az első pofon neki, mert már engem már rendőrökkel keresletettél, tehát körözött személyi lettem, hogy hova jó Istenbe tűntem el. Utána vertel engem csak, szőlősi bácsi maradékjával. Anyám akar a pofon tudott adni, hogy nekem adta az utca végén is elesett valakit. Na ez volt az első ilyen élményem, tehát gyakorlatilag kocsmákról, és akkor már én is nagyjából tudtam, hogy mi van odabent, de nem voltam száz szegékig tisztából vele, viszont azt láttam, hogy ha bemegy valaki és kijön, az nem ugyanaz. A esperojátokat!",
+  "chunks": [
+    {
+      "text": " A kisgyerek korszakomból még van egy olyan kocsma, amit én folyamatosan azt gondoltam, hogy valószínűleg egy ilyen sütiző hely,",
+      "start": 1.2000000000000004,
+      "end": 8.62
+    },
+    {
+      "text": " tehát egy ilyen, hát nem tudom másképp mondani, annyira pici voltam, hogy nem tudtam akkor még megmagyarázni,",
+      "start": 8.74,
+      "end": 13.88
+    },
+    {
+      "text": " de egy papírtölcsér, egy ilyen papírfagyi van közvetlenül előtte, törpének hívták egyébként.",
+      "start": 14.14,
+      "end": 20.52
+    },
+    {
+      "text": " Oda én úgy mentem be, hogy szülősi bácsival kötöttem egy szerződés négy éves koromba,",
+      "start": 20.86,
+      "end": 25.92
+    },
+    {
+      "text": " hogy amíg ő pakolja a téglát, ő lovaskocsival hordta a téglát, addig én ülhetek a lóhátán.",
+      "start": 25.92,
+      "end": 31.46
+    },
+    {
+      "text": " És ugyanúgy írtuk alá mind a ketten, mint ahogy később a lottózóba, hogy ebbe mentem.",
+      "start": 31.8,
+      "end": 39.0
+    },
+    {
+      "text": " Ez feljogosított bennünket arra, hogy mi már vérszerződést kötöttünk egymással, megfogott, így föltett a lóhátára,",
+      "start": 39.34,
+      "end": 45.98
+    },
+    {
+      "text": " és elindultunk a téglagyárba, csak én még lovan soha az életemben nem ültem addig,",
+      "start": 46.08,
+      "end": 50.6
+    },
+    {
+      "text": " és egy négy éves kisfiú egy muraközi lónak a hátára ne üljön föl,",
+      "start": 50.64,
+      "end": 54.12
+    },
+    {
+      "text": " mert angol spárgába ül a lóhátán azonnal, és ugye megbolondul, mert kettő karikába kapaszkodik bele,",
+      "start": 54.12,
+      "end": 61.34
+    },
+    {
+      "text": " és hogyha lenézett esetleg alá, akkor azt látta, hogy a lónak öt lába van, tehát a legborzasztó.",
+      "start": 61.62,
+      "end": 66.44
+    },
+    {
+      "text": " És onnantól kezdve nem mer leesni, érted, mert mi lesz, ha fejbe vágja az ötödik lába.",
+      "start": 67.2,
+      "end": 71.64
+    },
+    {
+      "text": " És így kapaszkodtam gyakorlatilag az életembe úgy, hogy majdnem ketté szakadtam, és nem mertem neki megmondani, hogy én nem vagyok az a típus, aki ilyen sokáig tud így ülni a lovan.",
+      "start": 72.48,
+      "end": 81.86
+    },
+    {
+      "text": " Én... El sem tudom képzelni, hogy a kalandozó magyarok hogy bírták ki ilyen sokáig, érted? Ott elindult a kulánbátorból, érted, és idáig így jöttek, hogy Istenem, Istenem.",
+      "start": 84.48,
+      "end": 95.82
+    },
+    {
+      "text": " És én nem csak azt vártam meg, hogy legeljen a ló, érted, hanem a végterméket is, csak nem mertem megnézni.",
+      "start": 97.2,
+      "end": 102.26
+    },
+    {
+      "text": " És így ültem, mondom, szűz anyám, mondom, rakjam azt a rohadt téglát, de egy szőlősi bácsi, aki egyedül rakja a téglát, érted?",
+      "start": 103.4,
+      "end": 110.52
+    },
+    {
+      "text": " És nem tud róla, hogy később én nyerem majd a lotton azt a rettentő sok pénzt, hogy meg tudnám vele együtt venni az egész téglagyárat, ezt nem kell elrakodni.",
+      "start": 111.48,
+      "end": 118.8
+    },
+    {
+      "text": " Érted? Ő ezt így raktam el, pontosan tudta, hogy meddig kell rakni, addig, amire kimérik a sört. Tehát ez a legfontosabb.",
+      "start": 119.16,
+      "end": 126.6
+    },
+    {
+      "text": " És a ló is íbólagatott egész ide, hogy jó lesz, jó lesz.",
+      "start": 127.36,
+      "end": 131.14
+    },
+    {
+      "text": " Na mindegy, nem akarom sokáig húzni, mert végülis a visszahutat már én sem láttam, annyira becsuktam a szemem, és pont ott álltunk meg a törpe előtt.",
+      "start": 132.2,
+      "end": 139.08
+    },
+    {
+      "text": " Ő bement, azt hittem, hogy hoz nekem egy 50 filléres fagyit, órákig nem jött ki.",
+      "start": 139.24,
+      "end": 143.7
+    },
+    {
+      "text": " Aztán, mikor kijött, már ő se tudta, hogy megyünk, vagy jövünk, és aztán...",
+      "start": 144.84,
+      "end": 148.46
+    },
+    {
+      "text": " Amikor hazaérkeztünk, anyám az első pofon neki adta.",
+      "start": 150.33999999999997,
+      "end": 152.74
+    },
+    {
+      "text": " Anyám azért adta az első pofon neki, mert már engem már rendőrökkel keresletettél, tehát körözött személyi lettem, hogy hova jó Istenbe tűntem el.",
+      "start": 153.46,
+      "end": 160.82
+    },
+    {
+      "text": " Utána vertel engem csak, szőlősi bácsi maradékjával.",
+      "start": 161.12,
+      "end": 165.2
+    },
+    {
+      "text": " Anyám akar a pofon tudott adni, hogy nekem adta az utca végén is elesett valakit.",
+      "start": 166.04000000000002,
+      "end": 169.48
+    },
+    {
+      "text": " Na ez volt az első ilyen élményem, tehát gyakorlatilag kocsmákról, és akkor már én is nagyjából tudtam, hogy mi van odabent, de nem voltam száz szegékig tisztából vele, viszont azt láttam, hogy ha bemegy valaki és kijön, az nem ugyanaz.",
+      "start": 170.6,
+      "end": 182.38
+    },
+    {
+      "text": " A esperojátokat!",
+      "start": 182.74,
+      "end": 183.7
+    }
+  ],
+  "processing_time": 2.5859756469726562,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

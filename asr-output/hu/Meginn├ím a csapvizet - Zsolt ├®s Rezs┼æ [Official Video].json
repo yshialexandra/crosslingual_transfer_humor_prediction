@@ -1,0 +1,44 @@
+{
+  "audio_file": "Meginnám a csapvizet - Zsolt és Rezső [Official Video].wav",
+  "full_text": "Köszönöm, hogy megnézték! Táskás emberek, Megpihennem nem lehet, Mert elkapnak, Ha elkapnak videket, megbecsapnak. Az utcánkban létesült egy állomás, Azt mondják, hogy vízte le, De látom más. Miért olyan magas ez a kerítés, Hogyha ez nem videgem felderítés? Azt is szik, hogy elhízsuk, Te tévennek, Éjszakánként fényekre felébreltek, Lefényképezem azt, amit csinálnak, Folyam meg is mutatom a világnak, Megint ám a csap fizet, De nem tudom, Megnövekszik tőle női hormonom, Ránézek a babámnak a fejére, Egyen oda klondraktak a helyére! Azt a helyére!",
+  "chunks": [
+    {
+      "text": " Köszönöm, hogy megnézték!",
+      "start": 29.54,
+      "end": 29.98
+    },
+    {
+      "text": " Táskás emberek, Megpihennem nem lehet, Mert elkapnak, Ha elkapnak videket, megbecsapnak.",
+      "start": 30.0,
+      "end": 37.88
+    },
+    {
+      "text": " Az utcánkban létesült egy állomás, Azt mondják, hogy vízte le, De látom más.",
+      "start": 44.28,
+      "end": 50.76
+    },
+    {
+      "text": " Miért olyan magas ez a kerítés, Hogyha ez nem videgem felderítés?",
+      "start": 50.98,
+      "end": 57.18
+    },
+    {
+      "text": " Azt is szik, hogy elhízsuk, Te tévennek, Éjszakánként fényekre felébreltek,",
+      "start": 82.98,
+      "end": 89.1
+    },
+    {
+      "text": " Lefényképezem azt, amit csinálnak, Folyam meg is mutatom a világnak, Megint ám a csap fizet, De nem tudom, Megnövekszik tőle női hormonom, Ránézek a babámnak a fejére, Egyen oda klondraktak a helyére!",
+      "start": 89.1,
+      "end": 108.16
+    },
+    {
+      "text": " Azt a helyére!",
+      "start": 119.1,
+      "end": 121.10000000000001
+    }
+  ],
+  "processing_time": 1.452101469039917,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

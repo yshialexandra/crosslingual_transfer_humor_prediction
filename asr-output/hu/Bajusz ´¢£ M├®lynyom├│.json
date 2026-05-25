@@ -1,0 +1,29 @@
+{
+  "audio_file": "Bajusz ｜ Mélynyomó.wav",
+  "full_text": "Köszönöm! Köszönöm! Már hétfő óta akarok szólni. Figyelj, már te kicsit még megesszett?",
+  "chunks": [
+    {
+      "text": " Köszönöm!",
+      "start": 28.560000000000002,
+      "end": 29.96
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 30.0,
+      "end": 30.82
+    },
+    {
+      "text": " Már hétfő óta akarok szólni.",
+      "start": 30.82,
+      "end": 33.1
+    },
+    {
+      "text": " Figyelj, már te kicsit még megesszett?",
+      "start": 34.04,
+      "end": 35.88
+    }
+  ],
+  "processing_time": 0.19035649299621582,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

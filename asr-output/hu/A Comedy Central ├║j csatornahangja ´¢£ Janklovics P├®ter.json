@@ -1,0 +1,44 @@
+{
+  "audio_file": "A Comedy Central új csatornahangja ｜ Janklovics Péter.wav",
+  "full_text": "Sziasztok! Lengyel Tomi vagyok. A Comedy Central csatorna hangja már több, mint 10 éve. De most úgy érzem, ideje más területen kamatoztatni a képességeidet. Mivel a szívemen viselem a csatorna sorsát, ezért úgy döntöttem, segítek kiválasztani az utódomat. És hogy ki lesz az új hang? Na eskubizzátok! Sziasztok! Szia Peti! Nézd, ez lesz a szöveged, ezt olvast fel, kérlek! Egyerőre nincs semmi instrukció, csak természetesen. Jó. Ő a világ legjobb titkos ügynöke, aki nem fél semmitől! Álljunk meg, álljunk meg! Természetesen! Ilőbeszéd, jó? Ja, jó, jó, jó, jó, oké. Archer! Minden hétköznap 23.30-tól a Comedy Centralon! Jó, akkor most próbáld meg természetesen. Úgy, mintha arra válaszolnál, hogy mennyi az idő, jó? Oké. Archer! Archer! Archer! Mi lenne, ha megpróbálnál el azulni egy kicsit? Jajó, oké. Kicsit rugózzál. Jó, jó, jó, jó, jó, tényleg lehet, hogy mozgással. Oké, oké. Jó. Archer! Minden hétköznap este a Comedy Centralon! Nem vagy sok-sok oké. Ide pillj egy picit rám. Hagyjuk a szöveget, jó? Mondd bele ebbe a kamerába. hogy hogy hívnak és hogy mikor születtél. Jó. Ezt mozgással ezt is vagy? Jó. Janklovics Péter 1977. február 21. Szuper! Most ugyanígy mondd el azt, ami a papíron van. Oké. Archer! Hétköznap esténként! Peti! Igen? Peti! Mondta valaki, hogy rossznak kell lenni? Nem. Akkor miért nem vagy jó? Jó. Mondd azt, hogy Archer. Archer. Minden hétköznap. Minden hétköznap. A Comedy Centralon. A Comedy Centralon. Szuper! Most ugyanígy mondd el azt a szöveget, ami ott van a papírodon. Miért így hívják ezt a csávot? Ki ez egyáltalán? Milyen film ez? Archer. Archer. Minden hétköznap este a Comedy Centralon. Nem Archer. Comedy Central. Nem parodizáljál. Nem. Akarod ezt a munkát, vagy nem akarod ezt a munkát? Nem. Nem tudom most már. Picit úgy meginogtam benne már. Igen? Nem tudom. Nem tudom. Nem tudom. Nem tudom. Nem tudom. Köszönjük. Archer. Ehhez a feladathoz nem mindenki tud felnőni. Úgyhogy maradok én a csatornaha. Archer. Köszönjük. Archer. Bye.",
+  "chunks": [
+    {
+      "text": " Sziasztok! Lengyel Tomi vagyok. A Comedy Central csatorna hangja már több, mint 10 éve. De most úgy érzem, ideje más területen kamatoztatni a képességeidet. Mivel a szívemen viselem a csatorna sorsát, ezért úgy döntöttem, segítek kiválasztani az utódomat. És hogy ki lesz az új hang? Na eskubizzátok!",
+      "start": 1.0799999999999998,
+      "end": 21.02
+    },
+    {
+      "text": " Sziasztok! Szia Peti! Nézd, ez lesz a szöveged, ezt olvast fel, kérlek! Egyerőre nincs semmi instrukció, csak természetesen. Jó. Ő a világ legjobb titkos ügynöke, aki nem fél semmitől! Álljunk meg, álljunk meg! Természetesen! Ilőbeszéd, jó? Ja, jó, jó, jó, jó, oké. Archer! Minden hétköznap 23.30-tól a Comedy Centralon!",
+      "start": 26.28,
+      "end": 49.74
+    },
+    {
+      "text": " Jó, akkor most próbáld meg természetesen. Úgy, mintha arra válaszolnál, hogy mennyi az idő, jó? Oké. Archer! Archer! Archer! Mi lenne, ha megpróbálnál el azulni egy kicsit? Jajó, oké. Kicsit rugózzál. Jó, jó, jó, jó, jó, tényleg lehet, hogy mozgással. Oké, oké. Jó. Archer! Minden hétköznap este a Comedy Centralon! Nem vagy sok-sok oké. Ide pillj egy picit rám. Hagyjuk a szöveget, jó? Mondd bele ebbe a kamerába.",
+      "start": 51.16,
+      "end": 80.86
+    },
+    {
+      "text": " hogy hogy hívnak és hogy mikor születtél. Jó. Ezt mozgással ezt is vagy? Jó. Janklovics Péter 1977. február 21. Szuper! Most ugyanígy mondd el azt, ami a papíron van. Oké. Archer! Hétköznap esténként! Peti! Igen? Peti! Mondta valaki, hogy rossznak kell lenni? Nem. Akkor miért nem vagy jó? Jó. Mondd azt, hogy Archer.",
+      "start": 81.02,
+      "end": 106.58
+    },
+    {
+      "text": " Archer. Minden hétköznap. Minden hétköznap. A Comedy Centralon. A Comedy Centralon. Szuper! Most ugyanígy mondd el azt a szöveget, ami ott van a papírodon. Miért így hívják ezt a csávot? Ki ez egyáltalán? Milyen film ez? Archer. Archer. Minden hétköznap este a Comedy Centralon. Nem Archer. Comedy Central. Nem parodizáljál. Nem.",
+      "start": 107.5,
+      "end": 130.92
+    },
+    {
+      "text": " Akarod ezt a munkát, vagy nem akarod ezt a munkát? Nem. Nem tudom most már. Picit úgy meginogtam benne már. Igen? Nem tudom. Nem tudom. Nem tudom. Nem tudom. Nem tudom. Köszönjük. Archer. Ehhez a feladathoz nem mindenki tud felnőni. Úgyhogy maradok én a csatornaha. Archer.",
+      "start": 130.92,
+      "end": 148.32
+    },
+    {
+      "text": " Köszönjük. Archer. Bye.",
+      "start": 148.32,
+      "end": 149.78
+    }
+  ],
+  "processing_time": 0.8957974910736084,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

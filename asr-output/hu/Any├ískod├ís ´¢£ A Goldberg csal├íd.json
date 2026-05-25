@@ -1,0 +1,214 @@
+{
+  "audio_file": "Anyáskodás ｜ A Goldberg család.wav",
+  "full_text": "Nem tudja, mire vagyok képes a gyerekeimért. Ne akarja tudni. Akarom tudni. Nem tudhatja! Ki őrzi Edem álmát, amikor előjön az asztmája? Hát én! Ki betújhőrcsögöt a családnak, miután ráültél hörmire? Én! Boldog szüli napot! Mit készrengelire? Magánéletet! Ideje az anyai beavatkozásnak. Hahó! Erika és Berri megjött anyátok! Ó, te jó Isten! Az én kicsikén borot vákozik! Anya, elmegyek! Oké, de jól öltössz fel. Felnőtt férfi vagyok! Tényleg elég hideg van. Olyan piros az orrod, mint a cicának. Anya! Elég! Gyorsan meg kell találnunk a kicsi lányomat! Blokkáddal elvetetem a város. Ne! Érj hozzá! Fontos, hogy kócos legyen a hajam. Jó, de legalább sállat vegyél. Nagyon hideg van. Hogy sállat? Hát nem szokott fázni. Kakikáltál, ugye? Ki kell menned? Kakilnod kell? Tudom, hogy a suliban nem szeretsz, de nincs idők otthon megállni, szóval ha kakkantanod kell, akkor itt kakkantsz! Az én kis mot csicsim! A legjóképűbb fiam a világon? Igen! Híj fel! Ha odaértél! Szabad egy páncra? Itt szöveg csak felúgy eljöttem. Tudés! Menj már haza! Miért vagy a szobában? Anya! Menj el! Most rögtön! Még az ajtóban állsz, ugye? Szeretlek! Még az ajtóban állsz!",
+  "chunks": [
+    {
+      "text": " Nem tudja, mire vagyok képes a gyerekeimért. Ne akarja tudni.",
+      "start": 1.0,
+      "end": 4.1
+    },
+    {
+      "text": " Akarom tudni.",
+      "start": 4.2,
+      "end": 4.94
+    },
+    {
+      "text": " Nem tudhatja!",
+      "start": 5.06,
+      "end": 5.74
+    },
+    {
+      "text": " Ki őrzi Edem álmát, amikor előjön az asztmája? Hát én!",
+      "start": 8.26,
+      "end": 12.26
+    },
+    {
+      "text": " Ki betújhőrcsögöt a családnak, miután ráültél hörmire? Én!",
+      "start": 12.34,
+      "end": 16.3
+    },
+    {
+      "text": " Boldog szüli napot! Mit készrengelire?",
+      "start": 17.46,
+      "end": 20.36
+    },
+    {
+      "text": " Magánéletet!",
+      "start": 20.84,
+      "end": 21.44
+    },
+    {
+      "text": " Ideje az anyai beavatkozásnak.",
+      "start": 21.54,
+      "end": 23.5
+    },
+    {
+      "text": " Hahó! Erika és Berri megjött anyátok!",
+      "start": 25.2,
+      "end": 28.02
+    },
+    {
+      "text": " Ó, te jó Isten! Az én kicsikén borot vákozik!",
+      "start": 28.02,
+      "end": 31.32
+    },
+    {
+      "text": " Anya, elmegyek!",
+      "start": 34.9,
+      "end": 35.96
+    },
+    {
+      "text": " Oké, de jól öltössz fel.",
+      "start": 36.16,
+      "end": 37.68
+    },
+    {
+      "text": " Felnőtt férfi vagyok!",
+      "start": 37.8,
+      "end": 39.06
+    },
+    {
+      "text": " Tényleg elég hideg van.",
+      "start": 39.92,
+      "end": 41.24
+    },
+    {
+      "text": " Olyan piros az orrod, mint a cicának.",
+      "start": 41.52,
+      "end": 43.64
+    },
+    {
+      "text": " Anya!",
+      "start": 43.76,
+      "end": 44.2
+    },
+    {
+      "text": " Elég!",
+      "start": 44.9,
+      "end": 45.4
+    },
+    {
+      "text": " Gyorsan meg kell találnunk a kicsi lányomat!",
+      "start": 46.32,
+      "end": 48.5
+    },
+    {
+      "text": " Blokkáddal elvetetem a város.",
+      "start": 49.04,
+      "end": 50.42
+    },
+    {
+      "text": " Ne! Érj hozzá!",
+      "start": 51.94,
+      "end": 53.64
+    },
+    {
+      "text": " Fontos, hogy kócos legyen a hajam.",
+      "start": 53.78,
+      "end": 55.26
+    },
+    {
+      "text": " Jó, de legalább sállat vegyél. Nagyon hideg van.",
+      "start": 55.38,
+      "end": 57.8
+    },
+    {
+      "text": " Hogy sállat? Hát nem szokott fázni.",
+      "start": 57.8,
+      "end": 60.02
+    },
+    {
+      "text": " Kakikáltál, ugye?",
+      "start": 60.2,
+      "end": 60.96
+    },
+    {
+      "text": " Ki kell menned?",
+      "start": 61.22,
+      "end": 62.28
+    },
+    {
+      "text": " Kakilnod kell?",
+      "start": 63.16,
+      "end": 63.94
+    },
+    {
+      "text": " Tudom, hogy a suliban nem szeretsz, de nincs idők otthon megállni, szóval ha kakkantanod kell, akkor itt kakkantsz!",
+      "start": 64.2,
+      "end": 69.44
+    },
+    {
+      "text": " Az én kis mot csicsim!",
+      "start": 69.5,
+      "end": 70.98
+    },
+    {
+      "text": " A legjóképűbb fiam a világon?",
+      "start": 71.18,
+      "end": 73.7
+    },
+    {
+      "text": " Igen!",
+      "start": 74.14,
+      "end": 74.66
+    },
+    {
+      "text": " Híj fel!",
+      "start": 77.08,
+      "end": 78.0
+    },
+    {
+      "text": " Ha odaértél!",
+      "start": 78.0,
+      "end": 79.66
+    },
+    {
+      "text": " Szabad egy páncra?",
+      "start": 80.58,
+      "end": 81.82
+    },
+    {
+      "text": " Itt szöveg csak felúgy eljöttem.",
+      "start": 81.98,
+      "end": 83.46
+    },
+    {
+      "text": " Tudés!",
+      "start": 83.54,
+      "end": 83.98
+    },
+    {
+      "text": " Menj már haza!",
+      "start": 84.06,
+      "end": 84.96
+    },
+    {
+      "text": " Miért vagy a szobában?",
+      "start": 85.06,
+      "end": 86.14
+    },
+    {
+      "text": " Anya! Menj el! Most rögtön!",
+      "start": 86.34,
+      "end": 88.0
+    },
+    {
+      "text": " Még az ajtóban állsz, ugye?",
+      "start": 89.14,
+      "end": 90.98
+    },
+    {
+      "text": " Szeretlek!",
+      "start": 91.78,
+      "end": 92.34
+    },
+    {
+      "text": " Még az ajtóban állsz!",
+      "start": 92.34,
+      "end": 106.94
+    }
+  ],
+  "processing_time": 0.6659402847290039,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,109 @@
+{
+  "audio_file": "Mike El Galés： Obsesión Española De Cagarse En Cosas ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "Obviamente la cosa que más cambia entre los países es el idioma. Y vosotros estáis obsesionados en cagarse en cosas. Es increíble, ¿no? Me cago en todo. Bueno, todo, todo, excepto en el váter, ¿no? Que es donde deberíais hacerlo. Pero no, no, no, allí plantáis pinos. Se puede cagar en un charco, pero ahí no, no, no, un pino, un pino. Con dos cojones, así. Y mira, hay muchos comunes como, por ejemplo, no sé, me cago en la mar. Supongo para putear a los alemanes y británicos que se invaden cada verano. Y por un lugar, según tu opinión, antiguamente católico, os cagáis en la hostia, en Dios, en Dios y en su puta madre. ¿No? Seguro que están encantados con vosotros. ¿No? ¿Nunca habéis dado cuenta que cada Semana Santa en España jueven? ¿No? ¿No? ¿No? ¿No? ¿No?",
+  "chunks": [
+    {
+      "text": " Obviamente la cosa que más cambia entre los países es el idioma.",
+      "start": 1.2200000000000002,
+      "end": 7.68
+    },
+    {
+      "text": " Y vosotros estáis obsesionados en cagarse en cosas.",
+      "start": 8.02,
+      "end": 11.76
+    },
+    {
+      "text": " Es increíble, ¿no?",
+      "start": 12.6,
+      "end": 14.1
+    },
+    {
+      "text": " Me cago en todo.",
+      "start": 14.68,
+      "end": 16.56
+    },
+    {
+      "text": " Bueno, todo, todo, excepto en el váter, ¿no?",
+      "start": 17.22,
+      "end": 20.66
+    },
+    {
+      "text": " Que es donde deberíais hacerlo.",
+      "start": 21.1,
+      "end": 22.98
+    },
+    {
+      "text": " Pero no, no, no, allí plantáis pinos.",
+      "start": 23.38,
+      "end": 25.4
+    },
+    {
+      "text": " Se puede cagar en un charco, pero ahí no, no, no, un pino, un pino.",
+      "start": 30.480000000000004,
+      "end": 34.04
+    },
+    {
+      "text": " Con dos cojones, así.",
+      "start": 34.2,
+      "end": 35.28
+    },
+    {
+      "text": " Y mira, hay muchos comunes como, por ejemplo, no sé, me cago en la mar.",
+      "start": 36.86000000000001,
+      "end": 42.64
+    },
+    {
+      "text": " Supongo para putear a los alemanes y británicos que se invaden cada verano.",
+      "start": 42.98,
+      "end": 47.18
+    },
+    {
+      "text": " Y por un lugar, según tu opinión, antiguamente católico, os cagáis en la hostia, en Dios, en Dios y en su puta madre.",
+      "start": 48.580000000000005,
+      "end": 58.76
+    },
+    {
+      "text": " ¿No? Seguro que están encantados con vosotros.",
+      "start": 60.18,
+      "end": 63.26
+    },
+    {
+      "text": " ¿No?",
+      "start": 63.82,
+      "end": 64.2
+    },
+    {
+      "text": " ¿Nunca habéis dado cuenta que cada Semana Santa en España jueven?",
+      "start": 64.6,
+      "end": 68.56
+    },
+    {
+      "text": " ¿No?",
+      "start": 90.0,
+      "end": 90.32
+    },
+    {
+      "text": " ¿No?",
+      "start": 90.36,
+      "end": 90.48
+    },
+    {
+      "text": " ¿No?",
+      "start": 92.0,
+      "end": 92.48
+    },
+    {
+      "text": " ¿No?",
+      "start": 92.48,
+      "end": 92.56
+    },
+    {
+      "text": " ¿No?",
+      "start": 92.8,
+      "end": 92.96
+    }
+  ],
+  "processing_time": 0.7125768661499023,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

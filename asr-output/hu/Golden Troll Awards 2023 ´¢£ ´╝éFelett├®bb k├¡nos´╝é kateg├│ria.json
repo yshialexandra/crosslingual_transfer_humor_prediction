@@ -1,0 +1,59 @@
+{
+  "audio_file": "Golden Troll Awards 2023 ｜ ＂Felettébb kínos＂ kategória.wav",
+  "full_text": "Aranytroll díj 2023, ahol a legjobb műsorok megkapják a legdurbább kommenteket. Élőben a nyújjó... Hölgyeim és uraim, sziasztok, köszöntök mindenkit. A következő díjat Teréz apunak köszönhetjük. Feletébb kínos. Remélem, nem ebből kell megélnetek. És ezt a díjat kapja a zene a Comedy Clubban. Kedves Teréz apu, természetesen nem ebből kell megélnünk, de... sajnos ebből élünk. Hihetetlen zene ma a Comedy Centralon. NAMASTE",
+  "chunks": [
+    {
+      "text": " Aranytroll díj 2023, ahol a legjobb műsorok megkapják a legdurbább kommenteket.",
+      "start": 1.1799999999999988,
+      "end": 7.28
+    },
+    {
+      "text": " Élőben a nyújjó...",
+      "start": 7.64,
+      "end": 10.06
+    },
+    {
+      "text": " Hölgyeim és uraim, sziasztok, köszöntök mindenkit.",
+      "start": 10.06,
+      "end": 14.42
+    },
+    {
+      "text": " A következő díjat Teréz apunak köszönhetjük.",
+      "start": 14.52,
+      "end": 18.0
+    },
+    {
+      "text": " Feletébb kínos. Remélem, nem ebből kell megélnetek.",
+      "start": 20.62,
+      "end": 25.16
+    },
+    {
+      "text": " És ezt a díjat kapja a zene a Comedy Clubban.",
+      "start": 26.24,
+      "end": 32.36
+    },
+    {
+      "text": " Kedves Teréz apu, természetesen nem ebből kell megélnünk, de...",
+      "start": 35.06,
+      "end": 40.48
+    },
+    {
+      "text": " sajnos ebből élünk.",
+      "start": 41.16,
+      "end": 43.3
+    },
+    {
+      "text": " Hihetetlen zene ma a Comedy Centralon.",
+      "start": 46.72,
+      "end": 51.16
+    },
+    {
+      "text": " NAMASTE",
+      "start": 58.52,
+      "end": 59.92
+    }
+  ],
+  "processing_time": 0.9533779621124268,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

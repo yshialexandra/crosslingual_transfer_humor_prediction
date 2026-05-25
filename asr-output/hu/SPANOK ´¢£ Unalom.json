@@ -1,0 +1,144 @@
+{
+  "audio_file": "SPANOK ｜ Unalom.wav",
+  "full_text": "A� Rezbazság A Biden 2020 A Biden 2020 A Biden 2020 A Biden 2020 Halló! – Márcsa! A csát, ez a mizó! Ah, semmit, én tudom magam, te. El is mondd ugyan ezt Nem jössz át? Mit csinálunk? Nem tudom, kitalálunk valamit. X-boxozunk, rendelünk olyan kaját, pizzát. Mindig áthiss, azt nem csinálunk semmit, soha. Gyere már át, majd szálljon, most mit kéreted magad? Mondjuk egy jó pizzát ennék. Sajtos szír, kolbászos, paradicsommal, jó hagymával. Rávágunk egy kis ideget, aztán megvagyunk. Hol van, hol van, megyek, nem csak. Hele helyet. Szíricka, magam? Hívjunk már valakit. Jól van, hívjuk-hívjuk. Jásszunk, rendelünk a kaját. Azt meg rádomunk valami ideget? Dorito! Kérdés! Kérdés!",
+  "chunks": [
+    {
+      "text": " A� Rezbazság",
+      "start": 0.0,
+      "end": 0.58
+    },
+    {
+      "text": " A Biden 2020",
+      "start": 0.58,
+      "end": 3.46
+    },
+    {
+      "text": " A Biden 2020",
+      "start": 3.46,
+      "end": 4.4
+    },
+    {
+      "text": " A Biden 2020",
+      "start": 4.4,
+      "end": 8.66
+    },
+    {
+      "text": " A Biden 2020",
+      "start": 10.620000000000001,
+      "end": 12.12
+    },
+    {
+      "text": " Halló!",
+      "start": 13.98,
+      "end": 14.66
+    },
+    {
+      "text": " – Márcsa!",
+      "start": 15.06,
+      "end": 15.52
+    },
+    {
+      "text": " A csát, ez a mizó!",
+      "start": 15.92,
+      "end": 17.48
+    },
+    {
+      "text": " Ah, semmit, én tudom magam, te.",
+      "start": 17.62,
+      "end": 19.74
+    },
+    {
+      "text": " El is mondd ugyan ezt",
+      "start": 20.14,
+      "end": 21.34
+    },
+    {
+      "text": " Nem jössz át?",
+      "start": 23.56,
+      "end": 24.26
+    },
+    {
+      "text": " Mit csinálunk?",
+      "start": 26.080000000000002,
+      "end": 27.44
+    },
+    {
+      "text": " Nem tudom, kitalálunk valamit.",
+      "start": 27.66,
+      "end": 29.28
+    },
+    {
+      "text": " X-boxozunk, rendelünk olyan kaját, pizzát.",
+      "start": 29.28,
+      "end": 32.46
+    },
+    {
+      "text": " Mindig áthiss, azt nem csinálunk semmit, soha.",
+      "start": 32.58,
+      "end": 35.1
+    },
+    {
+      "text": " Gyere már át, majd szálljon, most mit kéreted magad?",
+      "start": 35.82,
+      "end": 38.18
+    },
+    {
+      "text": " Mondjuk egy jó pizzát ennék.",
+      "start": 41.11999999999999,
+      "end": 43.46
+    },
+    {
+      "text": " Sajtos szír, kolbászos, paradicsommal, jó hagymával.",
+      "start": 43.88,
+      "end": 48.52
+    },
+    {
+      "text": " Rávágunk egy kis ideget, aztán megvagyunk.",
+      "start": 49.82,
+      "end": 51.7
+    },
+    {
+      "text": " Hol van, hol van, megyek, nem csak.",
+      "start": 52.28,
+      "end": 53.68
+    },
+    {
+      "text": " Hele helyet.",
+      "start": 74.41999999999999,
+      "end": 76.1
+    },
+    {
+      "text": " Szíricka, magam?",
+      "start": 77.28,
+      "end": 78.24
+    },
+    {
+      "text": " Hívjunk már valakit.",
+      "start": 79.2,
+      "end": 80.86
+    },
+    {
+      "text": " Jól van, hívjuk-hívjuk.",
+      "start": 81.38,
+      "end": 83.28
+    },
+    {
+      "text": " Jásszunk, rendelünk a kaját.",
+      "start": 83.56,
+      "end": 85.14
+    },
+    {
+      "text": " Azt meg rádomunk valami ideget?",
+      "start": 86.0,
+      "end": 88.06
+    },
+    {
+      "text": " Dorito! Kérdés! Kérdés!",
+      "start": 89.28,
+      "end": 93.04
+    }
+  ],
+  "processing_time": 3.057546377182007,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

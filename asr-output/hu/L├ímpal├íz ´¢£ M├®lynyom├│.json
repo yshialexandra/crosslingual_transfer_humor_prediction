@@ -1,0 +1,79 @@
+{
+  "audio_file": "Lámpaláz ｜ Mélynyomó.wav",
+  "full_text": "Majd előtt! Csak... Gyerünk! Mi van, Andyke? Mit fosol? Ez már meg majdnem tele van a sátor. És? Csináltad már, ez elsze? Na, akkor is izgulok. Miért el nem izgulnád? Én már nagyon régen nem izgulok. Ez a baj, tudod? Mert rutinból csinálok. Én onnan tudom, hogy jól leszek, hogy még izgulok előtte, ez hiányzik belőled egyébként. Ez a zalába. Na jóval, figyelj, bemész -, lenyomod전, kijössz! Gyerünk! Romás, druckoljál! Druckolok! Egy, egy, egy! Vették! Ima, tak!",
+  "chunks": [
+    {
+      "text": " Majd előtt! Csak...",
+      "start": 0.0,
+      "end": 0.6
+    },
+    {
+      "text": " Gyerünk!",
+      "start": 8.060000000000002,
+      "end": 8.46
+    },
+    {
+      "text": " Mi van, Andyke? Mit fosol?",
+      "start": 8.46,
+      "end": 9.8
+    },
+    {
+      "text": " Ez már meg majdnem tele van a sátor. És? Csináltad már, ez elsze?",
+      "start": 9.92,
+      "end": 13.3
+    },
+    {
+      "text": " Na, akkor is izgulok. Miért el nem izgulnád?",
+      "start": 13.42,
+      "end": 15.2
+    },
+    {
+      "text": " Én már nagyon régen nem izgulok. Ez a baj, tudod? Mert rutinból csinálok.",
+      "start": 15.26,
+      "end": 18.98
+    },
+    {
+      "text": " Én onnan tudom, hogy jól leszek, hogy még izgulok",
+      "start": 19.46,
+      "end": 21.6
+    },
+    {
+      "text": " előtte, ez hiányzik belőled egyébként. Ez a zalába.",
+      "start": 21.6,
+      "end": 23.86
+    },
+    {
+      "text": " Na jóval, figyelj, bemész -, lenyomod전, kijössz! Gyerünk!",
+      "start": 23.92,
+      "end": 27.38
+    },
+    {
+      "text": " Romás, druckoljál!",
+      "start": 27.38,
+      "end": 29.8
+    },
+    {
+      "text": " Druckolok!",
+      "start": 29.86,
+      "end": 30.4
+    },
+    {
+      "text": " Egy, egy, egy!",
+      "start": 40.900000000000006,
+      "end": 42.96
+    },
+    {
+      "text": " Vették!",
+      "start": 60.38,
+      "end": 60.86
+    },
+    {
+      "text": " Ima, tak!",
+      "start": 60.98,
+      "end": 61.58
+    }
+  ],
+  "processing_time": 1.6175861358642578,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

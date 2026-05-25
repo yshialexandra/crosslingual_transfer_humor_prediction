@@ -1,0 +1,214 @@
+{
+  "audio_file": "LO QUE NO HAS VISTO Del Roast De JJ Vaquero a Mallorca.wav",
+  "full_text": "¡Suscríbete al canal! Eso es más fácil, lo difícil es ser el otro. Ser esto es más fácil. Mucha barra, mucho levantamiento de barra entonces. Mucha barra para ser el otro y mucha barra para ser este. Es que esta es mucha escuela. Miquel está haciendo callar a los cerdos. ¿Cómo se hace callar a un cerdo? Que lo acabo de aprender. ¿A ti cómo te harían callar? A mí dándome de beber, tú a ellos dándoles de comer. Ah, sí. Bueno, he dicho dándome de beber, cuidado, que luego se me suelta. No, porque luego te sube y bueno, luego no te callan. Luego se me suelta. Luego esto ya te sube y nada. Oye, mira, ya que estamos aquí con los cerdos. Sí. Aquí en Mallorca tenéis una corrupción muy heavy. Hostia, ¿qué es eso de la corrupción? Ahora no te capto. Política, política. Ah, política. Yo esto no hablo. No sabes, ¿no? No, porque es un problema esto. Cuando hablas de política, piense lo que pienses, te van a mirar mal. Sueño que estoy en la mili. ¿Sabes? Y me despierto y digo, qué guay. Lo estaba soñando. ¿Tú has hecho la mili? Yo lo he hecho, claro que la he hecho. Bueno, yo también. La he hecho, la he hecho. Y no la volvería a hacer, ¿eh? Bueno, pues sí, como me lo pasé muy bien, la mayor parte me la pasé en un monte de equis dibujando. Y la otra, cuatro o cinco meses, he arrestado en una isla preciosa, que es que Brer, ¿eh? Pues sí, volvería, porque no hacía nada. Oye, ¿sabes que Yúnez significa paloma? ¿Qué dices, tío? Sí. Qué guapo, ¿no? Lo he mirado, porque me gusta a mí informarme en las entrevistas. ¿Paloma? Paloma. Sí, sí. Me gusta, tío. A mí me gustaría que si Yúnez significa paloma, Chahid significase San Basilio. Nada, que a mis padres les gustaba mucho, tío. Iba a decir de la paz, soy una mierda de cómico. Iba a decir de la paz, pero es San Basilio el chiste, cojones. Iba a decir de la paz, soy una mierda de cómico.",
+  "chunks": [
+    {
+      "text": " ¡Suscríbete al canal!",
+      "start": 26.480000000000004,
+      "end": 29.3
+    },
+    {
+      "text": " Eso es más fácil, lo difícil es ser el otro. Ser esto es más fácil.",
+      "start": 30.0,
+      "end": 35.1
+    },
+    {
+      "text": " Mucha barra, mucho levantamiento de barra entonces.",
+      "start": 35.96,
+      "end": 37.86
+    },
+    {
+      "text": " Mucha barra para ser el otro y mucha barra para ser este.",
+      "start": 37.98,
+      "end": 42.2
+    },
+    {
+      "text": " Es que esta es mucha escuela.",
+      "start": 42.4,
+      "end": 43.44
+    },
+    {
+      "text": " Miquel está haciendo callar a los cerdos. ¿Cómo se hace callar a un cerdo? Que lo acabo de aprender.",
+      "start": 48.94,
+      "end": 53.46
+    },
+    {
+      "text": " ¿A ti cómo te harían callar?",
+      "start": 54.42,
+      "end": 55.76
+    },
+    {
+      "text": " A mí dándome de beber, tú a ellos dándoles de comer.",
+      "start": 56.52,
+      "end": 59.52
+    },
+    {
+      "text": " Ah, sí.",
+      "start": 59.52,
+      "end": 59.9
+    },
+    {
+      "text": " Bueno, he dicho dándome de beber, cuidado, que luego se me suelta.",
+      "start": 60.92,
+      "end": 62.9
+    },
+    {
+      "text": " No, porque luego te sube y bueno, luego no te callan.",
+      "start": 62.92,
+      "end": 66.46
+    },
+    {
+      "text": " Luego se me suelta.",
+      "start": 66.58,
+      "end": 67.44
+    },
+    {
+      "text": " Luego esto ya te sube y nada.",
+      "start": 67.54,
+      "end": 69.54
+    },
+    {
+      "text": " Oye, mira, ya que estamos aquí con los cerdos.",
+      "start": 69.54,
+      "end": 71.08
+    },
+    {
+      "text": " Sí.",
+      "start": 71.16,
+      "end": 71.3
+    },
+    {
+      "text": " Aquí en Mallorca tenéis una corrupción muy heavy.",
+      "start": 72.08,
+      "end": 74.16
+    },
+    {
+      "text": " Hostia, ¿qué es eso de la corrupción? Ahora no te capto.",
+      "start": 74.38,
+      "end": 77.2
+    },
+    {
+      "text": " Política, política.",
+      "start": 78.16,
+      "end": 78.88
+    },
+    {
+      "text": " Ah, política. Yo esto no hablo.",
+      "start": 79.22,
+      "end": 81.1
+    },
+    {
+      "text": " No sabes, ¿no?",
+      "start": 81.24,
+      "end": 81.98
+    },
+    {
+      "text": " No, porque es un problema esto. Cuando hablas de política, piense lo que pienses, te van a mirar mal.",
+      "start": 81.98,
+      "end": 87.78
+    },
+    {
+      "text": " Sueño que estoy en la mili. ¿Sabes? Y me despierto y digo, qué guay. Lo estaba soñando.",
+      "start": 92.49999999999999,
+      "end": 99.76
+    },
+    {
+      "text": " ¿Tú has hecho la mili?",
+      "start": 99.76,
+      "end": 100.7
+    },
+    {
+      "text": " Yo lo he hecho, claro que la he hecho.",
+      "start": 100.82,
+      "end": 102.0
+    },
+    {
+      "text": " Bueno, yo también.",
+      "start": 102.06,
+      "end": 102.76
+    },
+    {
+      "text": " La he hecho, la he hecho. Y no la volvería a hacer, ¿eh?",
+      "start": 103.12,
+      "end": 104.88
+    },
+    {
+      "text": " Bueno, pues sí, como me lo pasé muy bien, la mayor parte me la pasé en un monte de equis dibujando.",
+      "start": 105.92,
+      "end": 114.1
+    },
+    {
+      "text": " Y la otra, cuatro o cinco meses, he arrestado en una isla preciosa, que es que Brer, ¿eh? Pues sí, volvería, porque no hacía nada.",
+      "start": 114.1,
+      "end": 123.64
+    },
+    {
+      "text": " Oye, ¿sabes que Yúnez significa paloma?",
+      "start": 128.5,
+      "end": 130.76
+    },
+    {
+      "text": " ¿Qué dices, tío?",
+      "start": 130.86,
+      "end": 131.62
+    },
+    {
+      "text": " Sí.",
+      "start": 131.7,
+      "end": 131.86
+    },
+    {
+      "text": " Qué guapo, ¿no?",
+      "start": 132.94,
+      "end": 133.3
+    },
+    {
+      "text": " Lo he mirado, porque me gusta a mí informarme en las entrevistas.",
+      "start": 133.3,
+      "end": 135.4
+    },
+    {
+      "text": " ¿Paloma?",
+      "start": 135.72,
+      "end": 136.16
+    },
+    {
+      "text": " Paloma.",
+      "start": 136.74,
+      "end": 137.18
+    },
+    {
+      "text": " Sí, sí.",
+      "start": 137.36,
+      "end": 137.76
+    },
+    {
+      "text": " Me gusta, tío.",
+      "start": 138.04,
+      "end": 138.94
+    },
+    {
+      "text": " A mí me gustaría que si Yúnez significa paloma, Chahid significase San Basilio.",
+      "start": 138.94,
+      "end": 146.08
+    },
+    {
+      "text": " Nada, que a mis padres les gustaba mucho, tío.",
+      "start": 150.96,
+      "end": 153.26
+    },
+    {
+      "text": " Iba a decir de la paz, soy una mierda de cómico. Iba a decir de la paz, pero es San Basilio el chiste, cojones.",
+      "start": 154.3,
+      "end": 161.82
+    },
+    {
+      "text": " Iba a decir de la paz, soy una mierda de cómico.",
+      "start": 171.28,
+      "end": 186.04
+    }
+  ],
+  "processing_time": 1.9240906238555908,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

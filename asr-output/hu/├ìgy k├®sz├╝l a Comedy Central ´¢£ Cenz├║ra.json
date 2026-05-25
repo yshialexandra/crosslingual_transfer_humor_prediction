@@ -1,0 +1,59 @@
+{
+  "audio_file": "Így készül a Comedy Central ｜ Cenzúra.wav",
+  "full_text": "A Kámedicentrál csatornájánál is megvizsgálatunk. A Kámedicentrál csenzúra szobájában. Az összes effekt itt készül. Mivel ez egy kreatív csatorna, nem használhatunk szimpla sípolást. Az annyira 1993. Én csinálom a sorozatokat, az animációkat, most éppen a stand-up fokon dolgozom. Mindig ezt mondják, az iskola az életre nevel, pedig ha az életre nevelne, olyan tantárgyak lennének. Meg ott vannak az értékelésre a nevek. Tízezer orvos kutatja, és Norbi találja meg, hogy nyomja a fekőt, ám azt benéz az ágyjára. Folyamatos innováció ez. A nézők egyből kiszúrják, ha valami nem odavaló. Sokszor van, hogy elfáradok, igen. De éjszakánként is ezzel szoktam gondolkozni. De ez azért gondolom látszik, hogy ez egy nehéz szakma. Ha csúnyát akarnék mondani, akkor... Bocsánat! Bocsánat! Köszönöm, hogy megtaláltad!",
+  "chunks": [
+    {
+      "text": " A Kámedicentrál csatornájánál is megvizsgálatunk.",
+      "start": 10.32,
+      "end": 27.54
+    },
+    {
+      "text": " A Kámedicentrál csenzúra szobájában. Az összes effekt itt készül. Mivel ez egy kreatív csatorna, nem használhatunk szimpla sípolást. Az annyira 1993. Én csinálom a sorozatokat, az animációkat, most éppen a stand-up fokon dolgozom.",
+      "start": 35.059999999999995,
+      "end": 53.52
+    },
+    {
+      "text": " Mindig ezt mondják, az iskola az életre nevel, pedig ha az életre nevelne, olyan tantárgyak lennének. Meg ott vannak az értékelésre a nevek.",
+      "start": 53.52,
+      "end": 64.42
+    },
+    {
+      "text": " Tízezer orvos kutatja, és Norbi találja meg, hogy nyomja a fekőt, ám azt benéz az ágyjára.",
+      "start": 66.48,
+      "end": 71.58
+    },
+    {
+      "text": " Folyamatos innováció ez. A nézők egyből kiszúrják, ha valami nem odavaló.",
+      "start": 74.00000000000001,
+      "end": 78.48
+    },
+    {
+      "text": " Sokszor van, hogy elfáradok, igen. De éjszakánként is ezzel szoktam gondolkozni.",
+      "start": 84.22,
+      "end": 89.44
+    },
+    {
+      "text": " De ez azért gondolom látszik, hogy ez egy nehéz szakma.",
+      "start": 89.62,
+      "end": 92.56
+    },
+    {
+      "text": " Ha csúnyát akarnék mondani, akkor...",
+      "start": 93.34,
+      "end": 95.48
+    },
+    {
+      "text": " Bocsánat! Bocsánat!",
+      "start": 98.03999999999999,
+      "end": 100.36
+    },
+    {
+      "text": " Köszönöm, hogy megtaláltad!",
+      "start": 105.98,
+      "end": 106.92
+    }
+  ],
+  "processing_time": 0.8514785766601562,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

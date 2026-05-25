@@ -1,0 +1,119 @@
+{
+  "audio_file": "Mélyvíz 2. ｜ Sikeres pincér.wav",
+  "full_text": "A SIKERES PINCÉR A SIKERES PINCÉR, az régen nem csálinger. Figyelj, ez is egy szakma. Lehet rosszul csinálni, meg lehet jól csinálni. Nem mindegy, a végeredmény úgyis ugyanaz. Nem, mert ha jó pincér vagy, akkor jobban is jattolnak. Aha, a fő pincérnek. Vagy akkor elmehetsz egy jobb étterembe dolgozni. Szintén pincérkedni. Na, nézzük, mit ír a csodakönyved. Azt mondja, legyen mindig tiszta a ruházatod, jó. Az enyém negyedik napja az, ugorjunk. Aztán legyen rendezett a frizurád, látszódjon tőle az arcod. Hallod, Endi? Dobd hátra a loboncodat, aztán irány fogmosás, fürd és... Mindjárt nyitunk, srácok? Készen állunk. Jaj, de sikeres nyitás lesz. Tiszta a kezetek? Csak az Endi-jé, mert ő a sikeres. Endi-kém, akkor gyere már egy percre. El van dugulva a WC. Hát, papa, kinek mi a siker? Köszönöm.",
+  "chunks": [
+    {
+      "text": " A SIKERES PINCÉR",
+      "start": 8.5,
+      "end": 11.6
+    },
+    {
+      "text": " A SIKERES PINCÉR, az régen nem csálinger.",
+      "start": 30.0,
+      "end": 31.54
+    },
+    {
+      "text": " Figyelj, ez is egy szakma.",
+      "start": 31.72,
+      "end": 32.92
+    },
+    {
+      "text": " Lehet rosszul csinálni, meg lehet jól csinálni.",
+      "start": 33.38,
+      "end": 36.16
+    },
+    {
+      "text": " Nem mindegy, a végeredmény úgyis ugyanaz.",
+      "start": 36.28,
+      "end": 38.62
+    },
+    {
+      "text": " Nem, mert ha jó pincér vagy, akkor jobban is jattolnak.",
+      "start": 38.78,
+      "end": 41.08
+    },
+    {
+      "text": " Aha, a fő pincérnek.",
+      "start": 41.12,
+      "end": 42.5
+    },
+    {
+      "text": " Vagy akkor elmehetsz egy jobb étterembe dolgozni.",
+      "start": 42.58,
+      "end": 44.54
+    },
+    {
+      "text": " Szintén pincérkedni.",
+      "start": 44.56,
+      "end": 45.66
+    },
+    {
+      "text": " Na, nézzük, mit ír a csodakönyved.",
+      "start": 47.260000000000005,
+      "end": 49.42
+    },
+    {
+      "text": " Azt mondja, legyen mindig tiszta a ruházatod, jó.",
+      "start": 51.24,
+      "end": 54.36
+    },
+    {
+      "text": " Az enyém negyedik napja az, ugorjunk.",
+      "start": 54.5,
+      "end": 56.64
+    },
+    {
+      "text": " Aztán legyen rendezett a frizurád, látszódjon tőle az arcod.",
+      "start": 57.78000000000001,
+      "end": 61.86
+    },
+    {
+      "text": " Hallod, Endi? Dobd hátra a loboncodat, aztán irány fogmosás, fürd és...",
+      "start": 63.260000000000005,
+      "end": 67.64
+    },
+    {
+      "text": " Mindjárt nyitunk, srácok?",
+      "start": 69.10000000000001,
+      "end": 70.58
+    },
+    {
+      "text": " Készen állunk.",
+      "start": 71.16000000000001,
+      "end": 72.16
+    },
+    {
+      "text": " Jaj, de sikeres nyitás lesz.",
+      "start": 72.38,
+      "end": 74.06
+    },
+    {
+      "text": " Tiszta a kezetek?",
+      "start": 74.22,
+      "end": 75.28
+    },
+    {
+      "text": " Csak az Endi-jé, mert ő a sikeres.",
+      "start": 75.4,
+      "end": 77.08
+    },
+    {
+      "text": " Endi-kém, akkor gyere már egy percre. El van dugulva a WC.",
+      "start": 77.28,
+      "end": 81.0
+    },
+    {
+      "text": " Hát, papa, kinek mi a siker?",
+      "start": 81.4,
+      "end": 83.44
+    },
+    {
+      "text": " Köszönöm.",
+      "start": 86.64,
+      "end": 88.02
+    }
+  ],
+  "processing_time": 1.3991479873657227,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

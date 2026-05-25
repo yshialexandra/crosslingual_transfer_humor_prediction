@@ -1,0 +1,49 @@
+{
+  "audio_file": "Mélygarázs ｜ Mitfahrer.wav",
+  "full_text": "A KÖZÖMÉD Vigyázzon, itt felbontották. Sose lesz kész. Itt jobbra le lehet vágni. Belső sáv. Belső sáv, balra fogunk menni. Én kicsit nagyobb féktávolságot tartanék. Várjon még! Most kuplunk, mehet a hármas. Harmincas tábla. Fék, fék, fék! Mi csinál? A jó Isten áldja már, meg meg akar ölni? Miért nem engedi be a buszt? Hogy kaphat az ilyen jogosítványt? És mi van? Miért álltunk itt? Mert itt megállni tilos. Most akarom megölni. Menjen már az Isten itt! Maga örülne, ha én folyton belepofáznék a maga foglalkozásába? Ha hasznos tanácsokat adna, akkor nem bánnám. Mi a maga szakmája? Szívsebész vagyok.",
+  "chunks": [
+    {
+      "text": " A KÖZÖMÉD",
+      "start": 0.0,
+      "end": 3.6
+    },
+    {
+      "text": " Vigyázzon, itt felbontották.",
+      "start": 8.04,
+      "end": 9.88
+    },
+    {
+      "text": " Sose lesz kész.",
+      "start": 10.76,
+      "end": 12.06
+    },
+    {
+      "text": " Itt jobbra le lehet vágni.",
+      "start": 13.2,
+      "end": 14.72
+    },
+    {
+      "text": " Belső sáv. Belső sáv, balra fogunk menni.",
+      "start": 19.52,
+      "end": 22.72
+    },
+    {
+      "text": " Én kicsit nagyobb féktávolságot tartanék.",
+      "start": 24.36,
+      "end": 27.28
+    },
+    {
+      "text": " Várjon még! Most kuplunk, mehet a hármas. Harmincas tábla. Fék, fék, fék! Mi csinál? A jó Isten áldja már, meg meg akar ölni? Miért nem engedi be a buszt? Hogy kaphat az ilyen jogosítványt? És mi van? Miért álltunk itt? Mert itt megállni tilos. Most akarom megölni. Menjen már az Isten itt!",
+      "start": 30.580000000000002,
+      "end": 58.88
+    },
+    {
+      "text": " Maga örülne, ha én folyton belepofáznék a maga foglalkozásába? Ha hasznos tanácsokat adna, akkor nem bánnám. Mi a maga szakmája? Szívsebész vagyok.",
+      "start": 58.88,
+      "end": 67.84
+    }
+  ],
+  "processing_time": 1.2541027069091797,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

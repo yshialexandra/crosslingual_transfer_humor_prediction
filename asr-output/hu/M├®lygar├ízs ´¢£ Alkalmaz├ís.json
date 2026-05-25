@@ -1,0 +1,39 @@
+{
+  "audio_file": "Mélygarázs ｜ Alkalmazás.wav",
+  "full_text": "A TORONTAD A TORONTAD feltби értjük a közösségével a korbanány. És? Ilyen alkalmazása a társaságunknak is van. Igen? Aha. És mióta? Két éve.",
+  "chunks": [
+    {
+      "text": " A TORONTAD A TORONTAD feltби értjük a közösségével a korbanány.",
+      "start": 24.880000000000003,
+      "end": 29.74
+    },
+    {
+      "text": " És? Ilyen alkalmazása a társaságunknak is van.",
+      "start": 30.0,
+      "end": 34.16
+    },
+    {
+      "text": " Igen?",
+      "start": 34.44,
+      "end": 34.98
+    },
+    {
+      "text": " Aha.",
+      "start": 35.34,
+      "end": 35.56
+    },
+    {
+      "text": " És mióta?",
+      "start": 36.88,
+      "end": 37.72
+    },
+    {
+      "text": " Két éve.",
+      "start": 38.24,
+      "end": 39.46
+    }
+  ],
+  "processing_time": 1.3285925388336182,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

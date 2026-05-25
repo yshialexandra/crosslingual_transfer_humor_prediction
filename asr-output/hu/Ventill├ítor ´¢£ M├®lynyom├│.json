@@ -1,0 +1,49 @@
+{
+  "audio_file": "Ventillátor ｜ Mélynyomó.wav",
+  "full_text": "Hú, megfő az agyam. Húzd ide egy széket. Hú. Aked honnan van ilyened? Nem ilyen, ez. Ezt tudod melyik ventilátor? Tankcsapdából a Lukács ezzel szokta fújatni a haját. És ez hogy került hozzád? Ő hagyta itt nekem. Te jó fej! Hogy, hogy így köszönöm a hangosítást? Ja nem, nem, nem, nem. Csak ugye koncert után kereste, nem találta, aztán megmondta, hogy keresse, aztán itt hagyta nekem. Te nem kéred a Dave Gehen napszemüvegét? Ő hagyta itt nekem.",
+  "chunks": [
+    {
+      "text": " Hú, megfő az agyam. Húzd ide egy széket.",
+      "start": 6.2400000000000055,
+      "end": 9.06
+    },
+    {
+      "text": " Hú.",
+      "start": 10.58,
+      "end": 10.66
+    },
+    {
+      "text": " Aked honnan van ilyened? Nem ilyen, ez.",
+      "start": 14.72,
+      "end": 17.68
+    },
+    {
+      "text": " Ezt tudod melyik ventilátor? Tankcsapdából a Lukács ezzel szokta fújatni a haját.",
+      "start": 17.94,
+      "end": 22.72
+    },
+    {
+      "text": " És ez hogy került hozzád? Ő hagyta itt nekem.",
+      "start": 23.02,
+      "end": 25.98
+    },
+    {
+      "text": " Te jó fej! Hogy, hogy így köszönöm a hangosítást? Ja nem, nem, nem, nem.",
+      "start": 25.98,
+      "end": 30.76
+    },
+    {
+      "text": " Csak ugye koncert után kereste, nem találta, aztán megmondta, hogy keresse, aztán itt hagyta nekem.",
+      "start": 30.86,
+      "end": 36.5
+    },
+    {
+      "text": " Te nem kéred a Dave Gehen napszemüvegét? Ő hagyta itt nekem.",
+      "start": 39.04,
+      "end": 42.58
+    }
+  ],
+  "processing_time": 0.31072020530700684,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

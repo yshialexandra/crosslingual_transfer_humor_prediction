@@ -1,0 +1,159 @@
+{
+  "audio_file": "Mini Mocks ｜ A szőrművész.wav",
+  "full_text": "Szára-drains can be a nightmare, but I've turned a hairy situation into art. My name is Albert Kolstein, and I'm the shower-drain hair artist. We put so much time and money into our hair while it's still on our bodies, but once it's fallen off, we don't even want to touch it. I find that mentality revolting. It all started when I had a hairy roommate. Naturally, I became a protest artist, making these obscene vignettes out of the hair he'd leave in the drain. I have no shame about shaming. I think my work first started receiving global recognition when I started recreating these masterpieces right in my shower. It's really empowering to create something so beautiful from discarded waste. I'm creating art from the casticide, the forgotten, elevating the sheddings of our very lives. You have to understand, there was such a high demand for my work that I had to begin seeking beyond my own shower drain to harvest supplies. So I became a freelance plumber by day and a cat sitter by night. I also offer free haircuts on my dating profile. So... As I began to expand my palette, I soon realized that different coarseness provides different emotions. So I soon began buying pubic hair wholesale from the Brooklyn Ball Barbers. Location, location, location is true with hair as well. Ass whiskers have an amazingly abrasive texture. Yeah, a few contemporaries have called me a modern day Jackson Pollock. But I'm more interested in live performance art. It is a nauseating experience, but that's just a small price you have to pay for a priceless work of art. Magnifique. I believe every individual hair fiber has a unique story. And I'm here to sell those stories. And yes, I am being sued for spreading lice and crabs. Now I've always seen similar stories. NAMASTE",
+  "chunks": [
+    {
+      "text": " Szára-drains can be a nightmare,",
+      "start": 0.0,
+      "end": 1.32
+    },
+    {
+      "text": " but I've turned a hairy situation into art.",
+      "start": 1.58,
+      "end": 4.34
+    },
+    {
+      "text": " My name is Albert Kolstein, and I'm the shower-drain hair artist.",
+      "start": 4.86,
+      "end": 7.98
+    },
+    {
+      "text": " We put so much time and money into our hair while it's still on our bodies,",
+      "start": 8.6,
+      "end": 12.14
+    },
+    {
+      "text": " but once it's fallen off, we don't even want to touch it.",
+      "start": 12.22,
+      "end": 14.44
+    },
+    {
+      "text": " I find that mentality revolting.",
+      "start": 14.58,
+      "end": 16.54
+    },
+    {
+      "text": " It all started when I had a hairy roommate.",
+      "start": 17.42,
+      "end": 20.16
+    },
+    {
+      "text": " Naturally, I became a protest artist, making these obscene vignettes",
+      "start": 20.42,
+      "end": 23.76
+    },
+    {
+      "text": " out of the hair he'd leave in the drain.",
+      "start": 23.76,
+      "end": 25.26
+    },
+    {
+      "text": " I have no shame about shaming.",
+      "start": 25.58,
+      "end": 27.42
+    },
+    {
+      "text": " I think my work first started receiving global recognition when I started recreating these masterpieces right in my shower.",
+      "start": 27.42,
+      "end": 33.74
+    },
+    {
+      "text": " It's really empowering to create something so beautiful from discarded waste.",
+      "start": 34.08,
+      "end": 38.4
+    },
+    {
+      "text": " I'm creating art from the casticide, the forgotten, elevating the sheddings of our very lives.",
+      "start": 38.78,
+      "end": 44.76
+    },
+    {
+      "text": " You have to understand, there was such a high demand for my work that I had to begin seeking beyond my own shower drain to harvest supplies.",
+      "start": 45.2,
+      "end": 51.0
+    },
+    {
+      "text": " So I became a freelance plumber by day and a cat sitter by night.",
+      "start": 51.2,
+      "end": 54.64
+    },
+    {
+      "text": " I also offer free haircuts on my dating profile.",
+      "start": 56.120000000000005,
+      "end": 58.58
+    },
+    {
+      "text": " So...",
+      "start": 60.16,
+      "end": 60.68
+    },
+    {
+      "text": " As I began to expand my palette, I soon realized that different coarseness provides different emotions.",
+      "start": 60.68,
+      "end": 65.68
+    },
+    {
+      "text": " So I soon began buying pubic hair wholesale from the Brooklyn Ball Barbers.",
+      "start": 66.06,
+      "end": 69.78
+    },
+    {
+      "text": " Location, location, location is true with hair as well.",
+      "start": 71.0,
+      "end": 73.62
+    },
+    {
+      "text": " Ass whiskers have an amazingly abrasive texture.",
+      "start": 74.62,
+      "end": 77.86
+    },
+    {
+      "text": " Yeah, a few contemporaries have called me a modern day Jackson Pollock.",
+      "start": 79.0,
+      "end": 82.54
+    },
+    {
+      "text": " But I'm more interested in live performance art.",
+      "start": 83.61999999999998,
+      "end": 86.82
+    },
+    {
+      "text": " It is a nauseating experience, but that's just a small price you have to pay for a priceless work of art.",
+      "start": 92.02000000000001,
+      "end": 97.26
+    },
+    {
+      "text": " Magnifique.",
+      "start": 98.18,
+      "end": 98.78
+    },
+    {
+      "text": " I believe every individual hair fiber has a unique story.",
+      "start": 99.16,
+      "end": 102.8
+    },
+    {
+      "text": " And I'm here to sell those stories.",
+      "start": 105.04,
+      "end": 106.86
+    },
+    {
+      "text": " And yes, I am being sued for spreading lice and crabs.",
+      "start": 109.64,
+      "end": 112.62
+    },
+    {
+      "text": " Now I've always seen similar stories.",
+      "start": 115.87999999999998,
+      "end": 116.38
+    },
+    {
+      "text": " NAMASTE",
+      "start": 116.38,
+      "end": 116.44
+    }
+  ],
+  "processing_time": 2.099250555038452,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

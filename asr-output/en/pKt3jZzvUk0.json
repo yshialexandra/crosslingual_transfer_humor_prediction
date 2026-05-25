@@ -1,0 +1,24 @@
+{
+  "audio_file": "pKt3jZzvUk0.wav",
+  "full_text": "He stabbed her! Not her! My pronouns are they them. He stabbed them! We beg! There's a serial killer on the loose. I have been preparing for this for years. Sandy? Should we hug? I really want to. But I'm a Republican now so I'm supposed to be racist. I think all white people are racist anyway. Go get it! Hey there. We heard tale of a Halloween party. We're here to train, play bad music, do some half gay shit. Why just half gay? Mom, Santa gave me a severed arm. What the ? We hear I have a severed arm. Come on, Santa depends on how old the house you're going to remain for. Are you okay to deal with this articulation?",
+  "chunks": [
+    {
+      "text": " He stabbed her! Not her! My pronouns are they them. He stabbed them! We beg! There's a serial killer on the loose. I have been preparing for this for years. Sandy? Should we hug? I really want to.",
+      "start": 12.459999999999999,
+      "end": 29.98
+    },
+    {
+      "text": " But I'm a Republican now so I'm supposed to be racist. I think all white people are racist anyway. Go get it! Hey there. We heard tale of a Halloween party. We're here to train, play bad music, do some half gay shit. Why just half gay? Mom, Santa gave me a severed arm. What the ?",
+      "start": 29.98,
+      "end": 56.26
+    },
+    {
+      "text": " We hear I have a severed arm. Come on, Santa depends on how old the house you're going to remain for. Are you okay to deal with this articulation?",
+      "start": 59.98,
+      "end": 60.1
+    }
+  ],
+  "processing_time": 2.4109084606170654,
+  "language": "en",
+  "model_id": "large-v3-turbo"
+}

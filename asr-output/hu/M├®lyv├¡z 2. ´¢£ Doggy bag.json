@@ -1,0 +1,74 @@
+{
+  "audio_file": "Mélyvíz 2. ｜ Doggy bag.wav",
+  "full_text": "A KUTYÁNAK Fizetnénk. Máris. És ezt szeretném becsomagoltatni. Elvinnék a kutyánknak. Kutyának, ja. Ezt ismerem. Endi? Igen? Ez csomagold el, légy szíves, a kutyának? Kutyának is. Igen. Kutyának mi? Éhenkórász, szarzsák. Képes lesz másodszor is neki futni, pedig elsőre se egy nagy kaland. Fú, de utálom azért. Futyus. Inox főzőlap. Fehér ing ötezerér. Két pincér megy a sivatagban. Andy! Két pincér megy a sivatagban. Hallom, gyere, egy picit az úr szeretne veled beszélni. Hát miért? Azért normális vagy. Hát súlyra is gyanús volt, de kérdezteti az úr, hogy ez mi? Micsoda? Hát ezek? Vagy ez? Ez? Hát a kutyusnak. Kevés? Van még a konyhán.",
+  "chunks": [
+    {
+      "text": " A KUTYÁNAK",
+      "start": 5.979999999999998,
+      "end": 6.54
+    },
+    {
+      "text": " Fizetnénk. Máris. És ezt szeretném becsomagoltatni. Elvinnék a kutyánknak.",
+      "start": 6.54,
+      "end": 11.82
+    },
+    {
+      "text": " Kutyának, ja. Ezt ismerem.",
+      "start": 12.46,
+      "end": 14.54
+    },
+    {
+      "text": " Endi? Igen? Ez csomagold el, légy szíves, a kutyának? Kutyának is.",
+      "start": 19.36,
+      "end": 23.08
+    },
+    {
+      "text": " Igen. Kutyának mi? Éhenkórász, szarzsák.",
+      "start": 23.24,
+      "end": 26.82
+    },
+    {
+      "text": " Képes lesz másodszor is neki futni, pedig elsőre se egy nagy kaland. Fú, de utálom azért. Futyus.",
+      "start": 26.82,
+      "end": 32.34
+    },
+    {
+      "text": " Inox főzőlap. Fehér ing ötezerér.",
+      "start": 39.08,
+      "end": 44.66
+    },
+    {
+      "text": " Két pincér megy a sivatagban.",
+      "start": 49.44,
+      "end": 51.62
+    },
+    {
+      "text": " Andy! Két pincér megy a sivatagban.",
+      "start": 52.519999999999996,
+      "end": 55.620000000000005
+    },
+    {
+      "text": " Hallom, gyere, egy picit az úr szeretne veled beszélni. Hát miért? Azért normális vagy.",
+      "start": 56.16,
+      "end": 60.06
+    },
+    {
+      "text": " Hát súlyra is gyanús volt, de kérdezteti az úr, hogy ez mi?",
+      "start": 60.2,
+      "end": 63.72
+    },
+    {
+      "text": " Micsoda? Hát ezek? Vagy ez? Ez?",
+      "start": 64.08,
+      "end": 67.58
+    },
+    {
+      "text": " Hát a kutyusnak. Kevés? Van még a konyhán.",
+      "start": 67.92,
+      "end": 73.66
+    }
+  ],
+  "processing_time": 1.1487267017364502,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

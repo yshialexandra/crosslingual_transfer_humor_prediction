@@ -1,0 +1,109 @@
+{
+  "audio_file": "Mélygarázs ｜ Pánik.wav",
+  "full_text": "A MÉMÉMÉMÉMÉMÉMÉMÉMÉM Bocsánat, szabad? Persze, desig! Mi mal keszire lesz? Vajt hova érünk, a többit mondom. Mi az? Nem indulunk? Bocsánat, csak imádkoztam a föld hét tündérjének legfőbbikéhez. Nem tudom, hallott-e már róla? Nem. Tudja, muszáj egy kicsit összeszedni magam vezetése előtt, mert nagyon kiborít. Hogyhogy kiborítja? Nem is az, hogy kiborít, inkább... Hogy mondjam? Mintha az árómonnal egy hatalmas fehér kízió lenne, ami rátekeredik a nyakamra, és csak folytogat, csak folytogat, és én kiálltam még, de nem tudok. A rettegés, amely méterről méterre egyre jobban a hatalmába kerítni, nem azt érzem, hogy az aszfalt sötetsége elnyel engem autost. Én inkább egy másik kollégával megyek, azt hiszem. Ajánljak egyet? Köszönöm, mert majd én várasztok. Dehogy megyek én Dunakeszire. Köszönöm. Köszönöm. Vényleg.",
+  "chunks": [
+    {
+      "text": " A MÉMÉMÉMÉMÉMÉMÉMÉMÉM",
+      "start": 6.200000000000003,
+      "end": 7.32
+    },
+    {
+      "text": " Bocsánat, szabad?",
+      "start": 7.9,
+      "end": 8.58
+    },
+    {
+      "text": " Persze, desig!",
+      "start": 8.84,
+      "end": 9.66
+    },
+    {
+      "text": " Mi mal keszire lesz? Vajt hova érünk, a többit mondom.",
+      "start": 12.740000000000002,
+      "end": 15.5
+    },
+    {
+      "text": " Mi az? Nem indulunk?",
+      "start": 22.400000000000002,
+      "end": 23.66
+    },
+    {
+      "text": " Bocsánat, csak imádkoztam a föld hét tündérjének legfőbbikéhez. Nem tudom, hallott-e már róla?",
+      "start": 31.779999999999998,
+      "end": 37.34
+    },
+    {
+      "text": " Nem.",
+      "start": 37.68,
+      "end": 38.1
+    },
+    {
+      "text": " Tudja, muszáj egy kicsit összeszedni magam vezetése előtt, mert nagyon kiborít.",
+      "start": 39.74,
+      "end": 43.32
+    },
+    {
+      "text": " Hogyhogy kiborítja?",
+      "start": 43.44,
+      "end": 44.0
+    },
+    {
+      "text": " Nem is az, hogy kiborít, inkább...",
+      "start": 45.18,
+      "end": 47.5
+    },
+    {
+      "text": " Hogy mondjam?",
+      "start": 48.16,
+      "end": 48.96
+    },
+    {
+      "text": " Mintha az árómonnal egy hatalmas fehér kízió lenne, ami rátekeredik a nyakamra, és csak folytogat, csak folytogat, és én kiálltam még, de nem tudok.",
+      "start": 50.5,
+      "end": 59.6
+    },
+    {
+      "text": " A rettegés, amely méterről méterre egyre jobban a hatalmába kerítni, nem azt érzem, hogy az aszfalt sötetsége elnyel engem autost.",
+      "start": 61.0,
+      "end": 70.0
+    },
+    {
+      "text": " Én inkább egy másik kollégával megyek, azt hiszem.",
+      "start": 71.28,
+      "end": 74.06
+    },
+    {
+      "text": " Ajánljak egyet?",
+      "start": 74.44,
+      "end": 75.34
+    },
+    {
+      "text": " Köszönöm, mert majd én várasztok.",
+      "start": 75.58,
+      "end": 77.22
+    },
+    {
+      "text": " Dehogy megyek én Dunakeszire.",
+      "start": 82.9,
+      "end": 84.78
+    },
+    {
+      "text": " Köszönöm.",
+      "start": 90.0,
+      "end": 90.64
+    },
+    {
+      "text": " Köszönöm.",
+      "start": 91.36,
+      "end": 91.96
+    },
+    {
+      "text": " Vényleg.",
+      "start": 91.96,
+      "end": 93.02
+    }
+  ],
+  "processing_time": 2.0910685062408447,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

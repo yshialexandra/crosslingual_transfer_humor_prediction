@@ -1,0 +1,19 @@
+{
+  "audio_file": "Mélyvíz ｜ Fotó.wav",
+  "full_text": "Köszönöm! Köszönöm!",
+  "chunks": [
+    {
+      "text": " Köszönöm!",
+      "start": 19.580000000000002,
+      "end": 20.98
+    },
+    {
+      "text": " Köszönöm!",
+      "start": 33.38,
+      "end": 34.78
+    }
+  ],
+  "processing_time": 0.1695854663848877,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

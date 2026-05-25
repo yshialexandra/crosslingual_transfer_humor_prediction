@@ -1,0 +1,129 @@
+{
+  "audio_file": "így készül a Comedy Central ｜ Írószoba.wav",
+  "full_text": "A Kámedicentrál csatornájánál is megvizsgálók. A Kámedicentrál Magyarország minden évben több kis videót is forgat, amelyekkel sorozatokat vagy magát a csatornát népszerűsítik. Ezeket az úgynevezett promo videókat rendszerint egy párfős csapat írja. Szávaztok srácok! Mint dolgoztok most? Szia Tomi! Éppen ezt a jelenetet írjuk. Na és hogy haladtok? Egyelőre ott vagyunk elakadva, hogy ki legyen benne a híresség. A lehetséges jelölteken agyalunk. Mit szólnátok mondjuk Musimbe Dennis-hez? Ez nem is rossz ötlet? Igen, igen, legyen ő, de legyen kalózi elmezben. Aztal! Elég jól néz ki, nem? De várjál, legyen mondjuk egy hajó. Szerintem ez már sok. Legyen csak egy zakó és egy káuboj kalap, mintha vad nyugaton lenne. Gyereke, ne csináljátok már teljesen hülyét belőlem. És komolyan ennyi a szerepem? Nem történik semmi? Jaj, nem, nem, dehogyis, ne viccelj. Legyél sivatagban. Alakul, alakul, legyen mondjuk Szahara. És mögötte oroszlánok. Legyen inkább az, hogy szóltok, ha kész van a jelenet, jó? Köszön a lehetőséged, nem bígye a szívem. Kalapot azért viszem. Ez rimelt is. De akkor most hogy fogjuk ezt a jelenetet befejezni? Ezt olvasom fel? Most ez a két szupertehetséges zseni elmegy Ibizára nyaralni céges pénzen, aztán meglátják, jön-e az ihlet.",
+  "chunks": [
+    {
+      "text": " A Kámedicentrál csatornájánál is megvizsgálók.",
+      "start": 10.32,
+      "end": 27.62
+    },
+    {
+      "text": " A Kámedicentrál Magyarország minden évben több kis videót is forgat, amelyekkel sorozatokat vagy magát a csatornát népszerűsítik.",
+      "start": 31.419999999999995,
+      "end": 38.2
+    },
+    {
+      "text": " Ezeket az úgynevezett promo videókat rendszerint egy párfős csapat írja.",
+      "start": 38.32,
+      "end": 42.0
+    },
+    {
+      "text": " Szávaztok srácok! Mint dolgoztok most?",
+      "start": 42.2,
+      "end": 44.24
+    },
+    {
+      "text": " Szia Tomi! Éppen ezt a jelenetet írjuk.",
+      "start": 44.46,
+      "end": 46.98
+    },
+    {
+      "text": " Na és hogy haladtok?",
+      "start": 47.1,
+      "end": 48.0
+    },
+    {
+      "text": " Egyelőre ott vagyunk elakadva, hogy ki legyen benne a híresség. A lehetséges jelölteken agyalunk.",
+      "start": 48.26,
+      "end": 52.9
+    },
+    {
+      "text": " Mit szólnátok mondjuk Musimbe Dennis-hez?",
+      "start": 53.5,
+      "end": 55.8
+    },
+    {
+      "text": " Ez nem is rossz ötlet?",
+      "start": 56.3,
+      "end": 57.86
+    },
+    {
+      "text": " Igen, igen, legyen ő, de legyen kalózi elmezben.",
+      "start": 57.86,
+      "end": 60.62
+    },
+    {
+      "text": " Aztal! Elég jól néz ki, nem?",
+      "start": 63.059999999999995,
+      "end": 65.54
+    },
+    {
+      "text": " De várjál, legyen mondjuk egy hajó.",
+      "start": 65.8,
+      "end": 68.02
+    },
+    {
+      "text": " Szerintem ez már sok.",
+      "start": 68.96,
+      "end": 70.06
+    },
+    {
+      "text": " Legyen csak egy zakó és egy káuboj kalap, mintha vad nyugaton lenne.",
+      "start": 70.22,
+      "end": 74.98
+    },
+    {
+      "text": " Gyereke, ne csináljátok már teljesen hülyét belőlem. És komolyan ennyi a szerepem? Nem történik semmi?",
+      "start": 80.32,
+      "end": 85.72
+    },
+    {
+      "text": " Jaj, nem, nem, dehogyis, ne viccelj. Legyél sivatagban.",
+      "start": 85.72,
+      "end": 89.74
+    },
+    {
+      "text": " Alakul, alakul, legyen mondjuk Szahara. És mögötte oroszlánok.",
+      "start": 90.62,
+      "end": 94.94
+    },
+    {
+      "text": " Legyen inkább az, hogy szóltok, ha kész van a jelenet, jó?",
+      "start": 98.38000000000001,
+      "end": 100.92
+    },
+    {
+      "text": " Köszön a lehetőséged, nem bígye a szívem. Kalapot azért viszem.",
+      "start": 102.16000000000001,
+      "end": 105.78
+    },
+    {
+      "text": " Ez rimelt is.",
+      "start": 106.56,
+      "end": 107.24
+    },
+    {
+      "text": " De akkor most hogy fogjuk ezt a jelenetet befejezni?",
+      "start": 109.3,
+      "end": 112.04
+    },
+    {
+      "text": " Ezt olvasom fel?",
+      "start": 114.86,
+      "end": 116.54
+    },
+    {
+      "text": " Most ez a két szupertehetséges zseni elmegy Ibizára nyaralni céges pénzen,",
+      "start": 117.08,
+      "end": 122.16
+    },
+    {
+      "text": " aztán meglátják, jön-e az ihlet.",
+      "start": 122.36,
+      "end": 124.86
+    }
+  ],
+  "processing_time": 0.7129530906677246,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

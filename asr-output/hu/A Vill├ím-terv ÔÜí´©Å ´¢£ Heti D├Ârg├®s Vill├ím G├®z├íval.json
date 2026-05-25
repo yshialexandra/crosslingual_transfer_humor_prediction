@@ -1,0 +1,84 @@
+{
+  "audio_file": "A Villám-terv ⚡️ ｜ Heti Dörgés Villám Gézával.wav",
+  "full_text": "Villám Géza, a világ egyik legbefolyásosabb rádiósa. 20 éve nem rádióztam, de köszi. És van egy terve. Igen, egy új műsor a Comedy Central-on. De ki fizeti? A Comedy Central. De valójában ki fizeti? Tényleg a Comedy Central. Ez veszélyes. Hát annyira nem, egy székben ülök és a hírekről beszélek. Ön mit gondol erről? Szerintem tök jó lesz. Neked mondtam a hallgatónak. Heti dörgés Villám Gézával, hétfő este tisztől, ne hagyja szó nélkül. Készült a Comedy Central megbízásából.",
+  "chunks": [
+    {
+      "text": " Villám Géza, a világ egyik legbefolyásosabb rádiósa.",
+      "start": 0.0,
+      "end": 3.5
+    },
+    {
+      "text": " 20 éve nem rádióztam, de köszi.",
+      "start": 3.54,
+      "end": 4.9
+    },
+    {
+      "text": " És van egy terve.",
+      "start": 5.06,
+      "end": 5.84
+    },
+    {
+      "text": " Igen, egy új műsor a Comedy Central-on.",
+      "start": 5.94,
+      "end": 8.0
+    },
+    {
+      "text": " De ki fizeti?",
+      "start": 8.24,
+      "end": 8.96
+    },
+    {
+      "text": " A Comedy Central.",
+      "start": 9.12,
+      "end": 9.98
+    },
+    {
+      "text": " De valójában ki fizeti?",
+      "start": 10.32,
+      "end": 12.32
+    },
+    {
+      "text": " Tényleg a Comedy Central.",
+      "start": 12.62,
+      "end": 13.9
+    },
+    {
+      "text": " Ez veszélyes.",
+      "start": 14.3,
+      "end": 15.18
+    },
+    {
+      "text": " Hát annyira nem, egy székben ülök és a hírekről beszélek.",
+      "start": 15.42,
+      "end": 18.32
+    },
+    {
+      "text": " Ön mit gondol erről?",
+      "start": 18.4,
+      "end": 19.4
+    },
+    {
+      "text": " Szerintem tök jó lesz.",
+      "start": 19.58,
+      "end": 20.72
+    },
+    {
+      "text": " Neked mondtam a hallgatónak.",
+      "start": 20.76,
+      "end": 22.26
+    },
+    {
+      "text": " Heti dörgés Villám Gézával, hétfő este tisztől, ne hagyja szó nélkül.",
+      "start": 22.5,
+      "end": 26.92
+    },
+    {
+      "text": " Készült a Comedy Central megbízásából.",
+      "start": 26.92,
+      "end": 29.96
+    }
+  ],
+  "processing_time": 0.31929659843444824,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

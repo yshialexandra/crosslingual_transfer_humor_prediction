@@ -1,0 +1,284 @@
+{
+  "audio_file": "G5uNfywyX30.wav",
+  "full_text": "Hello, handsome. Is that you? Uh, huh? Is that you on the cover? Uh, no. What's your name? Keep Nash. Nice to meet you. I'm Paul. Right. So, uh, you're not freaked out by me? Mm, yes and no. You mind taking a look at these photographs? Tell me if you recognize either one of these two gentlemen or the one-eyed girl? Ma'am? No. Anything? Anything at all? Mm-mm. I mean, you feel like this is an alien? Yeah. This is huge. I know. This is huge. I know. I know. Is that a comic book shop? Can we go in there? Maybe. If you're good. Thanks so much for your time, Mrs. Darwin. Charlotte Darwin. Charlotte Darwin. You have a great day. You should get this one. Thanks. Yeah, it's good. Nice. Like your style, Keith Nash. I gotta go. Catch you later. Bye, Paul. Don't get caught. Happy trails. Eh? Ha! Pretty good. Pretty good. Pretty good. Um, how much is that? With a sword, $299.99 plus tax. Oh, yeah, I'll wear it now. Come on, man. Let's go. I'll be right out. Oh, yeah. He's a cufflink thing. Speechmen balls? Get your goddamn hands off my motherfucking junk!",
+  "chunks": [
+    {
+      "text": " Hello, handsome.",
+      "start": 6.740000000000005,
+      "end": 8.0
+    },
+    {
+      "text": " Is that you?",
+      "start": 9.340000000000005,
+      "end": 10.26
+    },
+    {
+      "text": " Uh, huh?",
+      "start": 10.8,
+      "end": 11.86
+    },
+    {
+      "text": " Is that you on the cover?",
+      "start": 12.08,
+      "end": 13.5
+    },
+    {
+      "text": " Uh, no.",
+      "start": 15.080000000000009,
+      "end": 16.2
+    },
+    {
+      "text": " What's your name?",
+      "start": 17.300000000000004,
+      "end": 18.26
+    },
+    {
+      "text": " Keep Nash.",
+      "start": 18.62,
+      "end": 19.28
+    },
+    {
+      "text": " Nice to meet you. I'm Paul.",
+      "start": 19.960000000000004,
+      "end": 21.56
+    },
+    {
+      "text": " Right.",
+      "start": 21.92,
+      "end": 22.26
+    },
+    {
+      "text": " So, uh, you're not freaked out by me?",
+      "start": 22.56,
+      "end": 24.66
+    },
+    {
+      "text": " Mm, yes and no.",
+      "start": 25.640000000000004,
+      "end": 27.36
+    },
+    {
+      "text": " You mind taking a look at these photographs?",
+      "start": 28.8,
+      "end": 30.22
+    },
+    {
+      "text": " Tell me if you recognize either one of these two gentlemen",
+      "start": 30.52,
+      "end": 32.2
+    },
+    {
+      "text": " or the one-eyed girl?",
+      "start": 32.2,
+      "end": 33.26
+    },
+    {
+      "text": " Ma'am?",
+      "start": 34.76,
+      "end": 35.2
+    },
+    {
+      "text": " No.",
+      "start": 35.980000000000004,
+      "end": 36.34
+    },
+    {
+      "text": " Anything? Anything at all?",
+      "start": 36.94,
+      "end": 38.02
+    },
+    {
+      "text": " Mm-mm.",
+      "start": 39.38,
+      "end": 39.86
+    },
+    {
+      "text": " I mean, you feel like this is an alien?",
+      "start": 40.4,
+      "end": 41.88
+    },
+    {
+      "text": " Yeah.",
+      "start": 42.08,
+      "end": 42.26
+    },
+    {
+      "text": " This is huge.",
+      "start": 43.06,
+      "end": 44.08
+    },
+    {
+      "text": " I know. This is huge.",
+      "start": 44.08,
+      "end": 44.92
+    },
+    {
+      "text": " I know. I know.",
+      "start": 45.32,
+      "end": 46.02
+    },
+    {
+      "text": " Is that a comic book shop?",
+      "start": 46.78,
+      "end": 47.82
+    },
+    {
+      "text": " Can we go in there?",
+      "start": 48.38,
+      "end": 49.22
+    },
+    {
+      "text": " Maybe. If you're good.",
+      "start": 50.14,
+      "end": 51.8
+    },
+    {
+      "text": " Thanks so much for your time, Mrs.",
+      "start": 52.52,
+      "end": 53.76
+    },
+    {
+      "text": " Darwin.",
+      "start": 54.12,
+      "end": 54.48
+    },
+    {
+      "text": " Charlotte Darwin.",
+      "start": 57.56000000000001,
+      "end": 58.68
+    },
+    {
+      "text": " Charlotte Darwin.",
+      "start": 58.94,
+      "end": 59.62
+    },
+    {
+      "text": " You have a great day.",
+      "start": 59.78,
+      "end": 60.32
+    },
+    {
+      "text": " You should get this one.",
+      "start": 64.74000000000001,
+      "end": 65.98
+    },
+    {
+      "text": " Thanks.",
+      "start": 67.78,
+      "end": 68.34
+    },
+    {
+      "text": " Yeah, it's good.",
+      "start": 68.62,
+      "end": 69.22
+    },
+    {
+      "text": " Nice.",
+      "start": 70.92000000000002,
+      "end": 71.48
+    },
+    {
+      "text": " Like your style, Keith Nash.",
+      "start": 71.9,
+      "end": 73.22
+    },
+    {
+      "text": " I gotta go.",
+      "start": 73.52,
+      "end": 74.38
+    },
+    {
+      "text": " Catch you later.",
+      "start": 74.66,
+      "end": 75.22
+    },
+    {
+      "text": " Bye, Paul.",
+      "start": 75.5,
+      "end": 76.0
+    },
+    {
+      "text": " Don't get caught.",
+      "start": 77.1,
+      "end": 77.8
+    },
+    {
+      "text": " Happy trails.",
+      "start": 79.70000000000002,
+      "end": 80.76
+    },
+    {
+      "text": " Eh?",
+      "start": 81.5,
+      "end": 82.16
+    },
+    {
+      "text": " Ha!",
+      "start": 86.66,
+      "end": 87.32
+    },
+    {
+      "text": " Pretty good.",
+      "start": 88.12,
+      "end": 89.02
+    },
+    {
+      "text": " Pretty good.",
+      "start": 89.42,
+      "end": 90.56
+    },
+    {
+      "text": " Pretty good.",
+      "start": 91.18,
+      "end": 91.74
+    },
+    {
+      "text": " Um, how much is that?",
+      "start": 91.98,
+      "end": 93.48
+    },
+    {
+      "text": " With a sword, $299.99 plus tax.",
+      "start": 95.02000000000001,
+      "end": 98.12
+    },
+    {
+      "text": " Oh, yeah, I'll wear it now.",
+      "start": 98.66,
+      "end": 99.56
+    },
+    {
+      "text": " Come on, man. Let's go.",
+      "start": 100.62,
+      "end": 102.04
+    },
+    {
+      "text": " I'll be right out.",
+      "start": 103.68,
+      "end": 104.92
+    },
+    {
+      "text": " Oh, yeah.",
+      "start": 105.52,
+      "end": 107.78
+    },
+    {
+      "text": " He's a cufflink thing.",
+      "start": 107.78,
+      "end": 108.76
+    },
+    {
+      "text": " Speechmen balls?",
+      "start": 127.62,
+      "end": 128.76
+    },
+    {
+      "text": " Get your goddamn hands off my motherfucking junk!",
+      "start": 137.78,
+      "end": 140.4
+    }
+  ],
+  "processing_time": 1.4217915534973145,
+  "language": "en",
+  "model_id": "large-v3-turbo"
+}

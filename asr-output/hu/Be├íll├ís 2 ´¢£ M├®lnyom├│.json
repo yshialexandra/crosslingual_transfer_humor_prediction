@@ -1,0 +1,29 @@
+{
+  "audio_file": "Beállás 2 ｜ Mélnyomó.wav",
+  "full_text": "Köszönöm szépen! Csak egy picit hangos, és úgy szeretném a kontrolládába, hogy dob, basszus, zongora és ének. Ez így megoldható lenne? Persze, addig én iszom egy sört. Hajrá!",
+  "chunks": [
+    {
+      "text": " Köszönöm szépen!",
+      "start": 0.0,
+      "end": 12.28
+    },
+    {
+      "text": " Csak egy picit hangos, és úgy szeretném a kontrolládába, hogy dob, basszus, zongora és ének. Ez így megoldható lenne?",
+      "start": 30.0,
+      "end": 36.16
+    },
+    {
+      "text": " Persze, addig én iszom egy sört.",
+      "start": 36.68,
+      "end": 38.22
+    },
+    {
+      "text": " Hajrá!",
+      "start": 38.52,
+      "end": 38.92
+    }
+  ],
+  "processing_time": 0.20762228965759277,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

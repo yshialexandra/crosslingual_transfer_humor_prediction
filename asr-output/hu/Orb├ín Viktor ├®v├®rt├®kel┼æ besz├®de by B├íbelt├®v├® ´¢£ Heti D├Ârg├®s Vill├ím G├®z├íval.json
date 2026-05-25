@@ -1,0 +1,99 @@
+{
+  "audio_file": "Orbán Viktor évértékelő beszéde by Bábeltévé ｜ Heti Dörgés Villám Gézával.wav",
+  "full_text": "Tisztelt Hölgyeim és Uraim! Tudjuk jól, hogy a nép hülye. De mindig meglep, milyen csodálatos érzés kinevetni őket. Az oroszlán barátai buták, és nem is tudják felemelni a sörényét. De kérdem én, mi a szerelem, ha nem egy felemelt sörény? Vajon fölvállalható egy guminő? Hová raktuk a guminőmet? Ha a magányos magyarokat jól összekeverjük, akkor embert szülnek. Egy kis viszki még lehet nem árt hozzá, na meg egy kis nyári szünidő. Még egy ősi gondolat. A kanmacska ösztönösen ugrik föl, ha nem ül le. Amikor ezt halljátok, nincs más hátra meneküljetek, mert jön a robot. És most jöjjön egy kis dalocska. Az emberek hülyék, de butábbak a nyulak, be is zárták szegény nyúlurat. Ilyenek a magyarok költeményei. De sokat kell olvasnom. Ez trú hír, ez a valóság. Most pedig a kínszenvedésnek vége, a következő egy mondatom után. Ha nem tudták, ma én lemondok.",
+  "chunks": [
+    {
+      "text": " Tisztelt Hölgyeim és Uraim! Tudjuk jól, hogy a nép hülye.",
+      "start": 0.0,
+      "end": 4.3
+    },
+    {
+      "text": " De mindig meglep, milyen csodálatos érzés kinevetni őket.",
+      "start": 5.58,
+      "end": 9.28
+    },
+    {
+      "text": " Az oroszlán barátai buták, és nem is tudják felemelni a sörényét.",
+      "start": 10.14,
+      "end": 16.0
+    },
+    {
+      "text": " De kérdem én, mi a szerelem, ha nem egy felemelt sörény?",
+      "start": 16.84,
+      "end": 21.66
+    },
+    {
+      "text": " Vajon fölvállalható egy guminő?",
+      "start": 21.96,
+      "end": 24.66
+    },
+    {
+      "text": " Hová raktuk a guminőmet?",
+      "start": 25.68,
+      "end": 27.72
+    },
+    {
+      "text": " Ha a magányos magyarokat jól összekeverjük, akkor embert szülnek.",
+      "start": 27.72,
+      "end": 32.6
+    },
+    {
+      "text": " Egy kis viszki még lehet nem árt hozzá, na meg egy kis nyári szünidő.",
+      "start": 33.58,
+      "end": 38.16
+    },
+    {
+      "text": " Még egy ősi gondolat.",
+      "start": 38.78,
+      "end": 40.7
+    },
+    {
+      "text": " A kanmacska ösztönösen ugrik föl, ha nem ül le.",
+      "start": 41.519999999999996,
+      "end": 44.86
+    },
+    {
+      "text": " Amikor ezt halljátok, nincs más hátra meneküljetek, mert jön a robot.",
+      "start": 46.08,
+      "end": 50.72
+    },
+    {
+      "text": " És most jöjjön egy kis dalocska.",
+      "start": 51.6,
+      "end": 53.66
+    },
+    {
+      "text": " Az emberek hülyék, de butábbak a nyulak, be is zárták szegény nyúlurat.",
+      "start": 53.66,
+      "end": 59.88
+    },
+    {
+      "text": " Ilyenek a magyarok költeményei.",
+      "start": 60.62,
+      "end": 63.5
+    },
+    {
+      "text": " De sokat kell olvasnom.",
+      "start": 64.58,
+      "end": 65.86
+    },
+    {
+      "text": " Ez trú hír, ez a valóság.",
+      "start": 68.84,
+      "end": 71.72
+    },
+    {
+      "text": " Most pedig a kínszenvedésnek vége, a következő egy mondatom után.",
+      "start": 72.94,
+      "end": 77.64
+    },
+    {
+      "text": " Ha nem tudták, ma én lemondok.",
+      "start": 79.26,
+      "end": 81.62
+    }
+  ],
+  "processing_time": 0.5220098495483398,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

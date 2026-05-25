@@ -1,0 +1,74 @@
+{
+  "audio_file": "Mélyvíz ｜ Endi csajozik.wav",
+  "full_text": "Áh, szél óta. Englis? Andy. Hungarian Baywatch. Swim like delphin. Tudod nagyon köszönöm a lényeg! Monokini, szantén lótény? Nagyon hát! Vézzük! Már két képes, beng-beng! Jogás, gyakuzi party! Köszönöm, hogy megtaláltad! Köszönöm, kérdés!",
+  "chunks": [
+    {
+      "text": " Áh, szél óta.",
+      "start": 8.72,
+      "end": 11.58
+    },
+    {
+      "text": " Englis?",
+      "start": 12.980000000000002,
+      "end": 14.38
+    },
+    {
+      "text": " Andy.",
+      "start": 16.24,
+      "end": 17.54
+    },
+    {
+      "text": " Hungarian Baywatch.",
+      "start": 19.24,
+      "end": 21.08
+    },
+    {
+      "text": " Swim like delphin.",
+      "start": 22.78,
+      "end": 24.86
+    },
+    {
+      "text": " Tudod nagyon köszönöm a lényeg!",
+      "start": 30.0,
+      "end": 31.76
+    },
+    {
+      "text": " Monokini, szantén lótény?",
+      "start": 34.16,
+      "end": 35.9
+    },
+    {
+      "text": " Nagyon hát!",
+      "start": 41.54,
+      "end": 42.7
+    },
+    {
+      "text": " Vézzük!",
+      "start": 47.06,
+      "end": 47.84
+    },
+    {
+      "text": " Már két képes, beng-beng!",
+      "start": 49.84,
+      "end": 51.6
+    },
+    {
+      "text": " Jogás, gyakuzi party!",
+      "start": 55.16,
+      "end": 57.08
+    },
+    {
+      "text": " Köszönöm, hogy megtaláltad!",
+      "start": 57.08,
+      "end": 59.34
+    },
+    {
+      "text": " Köszönöm, kérdés!",
+      "start": 67.08,
+      "end": 67.84
+    }
+  ],
+  "processing_time": 1.6087989807128906,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

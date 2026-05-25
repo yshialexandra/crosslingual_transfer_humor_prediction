@@ -1,0 +1,124 @@
+{
+  "audio_file": "Lo Malo y Lo Bueno de Extremadura Según JJ Vaquero ｜ El Roast De España 2.wav",
+  "full_text": "... ...extremeños, ¿cómo os podéis llevar bien con los portugueses? Que a vuestro jamón lo llaman presunto... ...no os fiéis de una gente que a vuestro mejor producto lo llaman sospechoso. No me gusta el tren a Extremadura, ¿cómo me va a gustar? Si sale con retraso, tarda mucho, se para, descarrila, se incendia... ...¿cómo será que en el tren a Extremadura en vez de Renfe pone Tenfe? Hay un equipo que se llama El Extremadura que ha desaparecido dos veces en 15 años... ...todo un equipo de fútbol ha desaparecido dos veces en 15 años... ...no le llames El Extremadura, llámalo El Mago Pop. ¿No veis que está demasiado cerca de los cerdos? Que luego los jamones están radioactivos... ...que el otro día he dicho, me dejaba abierta la puerta al frigorífico... ...y era que tenía destapado el jamonero. Es tristísimo, pero hay chavales en Extremadura... ...que a estar en el paro lo llaman estar fijo. ¡Ojo, ojo, los chunguitos me vuelven loco! A mí y a toda mi familia. Bueno, de hecho yo me llamo José Juan... ...por los dos chunguitos que se llaman José y Juan. ¿No me creéis? Pues preguntarle a mi hermana, Toñi Encarni. ¡Suscríbete al canal!",
+  "chunks": [
+    {
+      "text": " ...",
+      "start": 0.0,
+      "end": 0.8
+    },
+    {
+      "text": " ...extremeños, ¿cómo os podéis llevar bien con los portugueses?",
+      "start": 7.920000000000002,
+      "end": 10.44
+    },
+    {
+      "text": " Que a vuestro jamón lo llaman presunto...",
+      "start": 10.52,
+      "end": 13.48
+    },
+    {
+      "text": " ...no os fiéis de una gente que a vuestro mejor producto lo llaman sospechoso.",
+      "start": 13.48,
+      "end": 18.2
+    },
+    {
+      "text": " No me gusta el tren a Extremadura, ¿cómo me va a gustar?",
+      "start": 20.500000000000004,
+      "end": 23.26
+    },
+    {
+      "text": " Si sale con retraso, tarda mucho, se para, descarrila, se incendia...",
+      "start": 23.4,
+      "end": 27.0
+    },
+    {
+      "text": " ...¿cómo será que en el tren a Extremadura en vez de Renfe pone Tenfe?",
+      "start": 27.2,
+      "end": 31.92
+    },
+    {
+      "text": " Hay un equipo que se llama El Extremadura que ha desaparecido dos veces en 15 años...",
+      "start": 34.14,
+      "end": 39.2
+    },
+    {
+      "text": " ...todo un equipo de fútbol ha desaparecido dos veces en 15 años...",
+      "start": 39.74,
+      "end": 43.46
+    },
+    {
+      "text": " ...no le llames El Extremadura, llámalo El Mago Pop.",
+      "start": 43.46,
+      "end": 46.02
+    },
+    {
+      "text": " ¿No veis que está demasiado cerca de los cerdos?",
+      "start": 48.36,
+      "end": 51.34
+    },
+    {
+      "text": " Que luego los jamones están radioactivos...",
+      "start": 51.52,
+      "end": 53.2
+    },
+    {
+      "text": " ...que el otro día he dicho, me dejaba abierta la puerta al frigorífico...",
+      "start": 53.879999999999995,
+      "end": 57.42
+    },
+    {
+      "text": " ...y era que tenía destapado el jamonero.",
+      "start": 57.42,
+      "end": 59.0
+    },
+    {
+      "text": " Es tristísimo, pero hay chavales en Extremadura...",
+      "start": 61.459999999999994,
+      "end": 64.28
+    },
+    {
+      "text": " ...que a estar en el paro lo llaman estar fijo.",
+      "start": 64.28,
+      "end": 66.44
+    },
+    {
+      "text": " ¡Ojo, ojo, los chunguitos me vuelven loco!",
+      "start": 69.02,
+      "end": 71.86
+    },
+    {
+      "text": " A mí y a toda mi familia.",
+      "start": 71.94,
+      "end": 73.36
+    },
+    {
+      "text": " Bueno, de hecho yo me llamo José Juan...",
+      "start": 73.58,
+      "end": 75.18
+    },
+    {
+      "text": " ...por los dos chunguitos que se llaman José y Juan.",
+      "start": 75.18,
+      "end": 77.78
+    },
+    {
+      "text": " ¿No me creéis?",
+      "start": 78.26,
+      "end": 79.18
+    },
+    {
+      "text": " Pues preguntarle a mi hermana, Toñi Encarni.",
+      "start": 79.32,
+      "end": 81.14
+    },
+    {
+      "text": " ¡Suscríbete al canal!",
+      "start": 103.17999999999999,
+      "end": 106.12
+    }
+  ],
+  "processing_time": 0.5280923843383789,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

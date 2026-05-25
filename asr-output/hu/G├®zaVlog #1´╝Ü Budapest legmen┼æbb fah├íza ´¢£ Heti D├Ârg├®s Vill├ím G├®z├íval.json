@@ -1,0 +1,64 @@
+{
+  "audio_file": "GézaVlog #1： Budapest legmenőbb faháza ｜ Heti Dörgés Villám Gézával.wav",
+  "full_text": "Frissen meccett rózsák, zöld fű és játékos kiskutyák. A természetet most hétvégén a Kodály köröndön találtam meg. Ebben a platánfában egy hajléktalan lakott. A hajléktalan férfi azóta kiköltözött, én pedig elhatároztam, hogy a hétvégére beköltözöm. Nagyon kellemes szálláshely. A város halkan duruzsol, az illatos gyertyáim is megtették a hatásukat, de itt az ideje nyugomóra térni. Annyira kellemes volt a köröndön kempingezni, hogy másnap kávézás közben elhatároztam, hogy ezt az élményt másokkal is meg kell osztani. Támadt egy ötletem, hogy kiadom a fát az Airbnb-n. 10 euróra árasztam be a természet lányolén a hősök terétől 5 percre. Vasárnap reggel már jött is az első turista, ő Ziemé, Shanghai-ból. Köszönöm, hogy Commission Award-N. Köszönöm, hogy megtaláltad!",
+  "chunks": [
+    {
+      "text": " Frissen meccett rózsák, zöld fű és játékos kiskutyák.",
+      "start": 0.0,
+      "end": 4.02
+    },
+    {
+      "text": " A természetet most hétvégén a Kodály köröndön találtam meg.",
+      "start": 4.16,
+      "end": 7.72
+    },
+    {
+      "text": " Ebben a platánfában egy hajléktalan lakott.",
+      "start": 9.02,
+      "end": 11.82
+    },
+    {
+      "text": " A hajléktalan férfi azóta kiköltözött, én pedig elhatároztam, hogy a hétvégére beköltözöm.",
+      "start": 11.9,
+      "end": 17.06
+    },
+    {
+      "text": " Nagyon kellemes szálláshely. A város halkan duruzsol, az illatos gyertyáim is megtették a hatásukat, de itt az ideje nyugomóra térni.",
+      "start": 26.26,
+      "end": 34.74
+    },
+    {
+      "text": " Annyira kellemes volt a köröndön kempingezni, hogy másnap kávézás közben elhatároztam, hogy ezt az élményt másokkal is meg kell osztani.",
+      "start": 36.4,
+      "end": 43.82
+    },
+    {
+      "text": " Támadt egy ötletem, hogy kiadom a fát az Airbnb-n.",
+      "start": 43.82,
+      "end": 47.36
+    },
+    {
+      "text": " 10 euróra árasztam be a természet lányolén a hősök terétől 5 percre.",
+      "start": 47.72,
+      "end": 51.84
+    },
+    {
+      "text": " Vasárnap reggel már jött is az első turista, ő Ziemé, Shanghai-ból.",
+      "start": 52.660000000000004,
+      "end": 57.26
+    },
+    {
+      "text": " Köszönöm, hogy Commission Award-N.",
+      "start": 74.14,
+      "end": 77.14
+    },
+    {
+      "text": " Köszönöm, hogy megtaláltad!",
+      "start": 77.14,
+      "end": 80.4
+    }
+  ],
+  "processing_time": 2.035445213317871,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

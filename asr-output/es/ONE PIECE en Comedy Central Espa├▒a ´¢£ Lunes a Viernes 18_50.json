@@ -1,0 +1,44 @@
+{
+  "audio_file": "ONE PIECE en Comedy Central España ｜ Lunes a Viernes 18_50.wav",
+  "full_text": "Me llamo Luffy de Monkey y voy a ser el próximo rey de los piratas. Llega a Toda Vela, la serie que más nos pedíais. Estoy buscando gente para mi tripulación pirata. ¿Te apuntas? ¡Vagamos una fiesta de bienvenida pirata! Creo que nos esperan muchas aventuras. One Piece, de lunes a viernes a las 7 menos 10 en Comedy Central.",
+  "chunks": [
+    {
+      "text": " Me llamo Luffy de Monkey y voy a ser el próximo rey de los piratas.",
+      "start": 0.0,
+      "end": 4.12
+    },
+    {
+      "text": " Llega a Toda Vela, la serie que más nos pedíais.",
+      "start": 4.2,
+      "end": 7.58
+    },
+    {
+      "text": " Estoy buscando gente para mi tripulación pirata.",
+      "start": 7.6,
+      "end": 10.2
+    },
+    {
+      "text": " ¿Te apuntas?",
+      "start": 10.54,
+      "end": 11.38
+    },
+    {
+      "text": " ¡Vagamos una fiesta de bienvenida pirata!",
+      "start": 11.5,
+      "end": 13.74
+    },
+    {
+      "text": " Creo que nos esperan muchas aventuras.",
+      "start": 13.9,
+      "end": 15.78
+    },
+    {
+      "text": " One Piece, de lunes a viernes a las 7 menos 10 en Comedy Central.",
+      "start": 16.16,
+      "end": 19.72
+    }
+  ],
+  "processing_time": 0.21500301361083984,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

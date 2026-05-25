@@ -1,0 +1,129 @@
+{
+  "audio_file": "Nincs megállás hétvégén sem ｜ Sorozatok a reggeli ☕️ mellé.wav",
+  "full_text": "Azt hiszem támadt egy ötletem! Aaaaah! Ferhes vagyok! El fogsz hízni? Kéne a melltartón! Beszélhetek a főnök élet? Egymásnak verődik a két helém! Hogy mondod? Szerintem másik zenekkel. Na ez az! Kapd el! Megmászok a Monteverestet! Szerintem bekapcsolva hagytam a szegény írót! Mi a l*** ez? A l*** az? Lillire ez, elég kicsi ez. Nem neki készül a macskának. A m*** az ilyen nincs! Tereszel topp lesz vagy a burgen? Meglátjuk? Milyen sziasztok? Bicsoda megkönnyempülés! Tudja mit? Itt álljunk meg! Ez a rendszer között.",
+  "chunks": [
+    {
+      "text": " Azt hiszem támadt egy ötletem!",
+      "start": 0.0,
+      "end": 2.28
+    },
+    {
+      "text": " Aaaaah!",
+      "start": 2.62,
+      "end": 2.88
+    },
+    {
+      "text": " Ferhes vagyok!",
+      "start": 2.9,
+      "end": 3.76
+    },
+    {
+      "text": " El fogsz hízni?",
+      "start": 4.72,
+      "end": 6.08
+    },
+    {
+      "text": " Kéne a melltartón!",
+      "start": 6.5,
+      "end": 7.8
+    },
+    {
+      "text": " Beszélhetek a főnök élet?",
+      "start": 8.32,
+      "end": 9.46
+    },
+    {
+      "text": " Egymásnak verődik a két helém!",
+      "start": 9.5,
+      "end": 10.92
+    },
+    {
+      "text": " Hogy mondod?",
+      "start": 11.04,
+      "end": 11.66
+    },
+    {
+      "text": " Szerintem másik zenekkel.",
+      "start": 12.36,
+      "end": 13.74
+    },
+    {
+      "text": " Na ez az!",
+      "start": 15.88,
+      "end": 16.94
+    },
+    {
+      "text": " Kapd el!",
+      "start": 17.1,
+      "end": 17.64
+    },
+    {
+      "text": " Megmászok a Monteverestet!",
+      "start": 18.2,
+      "end": 19.84
+    },
+    {
+      "text": " Szerintem bekapcsolva hagytam a szegény írót!",
+      "start": 19.9,
+      "end": 21.98
+    },
+    {
+      "text": " Mi a l*** ez?",
+      "start": 23.26,
+      "end": 24.54
+    },
+    {
+      "text": " A l*** az?",
+      "start": 24.9,
+      "end": 25.7
+    },
+    {
+      "text": " Lillire ez, elég kicsi ez.",
+      "start": 25.96,
+      "end": 27.52
+    },
+    {
+      "text": " Nem neki készül a macskának.",
+      "start": 27.66,
+      "end": 29.2
+    },
+    {
+      "text": " A m*** az ilyen nincs!",
+      "start": 29.2,
+      "end": 30.58
+    },
+    {
+      "text": " Tereszel topp lesz vagy a burgen?",
+      "start": 30.64,
+      "end": 32.02
+    },
+    {
+      "text": " Meglátjuk?",
+      "start": 32.4,
+      "end": 32.86
+    },
+    {
+      "text": " Milyen sziasztok?",
+      "start": 32.94,
+      "end": 33.78
+    },
+    {
+      "text": " Bicsoda megkönnyempülés!",
+      "start": 33.8,
+      "end": 35.3
+    },
+    {
+      "text": " Tudja mit? Itt álljunk meg!",
+      "start": 35.32,
+      "end": 36.58
+    },
+    {
+      "text": " Ez a rendszer között.",
+      "start": 59.2,
+      "end": 59.5
+    }
+  ],
+  "processing_time": 1.2887554168701172,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

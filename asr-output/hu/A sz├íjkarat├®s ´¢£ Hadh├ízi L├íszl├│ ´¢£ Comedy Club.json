@@ -1,0 +1,169 @@
+{
+  "audio_file": "A szájkaratés ｜ Hadházi László ｜ Comedy Club.wav",
+  "full_text": "Van egy ilyen kifejezés, hogy szájkaratés, ha ismered, hogy mindenbe bele tudok ugatni, de semmihez nem értek. De mindenbe beleugatok, Attila, erigyél már onnan, ne te csinálj, mert Petike szaladják. Menjél, menjél, menjél, hagyjad már, ha csinálja Peti, ért hozzá, csavadl a sárgát. Nem jön, zöld? Akkor a piros, ne arra, másik irányba. Na jó, van letört, te hülye vagy, jó, van. Ilyen. Képzeld el, a 304-es italból kupala termében szórakozott, megjúvott négy kötőjel 16 üveg sört, és gondolta, hogy ez már felesleges, egy részét ő leadná a kis objektumban a kocsma udvaron. Kigurult, mert ő egy ilyen 160-as tökéletes testalkatú férfi, hogy magaság a kerülete súlya 160, nem keveri. És elindult a kis objektum felé, a kocsma udvaron meg srácok beszélgettek, cigarettáztak, és egy szájkaratés nem mehet el mellettük úgy, hogy így ne szólja meg őket, hogy eriértek már az apácok, az elégé már jár meg otthon sír, hogy elütött az ifa, te megint is szalt cigarettázzat. Csak az egyik meg igazi karatés volt, aki úgy rúgt a fejbe egy köréves rúgással, hogy a fröcskisem lögybölődött a kezébe, egy hétig ide volt megírva, hogy sadida. Mert ornacipőben volt. És ahogy így megrugta, elindult a feje észak-észak-nyugat irányba, ő úgy érezte, hogy alá tud ennek futni. És így szaladt a feje alá, felgyorsult, és így eltűnt a sötétbe, úgy felgyorsult, hogy mikor becsapódott a kerékpártárolóba, ami nálunkért betonacélpálcákból van hajtogatva, becsapódott és átment a feje. De nem jött vissza. És a srácok hazamentek, ő meg ott bebörtönzött fejjel, ott guggolt a kocsmaudaron a sötétbe, kiabált, hogy gyertek ki! Nálunk, ezért nem szoktak kijönni a kocsmából, mert valaki kint ordít, minek, hogy megverjenek? Kiabált, kiabált, elfáradt, érezte, hogy itt baj lesz, mert zuhant a véralkohol szintje, hát összeszedte minden erejét, és felállt a bicikitárolóval a fején. Mert hogy szerdán történt, és nálunk kedden van piac, kedden oda 10-20 bicikli még este be van állítva, így nem volt egy se, felállt, és hazament gyalog. Azt mondta, egész úton attól fostam, hozzáért a villanydróthoz. De hazaért. Azt mondta, hagyomány hát, és ne megvélik, érdekes megvélik, és a férdőthozik, hogy megvélik, szeretnén, és a férdőthozik, és a férdőthozik, hogy ezt a kíortozik. NAMASTE",
+  "chunks": [
+    {
+      "text": " Van egy ilyen kifejezés, hogy szájkaratés, ha ismered, hogy mindenbe bele tudok ugatni, de semmihez nem értek.",
+      "start": 0.0,
+      "end": 6.88
+    },
+    {
+      "text": " De mindenbe beleugatok, Attila, erigyél már onnan, ne te csinálj, mert Petike szaladják.",
+      "start": 7.660000000000002,
+      "end": 11.58
+    },
+    {
+      "text": " Menjél, menjél, menjél, hagyjad már, ha csinálja Peti, ért hozzá, csavadl a sárgát.",
+      "start": 12.48,
+      "end": 16.0
+    },
+    {
+      "text": " Nem jön, zöld?",
+      "start": 16.580000000000002,
+      "end": 17.6
+    },
+    {
+      "text": " Akkor a piros, ne arra, másik irányba.",
+      "start": 20.0,
+      "end": 21.84
+    },
+    {
+      "text": " Na jó, van letört, te hülye vagy, jó, van.",
+      "start": 22.16,
+      "end": 24.04
+    },
+    {
+      "text": " Ilyen.",
+      "start": 25.7,
+      "end": 26.06
+    },
+    {
+      "text": " Képzeld el, a 304-es italból kupala termében szórakozott, megjúvott négy kötőjel 16 üveg sört,",
+      "start": 27.02,
+      "end": 34.22
+    },
+    {
+      "text": " és gondolta, hogy ez már felesleges, egy részét ő leadná a kis objektumban a kocsma udvaron.",
+      "start": 35.980000000000004,
+      "end": 41.4
+    },
+    {
+      "text": " Kigurult, mert ő egy ilyen 160-as tökéletes testalkatú férfi, hogy magaság a kerülete súlya 160, nem keveri.",
+      "start": 43.6,
+      "end": 51.54
+    },
+    {
+      "text": " És elindult a kis objektum felé, a kocsma udvaron meg srácok beszélgettek, cigarettáztak,",
+      "start": 51.54,
+      "end": 58.18
+    },
+    {
+      "text": " és egy szájkaratés nem mehet el mellettük úgy, hogy így ne szólja meg őket,",
+      "start": 58.3,
+      "end": 62.38
+    },
+    {
+      "text": " hogy eriértek már az apácok, az elégé már jár meg otthon sír, hogy elütött az ifa, te megint is szalt cigarettázzat.",
+      "start": 62.48,
+      "end": 66.4
+    },
+    {
+      "text": " Csak az egyik meg igazi karatés volt, aki úgy rúgt a fejbe egy köréves rúgással, hogy a fröcskisem lögybölődött a kezébe,",
+      "start": 67.82000000000001,
+      "end": 77.86
+    },
+    {
+      "text": " egy hétig ide volt megírva, hogy sadida.",
+      "start": 79.50000000000001,
+      "end": 81.98
+    },
+    {
+      "text": " Mert ornacipőben volt.",
+      "start": 83.74000000000001,
+      "end": 85.44
+    },
+    {
+      "text": " És ahogy így megrugta, elindult a feje észak-észak-nyugat irányba, ő úgy érezte, hogy alá tud ennek futni.",
+      "start": 88.74000000000001,
+      "end": 97.92
+    },
+    {
+      "text": " És így szaladt a feje alá, felgyorsult, és így eltűnt a sötétbe, úgy felgyorsult, hogy mikor becsapódott a kerékpártárolóba,",
+      "start": 99.22,
+      "end": 109.86
+    },
+    {
+      "text": " ami nálunkért betonacélpálcákból van hajtogatva, becsapódott és átment a feje.",
+      "start": 111.2,
+      "end": 117.38
+    },
+    {
+      "text": " De nem jött vissza.",
+      "start": 119.04,
+      "end": 120.56
+    },
+    {
+      "text": " És a srácok hazamentek, ő meg ott bebörtönzött fejjel, ott guggolt a kocsmaudaron a sötétbe,",
+      "start": 122.06,
+      "end": 127.72
+    },
+    {
+      "text": " kiabált, hogy gyertek ki!",
+      "start": 128.46,
+      "end": 130.02
+    },
+    {
+      "text": " Nálunk, ezért nem szoktak kijönni a kocsmából, mert valaki kint ordít, minek, hogy megverjenek?",
+      "start": 131.34,
+      "end": 136.76
+    },
+    {
+      "text": " Kiabált, kiabált, elfáradt, érezte, hogy itt baj lesz, mert zuhant a véralkohol szintje,",
+      "start": 138.02,
+      "end": 143.84
+    },
+    {
+      "text": " hát összeszedte minden erejét, és felállt a bicikitárolóval a fején.",
+      "start": 144.56,
+      "end": 150.18
+    },
+    {
+      "text": " Mert hogy szerdán történt, és nálunk kedden van piac, kedden oda 10-20 bicikli még este be van állítva,",
+      "start": 152.28,
+      "end": 158.32
+    },
+    {
+      "text": " így nem volt egy se, felállt, és hazament gyalog.",
+      "start": 158.42,
+      "end": 161.32
+    },
+    {
+      "text": " Azt mondta, egész úton attól fostam, hozzáért a villanydróthoz.",
+      "start": 163.56,
+      "end": 167.6
+    },
+    {
+      "text": " De hazaért.",
+      "start": 170.01999999999998,
+      "end": 171.14
+    },
+    {
+      "text": " Azt mondta, hagyomány hát, és ne megvélik, érdekes megvélik, és a férdőthozik, hogy megvélik, szeretnén, és a férdőthozik,",
+      "start": 180.56,
+      "end": 181.12
+    },
+    {
+      "text": " és a férdőthozik, hogy ezt a kíortozik.",
+      "start": 181.12,
+      "end": 181.32
+    },
+    {
+      "text": " NAMASTE",
+      "start": 181.32,
+      "end": 181.34
+    }
+  ],
+  "processing_time": 2.6946918964385986,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

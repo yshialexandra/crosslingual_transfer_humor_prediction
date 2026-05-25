@@ -1,0 +1,304 @@
+{
+  "audio_file": "Nene： La Hipocresía De Los Amantes De La Naturaleza ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "Los amantes de la naturaleza. ¿Conocéis alguno? ¿Tenéis alguno cercano? Son estos amantes de la naturaleza, los habréis oído, que porque sí quieren que todo el mundo cuidemos la naturaleza. Todo el mundo, sin distinción. Todo el mundo tiene que cuidar la naturaleza, tiene que portarse bien con ella. A mí es lo más injusto que he oído jamás. Porque ahora mismo, haced la prueba. Si echáis un vistazo a vuestro alrededor, por lo menos vais a ver a dos personas con las que la naturaleza no se ha portado nada bien. Yo no quiero señalar a nadie, ¿vale? ¿Sabéis por qué pasa esto? Estamos emocionados los amantes de la naturaleza. Son los mismos que los amantes de los animales. Estos amantes de los animales que a mí me vuelven loco. Estos amantes de los animales que en vez de adoptar un perro, de los miles que tenemos abandonados en las protectoras, se gastan 600 euros en una tienda por lucir una mascota igual que lucen un bolso o unos pendientes. Me parece que hay que ser muy gilipollas para hacer eso. El otro día me encontré con uno de los amantes de los animales en Sevilla. Estuve actuando en agosto allí. Me encontré un amante de los animales paseando un husky. En Sevilla. 40 grados a la sombra. Paseando un husky. Al husky le sudaban los ojos. Al husky lo tenía que sacar a pasear en chanclas. El husky tenía una cara como decir ¿Quién fuera toro en tordesillas? Ese husky estaba muy jodido. Muy jodido. Me parece que todos estamos de acuerdo que hay que ser muy gilipollas para gastarse dinero en algo que puedes conseguir gratis. Eso es como si un tronista de mujeres, hombres y viceversa se gastara dinero yéndose de putas. ¿Y esto pasa por qué? Porque con dinero, ahora a muchos les ha entrado lo que yo llamo el complejo de Tarzán. No, pues yo tengo una iguana, una tarántula y una boa constrictor. Yo de verdad os juro que aprobaría una ley para que todos pudiéramos tener la mascota, solo la mascota que pudiéramos cazar con nuestras propias manos. A ver cuántos había con Boas Constrictor. Hombre, había mucha gente por la calle paseando caracoles, eso sí. Pero anda que íbamos a ver a poligoneros paseando pitbull, ¿eh? Sí, sí, sí. Bueno, los veríamos, pero de otra manera. En plan... Killer, killer, vete por el palo. Vete por el... Ya voy yo, ya voy yo, ya voy yo. A la puta de Labane no se le podía haber antojado un Haster. Putos amantes de la naturaleza. ... Perdón.",
+  "chunks": [
+    {
+      "text": " Los amantes de la naturaleza.",
+      "start": 1.3800000000000012,
+      "end": 2.9
+    },
+    {
+      "text": " ¿Conocéis alguno? ¿Tenéis alguno cercano?",
+      "start": 3.74,
+      "end": 5.12
+    },
+    {
+      "text": " Son estos amantes de la naturaleza, los habréis oído,",
+      "start": 5.14,
+      "end": 6.78
+    },
+    {
+      "text": " que porque sí quieren que todo el mundo cuidemos la naturaleza.",
+      "start": 7.28,
+      "end": 10.78
+    },
+    {
+      "text": " Todo el mundo, sin distinción.",
+      "start": 11.72,
+      "end": 13.32
+    },
+    {
+      "text": " Todo el mundo tiene que cuidar la naturaleza,",
+      "start": 14.42,
+      "end": 16.02
+    },
+    {
+      "text": " tiene que portarse bien con ella.",
+      "start": 16.12,
+      "end": 17.08
+    },
+    {
+      "text": " A mí es lo más injusto que he oído jamás.",
+      "start": 17.28,
+      "end": 19.48
+    },
+    {
+      "text": " Porque ahora mismo, haced la prueba.",
+      "start": 19.72,
+      "end": 21.04
+    },
+    {
+      "text": " Si echáis un vistazo a vuestro alrededor,",
+      "start": 21.26,
+      "end": 22.5
+    },
+    {
+      "text": " por lo menos vais a ver a dos personas",
+      "start": 22.88,
+      "end": 24.56
+    },
+    {
+      "text": " con las que la naturaleza no se ha portado nada bien.",
+      "start": 24.94,
+      "end": 27.42
+    },
+    {
+      "text": " Yo no quiero señalar a nadie, ¿vale?",
+      "start": 29.22,
+      "end": 30.92
+    },
+    {
+      "text": " ¿Sabéis por qué pasa esto?",
+      "start": 33.1,
+      "end": 34.08
+    },
+    {
+      "text": " Estamos emocionados los amantes de la naturaleza.",
+      "start": 34.12,
+      "end": 35.92
+    },
+    {
+      "text": " Son los mismos que los amantes de los animales.",
+      "start": 36.16,
+      "end": 38.26
+    },
+    {
+      "text": " Estos amantes de los animales que a mí me vuelven loco.",
+      "start": 39.480000000000004,
+      "end": 41.62
+    },
+    {
+      "text": " Estos amantes de los animales que en vez de adoptar un perro,",
+      "start": 41.7,
+      "end": 45.78
+    },
+    {
+      "text": " de los miles que tenemos abandonados en las protectoras,",
+      "start": 45.9,
+      "end": 47.94
+    },
+    {
+      "text": " se gastan 600 euros en una tienda",
+      "start": 48.12,
+      "end": 51.08
+    },
+    {
+      "text": " por lucir una mascota igual que lucen un bolso o unos pendientes.",
+      "start": 51.08,
+      "end": 55.16
+    },
+    {
+      "text": " Me parece que hay que ser muy gilipollas para hacer eso.",
+      "start": 55.16,
+      "end": 59.1
+    },
+    {
+      "text": " El otro día me encontré con uno de los amantes de los animales en Sevilla.",
+      "start": 59.54,
+      "end": 61.64
+    },
+    {
+      "text": " Estuve actuando en agosto allí.",
+      "start": 61.72,
+      "end": 62.66
+    },
+    {
+      "text": " Me encontré un amante de los animales paseando un husky.",
+      "start": 63.04,
+      "end": 65.74
+    },
+    {
+      "text": " En Sevilla.",
+      "start": 67.16000000000001,
+      "end": 68.04
+    },
+    {
+      "text": " 40 grados a la sombra.",
+      "start": 69.46000000000001,
+      "end": 70.76
+    },
+    {
+      "text": " Paseando un husky.",
+      "start": 71.72,
+      "end": 72.58
+    },
+    {
+      "text": " Al husky le sudaban los ojos.",
+      "start": 73.08,
+      "end": 74.44
+    },
+    {
+      "text": " Al husky lo tenía que sacar a pasear en chanclas.",
+      "start": 75.38,
+      "end": 77.54
+    },
+    {
+      "text": " El husky tenía una cara como decir",
+      "start": 77.74,
+      "end": 79.12
+    },
+    {
+      "text": " ¿Quién fuera toro en tordesillas?",
+      "start": 79.12,
+      "end": 80.44
+    },
+    {
+      "text": " Ese husky estaba muy jodido.",
+      "start": 80.54,
+      "end": 83.5
+    },
+    {
+      "text": " Muy jodido.",
+      "start": 85.32,
+      "end": 86.02
+    },
+    {
+      "text": " Me parece que todos estamos de acuerdo que hay que ser muy gilipollas",
+      "start": 86.08,
+      "end": 88.24
+    },
+    {
+      "text": " para gastarse dinero en algo que puedes conseguir gratis.",
+      "start": 88.24,
+      "end": 90.7
+    },
+    {
+      "text": " Eso es como si un tronista de mujeres, hombres y viceversa",
+      "start": 91.14,
+      "end": 93.1
+    },
+    {
+      "text": " se gastara dinero yéndose de putas.",
+      "start": 93.1,
+      "end": 94.52
+    },
+    {
+      "text": " ¿Y esto pasa por qué?",
+      "start": 96.78,
+      "end": 98.0
+    },
+    {
+      "text": " Porque con dinero,",
+      "start": 99.38,
+      "end": 100.34
+    },
+    {
+      "text": " ahora a muchos les ha entrado lo que yo llamo el complejo de Tarzán.",
+      "start": 101.03999999999999,
+      "end": 104.22
+    },
+    {
+      "text": " No, pues yo tengo una iguana,",
+      "start": 104.96,
+      "end": 106.5
+    },
+    {
+      "text": " una tarántula y una boa constrictor.",
+      "start": 107.58,
+      "end": 109.66
+    },
+    {
+      "text": " Yo de verdad os juro que aprobaría una ley",
+      "start": 111.14000000000001,
+      "end": 112.98
+    },
+    {
+      "text": " para que todos pudiéramos tener la mascota,",
+      "start": 112.98,
+      "end": 115.12
+    },
+    {
+      "text": " solo la mascota que pudiéramos cazar con nuestras propias manos.",
+      "start": 115.2,
+      "end": 118.46
+    },
+    {
+      "text": " A ver cuántos había con Boas Constrictor.",
+      "start": 120.18,
+      "end": 122.2
+    },
+    {
+      "text": " Hombre, había mucha gente por la calle paseando caracoles, eso sí.",
+      "start": 123.26,
+      "end": 125.66
+    },
+    {
+      "text": " Pero anda que íbamos a ver a poligoneros paseando pitbull, ¿eh?",
+      "start": 126.88,
+      "end": 129.34
+    },
+    {
+      "text": " Sí, sí, sí.",
+      "start": 129.54,
+      "end": 130.22
+    },
+    {
+      "text": " Bueno, los veríamos, pero de otra manera.",
+      "start": 130.4,
+      "end": 131.7
+    },
+    {
+      "text": " En plan...",
+      "start": 132.0,
+      "end": 132.5
+    },
+    {
+      "text": " Killer, killer, vete por el palo.",
+      "start": 132.5,
+      "end": 134.36
+    },
+    {
+      "text": " Vete por el...",
+      "start": 134.8,
+      "end": 135.56
+    },
+    {
+      "text": " Ya voy yo, ya voy yo, ya voy yo.",
+      "start": 135.56,
+      "end": 137.98
+    },
+    {
+      "text": " A la puta de Labane no se le podía haber antojado un Haster.",
+      "start": 138.94,
+      "end": 141.46
+    },
+    {
+      "text": " Putos amantes de la naturaleza.",
+      "start": 143.34,
+      "end": 144.82
+    },
+    {
+      "text": " ...",
+      "start": 165.56,
+      "end": 165.64
+    },
+    {
+      "text": " Perdón.",
+      "start": 165.64,
+      "end": 165.86
+    }
+  ],
+  "processing_time": 2.4839696884155273,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

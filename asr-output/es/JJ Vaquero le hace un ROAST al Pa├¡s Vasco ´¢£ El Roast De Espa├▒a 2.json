@@ -1,0 +1,399 @@
+{
+  "audio_file": "JJ Vaquero le hace un ROAST al País Vasco ｜ El Roast De España 2.wav",
+  "full_text": "El pueblo vasco es tan auténtico que la modernización no le está sentando bien. Esta es mi teoría, esto es lo que defiendo hoy aquí. El vasco se está actualizando mal. Venía tan full equip de fábrica que lo nuevo le molesta al vasco. Se está actualizando mal. Para hacer este programa hemos estado en el país vasco. Vamos a un restaurante, ¿qué tienes de plato del día? Y dice el camarero vasco, fajitas de pulled pork. Y mira, que un vasco diga pulled pork, pase. Pero fajitas. ¿Un vasco usando un diminutivo para comida? Que en el país vasco al chuletón lo llaman media ración. ¿De verdad? Con un eructo de un vasco meriendan cinco franceses. Esa es la puta verdad. ¿Cómo va a decir un vasco? Fajitas. Estamos hablando de un nivel de bestialidad con la comida. Ya echan mucha comida al plato. Yo en un restaurante vasco me pedí un plato de guisantes y me pusieron un plato que mi hija se metió dentro. Se pensaba que era una piscina de bolas. Mira, es el chiquipar, dijo el chiquipar. ¿Algún tópico vasco que cumpla esa muerte? Ah, lo de no follar. De hecho, claro, la gente dice que aquí en el país vasco no folla, pero porque ya se nos follan en los peajes. No sé si lo sabéis, pero hay un mito, una leyenda, que dicen que en Euskadi no se folla. No lo digo yo. De hecho, la palabra que tienen en euskera, ¿sabéis cómo se dice en euskera follar? En euskera follar se dice sexu arremanac izan. Sí, sí. Muy larga, ¿verdad? Sabían que no la iban a usar mucho, ¿verdad? O sea, quiere decir... Claro, nosotros las palabras que más usamos son cortas. Ten, trae, sí, no. Hasta para el sexo yo uso palabras muy cortas, ¿vale? Yo ya... Mira, esa es la verdad del asunto. Fíjate si se follará poco en el País Vasco que Tinder en el País Vasco es una aplicación para comprar muebles de segunda mano. Las películas porno en los videoclubs del País Vasco estaban en la estantería de ciencia ficción. Cuando un vasco va a la farmacia y compra una caja de 24 preservativos, el farmacéutico dice, hasta siempre. En el País Vasco convierten su actividad diaria en un deporte. Esto lo hacen. Un tío que corta troncos dice, soy ascolari. Y ya hace deporte. Un tío que ciega con la guadaña dice, soy segalari. A tomar por culo. Si Hitler hubiera sido vasco, hubiera sido esterminalari. Me dijo Ana Sagasti, yo como político no tengo nada que ocultar. Digo, hombre, de momento la coronilla. O sea... Me dijo Ana Sagasti, ojo, al principio me molestaba muchísimo los chistes sobre mi alopecia, que le dije a haberte casado con Will Smith. Pero luego... La música de antes vasca era tan auténtica que no tendría que haberse actualizado. Joder, pero sí era... Era perfecta, estamos de acuerdo todos. No esos grupos de antes vascos. Cicatriz, barricada, escorbuto, cortatu. Y los de ahora, la oreja de mango. Vamos, no me jodas que sois vascos. Qué puta mierda de nombre es la oreja de mango. Poneros la nariz del cigala. Eso sí, eso es vasco. Eso es vasco. Porque el cigala tiene una nariz. Y las... Gracias por ver el video.",
+  "chunks": [
+    {
+      "text": " El pueblo vasco es tan auténtico que la modernización no le está sentando bien.",
+      "start": 1.319999999999997,
+      "end": 5.92
+    },
+    {
+      "text": " Esta es mi teoría, esto es lo que defiendo hoy aquí.",
+      "start": 6.12,
+      "end": 8.32
+    },
+    {
+      "text": " El vasco se está actualizando mal.",
+      "start": 8.58,
+      "end": 11.2
+    },
+    {
+      "text": " Venía tan full equip de fábrica que lo nuevo le molesta al vasco.",
+      "start": 11.5,
+      "end": 15.4
+    },
+    {
+      "text": " Se está actualizando mal.",
+      "start": 15.48,
+      "end": 17.06
+    },
+    {
+      "text": " Para hacer este programa hemos estado en el país vasco.",
+      "start": 17.26,
+      "end": 19.52
+    },
+    {
+      "text": " Vamos a un restaurante, ¿qué tienes de plato del día?",
+      "start": 19.58,
+      "end": 22.36
+    },
+    {
+      "text": " Y dice el camarero vasco, fajitas de pulled pork.",
+      "start": 22.5,
+      "end": 25.72
+    },
+    {
+      "text": " Y mira, que un vasco diga pulled pork, pase.",
+      "start": 28.32,
+      "end": 30.96
+    },
+    {
+      "text": " Pero fajitas.",
+      "start": 31.16,
+      "end": 32.16
+    },
+    {
+      "text": " ¿Un vasco usando un diminutivo para comida?",
+      "start": 32.74,
+      "end": 35.5
+    },
+    {
+      "text": " Que en el país vasco al chuletón lo llaman media ración.",
+      "start": 35.82,
+      "end": 39.02
+    },
+    {
+      "text": " ¿De verdad?",
+      "start": 39.22,
+      "end": 39.78
+    },
+    {
+      "text": " Con un eructo de un vasco meriendan cinco franceses.",
+      "start": 40.06,
+      "end": 42.96
+    },
+    {
+      "text": " Esa es la puta verdad.",
+      "start": 43.04,
+      "end": 44.18
+    },
+    {
+      "text": " ¿Cómo va a decir un vasco?",
+      "start": 45.120000000000005,
+      "end": 46.78
+    },
+    {
+      "text": " Fajitas.",
+      "start": 47.64,
+      "end": 48.2
+    },
+    {
+      "text": " Estamos hablando de un nivel de bestialidad con la comida.",
+      "start": 51.24,
+      "end": 55.16
+    },
+    {
+      "text": " Ya echan mucha comida al plato.",
+      "start": 55.16,
+      "end": 56.42
+    },
+    {
+      "text": " Yo en un restaurante vasco me pedí un plato de guisantes",
+      "start": 56.74,
+      "end": 58.72
+    },
+    {
+      "text": " y me pusieron un plato que mi hija se metió dentro.",
+      "start": 58.72,
+      "end": 61.58
+    },
+    {
+      "text": " Se pensaba que era una piscina de bolas.",
+      "start": 62.78,
+      "end": 64.64
+    },
+    {
+      "text": " Mira, es el chiquipar, dijo el chiquipar.",
+      "start": 64.82,
+      "end": 67.2
+    },
+    {
+      "text": " ¿Algún tópico vasco que cumpla esa muerte?",
+      "start": 69.68,
+      "end": 72.0
+    },
+    {
+      "text": " Ah, lo de no follar.",
+      "start": 72.34,
+      "end": 73.2
+    },
+    {
+      "text": " De hecho, claro, la gente dice que aquí en el país vasco no folla,",
+      "start": 75.14,
+      "end": 78.6
+    },
+    {
+      "text": " pero porque ya se nos follan en los peajes.",
+      "start": 78.72,
+      "end": 80.02
+    },
+    {
+      "text": " No sé si lo sabéis, pero hay un mito, una leyenda,",
+      "start": 81.19999999999999,
+      "end": 84.52
+    },
+    {
+      "text": " que dicen que en Euskadi no se folla.",
+      "start": 84.7,
+      "end": 86.88
+    },
+    {
+      "text": " No lo digo yo.",
+      "start": 87.36,
+      "end": 87.9
+    },
+    {
+      "text": " De hecho, la palabra que tienen en euskera,",
+      "start": 88.94,
+      "end": 91.3
+    },
+    {
+      "text": " ¿sabéis cómo se dice en euskera follar?",
+      "start": 91.4,
+      "end": 92.96
+    },
+    {
+      "text": " En euskera follar se dice sexu arremanac izan.",
+      "start": 93.92,
+      "end": 98.34
+    },
+    {
+      "text": " Sí, sí.",
+      "start": 99.7,
+      "end": 100.24
+    },
+    {
+      "text": " Muy larga, ¿verdad?",
+      "start": 101.02000000000001,
+      "end": 101.9
+    },
+    {
+      "text": " Sabían que no la iban a usar mucho, ¿verdad?",
+      "start": 101.98,
+      "end": 103.64
+    },
+    {
+      "text": " O sea, quiere decir...",
+      "start": 103.64,
+      "end": 104.64
+    },
+    {
+      "text": " Claro, nosotros las palabras que más usamos son cortas.",
+      "start": 107.32,
+      "end": 109.74
+    },
+    {
+      "text": " Ten, trae, sí, no.",
+      "start": 109.84,
+      "end": 111.08
+    },
+    {
+      "text": " Hasta para el sexo yo uso palabras muy cortas, ¿vale?",
+      "start": 111.26,
+      "end": 113.42
+    },
+    {
+      "text": " Yo ya...",
+      "start": 113.74,
+      "end": 114.7
+    },
+    {
+      "text": " Mira, esa es la verdad del asunto.",
+      "start": 114.7,
+      "end": 117.6
+    },
+    {
+      "text": " Fíjate si se follará poco en el País Vasco",
+      "start": 120.78,
+      "end": 122.74
+    },
+    {
+      "text": " que Tinder en el País Vasco es una aplicación",
+      "start": 122.74,
+      "end": 125.16
+    },
+    {
+      "text": " para comprar muebles de segunda mano.",
+      "start": 125.16,
+      "end": 126.8
+    },
+    {
+      "text": " Las películas porno en los videoclubs del País Vasco",
+      "start": 129.15999999999997,
+      "end": 131.84
+    },
+    {
+      "text": " estaban en la estantería de ciencia ficción.",
+      "start": 131.84,
+      "end": 134.46
+    },
+    {
+      "text": " Cuando un vasco va a la farmacia",
+      "start": 135.60000000000002,
+      "end": 137.16
+    },
+    {
+      "text": " y compra una caja de 24 preservativos,",
+      "start": 137.16,
+      "end": 139.38
+    },
+    {
+      "text": " el farmacéutico dice, hasta siempre.",
+      "start": 139.6,
+      "end": 141.72
+    },
+    {
+      "text": " En el País Vasco convierten su actividad diaria en un deporte.",
+      "start": 143.9,
+      "end": 147.68
+    },
+    {
+      "text": " Esto lo hacen.",
+      "start": 147.98,
+      "end": 148.5
+    },
+    {
+      "text": " Un tío que corta troncos dice, soy ascolari.",
+      "start": 148.86,
+      "end": 151.36
+    },
+    {
+      "text": " Y ya hace deporte.",
+      "start": 151.5,
+      "end": 152.44
+    },
+    {
+      "text": " Un tío que ciega con la guadaña dice, soy segalari.",
+      "start": 152.96,
+      "end": 155.82
+    },
+    {
+      "text": " A tomar por culo.",
+      "start": 155.9,
+      "end": 156.64
+    },
+    {
+      "text": " Si Hitler hubiera sido vasco, hubiera sido esterminalari.",
+      "start": 157.66,
+      "end": 160.72
+    },
+    {
+      "text": " Me dijo Ana Sagasti, yo como político no tengo nada que ocultar.",
+      "start": 162.22,
+      "end": 165.38
+    },
+    {
+      "text": " Digo, hombre, de momento la coronilla.",
+      "start": 165.48,
+      "end": 166.88
+    },
+    {
+      "text": " O sea...",
+      "start": 168.28,
+      "end": 169.08
+    },
+    {
+      "text": " Me dijo Ana Sagasti, ojo, al principio me molestaba muchísimo",
+      "start": 169.08,
+      "end": 172.12
+    },
+    {
+      "text": " los chistes sobre mi alopecia, que le dije a haberte casado con Will Smith.",
+      "start": 172.12,
+      "end": 175.04
+    },
+    {
+      "text": " Pero luego...",
+      "start": 175.98,
+      "end": 176.78
+    },
+    {
+      "text": " La música de antes vasca era tan auténtica",
+      "start": 178.28,
+      "end": 180.78
+    },
+    {
+      "text": " que no tendría que haberse actualizado.",
+      "start": 180.78,
+      "end": 182.16
+    },
+    {
+      "text": " Joder, pero sí era...",
+      "start": 182.56,
+      "end": 183.38
+    },
+    {
+      "text": " Era perfecta, estamos de acuerdo todos.",
+      "start": 183.38,
+      "end": 185.12
+    },
+    {
+      "text": " No esos grupos de antes vascos.",
+      "start": 185.12,
+      "end": 186.5
+    },
+    {
+      "text": " Cicatriz, barricada, escorbuto, cortatu.",
+      "start": 187.02,
+      "end": 192.48
+    },
+    {
+      "text": " Y los de ahora, la oreja de mango.",
+      "start": 192.74,
+      "end": 194.86
+    },
+    {
+      "text": " Vamos, no me jodas que sois vascos.",
+      "start": 196.3,
+      "end": 198.22
+    },
+    {
+      "text": " Qué puta mierda de nombre es la oreja de mango.",
+      "start": 198.22,
+      "end": 200.86
+    },
+    {
+      "text": " Poneros la nariz del cigala.",
+      "start": 201.26,
+      "end": 203.06
+    },
+    {
+      "text": " Eso sí, eso es vasco.",
+      "start": 204.02,
+      "end": 206.06
+    },
+    {
+      "text": " Eso es vasco.",
+      "start": 206.34,
+      "end": 207.62
+    },
+    {
+      "text": " Porque el cigala tiene una nariz.",
+      "start": 207.84,
+      "end": 210.44
+    },
+    {
+      "text": " Y las...",
+      "start": 228.22,
+      "end": 229.6
+    },
+    {
+      "text": " Gracias por ver el video.",
+      "start": 229.6,
+      "end": 232.44
+    }
+  ],
+  "processing_time": 2.2589309215545654,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

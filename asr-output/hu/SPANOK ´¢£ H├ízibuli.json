@@ -1,0 +1,179 @@
+{
+  "audio_file": "SPANOK ｜ Házibuli.wav",
+  "full_text": "ami igazán kájátok, mint kájátokat. Józom a kájátokat. A kájátokat a kájátokat. Détekén, String. Détekén, String. Állhatózzási a nyelvét. Egyesügyi, és a kájátokat tetszikét. Ez igen, mi? A legjobb barátok kaja-pia hatalmas buli! Mi kell még engem? Csajok, beszob! Csajok, intézted? Isztalhúszat. Vagy de nagy strijci vagy? Na mikor jönnek? Mi? A csajok? Nem jönnek. Nem jönnek a csajok? Nem. Hogy hogy nem jönnek? Hát kilenc vagy a bandihoz, ő is már a szervezet bulit. Sőtöbbi? Hát négy képzel, de a anyuka lett. Kárlát. Jó, igen, és? Három rám tette a telefont, kettő elátkozott, egy meg a kittit, tudod, akivel foglalkoztál, a lányokat szereti. És a maradék egy? Az lett a kitticaja. Ezt nem hiszem el, hogy musznőből egyet, sehát utáj ide intézni. Nem hiszem el, egy semmire nem vagyunk, minden nekem kell elintézni. Ez az egy dolgozat volna. Detike, mi a helyzet? Figyelj, mert akkora buli van nálam, amit szétszedjük a házat. Gyertek már a pára, mert sajból nem állom annyira jól, de... De nagy vagy, pussi Deti. Ennyi, jönnek. Bambihoz. Köszönjük! Köszönjük!",
+  "chunks": [
+    {
+      "text": " ami igazán kájátok, mint kájátokat.",
+      "start": 0.0,
+      "end": 4.36
+    },
+    {
+      "text": " Józom a kájátokat.",
+      "start": 5.2,
+      "end": 5.96
+    },
+    {
+      "text": " A kájátokat a kájátokat.",
+      "start": 6.02,
+      "end": 8.4
+    },
+    {
+      "text": " Détekén, String.",
+      "start": 9.679999999999998,
+      "end": 10.92
+    },
+    {
+      "text": " Détekén, String.",
+      "start": 11.22,
+      "end": 13.32
+    },
+    {
+      "text": " Állhatózzási a nyelvét.",
+      "start": 16.92,
+      "end": 17.54
+    },
+    {
+      "text": " Egyesügyi, és a kájátokat tetszikét.",
+      "start": 17.9,
+      "end": 18.52
+    },
+    {
+      "text": " Ez igen, mi?",
+      "start": 18.52,
+      "end": 19.0
+    },
+    {
+      "text": " A legjobb barátok kaja-pia hatalmas buli!",
+      "start": 19.14,
+      "end": 21.9
+    },
+    {
+      "text": " Mi kell még engem?",
+      "start": 22.0,
+      "end": 22.84
+    },
+    {
+      "text": " Csajok, beszob! Csajok, intézted?",
+      "start": 22.84,
+      "end": 24.52
+    },
+    {
+      "text": " Isztalhúszat.",
+      "start": 24.88,
+      "end": 25.5
+    },
+    {
+      "text": " Vagy de nagy strijci vagy?",
+      "start": 25.78,
+      "end": 26.86
+    },
+    {
+      "text": " Na mikor jönnek?",
+      "start": 26.94,
+      "end": 27.6
+    },
+    {
+      "text": " Mi? A csajok?",
+      "start": 27.7,
+      "end": 29.5
+    },
+    {
+      "text": " Nem jönnek.",
+      "start": 29.5,
+      "end": 30.5
+    },
+    {
+      "text": " Nem jönnek a csajok?",
+      "start": 32.76,
+      "end": 33.96
+    },
+    {
+      "text": " Nem. Hogy hogy nem jönnek?",
+      "start": 34.16,
+      "end": 35.34
+    },
+    {
+      "text": " Hát kilenc vagy a bandihoz, ő is már a szervezet bulit.",
+      "start": 35.54,
+      "end": 38.4
+    },
+    {
+      "text": " Sőtöbbi? Hát négy képzel, de a anyuka lett.",
+      "start": 38.46,
+      "end": 40.64
+    },
+    {
+      "text": " Kárlát. Jó, igen, és? Három rám tette a telefont,",
+      "start": 41.74,
+      "end": 44.6
+    },
+    {
+      "text": " kettő elátkozott, egy meg a kittit, tudod, akivel foglalkoztál, a lányokat szereti.",
+      "start": 44.74,
+      "end": 49.4
+    },
+    {
+      "text": " És a maradék egy? Az lett a kitticaja.",
+      "start": 49.44,
+      "end": 51.24
+    },
+    {
+      "text": " Ezt nem hiszem el, hogy musznőből egyet, sehát utáj ide intézni.",
+      "start": 51.42,
+      "end": 54.32
+    },
+    {
+      "text": " Nem hiszem el, egy semmire nem vagyunk, minden nekem kell elintézni.",
+      "start": 54.48,
+      "end": 57.16
+    },
+    {
+      "text": " Ez az egy dolgozat volna.",
+      "start": 58.06,
+      "end": 60.18
+    },
+    {
+      "text": " Detike, mi a helyzet?",
+      "start": 64.16000000000001,
+      "end": 65.8
+    },
+    {
+      "text": " Figyelj, mert akkora buli van nálam, amit szétszedjük a házat.",
+      "start": 66.18,
+      "end": 69.68
+    },
+    {
+      "text": " Gyertek már a pára, mert sajból nem állom annyira jól, de...",
+      "start": 69.8,
+      "end": 72.92
+    },
+    {
+      "text": " De nagy vagy, pussi Deti.",
+      "start": 76.7,
+      "end": 78.78
+    },
+    {
+      "text": " Ennyi, jönnek.",
+      "start": 79.54,
+      "end": 80.84
+    },
+    {
+      "text": " Bambihoz.",
+      "start": 83.84,
+      "end": 84.44
+    },
+    {
+      "text": " Köszönjük!",
+      "start": 87.16,
+      "end": 87.86
+    },
+    {
+      "text": " Köszönjük!",
+      "start": 99.46,
+      "end": 100.86
+    }
+  ],
+  "processing_time": 2.9089391231536865,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,64 @@
+{
+  "audio_file": "Golden Troll Awards ｜ ＂Két hetes tehénsz＊r＂ kategória.wav",
+  "full_text": "Arany Troll díj 2023, ahol a legjobb műsorok megkapják a legdurvább kommenteket. Élőben a New York... Hölgyeim és Uraim! Welcome to the show! Nézzük a következő díjat. Ezt Troll-t felhasználónak köszönhetjük. Nem értem az embereknek, miért azzal van baja, hogy melegek vannak a sorozatban. És miért nem azzal, hogy lapos, mint a kéthetes tehény? És a díjat kapja a Modern Család! Olyan izgatott vagyok, hogy nem bírok magammal? Hét, te tudtál erről? Ön se tudom, mi történik. Ez csodálatos. Modern Család ma a Comedy Centralon.",
+  "chunks": [
+    {
+      "text": " Arany Troll díj 2023, ahol a legjobb műsorok megkapják a legdurvább kommenteket.",
+      "start": 1.039999999999998,
+      "end": 7.28
+    },
+    {
+      "text": " Élőben a New York...",
+      "start": 7.76,
+      "end": 10.0
+    },
+    {
+      "text": " Hölgyeim és Uraim! Welcome to the show! Nézzük a következő díjat.",
+      "start": 11.559999999999999,
+      "end": 17.36
+    },
+    {
+      "text": " Ezt Troll-t felhasználónak köszönhetjük.",
+      "start": 17.78,
+      "end": 22.3
+    },
+    {
+      "text": " Nem értem az embereknek, miért azzal van baja, hogy melegek vannak a sorozatban.",
+      "start": 24.16,
+      "end": 29.42
+    },
+    {
+      "text": " És miért nem azzal, hogy lapos, mint a kéthetes tehény?",
+      "start": 30.0,
+      "end": 34.9
+    },
+    {
+      "text": " És a díjat kapja a Modern Család!",
+      "start": 36.56,
+      "end": 40.9
+    },
+    {
+      "text": " Olyan izgatott vagyok, hogy nem bírok magammal?",
+      "start": 41.6,
+      "end": 44.2
+    },
+    {
+      "text": " Hét, te tudtál erről?",
+      "start": 44.84,
+      "end": 46.36
+    },
+    {
+      "text": " Ön se tudom, mi történik.",
+      "start": 46.4,
+      "end": 47.86
+    },
+    {
+      "text": " Ez csodálatos. Modern Család ma a Comedy Centralon.",
+      "start": 47.96,
+      "end": 53.44
+    }
+  ],
+  "processing_time": 1.4305834770202637,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,74 @@
+{
+  "audio_file": "Gábor ｜ #éndöntök.wav",
+  "full_text": "Még az anyád is jobb lenne nálad! Pusolj el már! A kutya piszkot a járdáról. Mondjuk csak azért, hogy megtobálja vele a szomszédban játszó óvodásokat. Gáborban és benned van valami közös. Gábornak is ugyanúgy egy szavazati joga van, mint neked. Gábor, te elmész szavazni? Hogy a ***ba nem ennék el szavazni? Gábor szívesen dönt a te jövődről is. Ha ezt nem szeretnéd, szavazz te is április 8-án. Cásodok és a Tess pársaság pársaság! Még az a Még az a Még, az A Még a Még. Zene érjét, a Még.",
+  "chunks": [
+    {
+      "text": " Még az anyád is jobb lenne nálad!",
+      "start": 0.8999999999999995,
+      "end": 3.44
+    },
+    {
+      "text": " Pusolj el már!",
+      "start": 3.88,
+      "end": 4.86
+    },
+    {
+      "text": " A kutya piszkot a járdáról.",
+      "start": 30.0,
+      "end": 31.52
+    },
+    {
+      "text": " Mondjuk csak azért, hogy megtobálja vele a szomszédban játszó óvodásokat.",
+      "start": 32.18,
+      "end": 35.48
+    },
+    {
+      "text": " Gáborban és benned van valami közös.",
+      "start": 38.08,
+      "end": 39.92
+    },
+    {
+      "text": " Gábornak is ugyanúgy egy szavazati joga van, mint neked.",
+      "start": 40.14,
+      "end": 42.48
+    },
+    {
+      "text": " Gábor, te elmész szavazni?",
+      "start": 42.78,
+      "end": 44.32
+    },
+    {
+      "text": " Hogy a ***ba nem ennék el szavazni?",
+      "start": 44.48,
+      "end": 46.48
+    },
+    {
+      "text": " Gábor szívesen dönt a te jövődről is.",
+      "start": 47.22,
+      "end": 49.16
+    },
+    {
+      "text": " Ha ezt nem szeretnéd, szavazz te is április 8-án.",
+      "start": 49.4,
+      "end": 52.34
+    },
+    {
+      "text": " Cásodok és a Tess pársaság pársaság!",
+      "start": 60.0,
+      "end": 63.22
+    },
+    {
+      "text": " Még az a Még az a Még, az A Még a Még.",
+      "start": 63.8,
+      "end": 64.48
+    },
+    {
+      "text": " Zene érjét, a Még.",
+      "start": 64.48,
+      "end": 64.5
+    }
+  ],
+  "processing_time": 1.6705601215362549,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

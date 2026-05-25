@@ -1,0 +1,99 @@
+{
+  "audio_file": "Raboljunk webshopot ｜ Susogós Mackók 🐻.wav",
+  "full_text": "Tartalás az simpionáz onnan deki! Szevasz! Szevasz! Megvan a terv! Holnap kirabulunk egy webshopot! Hogyan? Bemegyünk, kiválasztjuk az árut és áthúzzuk egérrel a desktopra! És én? Mit csinálok? Te addig a webáruház előtt állsz és figyelsz, hogyha jönnek, le tudjunk lépni! Aha! Ha megvan a cucc, errejtjük a lontárba. Ott Tuti nem fogják keresni. És utána mit csinálunk vele? Megfogjuk és feltesszük egy másik oldalra. És már miénk is a lóvé. Brandon, ez zseniális. Hát persze. Nem ma kezdtem a szakmát. Köszönöm szépen.",
+  "chunks": [
+    {
+      "text": " Tartalás az simpionáz onnan deki!",
+      "start": 4.919999999999999,
+      "end": 6.46
+    },
+    {
+      "text": " Szevasz!",
+      "start": 8.76,
+      "end": 9.4
+    },
+    {
+      "text": " Szevasz!",
+      "start": 9.52,
+      "end": 10.0
+    },
+    {
+      "text": " Megvan a terv!",
+      "start": 10.12,
+      "end": 10.94
+    },
+    {
+      "text": " Holnap kirabulunk egy webshopot!",
+      "start": 11.58,
+      "end": 13.62
+    },
+    {
+      "text": " Hogyan?",
+      "start": 13.82,
+      "end": 14.36
+    },
+    {
+      "text": " Bemegyünk, kiválasztjuk az árut és áthúzzuk egérrel a desktopra!",
+      "start": 15.18,
+      "end": 19.06
+    },
+    {
+      "text": " És én?",
+      "start": 19.52,
+      "end": 20.12
+    },
+    {
+      "text": " Mit csinálok?",
+      "start": 20.28,
+      "end": 21.22
+    },
+    {
+      "text": " Te addig a webáruház előtt állsz és figyelsz, hogyha jönnek, le tudjunk lépni!",
+      "start": 21.4,
+      "end": 25.44
+    },
+    {
+      "text": " Aha!",
+      "start": 25.74,
+      "end": 25.98
+    },
+    {
+      "text": " Ha megvan a cucc, errejtjük a lontárba.",
+      "start": 26.44,
+      "end": 28.7
+    },
+    {
+      "text": " Ott Tuti nem fogják keresni.",
+      "start": 28.7,
+      "end": 30.32
+    },
+    {
+      "text": " És utána mit csinálunk vele?",
+      "start": 30.42,
+      "end": 32.26
+    },
+    {
+      "text": " Megfogjuk és feltesszük egy másik oldalra. És már miénk is a lóvé.",
+      "start": 32.6,
+      "end": 36.34
+    },
+    {
+      "text": " Brandon, ez zseniális.",
+      "start": 36.58,
+      "end": 38.56
+    },
+    {
+      "text": " Hát persze. Nem ma kezdtem a szakmát.",
+      "start": 38.88,
+      "end": 41.06
+    },
+    {
+      "text": " Köszönöm szépen.",
+      "start": 65.55999999999999,
+      "end": 68.36
+    }
+  ],
+  "processing_time": 2.381645679473877,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

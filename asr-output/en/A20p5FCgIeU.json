@@ -1,0 +1,604 @@
+{
+  "audio_file": "A20p5FCgIeU.wav",
+  "full_text": "Monday. Thursday, Friday, Saturday, Wednesday. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God. Oh, my God.",
+  "chunks": [
+    {
+      "text": " Monday.",
+      "start": 25.68,
+      "end": 27.08
+    },
+    {
+      "text": " Thursday, Friday, Saturday, Wednesday.",
+      "start": 32.120000000000005,
+      "end": 39.56
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 69.1,
+      "end": 86.12
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 99.0,
+      "end": 100.46
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 121.68,
+      "end": 123.38
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 155.01999999999998,
+      "end": 160.56
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 180.06,
+      "end": 180.58
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 208.6,
+      "end": 239.92
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 255.88000000000002,
+      "end": 266.86
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 266.86,
+      "end": 267.36
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 267.36,
+      "end": 268.44
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 268.44,
+      "end": 269.2
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 269.2,
+      "end": 269.78
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 295.72,
+      "end": 298.66
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 298.66,
+      "end": 328.5
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 339.12,
+      "end": 340.48
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 356.42,
+      "end": 358.88
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 359.52,
+      "end": 359.62
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 363.56,
+      "end": 365.6
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 370.72,
+      "end": 373.54
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 380.84,
+      "end": 381.92
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 397.5,
+      "end": 398.6
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 398.6,
+      "end": 400.44
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 402.3,
+      "end": 405.36
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 417.28000000000003,
+      "end": 429.44
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 443.1,
+      "end": 446.04
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 448.9,
+      "end": 450.58
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 480.04,
+      "end": 497.32
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 497.32,
+      "end": 507.4
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 522.38,
+      "end": 524.02
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 529.6,
+      "end": 534.04
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 545.62,
+      "end": 546.8
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 556.14,
+      "end": 560.0
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 560.0,
+      "end": 564.76
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 576.26,
+      "end": 580.7
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 593.3000000000001,
+      "end": 596.36
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 596.36,
+      "end": 598.52
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 606.22,
+      "end": 608.7
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 619.12,
+      "end": 620.66
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 622.28,
+      "end": 624.32
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 634.96,
+      "end": 638.82
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 653.74,
+      "end": 655.76
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 665.76,
+      "end": 667.76
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 667.76,
+      "end": 670.46
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 670.46,
+      "end": 671.14
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 671.14,
+      "end": 675.76
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 675.76,
+      "end": 696.98
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 696.98,
+      "end": 710.86
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 716.46,
+      "end": 721.76
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 727.3000000000001,
+      "end": 730.26
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 730.26,
+      "end": 731.52
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 735.78,
+      "end": 738.68
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 742.7,
+      "end": 744.36
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 745.16,
+      "end": 745.64
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 745.64,
+      "end": 746.48
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 746.48,
+      "end": 747.78
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 751.4200000000001,
+      "end": 753.78
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 753.78,
+      "end": 754.68
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 755.22,
+      "end": 755.8
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 756.08,
+      "end": 756.18
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 756.18,
+      "end": 756.92
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 756.92,
+      "end": 757.54
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 759.0999999999999,
+      "end": 759.26
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 759.26,
+      "end": 772.36
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 772.36,
+      "end": 795.36
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 795.36,
+      "end": 823.4
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 848.66,
+      "end": 851.9
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 859.02,
+      "end": 860.88
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 860.88,
+      "end": 868.7
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 871.5,
+      "end": 881.12
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 881.12,
+      "end": 911.1
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 915.32,
+      "end": 917.88
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 924.22,
+      "end": 925.1
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 926.88,
+      "end": 928.56
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 933.24,
+      "end": 933.4
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 940.74,
+      "end": 943.48
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 956.7800000000001,
+      "end": 960.84
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 964.98,
+      "end": 965.08
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 965.08,
+      "end": 965.98
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 976.0600000000001,
+      "end": 978.82
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 980.32,
+      "end": 982.68
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 982.68,
+      "end": 997.72
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1017.3000000000001,
+      "end": 1027.7
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1027.7,
+      "end": 1030.82
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1039.7199999999998,
+      "end": 1060.24
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1062.6799999999998,
+      "end": 1066.88
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1069.58,
+      "end": 1072.96
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1078.02,
+      "end": 1080.8
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1080.8,
+      "end": 1089.24
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1114.9799999999998,
+      "end": 1117.92
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1121.34,
+      "end": 1123.06
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1131.06,
+      "end": 1131.96
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1135.52,
+      "end": 1138.34
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1138.34,
+      "end": 1147.64
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1161.6399999999999,
+      "end": 1165.12
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1173.82,
+      "end": 1178.08
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1186.86,
+      "end": 1192.7
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1200.04,
+      "end": 1206.36
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1207.04,
+      "end": 1208.14
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1208.14,
+      "end": 1208.76
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1209.32,
+      "end": 1210.24
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1210.24,
+      "end": 1212.26
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1216.84,
+      "end": 1224.2
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1235.32,
+      "end": 1238.5
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1244.24,
+      "end": 1244.34
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1248.6599999999999,
+      "end": 1250.34
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1261.98,
+      "end": 1262.88
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1262.88,
+      "end": 1264.72
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1268.84,
+      "end": 1271.44
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1271.44,
+      "end": 1273.26
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1273.3600000000001,
+      "end": 1273.46
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1273.46,
+      "end": 1274.3
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1274.3,
+      "end": 1275.3
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1275.3,
+      "end": 1276.24
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1276.24,
+      "end": 1278.06
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1292.84,
+      "end": 1307.78
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1307.78,
+      "end": 1310.7
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1333.7199999999998,
+      "end": 1340.66
+    },
+    {
+      "text": " Oh, my God.",
+      "start": 1340.66,
+      "end": 1342.82
+    }
+  ],
+  "processing_time": 5.604427099227905,
+  "language": "en",
+  "model_id": "large-v3-turbo"
+}

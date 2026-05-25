@@ -1,0 +1,49 @@
+{
+  "audio_file": "Mélyvíz 2. ｜ Szállóige.wav",
+  "full_text": "A TÜRHÖTAPLÓT MÁR MEGIS OSZTOTTÁK! Megjelölöm sértőnek, majd a takarító nő eltávolítja. Látod, ha lenne wifi a WC-ben is, akkor nem itt élné ki magát a barom. Ugye? Mióta ugatom a főnöknek? Mióta ezt ugatom? Jó van, csinálok egy vírusírtást. Jó van, aztán zárd be, lépjél ki admin, aztán gyere dolgozni. Úgyös paraszt, tírpány. Anyát ne f***d meg az apja hátán az ilyen.",
+  "chunks": [
+    {
+      "text": " A TÜRHÖTAPLÓT MÁR MEGIS OSZTOTTÁK!",
+      "start": 25.7,
+      "end": 29.3
+    },
+    {
+      "text": " Megjelölöm sértőnek, majd a takarító nő eltávolítja.",
+      "start": 30.140000000000004,
+      "end": 33.4
+    },
+    {
+      "text": " Látod, ha lenne wifi a WC-ben is, akkor nem itt élné ki magát a barom.",
+      "start": 33.48,
+      "end": 36.86
+    },
+    {
+      "text": " Ugye? Mióta ugatom a főnöknek? Mióta ezt ugatom?",
+      "start": 36.96,
+      "end": 40.14
+    },
+    {
+      "text": " Jó van, csinálok egy vírusírtást.",
+      "start": 40.16,
+      "end": 41.92
+    },
+    {
+      "text": " Jó van, aztán zárd be, lépjél ki admin, aztán gyere dolgozni.",
+      "start": 42.1,
+      "end": 46.3
+    },
+    {
+      "text": " Úgyös paraszt, tírpány.",
+      "start": 47.48,
+      "end": 49.2
+    },
+    {
+      "text": " Anyát ne f***d meg az apja hátán az ilyen.",
+      "start": 50.2,
+      "end": 52.76
+    }
+  ],
+  "processing_time": 0.311690092086792,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

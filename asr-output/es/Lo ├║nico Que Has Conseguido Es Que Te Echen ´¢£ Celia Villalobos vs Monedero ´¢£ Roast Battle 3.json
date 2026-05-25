@@ -1,0 +1,59 @@
+{
+  "audio_file": "Lo único Que Has Conseguido Es Que Te Echen ｜ Celia Villalobos vs Monedero ｜ Roast Battle 3.wav",
+  "full_text": "Juan Carlos, Juan Carlos, anda que llamarte Monedero y formar parte de supuestamente el partido más rojo que las candelas, vaya tela eh. Pues anda que llamarte Villalobos, encargarte de las pensiones, ¿qué pasa? ¿Dando sustitos a los abuelos? Os recomiendo que veáis el programa En la Frontera, aquí de mi amigo Juan Carlos Monedero. Yo fui, te aburres como un mono, es más antiguo que los balcones de madera. La culpa es mía, porque si lo llevo a saber y lo llevo a tener un poquito de memoria, pues te llevo algún jueguecito como en el Parlamento para que te entretengas. Anda que para lo que ha quedado el comunismo en estos momentos. El Stalin, efectivamente, se ha cargado a Hitler. Tú lo único que has conseguido es que te echar a la narosa de su programa. Pues anda que el Partido Popular, el estudiado Pablo Casado, el despierto Mar Gallo, el honesto contable Bárcenas. La rebelde tú. Oye, ¿no te querías venir al proyecto con mi amiga Yolanda Díaz? Pues podíamos incluso hablarlo.",
+  "chunks": [
+    {
+      "text": " Juan Carlos, Juan Carlos, anda que llamarte Monedero y formar parte de supuestamente el partido más rojo que las candelas, vaya tela eh.",
+      "start": 6.940000000000003,
+      "end": 16.42
+    },
+    {
+      "text": " Pues anda que llamarte Villalobos, encargarte de las pensiones, ¿qué pasa? ¿Dando sustitos a los abuelos?",
+      "start": 17.08,
+      "end": 22.3
+    },
+    {
+      "text": " Os recomiendo que veáis el programa En la Frontera, aquí de mi amigo Juan Carlos Monedero.",
+      "start": 23.0,
+      "end": 27.62
+    },
+    {
+      "text": " Yo fui, te aburres como un mono, es más antiguo que los balcones de madera.",
+      "start": 27.62,
+      "end": 31.38
+    },
+    {
+      "text": " La culpa es mía, porque si lo llevo a saber y lo llevo a tener un poquito de memoria, pues te llevo algún jueguecito como en el Parlamento para que te entretengas.",
+      "start": 31.72,
+      "end": 39.28
+    },
+    {
+      "text": " Anda que para lo que ha quedado el comunismo en estos momentos.",
+      "start": 39.98,
+      "end": 42.62
+    },
+    {
+      "text": " El Stalin, efectivamente, se ha cargado a Hitler. Tú lo único que has conseguido es que te echar a la narosa de su programa.",
+      "start": 42.82,
+      "end": 47.88
+    },
+    {
+      "text": " Pues anda que el Partido Popular, el estudiado Pablo Casado, el despierto Mar Gallo, el honesto contable Bárcenas.",
+      "start": 48.44,
+      "end": 55.620000000000005
+    },
+    {
+      "text": " La rebelde tú. Oye, ¿no te querías venir al proyecto con mi amiga Yolanda Díaz?",
+      "start": 57.62,
+      "end": 62.1
+    },
+    {
+      "text": " Pues podíamos incluso hablarlo.",
+      "start": 62.36,
+      "end": 63.9
+    }
+  ],
+  "processing_time": 0.4133946895599365,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,109 @@
+{
+  "audio_file": "Mélygarázs ｜ Kerülőút.wav",
+  "full_text": "3. Stasa Rezéről a Társág Test2 300 méter múlva fordulj jobbra! Fordulj jobbra! Nem értem, hogy miért erre ahoz. A rakparton sokkal rövidebb. Mennyivel? Egy kilométerről, legalább. Hát, hogy ehhez nem? Hát látszik, hogy életében nem taxizott. Hátal is ül a forgalomnak. Menj 300 métert, majd fordulj vissza. És ezt ki fogja kifizetni? Mit? Hát ezt a plusz egy kilométert, ez ki? Fordulj vissza. Hát... arra gondoltam, hogy levonhatjuk a borra valóból. Nem akartam viattat adni. Akkor... akkor egy kilométerrel hamarabb kirakom. Menj tovább 4 kilométert, majd fordulj vissza. Vagy ha odaértünk, visszatolatok. Nem kell beszélgetni. 300 méter múlva hajts fel a kompra.",
+  "chunks": [
+    {
+      "text": " 3. Stasa Rezéről a Társág Test2",
+      "start": 7.000000000000002,
+      "end": 8.28
+    },
+    {
+      "text": " 300 méter múlva fordulj jobbra!",
+      "start": 8.28,
+      "end": 10.62
+    },
+    {
+      "text": " Fordulj jobbra!",
+      "start": 15.0,
+      "end": 15.68
+    },
+    {
+      "text": " Nem értem, hogy miért erre ahoz. A rakparton sokkal rövidebb.",
+      "start": 17.720000000000002,
+      "end": 21.98
+    },
+    {
+      "text": " Mennyivel?",
+      "start": 22.18,
+      "end": 22.76
+    },
+    {
+      "text": " Egy kilométerről, legalább.",
+      "start": 23.22,
+      "end": 24.9
+    },
+    {
+      "text": " Hát, hogy ehhez nem? Hát látszik, hogy életében nem taxizott.",
+      "start": 25.72,
+      "end": 28.52
+    },
+    {
+      "text": " Hátal is ül a forgalomnak.",
+      "start": 30.279999999999998,
+      "end": 32.14
+    },
+    {
+      "text": " Menj 300 métert, majd fordulj vissza.",
+      "start": 33.52,
+      "end": 37.12
+    },
+    {
+      "text": " És ezt ki fogja kifizetni?",
+      "start": 37.98,
+      "end": 39.52
+    },
+    {
+      "text": " Mit?",
+      "start": 39.9,
+      "end": 40.34
+    },
+    {
+      "text": " Hát ezt a plusz egy kilométert, ez ki?",
+      "start": 40.86,
+      "end": 42.58
+    },
+    {
+      "text": " Fordulj vissza.",
+      "start": 43.56,
+      "end": 44.94
+    },
+    {
+      "text": " Hát... arra gondoltam, hogy levonhatjuk a borra valóból.",
+      "start": 45.24,
+      "end": 49.54
+    },
+    {
+      "text": " Nem akartam viattat adni.",
+      "start": 49.58,
+      "end": 50.62
+    },
+    {
+      "text": " Akkor... akkor egy kilométerrel hamarabb kirakom.",
+      "start": 52.739999999999995,
+      "end": 56.34
+    },
+    {
+      "text": " Menj tovább 4 kilométert, majd fordulj vissza.",
+      "start": 56.34,
+      "end": 60.7
+    },
+    {
+      "text": " Vagy ha odaértünk, visszatolatok.",
+      "start": 62.34,
+      "end": 64.34
+    },
+    {
+      "text": " Nem kell beszélgetni.",
+      "start": 66.16,
+      "end": 68.06
+    },
+    {
+      "text": " 300 méter múlva hajts fel a kompra.",
+      "start": 68.9,
+      "end": 72.58
+    }
+  ],
+  "processing_time": 1.4423880577087402,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

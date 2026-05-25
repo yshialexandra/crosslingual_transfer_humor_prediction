@@ -1,0 +1,74 @@
+{
+  "audio_file": "Olyanoknak mint Ti ｜ Amynek Áll a Világ.wav",
+  "full_text": "Az Egyesült Államok első női elnöke, elnökasszony. Pont az első napomon jött meg! Olyan vagyok, mint maguk. Azt hittem mocskos lány, de inkább egy ágytatlan kis barika. Az vagyok. Kövér Émi! Kövér Émi! Beszéljen halkan, megijeszti a vékonyabb velőinket. Bocsánat! Olyan vagyok, mint maguk! Pont olyanoknak, mint ti, Éminek áll a világ. Új évad, szombat éjjel fél egykor a Kamedi-Szentrálon. Róznik T cautious! Bocsánat utazsápat 3- place!",
+  "chunks": [
+    {
+      "text": " Az Egyesült Államok első női elnöke, elnökasszony.",
+      "start": 0.0,
+      "end": 3.62
+    },
+    {
+      "text": " Pont az első napomon jött meg!",
+      "start": 4.720000000000001,
+      "end": 7.16
+    },
+    {
+      "text": " Olyan vagyok, mint maguk.",
+      "start": 7.32,
+      "end": 8.88
+    },
+    {
+      "text": " Azt hittem mocskos lány, de inkább egy ágytatlan kis barika.",
+      "start": 9.08,
+      "end": 12.88
+    },
+    {
+      "text": " Az vagyok.",
+      "start": 13.44,
+      "end": 14.3
+    },
+    {
+      "text": " Kövér Émi! Kövér Émi!",
+      "start": 14.42,
+      "end": 16.7
+    },
+    {
+      "text": " Beszéljen halkan, megijeszti a vékonyabb velőinket.",
+      "start": 16.9,
+      "end": 20.1
+    },
+    {
+      "text": " Bocsánat!",
+      "start": 20.62,
+      "end": 21.24
+    },
+    {
+      "text": " Olyan vagyok, mint maguk!",
+      "start": 21.36,
+      "end": 23.16
+    },
+    {
+      "text": " Pont olyanoknak, mint ti, Éminek áll a világ.",
+      "start": 23.54,
+      "end": 26.84
+    },
+    {
+      "text": " Új évad, szombat éjjel fél egykor a Kamedi-Szentrálon.",
+      "start": 26.94,
+      "end": 29.72
+    },
+    {
+      "text": " Róznik T cautious!",
+      "start": 31.1,
+      "end": 31.18
+    },
+    {
+      "text": " Bocsánat utazsápat 3- place!",
+      "start": 36.28,
+      "end": 36.42
+    }
+  ],
+  "processing_time": 1.8094327449798584,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

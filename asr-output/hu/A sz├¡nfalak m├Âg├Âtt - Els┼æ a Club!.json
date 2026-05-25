@@ -1,0 +1,124 @@
+{
+  "audio_file": "A színfalak mögött - Első a Club!.wav",
+  "full_text": "A KAMPÁNY KONCEPCIÓA A promónak, illetve a kampánynak az eredeti koncepciója az tavaly december környékén született meg, és ilyen februárra öltött végleges formát. Minden egyes forgatás a stand-up-osokkal egy külön történet. Egyszer a Gary Moore koncerten odajött egy kisfiú, és azt mondta, hogy Aranyos Ippeti adjál autogramot. De azt olvastam, hogy maddig volt, hogy Bob Dylan se tudta felkonferálni, mert Joe Dylannek konferálta, vagy Johnnal. A legrosszabb az mindig az, amikor nálam nagyobb, az nem nehéz, hogy valaki nálam nagyobb lenne, de amikor nálam nagyobb, izzadt férfiak hónalja alatt kötött ki, és ők mondják nekem részével, hogy kis Adam, ők is Adam. A stáb egészen remek volt, nagyon feszített tempóban dolgoztunk. Biztos, hogy beírom ezt a munkát a szívünkbe. Ők is viccelődnek, mi is viccelődünk, és akkor így mindenki jól érzi magát. Figyelni kell arra, hogy precízen kidolgozott kellékekkel tudjanak dolgozni a forgatás során. Kap! Gyere már ide! Imádodatok balit! Lángosod kap! Olyan premiérek lesznek a Kennedy Centralon, mint Hadhezi önálló este. Érde megválasztották! Kap önálló este. Este tíz. Dombi önálló este. Nézték otthon haverokkal kocnában, műszerre. Azóta van mit várni. Megmentett ez a közösség. Tudjuk, hogy péntek esteinként újra egyik leszünk. Szóval, Kennedy Club, új részek. Szeptember 18-ától a Kennedy Centralon. Kálljál már a motoromról, a Covidról nem hallottam! Bocs, csak a forgatáshoz kell... A forgatás?",
+  "chunks": [
+    {
+      "text": " A KAMPÁNY KONCEPCIÓA",
+      "start": 15.200000000000001,
+      "end": 15.92
+    },
+    {
+      "text": " A promónak, illetve a kampánynak az eredeti koncepciója az tavaly december környékén született meg,",
+      "start": 15.92,
+      "end": 20.46
+    },
+    {
+      "text": " és ilyen februárra öltött végleges formát.",
+      "start": 20.58,
+      "end": 23.74
+    },
+    {
+      "text": " Minden egyes forgatás a stand-up-osokkal egy külön történet.",
+      "start": 24.6,
+      "end": 28.34
+    },
+    {
+      "text": " Egyszer a Gary Moore koncerten odajött egy kisfiú, és azt mondta, hogy Aranyos Ippeti adjál autogramot.",
+      "start": 28.34,
+      "end": 33.42
+    },
+    {
+      "text": " De azt olvastam, hogy maddig volt, hogy Bob Dylan se tudta felkonferálni, mert Joe Dylannek konferálta, vagy Johnnal.",
+      "start": 33.68,
+      "end": 39.48
+    },
+    {
+      "text": " A legrosszabb az mindig az, amikor nálam nagyobb, az nem nehéz, hogy valaki nálam nagyobb lenne,",
+      "start": 39.5,
+      "end": 43.42
+    },
+    {
+      "text": " de amikor nálam nagyobb, izzadt férfiak hónalja alatt kötött ki, és ők mondják nekem részével, hogy kis Adam, ők is Adam.",
+      "start": 43.44,
+      "end": 50.34
+    },
+    {
+      "text": " A stáb egészen remek volt, nagyon feszített tempóban dolgoztunk.",
+      "start": 58.58,
+      "end": 63.0
+    },
+    {
+      "text": " Biztos, hogy beírom ezt a munkát a szívünkbe.",
+      "start": 64.28,
+      "end": 66.74
+    },
+    {
+      "text": " Ők is viccelődnek, mi is viccelődünk, és akkor így mindenki jól érzi magát.",
+      "start": 67.34,
+      "end": 70.36
+    },
+    {
+      "text": " Figyelni kell arra, hogy precízen kidolgozott kellékekkel tudjanak dolgozni a forgatás során.",
+      "start": 71.88,
+      "end": 77.02
+    },
+    {
+      "text": " Kap! Gyere már ide! Imádodatok balit! Lángosod kap!",
+      "start": 77.62,
+      "end": 82.04
+    },
+    {
+      "text": " Olyan premiérek lesznek a Kennedy Centralon, mint Hadhezi önálló este.",
+      "start": 82.24,
+      "end": 85.84
+    },
+    {
+      "text": " Érde megválasztották! Kap önálló este.",
+      "start": 86.14,
+      "end": 89.28
+    },
+    {
+      "text": " Este tíz. Dombi önálló este.",
+      "start": 89.7,
+      "end": 92.04
+    },
+    {
+      "text": " Nézték otthon haverokkal kocnában, műszerre. Azóta van mit várni.",
+      "start": 92.24,
+      "end": 96.26
+    },
+    {
+      "text": " Megmentett ez a közösség.",
+      "start": 96.88,
+      "end": 98.3
+    },
+    {
+      "text": " Tudjuk, hogy péntek esteinként újra egyik leszünk.",
+      "start": 99.52,
+      "end": 102.26
+    },
+    {
+      "text": " Szóval, Kennedy Club, új részek. Szeptember 18-ától a Kennedy Centralon.",
+      "start": 102.46,
+      "end": 106.68
+    },
+    {
+      "text": " Kálljál már a motoromról, a Covidról nem hallottam!",
+      "start": 106.94,
+      "end": 108.76
+    },
+    {
+      "text": " Bocs, csak a forgatáshoz kell...",
+      "start": 108.78,
+      "end": 110.58
+    },
+    {
+      "text": " A forgatás?",
+      "start": 110.58,
+      "end": 111.86
+    }
+  ],
+  "processing_time": 1.532904863357544,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,1122 @@
+{
+  "audio_file": "Embajador De La Discapacidad ｜ Fernando Romay vs Juan Manuel López Iturriaga ｜ Roast Battle 3.wav",
+  "full_text": " Te voy a decir tres cositas mías, de las cuales solo una es verdad. Me han atracado dos veces y no me peleé ninguna de las dos. Es más, le di la pasta y ya está. En el 2019 fui embajador en el Día de la Discapacidad. Fui modelo de pies en una película de estas de ciencia ficción para monstruos. Voy a quedar con lo del modelo de pies. Exacto, qué bestia, cómo me conoces, es la segunda. Sí, sí. Conocí a mi pareja en una tienda de electrodomésticos. Pedí, o bueno, pedí la mano. Sí, sí, te declaraste. En una tienda de electrodomésticos. Bien. Me enteré de que iba a ser padre en una tienda de electrodomésticos. ¿Cuál de las tres crees que es verdad? ¿Te enteraste de que ibas a ser papá de Miquel en una tienda de electrodomésticos? Que no, que era la primera. ¡La primera! electrodomésticos, que no, que era la primera, la primera.",
+  "chunks": [
+    {
+      "text": " Te",
+      "timestamp": [
+        0.0,
+        4.54
+      ]
+    },
+    {
+      "text": " voy",
+      "timestamp": [
+        4.54,
+        5.22
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        5.22,
+        5.3
+      ]
+    },
+    {
+      "text": " decir",
+      "timestamp": [
+        5.3,
+        5.52
+      ]
+    },
+    {
+      "text": " tres",
+      "timestamp": [
+        5.52,
+        5.8
+      ]
+    },
+    {
+      "text": " cositas",
+      "timestamp": [
+        5.8,
+        6.26
+      ]
+    },
+    {
+      "text": " mías,",
+      "timestamp": [
+        6.26,
+        6.82
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        6.82,
+        7.36
+      ]
+    },
+    {
+      "text": " las",
+      "timestamp": [
+        7.36,
+        7.52
+      ]
+    },
+    {
+      "text": " cuales",
+      "timestamp": [
+        7.52,
+        7.84
+      ]
+    },
+    {
+      "text": " solo",
+      "timestamp": [
+        7.84,
+        8.2
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        8.2,
+        8.48
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        8.48,
+        8.6
+      ]
+    },
+    {
+      "text": " verdad.",
+      "timestamp": [
+        8.6,
+        9.14
+      ]
+    },
+    {
+      "text": " Me",
+      "timestamp": [
+        9.46,
+        9.5
+      ]
+    },
+    {
+      "text": " han",
+      "timestamp": [
+        9.5,
+        9.62
+      ]
+    },
+    {
+      "text": " atracado",
+      "timestamp": [
+        9.62,
+        10.24
+      ]
+    },
+    {
+      "text": " dos",
+      "timestamp": [
+        10.24,
+        10.7
+      ]
+    },
+    {
+      "text": " veces",
+      "timestamp": [
+        10.7,
+        11.18
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        11.18,
+        12.4
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        12.4,
+        12.58
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        12.58,
+        12.82
+      ]
+    },
+    {
+      "text": " peleé",
+      "timestamp": [
+        12.82,
+        13.48
+      ]
+    },
+    {
+      "text": " ninguna",
+      "timestamp": [
+        13.48,
+        13.72
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        13.72,
+        13.96
+      ]
+    },
+    {
+      "text": " las",
+      "timestamp": [
+        13.96,
+        14.12
+      ]
+    },
+    {
+      "text": " dos.",
+      "timestamp": [
+        14.12,
+        14.44
+      ]
+    },
+    {
+      "text": " Es",
+      "timestamp": [
+        14.52,
+        14.6
+      ]
+    },
+    {
+      "text": " más,",
+      "timestamp": [
+        14.6,
+        14.7
+      ]
+    },
+    {
+      "text": " le",
+      "timestamp": [
+        14.7,
+        14.82
+      ]
+    },
+    {
+      "text": " di",
+      "timestamp": [
+        14.82,
+        14.96
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        14.96,
+        15.1
+      ]
+    },
+    {
+      "text": " pasta",
+      "timestamp": [
+        15.1,
+        15.44
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        15.44,
+        15.86
+      ]
+    },
+    {
+      "text": " ya",
+      "timestamp": [
+        15.86,
+        16.1
+      ]
+    },
+    {
+      "text": " está.",
+      "timestamp": [
+        16.1,
+        16.48
+      ]
+    },
+    {
+      "text": " En",
+      "timestamp": [
+        16.8,
+        16.92
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        16.92,
+        17.14
+      ]
+    },
+    {
+      "text": " 2019",
+      "timestamp": [
+        17.14,
+        18.0
+      ]
+    },
+    {
+      "text": " fui",
+      "timestamp": [
+        18.0,
+        19.52
+      ]
+    },
+    {
+      "text": " embajador",
+      "timestamp": [
+        19.52,
+        20.42
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        20.42,
+        20.72
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        20.72,
+        20.82
+      ]
+    },
+    {
+      "text": " Día",
+      "timestamp": [
+        20.82,
+        21.12
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        21.12,
+        21.16
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        21.16,
+        21.3
+      ]
+    },
+    {
+      "text": " Discapacidad.",
+      "timestamp": [
+        21.3,
+        22.22
+      ]
+    },
+    {
+      "text": " Fui",
+      "timestamp": [
+        23.04,
+        23.78
+      ]
+    },
+    {
+      "text": " modelo",
+      "timestamp": [
+        23.78,
+        24.14
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        24.14,
+        24.46
+      ]
+    },
+    {
+      "text": " pies",
+      "timestamp": [
+        24.46,
+        24.74
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        24.74,
+        24.98
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        24.96,
+        25.16
+      ]
+    },
+    {
+      "text": " película",
+      "timestamp": [
+        25.16,
+        25.62
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        25.62,
+        25.86
+      ]
+    },
+    {
+      "text": " estas",
+      "timestamp": [
+        25.86,
+        26.06
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        26.12,
+        26.22
+      ]
+    },
+    {
+      "text": " ciencia",
+      "timestamp": [
+        26.22,
+        26.56
+      ]
+    },
+    {
+      "text": " ficción",
+      "timestamp": [
+        26.56,
+        27.14
+      ]
+    },
+    {
+      "text": " para",
+      "timestamp": [
+        27.14,
+        27.48
+      ]
+    },
+    {
+      "text": " monstruos.",
+      "timestamp": [
+        27.48,
+        28.44
+      ]
+    },
+    {
+      "text": " Voy",
+      "timestamp": [
+        28.44,
+        29.34
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        29.34,
+        29.48
+      ]
+    },
+    {
+      "text": " quedar",
+      "timestamp": [
+        29.48,
+        29.7
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        29.7,
+        29.88
+      ]
+    },
+    {
+      "text": " lo",
+      "timestamp": [
+        29.88,
+        30.0
+      ]
+    },
+    {
+      "text": " del",
+      "timestamp": [
+        30.0,
+        30.16
+      ]
+    },
+    {
+      "text": " modelo",
+      "timestamp": [
+        30.16,
+        30.38
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        30.38,
+        30.62
+      ]
+    },
+    {
+      "text": " pies.",
+      "timestamp": [
+        30.62,
+        31.12
+      ]
+    },
+    {
+      "text": " Exacto,",
+      "timestamp": [
+        31.12,
+        32.2
+      ]
+    },
+    {
+      "text": " qué",
+      "timestamp": [
+        32.32,
+        32.32
+      ]
+    },
+    {
+      "text": " bestia,",
+      "timestamp": [
+        32.32,
+        32.8
+      ]
+    },
+    {
+      "text": " cómo",
+      "timestamp": [
+        32.8,
+        32.94
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        32.94,
+        33.12
+      ]
+    },
+    {
+      "text": " conoces,",
+      "timestamp": [
+        33.12,
+        33.66
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        33.66,
+        33.78
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        33.78,
+        33.88
+      ]
+    },
+    {
+      "text": " segunda.",
+      "timestamp": [
+        33.88,
+        34.6
+      ]
+    },
+    {
+      "text": " Sí,",
+      "timestamp": [
+        34.6,
+        34.9
+      ]
+    },
+    {
+      "text": " sí.",
+      "timestamp": [
+        34.9,
+        35.48
+      ]
+    },
+    {
+      "text": " Conocí",
+      "timestamp": [
+        38.5,
+        39.74
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        39.74,
+        40.1
+      ]
+    },
+    {
+      "text": " mi",
+      "timestamp": [
+        40.1,
+        40.28
+      ]
+    },
+    {
+      "text": " pareja",
+      "timestamp": [
+        40.28,
+        41.02
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        41.02,
+        41.74
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        41.74,
+        41.96
+      ]
+    },
+    {
+      "text": " tienda",
+      "timestamp": [
+        41.96,
+        42.38
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        42.38,
+        42.48
+      ]
+    },
+    {
+      "text": " electrodomésticos.",
+      "timestamp": [
+        42.48,
+        43.5
+      ]
+    },
+    {
+      "text": " Pedí,",
+      "timestamp": [
+        44.22,
+        44.7
+      ]
+    },
+    {
+      "text": " o",
+      "timestamp": [
+        44.7,
+        44.88
+      ]
+    },
+    {
+      "text": " bueno,",
+      "timestamp": [
+        44.88,
+        45.2
+      ]
+    },
+    {
+      "text": " pedí",
+      "timestamp": [
+        45.2,
+        45.5
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        45.5,
+        45.6
+      ]
+    },
+    {
+      "text": " mano.",
+      "timestamp": [
+        45.6,
+        45.96
+      ]
+    },
+    {
+      "text": " Sí,",
+      "timestamp": [
+        46.24,
+        46.54
+      ]
+    },
+    {
+      "text": " sí,",
+      "timestamp": [
+        46.54,
+        46.84
+      ]
+    },
+    {
+      "text": " te",
+      "timestamp": [
+        46.84,
+        47.0
+      ]
+    },
+    {
+      "text": " declaraste.",
+      "timestamp": [
+        47.0,
+        47.94
+      ]
+    },
+    {
+      "text": " En",
+      "timestamp": [
+        48.0,
+        48.08
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        48.08,
+        48.28
+      ]
+    },
+    {
+      "text": " tienda",
+      "timestamp": [
+        48.28,
+        48.64
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        48.64,
+        48.84
+      ]
+    },
+    {
+      "text": " electrodomésticos.",
+      "timestamp": [
+        48.84,
+        49.56
+      ]
+    },
+    {
+      "text": " Bien.",
+      "timestamp": [
+        49.98,
+        50.2
+      ]
+    },
+    {
+      "text": " Me",
+      "timestamp": [
+        50.36,
+        50.38
+      ]
+    },
+    {
+      "text": " enteré",
+      "timestamp": [
+        50.38,
+        50.92
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        50.92,
+        51.42
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        51.42,
+        51.5
+      ]
+    },
+    {
+      "text": " iba",
+      "timestamp": [
+        51.5,
+        51.66
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        51.66,
+        51.72
+      ]
+    },
+    {
+      "text": " ser",
+      "timestamp": [
+        51.72,
+        51.86
+      ]
+    },
+    {
+      "text": " padre",
+      "timestamp": [
+        51.86,
+        52.22
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        52.22,
+        52.72
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        52.72,
+        52.9
+      ]
+    },
+    {
+      "text": " tienda",
+      "timestamp": [
+        52.9,
+        53.14
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        53.14,
+        53.3
+      ]
+    },
+    {
+      "text": " electrodomésticos.",
+      "timestamp": [
+        53.3,
+        54.12
+      ]
+    },
+    {
+      "text": " ¿Cuál",
+      "timestamp": [
+        54.22,
+        54.4
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        54.4,
+        54.52
+      ]
+    },
+    {
+      "text": " las",
+      "timestamp": [
+        54.52,
+        54.62
+      ]
+    },
+    {
+      "text": " tres",
+      "timestamp": [
+        54.62,
+        54.9
+      ]
+    },
+    {
+      "text": " crees",
+      "timestamp": [
+        54.9,
+        55.32
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        55.32,
+        55.38
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        55.38,
+        55.54
+      ]
+    },
+    {
+      "text": " verdad?",
+      "timestamp": [
+        55.54,
+        55.96
+      ]
+    },
+    {
+      "text": " ¿Te",
+      "timestamp": [
+        56.28,
+        56.5
+      ]
+    },
+    {
+      "text": " enteraste",
+      "timestamp": [
+        56.5,
+        57.0
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        57.0,
+        57.2
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        57.2,
+        57.28
+      ]
+    },
+    {
+      "text": " ibas",
+      "timestamp": [
+        57.28,
+        57.52
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        57.52,
+        57.68
+      ]
+    },
+    {
+      "text": " ser",
+      "timestamp": [
+        57.68,
+        57.96
+      ]
+    },
+    {
+      "text": " papá",
+      "timestamp": [
+        57.96,
+        58.4
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        58.4,
+        58.44
+      ]
+    },
+    {
+      "text": " Miquel",
+      "timestamp": [
+        58.44,
+        58.92
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        58.92,
+        59.16
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        59.16,
+        59.42
+      ]
+    },
+    {
+      "text": " tienda",
+      "timestamp": [
+        59.42,
+        59.74
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        59.74,
+        59.92
+      ]
+    },
+    {
+      "text": " electrodomésticos?",
+      "timestamp": [
+        59.92,
+        60.92
+      ]
+    },
+    {
+      "text": " Que",
+      "timestamp": [
+        61.3,
+        61.3
+      ]
+    },
+    {
+      "text": " no,",
+      "timestamp": [
+        61.3,
+        61.72
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        61.72,
+        62.04
+      ]
+    },
+    {
+      "text": " era",
+      "timestamp": [
+        62.04,
+        62.22
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        62.22,
+        62.46
+      ]
+    },
+    {
+      "text": " primera.",
+      "timestamp": [
+        62.46,
+        63.12
+      ]
+    },
+    {
+      "text": " ¡La",
+      "timestamp": [
+        63.12,
+        63.3
+      ]
+    },
+    {
+      "text": " primera!",
+      "timestamp": [
+        63.3,
+        64.04
+      ]
+    },
+    {
+      "text": " electrodomésticos,",
+      "timestamp": [
+        60.0,
+        60.94
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        60.94,
+        61.28
+      ]
+    },
+    {
+      "text": " no,",
+      "timestamp": [
+        61.28,
+        61.76
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        61.76,
+        62.08
+      ]
+    },
+    {
+      "text": " era",
+      "timestamp": [
+        62.08,
+        62.22
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        62.22,
+        62.44
+      ]
+    },
+    {
+      "text": " primera,",
+      "timestamp": [
+        62.44,
+        63.04
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        63.04,
+        63.3
+      ]
+    },
+    {
+      "text": " primera.",
+      "timestamp": [
+        63.3,
+        64.02
+      ]
+    }
+  ],
+  "processing_time": 7923.445235013962,
+  "language": "es",
+  "model_id": "openai/whisper-large-v3"
+}

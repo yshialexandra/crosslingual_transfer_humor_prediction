@@ -1,0 +1,109 @@
+{
+  "audio_file": "A Comedy Central új csatornahangja ｜ Dolmány Attila.wav",
+  "full_text": "Sziasztok! Lengyel Tomi vagyok. A Comedy Central csatorna hangja már több, mint 10 éve. De most úgy érzem ideje más területen kamatoztatni a képességeidet. Mivel a szívemen viselem a csatorna sorsát, ezért úgy döntöttem, segítek kiválasztani az utódomat. És hogy ki lesz az új hang? Na eskubizzátok! Sziasztok! Sziasztok! Sziasztok! Sziasztok! Errülök, hogy eljöttél! Tessék? Itt a színek? Köszönöm! Oké! A karakter életvidám, optimista, de nem jó pofáskodó, tessék! Cartman, te olyan dagat vagy, hogy az űrből is látszol! Szóval kuss a zsíradj! Ennyi? Nem, ez csak az Insta sztorimra lesz. A követőim vádni fogják, tessék itt a rendes feladat! Hagyja csak, jó lesz nekem, hogy mind a kettő. Family Guy! Minden hétköznap este 10... Bocsi, de ezt most tényleg muszáj? Ne haragudj, de minden meghallgatást, te egyzőkönyvek nem kell. De próbálj meg nem erre koncentrálni. Family Guy! Minden hétköznap este 10 órától... Megvárom. Mert? Family Guy! Minden hétköznap este 10 órától... Family Guy! Minden hétköznap este 10 órától... Még egyszer. Family Guy! Minden hétköznap este 10 órától... A kömédi... Készre lehet a szegedet. Bocs, de ezt tényleg nem megy. Jó? Bocs. Hati... Ne, ne hatizzál! Adjál még, Tobi, ez egy balanság! Nem! Hati, ne csináld már! Hati, hát... Hát, eddig te vagy a legjobb, hallod? Hát, egyelőre maradok én a csatornán. Hát, hát, hát, hát...",
+  "chunks": [
+    {
+      "text": " Sziasztok! Lengyel Tomi vagyok. A Comedy Central csatorna hangja már több, mint 10 éve.",
+      "start": 1.0600000000000003,
+      "end": 6.2
+    },
+    {
+      "text": " De most úgy érzem ideje más területen kamatoztatni a képességeidet.",
+      "start": 6.46,
+      "end": 10.3
+    },
+    {
+      "text": " Mivel a szívemen viselem a csatorna sorsát, ezért úgy döntöttem, segítek kiválasztani az utódomat.",
+      "start": 10.82,
+      "end": 17.78
+    },
+    {
+      "text": " És hogy ki lesz az új hang? Na eskubizzátok!",
+      "start": 17.96,
+      "end": 21.02
+    },
+    {
+      "text": " Sziasztok! Sziasztok! Sziasztok! Sziasztok! Errülök, hogy eljöttél! Tessék? Itt a színek? Köszönöm! Oké! A karakter életvidám, optimista, de nem jó pofáskodó, tessék!",
+      "start": 26.979999999999997,
+      "end": 42.26
+    },
+    {
+      "text": " Cartman, te olyan dagat vagy, hogy az űrből is látszol! Szóval kuss a zsíradj!",
+      "start": 45.78,
+      "end": 49.68
+    },
+    {
+      "text": " Ennyi? Nem, ez csak az Insta sztorimra lesz. A követőim vádni fogják, tessék itt a rendes feladat!",
+      "start": 53.28,
+      "end": 60.5
+    },
+    {
+      "text": " Hagyja csak, jó lesz nekem, hogy mind a kettő.",
+      "start": 61.06,
+      "end": 64.32
+    },
+    {
+      "text": " Family Guy! Minden hétköznap este 10...",
+      "start": 69.54,
+      "end": 73.02
+    },
+    {
+      "text": " Bocsi, de ezt most tényleg muszáj? Ne haragudj, de minden meghallgatást, te egyzőkönyvek nem kell.",
+      "start": 73.8,
+      "end": 78.8
+    },
+    {
+      "text": " De próbálj meg nem erre koncentrálni.",
+      "start": 78.8,
+      "end": 80.96
+    },
+    {
+      "text": " Family Guy! Minden hétköznap este 10 órától...",
+      "start": 83.62,
+      "end": 87.08
+    },
+    {
+      "text": " Megvárom.",
+      "start": 91.44,
+      "end": 92.24
+    },
+    {
+      "text": " Mert? Family Guy! Minden hétköznap este 10 órától...",
+      "start": 96.52000000000001,
+      "end": 100.84
+    },
+    {
+      "text": " Family Guy! Minden hétköznap este 10 órától...",
+      "start": 108.96000000000001,
+      "end": 111.94
+    },
+    {
+      "text": " Még egyszer. Family Guy! Minden hétköznap este 10 órától...",
+      "start": 113.96000000000001,
+      "end": 118.64
+    },
+    {
+      "text": " A kömédi... Készre lehet a szegedet. Bocs, de ezt tényleg nem megy. Jó? Bocs.",
+      "start": 118.64,
+      "end": 125.64
+    },
+    {
+      "text": " Hati... Ne, ne hatizzál! Adjál még, Tobi, ez egy balanság!",
+      "start": 125.86,
+      "end": 128.74
+    },
+    {
+      "text": " Nem! Hati, ne csináld már! Hati, hát... Hát, eddig te vagy a legjobb, hallod? Hát, egyelőre maradok én a csatornán.",
+      "start": 128.98,
+      "end": 136.92
+    },
+    {
+      "text": " Hát, hát, hát, hát...",
+      "start": 138.98,
+      "end": 141.0
+    }
+  ],
+  "processing_time": 0.8114681243896484,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

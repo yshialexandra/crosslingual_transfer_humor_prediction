@@ -1,0 +1,184 @@
+{
+  "audio_file": "Mélygarázs ｜ Élettörténet.wav",
+  "full_text": "Kőző, készet és lengés. Külső fűzér? Az. Nagyanyámé volt. Nem nagyanyám, hanem édesapám testvérének, a feleségének az édesanyja. Nagyanyós. Gyerekkoromban nála töltöttem a nyarakat. A csirkét. A saját kezembe. Most képzelheti tíz évesen. Viszont ennek köszönhetem, hogy megismertem a feleségemet. És akkor feltűnt, hogy sokat találkozgat a főnökémmel. És rákérdeztem. És végül ő mondta ki, hogy válni akar. Fél évig voltam utcán. Ha nincsenek a barátaim, sose állok fel. Na és akkor a Timike kezdeményezte, hogy próbáljuk ki az édes négest. A váladékozás az egy hét alatt elműlik, de a szag, a szag viszonyú durva. Takarodj el az életemből, soha többé nem akarlak látni. Ezt mondtam neki. Nincs igazam? Igazam van, nem? Nincs igazam? Maga is ezt mondta volna. Jó, megérkeztünk. 4800 forintot kérek szépen. 3000 alatt szokott lenni. Igen, de most olyan jól elbeszélgettük az időt. Jó volt végre kiönteni a lelkemet egy kicsit. Öltözölöttből, kérek. Köszönöm szépen. Pillanat. Parancsolja. Nagyon köszönöm, tényleg. El se hiszi, hogy nekem mennyit jelent egy ilyen. Bocsánat, szabad? A csirkét. Puszta kézzel. Mégis képzelheti.",
+  "chunks": [
+    {
+      "text": " Kőző, készet és lengés.",
+      "start": 0.0,
+      "end": 4.68
+    },
+    {
+      "text": " Külső fűzér?",
+      "start": 7.0,
+      "end": 7.78
+    },
+    {
+      "text": " Az. Nagyanyámé volt.",
+      "start": 8.22,
+      "end": 11.02
+    },
+    {
+      "text": " Nem nagyanyám, hanem édesapám testvérének,",
+      "start": 11.72,
+      "end": 15.18
+    },
+    {
+      "text": " a feleségének az édesanyja. Nagyanyós.",
+      "start": 15.32,
+      "end": 17.86
+    },
+    {
+      "text": " Gyerekkoromban nála töltöttem a nyarakat.",
+      "start": 18.66,
+      "end": 20.92
+    },
+    {
+      "text": " A csirkét. A saját kezembe.",
+      "start": 22.0,
+      "end": 25.0
+    },
+    {
+      "text": " Most képzelheti tíz évesen.",
+      "start": 25.54,
+      "end": 27.52
+    },
+    {
+      "text": " Viszont ennek köszönhetem, hogy megismertem a feleségemet.",
+      "start": 28.419999999999998,
+      "end": 31.36
+    },
+    {
+      "text": " És akkor feltűnt, hogy sokat találkozgat a főnökémmel.",
+      "start": 31.58,
+      "end": 35.24
+    },
+    {
+      "text": " És rákérdeztem.",
+      "start": 36.279999999999994,
+      "end": 37.48
+    },
+    {
+      "text": " És végül ő mondta ki, hogy válni akar.",
+      "start": 38.48,
+      "end": 40.96
+    },
+    {
+      "text": " Fél évig voltam utcán.",
+      "start": 41.22,
+      "end": 42.62
+    },
+    {
+      "text": " Ha nincsenek a barátaim, sose állok fel.",
+      "start": 43.54,
+      "end": 47.04
+    },
+    {
+      "text": " Na és akkor a Timike kezdeményezte, hogy próbáljuk ki az édes négest.",
+      "start": 47.46,
+      "end": 50.4
+    },
+    {
+      "text": " A váladékozás az egy hét alatt elműlik, de a szag, a szag viszonyú durva.",
+      "start": 50.4,
+      "end": 57.66
+    },
+    {
+      "text": " Takarodj el az életemből, soha többé nem akarlak látni.",
+      "start": 58.04,
+      "end": 61.0
+    },
+    {
+      "text": " Ezt mondtam neki.",
+      "start": 61.14,
+      "end": 62.04
+    },
+    {
+      "text": " Nincs igazam? Igazam van, nem? Nincs igazam?",
+      "start": 62.34,
+      "end": 64.88
+    },
+    {
+      "text": " Maga is ezt mondta volna.",
+      "start": 65.2,
+      "end": 66.62
+    },
+    {
+      "text": " Jó, megérkeztünk.",
+      "start": 68.88000000000001,
+      "end": 70.08
+    },
+    {
+      "text": " 4800 forintot kérek szépen.",
+      "start": 72.12,
+      "end": 73.72
+    },
+    {
+      "text": " 3000 alatt szokott lenni.",
+      "start": 74.46000000000001,
+      "end": 75.98
+    },
+    {
+      "text": " Igen, de most olyan jól elbeszélgettük az időt.",
+      "start": 76.52,
+      "end": 79.9
+    },
+    {
+      "text": " Jó volt végre kiönteni a lelkemet egy kicsit.",
+      "start": 79.9,
+      "end": 82.64
+    },
+    {
+      "text": " Öltözölöttből, kérek.",
+      "start": 87.1,
+      "end": 88.1
+    },
+    {
+      "text": " Köszönöm szépen.",
+      "start": 89.02,
+      "end": 89.92
+    },
+    {
+      "text": " Pillanat.",
+      "start": 90.58,
+      "end": 91.06
+    },
+    {
+      "text": " Parancsolja.",
+      "start": 95.54,
+      "end": 96.26
+    },
+    {
+      "text": " Nagyon köszönöm, tényleg.",
+      "start": 96.96,
+      "end": 98.44
+    },
+    {
+      "text": " El se hiszi, hogy nekem mennyit jelent egy ilyen.",
+      "start": 98.72,
+      "end": 100.82
+    },
+    {
+      "text": " Bocsánat, szabad?",
+      "start": 102.68,
+      "end": 103.68
+    },
+    {
+      "text": " A csirkét.",
+      "start": 104.98,
+      "end": 106.28
+    },
+    {
+      "text": " Puszta kézzel.",
+      "start": 106.98,
+      "end": 108.18
+    },
+    {
+      "text": " Mégis képzelheti.",
+      "start": 108.18,
+      "end": 109.92
+    }
+  ],
+  "processing_time": 1.6658422946929932,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

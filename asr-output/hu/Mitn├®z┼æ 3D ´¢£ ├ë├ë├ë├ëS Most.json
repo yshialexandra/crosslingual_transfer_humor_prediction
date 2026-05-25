@@ -1,0 +1,64 @@
+{
+  "audio_file": "Mitnéző 3D ｜ ÉÉÉÉS Most.wav",
+  "full_text": "Nem mozdulsz ki a lakásból, de szeretnéd levezetni a feszültséget? Mások szerint jó nagy paraszt vagy, de nem a mezőgazdasági értelemben. Nincs otthon komondorod? Akkor ezt a játékkonzolt? Neked találtuk ki! Itt a Mitnéző 3D. A legjobb szórakozás rusta, de rossz szimbolatú embereknek. A kifejezetten hazai piacra fejlesztett Mitnéző 3D-vel minden nap jól végződik majd, és nem kell vesződni a felesleges rendőri papírmunkával. A Mitnéző forradalmi mozgás érzékelős játékait az egész család élvezhető. Osz igazságot otthonról! Így áll, kiabálj, és érd ki a mindennapok feszültségét, mert megérdemled! Mitnéző 3D. Mert attól, hogy otthon ülsz, még lehetsz igazit a hó.",
+  "chunks": [
+    {
+      "text": " Nem mozdulsz ki a lakásból, de szeretnéd levezetni a feszültséget?",
+      "start": 1.4600000000000022,
+      "end": 5.4
+    },
+    {
+      "text": " Mások szerint jó nagy paraszt vagy, de nem a mezőgazdasági értelemben.",
+      "start": 5.68,
+      "end": 9.46
+    },
+    {
+      "text": " Nincs otthon komondorod?",
+      "start": 10.06,
+      "end": 11.64
+    },
+    {
+      "text": " Akkor ezt a játékkonzolt? Neked találtuk ki!",
+      "start": 12.26,
+      "end": 15.58
+    },
+    {
+      "text": " Itt a Mitnéző 3D. A legjobb szórakozás rusta, de rossz szimbolatú embereknek.",
+      "start": 16.96,
+      "end": 22.38
+    },
+    {
+      "text": " A kifejezetten hazai piacra fejlesztett Mitnéző 3D-vel minden nap jól végződik majd,",
+      "start": 23.76,
+      "end": 30.16
+    },
+    {
+      "text": " és nem kell vesződni a felesleges rendőri papírmunkával.",
+      "start": 30.26,
+      "end": 33.74
+    },
+    {
+      "text": " A Mitnéző forradalmi mozgás érzékelős játékait az egész család élvezhető.",
+      "start": 36.14,
+      "end": 41.14
+    },
+    {
+      "text": " Osz igazságot otthonról!",
+      "start": 43.08,
+      "end": 45.92
+    },
+    {
+      "text": " Így áll, kiabálj, és érd ki a mindennapok feszültségét, mert megérdemled!",
+      "start": 46.14,
+      "end": 51.46
+    },
+    {
+      "text": " Mitnéző 3D. Mert attól, hogy otthon ülsz, még lehetsz igazit a hó.",
+      "start": 54.160000000000004,
+      "end": 59.1
+    }
+  ],
+  "processing_time": 0.4167945384979248,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

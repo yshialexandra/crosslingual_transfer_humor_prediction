@@ -1,0 +1,74 @@
+{
+  "audio_file": "Family Guy - új évad - Comedy Central.wav",
+  "full_text": "Hát itt van. A gyó órák óta kereslek. Csak semmi pánik. Itt az új Family Guy. Hol vagyok? És velük? Peter, mit történt? Minden. Elhányom magam. Elviselhetőbb. Family Guy. Új évad premier jövő hétfőn este tízkor. Dupla részekkel a comedicentrálon.",
+  "chunks": [
+    {
+      "text": " Hát itt van.",
+      "start": 1.139999999999999,
+      "end": 2.1
+    },
+    {
+      "text": " A gyó órák óta kereslek.",
+      "start": 2.22,
+      "end": 3.54
+    },
+    {
+      "text": " Csak semmi pánik.",
+      "start": 3.68,
+      "end": 4.74
+    },
+    {
+      "text": " Itt az új Family Guy.",
+      "start": 6.04,
+      "end": 7.44
+    },
+    {
+      "text": " Hol vagyok?",
+      "start": 8.619999999999997,
+      "end": 9.7
+    },
+    {
+      "text": " És velük?",
+      "start": 9.96,
+      "end": 10.64
+    },
+    {
+      "text": " Peter, mit történt?",
+      "start": 10.72,
+      "end": 11.94
+    },
+    {
+      "text": " Minden.",
+      "start": 12.12,
+      "end": 12.56
+    },
+    {
+      "text": " Elhányom magam.",
+      "start": 13.18,
+      "end": 14.06
+    },
+    {
+      "text": " Elviselhetőbb.",
+      "start": 14.62,
+      "end": 15.16
+    },
+    {
+      "text": " Family Guy.",
+      "start": 15.24,
+      "end": 25.56
+    },
+    {
+      "text": " Új évad premier jövő hétfőn este tízkor.",
+      "start": 25.74,
+      "end": 27.96
+    },
+    {
+      "text": " Dupla részekkel a comedicentrálon.",
+      "start": 28.1,
+      "end": 29.88
+    }
+  ],
+  "processing_time": 1.6713612079620361,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

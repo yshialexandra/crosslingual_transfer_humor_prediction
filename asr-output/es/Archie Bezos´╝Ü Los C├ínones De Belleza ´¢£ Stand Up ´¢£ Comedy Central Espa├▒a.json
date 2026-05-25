@@ -1,0 +1,319 @@
+{
+  "audio_file": "Archie Bezos： Los Cánones De Belleza ｜ Stand Up ｜ Comedy Central España.wav",
+  "full_text": "Buena nit Barcelona! ¿Cómo esté? ¡Bien! ¡Eh! Así me gusta, claro que sí. Eso es todo lo que sea decir en catalán. Bueno, este es mi segundo monólogo que grabo en Comedy Central y desde que emitieron el primero y hace algunos años, no ha pasado un solo día sin que me lo haya puesto en vídeo. Sí, porque me gusta recordar tiempos mejores. No, a ver, era una época en la que apenas había crisis, no sabíamos absolutamente nada de la corrupción y lo más importante, yo estaba flaco. Sí, esta mañana me miró al espejo y he dicho, ¿pero qué está pasando? ¿De cuándo he dejado de ser un bombón para ser la bombona? A ver, porque tampoco estoy tan gordo, ¿no? ¡Ah! ¡Gracias, público manipulable! Pero es que vivimos en un mundo en el que los cánones de belleza son tan estrictos que hacen que se sienta gorda hasta la mismísima novia cadáver. Y ya que hablamos de doña Leticia, me... Me jode que se sienta mal consigo mismo una tía que lo tiene todo. Pasta, poder, a la suegra viviendo en Grecia, ¿sabes? Oye, que no os parece la manera como más ideal de deshaceros de una suegra dominante en plan de vete con tu gente. Sí, porque además dicen que a Sofía nunca le cayó bien Leticia. Digo, toma normal que una misma mujer te quite el hijo, la casa y el curro, ¿sabes? Que es como menos mal que has acabado en casa Borbón y no en casa de los Lannister. Sí, además yo creo que Sofía le habrá dado consejos de reina a Leticia en plan de camina recta y no te rasques en público. Y no mires a los ojos al rey de Gambia que te cargas el negocio de armas del abuelo. Sí, amigos... No, pero volviendo al tema inicial, yo creo que esto del peso ideal es como un problema, ¿no? Porque en cuanto estás un poquito por debajo la peña es como, ay, está anoréxico. Y en cuanto estás como 100 gramos por encima es como, ay, está María Carey. Terelu Campos para los de pueblo. Ahora hay un fenómeno nuevo, no sé si lo habéis escuchado alguna vez, las gordibuenas. Bueno, pues es una gordita que está buena. Aunque a mí me suena más como a plato típico de pueblo, ¿no? Pues mi madre hace unas gordibuenas... Sí, porque en realidad las gordibuenas son un poco como las salchipapas, ¿no? Que... Sí, que tú sabes que no es un plato de lo más elegante, pero oye, un sábado a las cuatro de la mañana, ¿no? Como que el cuerpo pide grasa. ¿Y qué se han inventado para los tíos? Fofisanos. ¡Para humillarnos, fofisanos! Que a mí eso me suena más como a programa para niños, ¿no? ¡Los fofisanos de la tele! ¡Hola, don Pepito de ternera! ¿Quién se inventa estas cosas? Yo creo que un día se juntaron como los creativos de la publicidad en una sesión de estas de brainstorming y llegó el jefe y dijo, señores, la situación es grave. Gordo de mierda no vende. Y tenemos este excedente de ponchos. Ideas. Y empezaron los creativos... Gordo. No, demasiado trillado. Obeso. Uf, muy agresivo. Fofisano. Y para ellas... Gordibuenas. ¿Y qué hacemos para que no se sientan mal consigo mismos y consuman más? Les creamos un partido político. ¡Comemos! Su lema... ¡Abajo el régimen! Y a un mes. Y a un mes. ¡Abajo un mes. ... Gracias por ver el video.",
+  "chunks": [
+    {
+      "text": " Buena nit Barcelona! ¿Cómo esté?",
+      "start": 1.459999999999999,
+      "end": 4.02
+    },
+    {
+      "text": " ¡Bien! ¡Eh! Así me gusta, claro que sí. Eso es todo lo que sea decir en catalán.",
+      "start": 4.719999999999999,
+      "end": 9.54
+    },
+    {
+      "text": " Bueno, este es mi segundo monólogo que grabo en Comedy Central y desde que emitieron el primero y hace algunos años,",
+      "start": 11.06,
+      "end": 17.06
+    },
+    {
+      "text": " no ha pasado un solo día sin que me lo haya puesto en vídeo.",
+      "start": 17.22,
+      "end": 20.04
+    },
+    {
+      "text": " Sí, porque me gusta recordar tiempos mejores.",
+      "start": 22.6,
+      "end": 24.84
+    },
+    {
+      "text": " No, a ver, era una época en la que apenas había crisis, no sabíamos absolutamente nada de la corrupción y lo más importante, yo estaba flaco.",
+      "start": 25.48,
+      "end": 32.38
+    },
+    {
+      "text": " Sí, esta mañana me miró al espejo y he dicho, ¿pero qué está pasando?",
+      "start": 34.52,
+      "end": 37.34
+    },
+    {
+      "text": " ¿De cuándo he dejado de ser un bombón para ser la bombona?",
+      "start": 37.92,
+      "end": 40.66
+    },
+    {
+      "text": " A ver, porque tampoco estoy tan gordo, ¿no?",
+      "start": 49.06,
+      "end": 51.58
+    },
+    {
+      "text": " ¡Ah! ¡Gracias, público manipulable!",
+      "start": 52.8,
+      "end": 56.36
+    },
+    {
+      "text": " Pero es que vivimos en un mundo en el que los cánones de belleza son tan estrictos que hacen que se sienta gorda hasta la mismísima novia cadáver.",
+      "start": 56.62,
+      "end": 64.78
+    },
+    {
+      "text": " Y ya que hablamos de doña Leticia, me...",
+      "start": 65.06,
+      "end": 67.24
+    },
+    {
+      "text": " Me jode que se sienta mal consigo mismo una tía que lo tiene todo.",
+      "start": 74.02,
+      "end": 77.38
+    },
+    {
+      "text": " Pasta, poder, a la suegra viviendo en Grecia, ¿sabes?",
+      "start": 77.9,
+      "end": 80.54
+    },
+    {
+      "text": " Oye, que no os parece la manera como más ideal de deshaceros de una suegra dominante en plan de vete con tu gente.",
+      "start": 81.32000000000001,
+      "end": 85.74
+    },
+    {
+      "text": " Sí, porque además dicen que a Sofía nunca le cayó bien Leticia.",
+      "start": 86.76,
+      "end": 90.34
+    },
+    {
+      "text": " Digo, toma normal que una misma mujer te quite el hijo, la casa y el curro, ¿sabes?",
+      "start": 90.56,
+      "end": 95.2
+    },
+    {
+      "text": " Que es como menos mal que has acabado en casa Borbón y no en casa de los Lannister.",
+      "start": 95.96,
+      "end": 99.76
+    },
+    {
+      "text": " Sí, además yo creo que Sofía le habrá dado consejos de reina a Leticia en plan de camina recta y no te rasques en público.",
+      "start": 101.68,
+      "end": 109.1
+    },
+    {
+      "text": " Y no mires a los ojos al rey de Gambia que te cargas el negocio de armas del abuelo.",
+      "start": 109.4,
+      "end": 113.92
+    },
+    {
+      "text": " Sí, amigos...",
+      "start": 116.06,
+      "end": 116.78
+    },
+    {
+      "text": " No, pero volviendo al tema inicial, yo creo que esto del peso ideal es como un problema, ¿no?",
+      "start": 116.78,
+      "end": 121.9
+    },
+    {
+      "text": " Porque en cuanto estás un poquito por debajo la peña es como, ay, está anoréxico.",
+      "start": 122.02,
+      "end": 125.3
+    },
+    {
+      "text": " Y en cuanto estás como 100 gramos por encima es como, ay, está María Carey.",
+      "start": 125.62,
+      "end": 128.76
+    },
+    {
+      "text": " Terelu Campos para los de pueblo.",
+      "start": 131.38000000000002,
+      "end": 132.86
+    },
+    {
+      "text": " Ahora hay un fenómeno nuevo, no sé si lo habéis escuchado alguna vez, las gordibuenas.",
+      "start": 136.1,
+      "end": 140.08
+    },
+    {
+      "text": " Bueno, pues es una gordita que está buena.",
+      "start": 141.24,
+      "end": 142.7
+    },
+    {
+      "text": " Aunque a mí me suena más como a plato típico de pueblo, ¿no?",
+      "start": 144.08,
+      "end": 146.42
+    },
+    {
+      "text": " Pues mi madre hace unas gordibuenas...",
+      "start": 146.52,
+      "end": 149.22
+    },
+    {
+      "text": " Sí, porque en realidad las gordibuenas son un poco como las salchipapas, ¿no?",
+      "start": 149.22,
+      "end": 153.28
+    },
+    {
+      "text": " Que...",
+      "start": 153.28,
+      "end": 153.78
+    },
+    {
+      "text": " Sí, que tú sabes que no es un plato de lo más elegante, pero oye, un sábado a las cuatro de la mañana, ¿no?",
+      "start": 154.58,
+      "end": 158.84
+    },
+    {
+      "text": " Como que el cuerpo pide grasa.",
+      "start": 158.92,
+      "end": 160.64
+    },
+    {
+      "text": " ¿Y qué se han inventado para los tíos? Fofisanos.",
+      "start": 162.6,
+      "end": 165.46
+    },
+    {
+      "text": " ¡Para humillarnos, fofisanos!",
+      "start": 165.68,
+      "end": 167.42
+    },
+    {
+      "text": " Que a mí eso me suena más como a programa para niños, ¿no?",
+      "start": 167.42,
+      "end": 170.32
+    },
+    {
+      "text": " ¡Los fofisanos de la tele!",
+      "start": 170.38,
+      "end": 171.94
+    },
+    {
+      "text": " ¡Hola, don Pepito de ternera!",
+      "start": 172.36,
+      "end": 174.86
+    },
+    {
+      "text": " ¿Quién se inventa estas cosas?",
+      "start": 177.56,
+      "end": 179.3
+    },
+    {
+      "text": " Yo creo que un día se juntaron como los creativos de la publicidad en una sesión de estas de brainstorming",
+      "start": 179.72,
+      "end": 185.34
+    },
+    {
+      "text": " y llegó el jefe y dijo, señores, la situación es grave.",
+      "start": 185.86,
+      "end": 190.16
+    },
+    {
+      "text": " Gordo de mierda no vende.",
+      "start": 190.8,
+      "end": 192.48
+    },
+    {
+      "text": " Y tenemos este excedente de ponchos.",
+      "start": 194.0,
+      "end": 196.48
+    },
+    {
+      "text": " Ideas.",
+      "start": 197.82,
+      "end": 198.42
+    },
+    {
+      "text": " Y empezaron los creativos...",
+      "start": 198.52,
+      "end": 199.54
+    },
+    {
+      "text": " Gordo.",
+      "start": 199.54,
+      "end": 200.64
+    },
+    {
+      "text": " No, demasiado trillado.",
+      "start": 200.82,
+      "end": 201.9
+    },
+    {
+      "text": " Obeso.",
+      "start": 202.42,
+      "end": 203.02
+    },
+    {
+      "text": " Uf, muy agresivo.",
+      "start": 203.2,
+      "end": 204.12
+    },
+    {
+      "text": " Fofisano.",
+      "start": 204.92,
+      "end": 205.5
+    },
+    {
+      "text": " Y para ellas...",
+      "start": 205.7,
+      "end": 206.62
+    },
+    {
+      "text": " Gordibuenas.",
+      "start": 206.62,
+      "end": 207.12
+    },
+    {
+      "text": " ¿Y qué hacemos para que no se sientan mal consigo mismos y consuman más?",
+      "start": 207.92,
+      "end": 211.44
+    },
+    {
+      "text": " Les creamos un partido político.",
+      "start": 212.44,
+      "end": 214.3
+    },
+    {
+      "text": " ¡Comemos!",
+      "start": 214.66,
+      "end": 215.24
+    },
+    {
+      "text": " Su lema...",
+      "start": 218.04,
+      "end": 219.16
+    },
+    {
+      "text": " ¡Abajo el régimen!",
+      "start": 219.16,
+      "end": 220.22
+    },
+    {
+      "text": " Y a un mes.",
+      "start": 234.17999999999998,
+      "end": 235.24
+    },
+    {
+      "text": " Y a un mes.",
+      "start": 235.46,
+      "end": 235.56
+    },
+    {
+      "text": " ¡Abajo un mes.",
+      "start": 235.78,
+      "end": 236.08
+    },
+    {
+      "text": " ...",
+      "start": 236.08,
+      "end": 236.18
+    },
+    {
+      "text": " Gracias por ver el video.",
+      "start": 236.18,
+      "end": 242.44
+    }
+  ],
+  "processing_time": 1.8522169589996338,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

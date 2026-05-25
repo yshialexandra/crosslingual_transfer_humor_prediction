@@ -1,0 +1,269 @@
+{
+  "audio_file": "A Comedy Central új csatornahangja ｜ Kovács András Péter.wav",
+  "full_text": "Sziasztok! Lengyel Tomi vagyok. A Comedy Central csatorna hangja már több, mint 10 éve. De most úgy érzem ideje más területen kamatoztatni a képességeimet. Mivel a szívemen viselem a csatorna sorsát, ezért úgy döntöttem, segítek kiválasztani az utódomat. És hogy ki lesz az új hang? Na eskubizzátok! Sziasztok! Hello! Kezicsokom! Szavaz Tomi! Örülök, hogy eljöttél! Na hát én örülök, hogy hívtatok. Hello, hello, hello! Na, deved urantottatok! Miért van itt ilyen meleg? Gond van a fűtéssel. De csak ebbe a szobába? Nyugodtan dobd le a kabátodat! Muszáj, lesz, ne haragudjatok! Itt a szöveg, a karakter a következő, egy esküvén vagy, te vagy a férj tanúja, ez pedig a beszéd. Értem. Ezt nem lehetne egy kicsit odé vinni? Nem akarjuk, hogy megfáz. Nyugodtan dob le a pulcsidat. Ezt nem lehet megmaradni. Ti nem sűríted meg? Miért ez egy hangkasting? Nem gáz, hogyha nincsen rajtad. Póló. Na. De ezen nincsen semmi. Beszélesz bármiről. A lényeg, hogy maradjál karakterben. És mi lenne, ha ledobnád a pólódat? Miért doblom le? Ez egy hangkasting? Ne legyél már ilyen szemérmes. És miért van ennyi kamera? Azért, mert vizuális jegyzőkönyvet kell készítenünk. Ez a jogi előírás. Ja? És dob le a pólót. Nem dobom le a pólómat, gyerekek. De miért nem? Nem fog itt félpucéra márcsolódni. Összeesté vagy? Nem estem össze, csak engem szeret az országban. Nem voltál Szoliban? Most mondtad, hogy ez egy hangkasting. Miért akarod, hogy... Ne feszengélj már. Na, lazán, dob le a pólóra. Nem veszem le a pólómat. De, de nem veszem le. De vedd le. Miért venném le? Normális vagy? Nem vagy megtrimmelve? Nem vagyok megtrimmelve. Összeestél? Nem, mint egy ország felépítettem valamit, nem fogom azzal lerombolni, hogy egy hangkastingon pucérkodol. Vedd már le. Nem veszem le a pólómat. És mit feszelk? Vivike? Vivi, mennyi, segíts nekik. Nem emelet fel a kezemet, és hangkastingon... Dob le a pólóra. Nem veszem le a pólóra. De nem vedd. Érsz már, meg, hogy nem veszem. Vivike, nagyon szépen kell. Hagyja már békét. Vedd már le. Nem veszem, és ezt ráadásul föl is veszítek. Komedicentre. Gondolhattam volna. Nagyon vicces. Andrés, hát ne csináld már! Mély nyomóban ment a flex, nem így van, kérni se kellett! Hát úgy tűnik, hogy egyelőre maradok én a csatornahang.",
+  "chunks": [
+    {
+      "text": " Sziasztok! Lengyel Tomi vagyok. A Comedy Central csatorna hangja már több, mint 10 éve.",
+      "start": 1.0599999999999985,
+      "end": 6.2
+    },
+    {
+      "text": " De most úgy érzem ideje más területen kamatoztatni a képességeimet.",
+      "start": 6.44,
+      "end": 10.32
+    },
+    {
+      "text": " Mivel a szívemen viselem a csatorna sorsát, ezért úgy döntöttem, segítek kiválasztani az utódomat.",
+      "start": 10.82,
+      "end": 17.78
+    },
+    {
+      "text": " És hogy ki lesz az új hang? Na eskubizzátok!",
+      "start": 17.98,
+      "end": 21.02
+    },
+    {
+      "text": " Sziasztok! Hello! Kezicsokom! Szavaz Tomi! Örülök, hogy eljöttél!",
+      "start": 28.62,
+      "end": 32.92
+    },
+    {
+      "text": " Na hát én örülök, hogy hívtatok. Hello, hello, hello! Na, deved urantottatok! Miért van itt ilyen meleg?",
+      "start": 32.98,
+      "end": 38.64
+    },
+    {
+      "text": " Gond van a fűtéssel. De csak ebbe a szobába?",
+      "start": 38.7,
+      "end": 41.56
+    },
+    {
+      "text": " Nyugodtan dobd le a kabátodat! Muszáj, lesz, ne haragudjatok!",
+      "start": 42.52,
+      "end": 45.44
+    },
+    {
+      "text": " Itt a szöveg, a karakter a következő, egy esküvén vagy, te vagy a férj tanúja, ez pedig a beszéd.",
+      "start": 45.44,
+      "end": 51.46
+    },
+    {
+      "text": " Értem.",
+      "start": 52.120000000000005,
+      "end": 52.64
+    },
+    {
+      "text": " Ezt nem lehetne egy kicsit odé vinni?",
+      "start": 56.74,
+      "end": 58.42
+    },
+    {
+      "text": " Nem akarjuk, hogy megfáz. Nyugodtan dob le a pulcsidat.",
+      "start": 58.56,
+      "end": 61.44
+    },
+    {
+      "text": " Ezt nem lehet megmaradni. Ti nem sűríted meg?",
+      "start": 62.62,
+      "end": 65.78
+    },
+    {
+      "text": " Miért ez egy hangkasting? Nem gáz, hogyha nincsen rajtad. Póló.",
+      "start": 66.1,
+      "end": 71.44
+    },
+    {
+      "text": " Na. De ezen nincsen semmi.",
+      "start": 73.88,
+      "end": 79.5
+    },
+    {
+      "text": " Beszélesz bármiről. A lényeg, hogy maradjál karakterben.",
+      "start": 80.0,
+      "end": 82.48
+    },
+    {
+      "text": " És mi lenne, ha ledobnád a pólódat?",
+      "start": 82.72,
+      "end": 84.52
+    },
+    {
+      "text": " Miért doblom le? Ez egy hangkasting?",
+      "start": 85.62,
+      "end": 87.3
+    },
+    {
+      "text": " Ne legyél már ilyen szemérmes.",
+      "start": 87.92,
+      "end": 89.34
+    },
+    {
+      "text": " És miért van ennyi kamera?",
+      "start": 89.52,
+      "end": 91.66
+    },
+    {
+      "text": " Azért, mert vizuális jegyzőkönyvet kell készítenünk. Ez a jogi előírás.",
+      "start": 91.96,
+      "end": 96.64
+    },
+    {
+      "text": " Ja? És dob le a pólót.",
+      "start": 96.64,
+      "end": 98.3
+    },
+    {
+      "text": " Nem dobom le a pólómat, gyerekek.",
+      "start": 99.28,
+      "end": 101.24
+    },
+    {
+      "text": " De miért nem?",
+      "start": 101.42,
+      "end": 101.88
+    },
+    {
+      "text": " Nem fog itt félpucéra márcsolódni.",
+      "start": 101.96,
+      "end": 103.48
+    },
+    {
+      "text": " Összeesté vagy?",
+      "start": 103.48,
+      "end": 103.7
+    },
+    {
+      "text": " Nem estem össze, csak engem szeret az országban.",
+      "start": 103.94,
+      "end": 106.08
+    },
+    {
+      "text": " Nem voltál Szoliban?",
+      "start": 106.1,
+      "end": 106.88
+    },
+    {
+      "text": " Most mondtad, hogy ez egy hangkasting. Miért akarod, hogy...",
+      "start": 107.0,
+      "end": 109.1
+    },
+    {
+      "text": " Ne feszengélj már. Na, lazán, dob le a pólóra.",
+      "start": 109.1,
+      "end": 111.62
+    },
+    {
+      "text": " Nem veszem le a pólómat.",
+      "start": 111.68,
+      "end": 113.14
+    },
+    {
+      "text": " De, de nem veszem le.",
+      "start": 113.36,
+      "end": 114.18
+    },
+    {
+      "text": " De vedd le.",
+      "start": 114.24,
+      "end": 114.54
+    },
+    {
+      "text": " Miért venném le? Normális vagy?",
+      "start": 114.62,
+      "end": 116.22
+    },
+    {
+      "text": " Nem vagy megtrimmelve?",
+      "start": 116.34,
+      "end": 116.64
+    },
+    {
+      "text": " Nem vagyok megtrimmelve.",
+      "start": 117.3,
+      "end": 118.52
+    },
+    {
+      "text": " Összeestél?",
+      "start": 119.72,
+      "end": 120.04
+    },
+    {
+      "text": " Nem, mint egy ország felépítettem valamit, nem fogom azzal lerombolni, hogy egy hangkastingon pucérkodol.",
+      "start": 120.04,
+      "end": 124.36
+    },
+    {
+      "text": " Vedd már le.",
+      "start": 124.4,
+      "end": 125.06
+    },
+    {
+      "text": " Nem veszem le a pólómat.",
+      "start": 125.16,
+      "end": 126.06
+    },
+    {
+      "text": " És mit feszelk? Vivike? Vivi, mennyi, segíts nekik.",
+      "start": 126.08,
+      "end": 128.6
+    },
+    {
+      "text": " Nem emelet fel a kezemet, és hangkastingon...",
+      "start": 128.6,
+      "end": 132.1
+    },
+    {
+      "text": " Dob le a pólóra.",
+      "start": 132.1,
+      "end": 133.16
+    },
+    {
+      "text": " Nem veszem le a pólóra.",
+      "start": 133.4,
+      "end": 134.04
+    },
+    {
+      "text": " De nem vedd.",
+      "start": 134.16,
+      "end": 134.82
+    },
+    {
+      "text": " Érsz már, meg, hogy nem veszem. Vivike, nagyon szépen kell. Hagyja már békét.",
+      "start": 134.84,
+      "end": 138.08
+    },
+    {
+      "text": " Vedd már le.",
+      "start": 138.1,
+      "end": 138.68
+    },
+    {
+      "text": " Nem veszem, és ezt ráadásul föl is veszítek. Komedicentre. Gondolhattam volna.",
+      "start": 138.7,
+      "end": 142.04
+    },
+    {
+      "text": " Nagyon vicces.",
+      "start": 142.04,
+      "end": 142.86
+    },
+    {
+      "text": " Andrés, hát ne csináld már!",
+      "start": 144.32000000000002,
+      "end": 145.82
+    },
+    {
+      "text": " Mély nyomóban ment a flex, nem így van, kérni se kellett!",
+      "start": 146.14,
+      "end": 149.62
+    },
+    {
+      "text": " Hát úgy tűnik, hogy egyelőre maradok én a csatornahang.",
+      "start": 150.60000000000002,
+      "end": 154.78
+    }
+  ],
+  "processing_time": 1.0648393630981445,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

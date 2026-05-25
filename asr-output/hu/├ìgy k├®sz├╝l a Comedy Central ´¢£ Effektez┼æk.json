@@ -1,0 +1,114 @@
+{
+  "audio_file": "Így készül a Comedy Central ｜ Effektezők.wav",
+  "full_text": "A Kamedi Szentrál csatornájánál is megvizsgálóan. Ez itt az úgynevezett Green Room zöld szoba. Azért vagyunk itt, hogy kettő mozgását lemodellezzék, és ezt a különböző grafikákhoz felhasználják. Igen, itt a Kamedi Szentrálnál vagy Komédia Központnál. Az igazán jó poérok a részleteken múlnak, ezért hívtak minket teljesen érthető okokból. Hattalmas megtiszteltetés és felelősség is ez egyben. Minden nap alázattal kell bejönni dolgozni. Igen, én klasszikusabb irányba jövök a Párizsi Mozgásművészeti Stúdio Le Duste de Fromage ötéves képzését. Végeztem el ezért. Nekem pedig személyes példaképem golla. Így van. És ha szabad megígyeznem, akkor nagyon jól utánozat is. Jaj? Na. Na. Köszönjük! Kicsit választ. Elképesztő. Elképesztő. Mindketten nagyon felkészültünk. A világér sem akarnánk ügyét csinálni magunkból. És akkor ezekből lesznek a logo animációk, amit a két műsor között láthattok. Nézők valószínűleg nem tudják, de igazából mi határozzuk az egész csatorna arculatát. Azt hiszem, hogy túlzás nélkül mondhatom, hogy nélkülünk nincs csatorna. Bizony. Azok, akik szébetük, azok mi vagyunk. Azt hiszem, hogy a két műsor között.",
+  "chunks": [
+    {
+      "text": " A Kamedi Szentrál csatornájánál is megvizsgálóan.",
+      "start": 10.32,
+      "end": 29.82
+    },
+    {
+      "text": " Ez itt az úgynevezett Green Room zöld szoba.",
+      "start": 31.44,
+      "end": 34.74
+    },
+    {
+      "text": " Azért vagyunk itt, hogy kettő mozgását lemodellezzék, és ezt a különböző grafikákhoz felhasználják.",
+      "start": 35.18,
+      "end": 41.84
+    },
+    {
+      "text": " Igen, itt a Kamedi Szentrálnál vagy Komédia Központnál.",
+      "start": 41.98,
+      "end": 46.32
+    },
+    {
+      "text": " Az igazán jó poérok a részleteken múlnak, ezért hívtak minket teljesen érthető okokból.",
+      "start": 47.900000000000006,
+      "end": 54.42
+    },
+    {
+      "text": " Hattalmas megtiszteltetés és felelősség is ez egyben. Minden nap alázattal kell bejönni dolgozni.",
+      "start": 56.84,
+      "end": 64.34
+    },
+    {
+      "text": " Igen, én klasszikusabb irányba jövök a Párizsi Mozgásművészeti Stúdio Le Duste de Fromage ötéves képzését.",
+      "start": 64.58,
+      "end": 73.68
+    },
+    {
+      "text": " Végeztem el ezért.",
+      "start": 73.94,
+      "end": 75.8
+    },
+    {
+      "text": " Nekem pedig személyes példaképem golla.",
+      "start": 75.8,
+      "end": 78.54
+    },
+    {
+      "text": " Így van. És ha szabad megígyeznem, akkor nagyon jól utánozat is.",
+      "start": 78.84,
+      "end": 83.02
+    },
+    {
+      "text": " Jaj?",
+      "start": 83.26,
+      "end": 83.3
+    },
+    {
+      "text": " Na. Na.",
+      "start": 83.66,
+      "end": 85.02
+    },
+    {
+      "text": " Köszönjük!",
+      "start": 86.7,
+      "end": 87.46
+    },
+    {
+      "text": " Kicsit választ. Elképesztő. Elképesztő.",
+      "start": 88.28,
+      "end": 90.88
+    },
+    {
+      "text": " Mindketten nagyon felkészültünk.",
+      "start": 91.0,
+      "end": 92.7
+    },
+    {
+      "text": " A világér sem akarnánk ügyét csinálni magunkból.",
+      "start": 93.08,
+      "end": 95.66
+    },
+    {
+      "text": " És akkor ezekből lesznek a logo animációk, amit a két műsor között láthattok.",
+      "start": 107.04,
+      "end": 113.66
+    },
+    {
+      "text": " Nézők valószínűleg nem tudják, de igazából mi határozzuk az egész csatorna arculatát.",
+      "start": 113.96,
+      "end": 119.86
+    },
+    {
+      "text": " Azt hiszem, hogy túlzás nélkül mondhatom, hogy nélkülünk nincs csatorna.",
+      "start": 120.1,
+      "end": 124.6
+    },
+    {
+      "text": " Bizony. Azok, akik szébetük, azok mi vagyunk.",
+      "start": 124.84,
+      "end": 128.24
+    },
+    {
+      "text": " Azt hiszem, hogy a két műsor között.",
+      "start": 136.48,
+      "end": 137.94
+    }
+  ],
+  "processing_time": 0.6770327091217041,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

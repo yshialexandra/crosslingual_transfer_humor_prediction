@@ -1,0 +1,74 @@
+{
+  "audio_file": "Mélyvíz 2. ｜ Endi ajánl.wav",
+  "full_text": "Now. Sikerült választani esetleg? Szeretnék egy gulyáslevest, és egy... Nem ajánlja? Akkor legyen húsleves, az sem, semmelyik leves sem. Akkor... egy... egy... tanyasi csirkemmel... Értem. Egy borjúbécsi. Akkor... akkor egy sertész kacsát? Desszertet? Gépi az üdítő? Menű van? Akkor esetleg valamit tudna ajánlani? Természetesen. Van most nagyon finom pisztránk házi aszalcilvás krokettel és rukkolasalátával. És ez hol van? Két sarokkal odébb a platánosban.",
+  "chunks": [
+    {
+      "text": " Now.",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "text": " Sikerült választani esetleg?",
+      "start": 10.08,
+      "end": 12.08
+    },
+    {
+      "text": " Szeretnék egy gulyáslevest, és egy...",
+      "start": 12.32,
+      "end": 14.58
+    },
+    {
+      "text": " Nem ajánlja?",
+      "start": 14.58,
+      "end": 15.92
+    },
+    {
+      "text": " Akkor legyen húsleves,",
+      "start": 16.82,
+      "end": 18.04
+    },
+    {
+      "text": " az sem,",
+      "start": 18.58,
+      "end": 19.56
+    },
+    {
+      "text": " semmelyik leves sem.",
+      "start": 20.02,
+      "end": 21.36
+    },
+    {
+      "text": " Akkor...",
+      "start": 23.12,
+      "end": 24.12
+    },
+    {
+      "text": " egy...",
+      "start": 24.12,
+      "end": 25.46
+    },
+    {
+      "text": " egy...",
+      "start": 25.46,
+      "end": 26.74
+    },
+    {
+      "text": " tanyasi csirkemmel...",
+      "start": 26.74,
+      "end": 29.06
+    },
+    {
+      "text": " Értem. Egy borjúbécsi. Akkor... akkor egy sertész kacsát? Desszertet? Gépi az üdítő? Menű van? Akkor esetleg valamit tudna ajánlani?",
+      "start": 29.06,
+      "end": 54.06
+    },
+    {
+      "text": " Természetesen. Van most nagyon finom pisztránk házi aszalcilvás krokettel és rukkolasalátával. És ez hol van? Két sarokkal odébb a platánosban.",
+      "start": 56.839999999999996,
+      "end": 68.38
+    }
+  ],
+  "processing_time": 1.5128731727600098,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

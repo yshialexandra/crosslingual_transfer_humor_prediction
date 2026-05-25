@@ -1,0 +1,124 @@
+{
+  "audio_file": "Antonio Lorente： Descubre Si Tu Novio Es Gay ｜ Stand up ｜ Comedy Central España.wav",
+  "full_text": "Yo vengo de esta mierda, ¿vale? Lo que pasa es que, bueno, he tenido suerte en otras cosas. Mi novia me ha ayudado a salirme de esto un poco. Ella es un gran apoyo. Tiene un problemilla, que es un poco ñoñas, ¿vale? A ella le encanta que la llame princesa Luna. Ya sabes, muy ñoñas, ya lo sé. Lo que no sabe ella es que ese WhatsApp se lo mandé de madrugada para recordar el cruce de calles donde había aparcado el coche. Ella piensa que es un apelativo cariñoso, espontáneo. No, y ahí no me atrevo a decírselo. Si lo compran, lo verá. Bien, ella está muy preocupada ahora porque tiene una amiga que lo acaba de dejar con el novio, siete años después, porque acaba de descubrir que el novio es gay. Y lo ha descubierto de la siguiente manera. Ella fue al lavabo, después de él, él acababa de cagar. Y ahí encontró un zurullo de mierda con forma de pene y testículos, perfectamente formado. Le entraba todo, por lo visto. Por favor, si vais a prestar atención en algún momento del monólogo, que sea aquí porque hay un poquito de ciencia, ¿vale? Gracias. Por lo visto, le habían dado tanto por culo a este señor que su cavidad anal acabó adoptando forma de pene y testículos, ¿vale? Y desde que esto se formó, cada vez que iba a cagar, su intestino hacía las veces de manga pastelera rellenado, molde de polla bombón, que plaf, caía impoluto en el agua. Y plaf, ahí, ¿no? Que salió ella, ¿esto qué es? No, esto... Salpicándose y todo, ¿esto qué es? Y con... La pasión, ¿no? La pasión, ¿no?",
+  "chunks": [
+    {
+      "text": " Yo vengo de esta mierda, ¿vale? Lo que pasa es que, bueno, he tenido suerte en otras cosas.",
+      "start": 1.2800000000000005,
+      "end": 5.04
+    },
+    {
+      "text": " Mi novia me ha ayudado a salirme de esto un poco. Ella es un gran apoyo.",
+      "start": 5.500000000000001,
+      "end": 10.7
+    },
+    {
+      "text": " Tiene un problemilla, que es un poco ñoñas, ¿vale? A ella le encanta que la llame princesa Luna.",
+      "start": 11.66,
+      "end": 16.06
+    },
+    {
+      "text": " Ya sabes, muy ñoñas, ya lo sé.",
+      "start": 17.52,
+      "end": 19.38
+    },
+    {
+      "text": " Lo que no sabe ella es que ese WhatsApp se lo mandé de madrugada para recordar el cruce de calles donde había aparcado el coche.",
+      "start": 20.08,
+      "end": 25.48
+    },
+    {
+      "text": " Ella piensa que es un apelativo cariñoso, espontáneo.",
+      "start": 27.28,
+      "end": 29.76
+    },
+    {
+      "text": " No, y ahí no me atrevo a decírselo. Si lo compran, lo verá.",
+      "start": 30.46,
+      "end": 35.06
+    },
+    {
+      "text": " Bien, ella está muy preocupada ahora porque tiene una amiga que lo acaba de dejar con el novio, siete años después,",
+      "start": 37.46,
+      "end": 44.18
+    },
+    {
+      "text": " porque acaba de descubrir que el novio es gay. Y lo ha descubierto de la siguiente manera.",
+      "start": 44.72,
+      "end": 49.76
+    },
+    {
+      "text": " Ella fue al lavabo, después de él, él acababa de cagar.",
+      "start": 50.12,
+      "end": 53.26
+    },
+    {
+      "text": " Y ahí encontró un zurullo de mierda con forma de pene y testículos, perfectamente formado.",
+      "start": 54.419999999999995,
+      "end": 63.6
+    },
+    {
+      "text": " Le entraba todo, por lo visto.",
+      "start": 64.18,
+      "end": 65.54
+    },
+    {
+      "text": " Por favor, si vais a prestar atención en algún momento del monólogo, que sea aquí porque hay un poquito de ciencia, ¿vale?",
+      "start": 67.80000000000001,
+      "end": 72.7
+    },
+    {
+      "text": " Gracias.",
+      "start": 75.19999999999999,
+      "end": 76.6
+    },
+    {
+      "text": " Por lo visto, le habían dado tanto por culo a este señor que su cavidad anal acabó adoptando forma de pene y testículos, ¿vale?",
+      "start": 81.64,
+      "end": 90.42
+    },
+    {
+      "text": " Y desde que esto se formó, cada vez que iba a cagar, su intestino hacía las veces de manga pastelera rellenado, molde de polla bombón, que plaf, caía impoluto en el agua.",
+      "start": 90.42,
+      "end": 97.74
+    },
+    {
+      "text": " Y plaf, ahí, ¿no?",
+      "start": 98.14,
+      "end": 99.06
+    },
+    {
+      "text": " Que salió ella, ¿esto qué es?",
+      "start": 99.56,
+      "end": 101.74
+    },
+    {
+      "text": " No, esto...",
+      "start": 101.94,
+      "end": 103.1
+    },
+    {
+      "text": " Salpicándose y todo, ¿esto qué es?",
+      "start": 104.12,
+      "end": 105.96
+    },
+    {
+      "text": " Y con...",
+      "start": 106.04,
+      "end": 106.8
+    },
+    {
+      "text": " La pasión, ¿no?",
+      "start": 106.8,
+      "end": 107.92
+    },
+    {
+      "text": " La pasión, ¿no?",
+      "start": 121.89999999999999,
+      "end": 124.08
+    }
+  ],
+  "processing_time": 0.7176156044006348,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

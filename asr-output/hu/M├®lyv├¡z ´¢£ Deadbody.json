@@ -1,0 +1,139 @@
+{
+  "audio_file": "Mélyvíz ｜ Deadbody.wav",
+  "full_text": "A hagymásztabba mindjárt elhányom magam. Hülye vagy? Nők imádják. Mit? Ezt? Apa test, tudod? Én nem úgy hívnám. Hát hogy? Olyan guztustalan, szétcsúszott félektest. Megszólalt a hiúmajom. Ne ilyen hiúmajom. Ez nem a hiúságról szól, édesapa. Miről? Ez az egészségről, tudod? Az életakarásról, a majd kicsattanásról. Majd kicsattanásról, aha. Majd kicsattansz az önbizalomhiánytól. Megállás nélkül kompenzálsz, mert az élet más területeid vesztes vagy. Te vagy a vesztes. Én tökéletesen elégedett vagyok így, ahogy vagyok, és a nők is imádnak. Tudod? Lők, persze. Mi? Akkor kérdezzük meg azt a csat. Jaj, hagyjál már hülyeséget. Hello-ka! Figyelj! Figyelj, ismerem idióta, ne figyelj rá, jó? Hogy neked melyik jön be jobban? Nem, hogy így. Ugye, hogy az apu test, mi? Szű, a cica! Zavarnak az urak. Endike, attól, hogy felhúzod a lábad, még nem leszel alacsonyabb.",
+  "chunks": [
+    {
+      "text": " A hagymásztabba mindjárt elhányom magam.",
+      "start": 4.1200000000000045,
+      "end": 6.24
+    },
+    {
+      "text": " Hülye vagy? Nők imádják.",
+      "start": 6.58,
+      "end": 8.38
+    },
+    {
+      "text": " Mit? Ezt?",
+      "start": 8.56,
+      "end": 9.26
+    },
+    {
+      "text": " Apa test, tudod?",
+      "start": 9.940000000000003,
+      "end": 11.4
+    },
+    {
+      "text": " Én nem úgy hívnám.",
+      "start": 11.78,
+      "end": 12.9
+    },
+    {
+      "text": " Hát hogy?",
+      "start": 13.58,
+      "end": 14.02
+    },
+    {
+      "text": " Olyan guztustalan, szétcsúszott félektest.",
+      "start": 14.24,
+      "end": 16.72
+    },
+    {
+      "text": " Megszólalt a hiúmajom.",
+      "start": 18.020000000000003,
+      "end": 19.3
+    },
+    {
+      "text": " Ne ilyen hiúmajom. Ez nem a hiúságról szól, édesapa.",
+      "start": 19.34,
+      "end": 21.9
+    },
+    {
+      "text": " Miről?",
+      "start": 22.26,
+      "end": 22.78
+    },
+    {
+      "text": " Ez az egészségről, tudod? Az életakarásról, a majd kicsattanásról.",
+      "start": 22.88,
+      "end": 26.16
+    },
+    {
+      "text": " Majd kicsattanásról, aha. Majd kicsattansz az önbizalomhiánytól.",
+      "start": 26.16,
+      "end": 29.88
+    },
+    {
+      "text": " Megállás nélkül kompenzálsz, mert az élet más területeid vesztes vagy.",
+      "start": 29.88,
+      "end": 33.46
+    },
+    {
+      "text": " Te vagy a vesztes.",
+      "start": 33.58,
+      "end": 34.36
+    },
+    {
+      "text": " Én tökéletesen elégedett vagyok így, ahogy vagyok, és a nők is imádnak. Tudod?",
+      "start": 35.54,
+      "end": 39.16
+    },
+    {
+      "text": " Lők, persze. Mi?",
+      "start": 39.26,
+      "end": 39.98
+    },
+    {
+      "text": " Akkor kérdezzük meg azt a csat.",
+      "start": 40.879999999999995,
+      "end": 42.34
+    },
+    {
+      "text": " Jaj, hagyjál már hülyeséget.",
+      "start": 42.48,
+      "end": 43.98
+    },
+    {
+      "text": " Hello-ka!",
+      "start": 49.63999999999999,
+      "end": 50.48
+    },
+    {
+      "text": " Figyelj!",
+      "start": 53.72,
+      "end": 54.14
+    },
+    {
+      "text": " Figyelj, ismerem idióta, ne figyelj rá, jó?",
+      "start": 54.32,
+      "end": 56.92
+    },
+    {
+      "text": " Hogy neked melyik jön be jobban?",
+      "start": 57.58,
+      "end": 59.1
+    },
+    {
+      "text": " Nem, hogy így.",
+      "start": 59.1,
+      "end": 59.9
+    },
+    {
+      "text": " Ugye, hogy az apu test, mi?",
+      "start": 60.38,
+      "end": 62.02
+    },
+    {
+      "text": " Szű, a cica! Zavarnak az urak.",
+      "start": 63.84,
+      "end": 66.84
+    },
+    {
+      "text": " Endike, attól, hogy felhúzod a lábad, még nem leszel alacsonyabb.",
+      "start": 78.53999999999999,
+      "end": 81.96
+    }
+  ],
+  "processing_time": 0.5331404209136963,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

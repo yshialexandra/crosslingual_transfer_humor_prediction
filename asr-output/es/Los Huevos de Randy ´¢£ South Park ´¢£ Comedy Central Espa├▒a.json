@@ -1,0 +1,119 @@
+{
+  "audio_file": "Los Huevos de Randy ｜ South Park ｜ Comedy Central España.wav",
+  "full_text": "¡Sharon! ¡Sharon! ¿Qué? ¡Ahhh! Señor Mars, me temo que los resultados son positivos. Tiene cáncer testicular. ¡Toma! La buena noticia es que no se ha extendido. Procederemos a extirparlo. Sí, pero de momento, ¿puede darme la receta, por favor? ¿La receta para qué? Puffalo soldier, en el corazón de América. Puffalo de África, traído a América. Estaba luchando en su nariz. ¡Val! 25 kilos de la morada, 50 de amigo del pescador y 25 de Alabama Cush. ¡Qué gozada! ¡Qué gozada! ¡Randy! ¡Por Dios, Randy! ¡Qué huevos! Ya, fumar marea delante de un poli. Mola, ¿eh? No, lo digo en sentido literal. ¡Oh, sí! ¡Cáncer testicular! Toma, ¿quieres? ¡Uy, espera que estás sano! ¡Oiga, deténgale, agente! ¡Gracias!",
+  "chunks": [
+    {
+      "text": " ¡Sharon! ¡Sharon!",
+      "start": 16.819999999999997,
+      "end": 18.74
+    },
+    {
+      "text": " ¿Qué?",
+      "start": 18.98,
+      "end": 19.86
+    },
+    {
+      "text": " ¡Ahhh!",
+      "start": 20.32,
+      "end": 21.22
+    },
+    {
+      "text": " Señor Mars, me temo que los resultados son positivos. Tiene cáncer testicular.",
+      "start": 24.34,
+      "end": 29.06
+    },
+    {
+      "text": " ¡Toma!",
+      "start": 32.379999999999995,
+      "end": 32.94
+    },
+    {
+      "text": " La buena noticia es que no se ha extendido. Procederemos a extirparlo.",
+      "start": 33.38,
+      "end": 37.18
+    },
+    {
+      "text": " Sí, pero de momento, ¿puede darme la receta, por favor?",
+      "start": 37.22,
+      "end": 39.58
+    },
+    {
+      "text": " ¿La receta para qué?",
+      "start": 39.88,
+      "end": 41.04
+    },
+    {
+      "text": " Puffalo soldier, en el corazón de América.",
+      "start": 42.48,
+      "end": 46.38
+    },
+    {
+      "text": " Puffalo de África, traído a América.",
+      "start": 47.86,
+      "end": 51.86
+    },
+    {
+      "text": " Estaba luchando en su nariz.",
+      "start": 52.4,
+      "end": 54.22
+    },
+    {
+      "text": " ¡Val!",
+      "start": 54.22,
+      "end": 54.52
+    },
+    {
+      "text": " 25 kilos de la morada, 50 de amigo del pescador y 25 de Alabama Cush.",
+      "start": 56.66,
+      "end": 61.84
+    },
+    {
+      "text": " ¡Qué gozada! ¡Qué gozada!",
+      "start": 65.44,
+      "end": 67.56
+    },
+    {
+      "text": " ¡Randy! ¡Por Dios, Randy! ¡Qué huevos!",
+      "start": 69.16,
+      "end": 71.84
+    },
+    {
+      "text": " Ya, fumar marea delante de un poli. Mola, ¿eh?",
+      "start": 71.84,
+      "end": 75.48
+    },
+    {
+      "text": " No, lo digo en sentido literal.",
+      "start": 76.06,
+      "end": 77.74
+    },
+    {
+      "text": " ¡Oh, sí! ¡Cáncer testicular!",
+      "start": 78.24,
+      "end": 79.92
+    },
+    {
+      "text": " Toma, ¿quieres?",
+      "start": 80.18,
+      "end": 81.32
+    },
+    {
+      "text": " ¡Uy, espera que estás sano!",
+      "start": 81.44,
+      "end": 82.86
+    },
+    {
+      "text": " ¡Oiga, deténgale, agente!",
+      "start": 83.0,
+      "end": 84.52
+    },
+    {
+      "text": " ¡Gracias!",
+      "start": 84.52,
+      "end": 85.68
+    }
+  ],
+  "processing_time": 1.5181868076324463,
+  "language": "es",
+  "model_id": "large-v3-turbo"
+}

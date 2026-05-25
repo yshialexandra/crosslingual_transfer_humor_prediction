@@ -1,0 +1,19 @@
+{
+  "audio_file": "Modern Család ｜ ÚJ ÉVAD ｜ hétköznap 19_00.wav",
+  "full_text": "A következő kommentek valódiak. Te imádni fogod!",
+  "chunks": [
+    {
+      "text": " A következő kommentek valódiak.",
+      "start": 0.0,
+      "end": 3.3
+    },
+    {
+      "text": " Te imádni fogod!",
+      "start": 31.200000000000003,
+      "end": 33.72
+    }
+  ],
+  "processing_time": 0.16161584854125977,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,19 @@
+{
+  "audio_file": "Check this out ｜ Mélynyomó.wav",
+  "full_text": "A B-be tűz szavakat megnézhetjük? És vannak akik ezt közönség előtt csinálják, pénzért.",
+  "chunks": [
+    {
+      "text": " A B-be tűz szavakat megnézhetjük?",
+      "start": 15.78,
+      "end": 24.38
+    },
+    {
+      "text": " És vannak akik ezt közönség előtt csinálják, pénzért.",
+      "start": 30.08,
+      "end": 33.58
+    }
+  ],
+  "processing_time": 1.0852153301239014,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

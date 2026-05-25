@@ -1,0 +1,89 @@
+{
+  "audio_file": "Telefon ｜ Mélynyomó.wav",
+  "full_text": "Köszönöm! Most hallak! Mi? Semmi, csak koncertet hangosítok. Mit tudom én valami négy angol majom, nem a Beatrice? Hát ezt nem hiszem el! Tényleg? Várj egy kicsit, várjál! Na most mondjad, ki vagy hangosítva? Hol a színpadon? Aha! Király! Szevoztók! Na jó, Endike figyelj, hogyha nem fontos, akkor leteszem majd visszahívlak később, jó? Mert dolgoznék. Na. Jó van, jó van, nyugi!",
+  "chunks": [
+    {
+      "text": " Köszönöm!",
+      "start": 22.42,
+      "end": 23.82
+    },
+    {
+      "text": " Most hallak!",
+      "start": 30.0,
+      "end": 30.76
+    },
+    {
+      "text": " Mi?",
+      "start": 31.12,
+      "end": 31.62
+    },
+    {
+      "text": " Semmi, csak koncertet hangosítok.",
+      "start": 31.94,
+      "end": 33.94
+    },
+    {
+      "text": " Mit tudom én valami négy angol majom, nem a Beatrice?",
+      "start": 34.66,
+      "end": 37.46
+    },
+    {
+      "text": " Hát ezt nem hiszem el!",
+      "start": 38.76,
+      "end": 40.2
+    },
+    {
+      "text": " Tényleg?",
+      "start": 40.48,
+      "end": 41.04
+    },
+    {
+      "text": " Várj egy kicsit, várjál!",
+      "start": 41.3,
+      "end": 42.56
+    },
+    {
+      "text": " Na most mondjad, ki vagy hangosítva?",
+      "start": 45.5,
+      "end": 47.56
+    },
+    {
+      "text": " Hol a színpadon?",
+      "start": 47.78,
+      "end": 48.78
+    },
+    {
+      "text": " Aha!",
+      "start": 48.94,
+      "end": 49.12
+    },
+    {
+      "text": " Király!",
+      "start": 49.62,
+      "end": 50.18
+    },
+    {
+      "text": " Szevoztók!",
+      "start": 52.04,
+      "end": 52.36
+    },
+    {
+      "text": " Na jó, Endike figyelj, hogyha nem fontos, akkor leteszem majd visszahívlak később, jó? Mert dolgoznék.",
+      "start": 52.48,
+      "end": 57.24
+    },
+    {
+      "text": " Na.",
+      "start": 57.72,
+      "end": 57.88
+    },
+    {
+      "text": " Jó van, jó van, nyugi!",
+      "start": 59.42,
+      "end": 60.62
+    }
+  ],
+  "processing_time": 0.42820048332214355,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

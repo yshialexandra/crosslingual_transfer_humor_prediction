@@ -1,0 +1,119 @@
+{
+  "audio_file": "Távol, messze Alaszkában - Zsolt és Rezső [Official Video].wav",
+  "full_text": "A TORONTOS Móstia Szűrke eső esik most nagyon... furcsa ez egy nyári hajnalon. Nem tudom hogy mi vár itt maradt... Olyan, mintha irányítanák. Magas vezélyes frekvenciák, Ha az agyunkon szárultoznak át. Letöldik a kulcsadatokat, Ültetik a gondolatokat. Távol, messze, Alaszkában, Antennák állnak a tárban. Megfigyelik a falunkkal, Hát ne érezzük jól magunkat. Távol, messze, havas, ménatár, Elérj, de bármit is csinálj, Az életünk nem lesz gondolat, Furcsa lihar irányzéka van, Nem tudom, hogy mi vár itt van ránk. Olyan, mintha irányítanák. Az életünk. Az életünk. Köszönöm, hogy megtaláltad!",
+  "chunks": [
+    {
+      "text": " A TORONTOS Móstia",
+      "start": 0.0,
+      "end": 4.1
+    },
+    {
+      "text": " Szűrke eső esik most nagyon...",
+      "start": 13.06,
+      "end": 16.82
+    },
+    {
+      "text": " furcsa ez egy nyári hajnalon.",
+      "start": 18.96,
+      "end": 22.34
+    },
+    {
+      "text": " Nem tudom hogy mi vár itt maradt...",
+      "start": 24.86,
+      "end": 28.86
+    },
+    {
+      "text": " Olyan, mintha irányítanák.",
+      "start": 30.0,
+      "end": 35.18
+    },
+    {
+      "text": " Magas vezélyes frekvenciák,",
+      "start": 36.1,
+      "end": 40.84
+    },
+    {
+      "text": " Ha az agyunkon szárultoznak át.",
+      "start": 42.84,
+      "end": 47.26
+    },
+    {
+      "text": " Letöldik a kulcsadatokat,",
+      "start": 48.5,
+      "end": 52.54
+    },
+    {
+      "text": " Ültetik a gondolatokat.",
+      "start": 54.72,
+      "end": 58.24
+    },
+    {
+      "text": " Távol, messze, Alaszkában,",
+      "start": 60.379999999999995,
+      "end": 64.96
+    },
+    {
+      "text": " Antennák állnak a tárban.",
+      "start": 66.88,
+      "end": 70.62
+    },
+    {
+      "text": " Megfigyelik a falunkkal,",
+      "start": 73.12,
+      "end": 77.04
+    },
+    {
+      "text": " Hát ne érezzük jól magunkat.",
+      "start": 77.42,
+      "end": 82.38
+    },
+    {
+      "text": " Távol, messze, havas, ménatár,",
+      "start": 84.38,
+      "end": 88.54
+    },
+    {
+      "text": " Elérj, de bármit is csinálj,",
+      "start": 90.56,
+      "end": 95.14
+    },
+    {
+      "text": " Az életünk nem lesz gondolat,",
+      "start": 95.6,
+      "end": 100.78
+    },
+    {
+      "text": " Furcsa lihar irányzéka van,",
+      "start": 102.5,
+      "end": 106.52
+    },
+    {
+      "text": " Nem tudom, hogy mi vár itt van ránk.",
+      "start": 108.46,
+      "end": 113.26
+    },
+    {
+      "text": " Olyan, mintha irányítanák.",
+      "start": 113.26,
+      "end": 117.42
+    },
+    {
+      "text": " Az életünk.",
+      "start": 143.76000000000002,
+      "end": 145.04
+    },
+    {
+      "text": " Az életünk.",
+      "start": 145.36,
+      "end": 147.12
+    },
+    {
+      "text": " Köszönöm, hogy megtaláltad!",
+      "start": 147.12,
+      "end": 150.42
+    }
+  ],
+  "processing_time": 2.7291722297668457,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

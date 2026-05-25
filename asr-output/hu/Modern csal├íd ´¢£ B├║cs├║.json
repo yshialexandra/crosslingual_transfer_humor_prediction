@@ -1,0 +1,399 @@
+{
+  "audio_file": "Modern család ｜ Búcsú.wav",
+  "full_text": "Néhát... Ő a mi kislányunk. A neve Li... Ó, izgalmas! Vegyél már vissza. De ezt nem tehetem, én ilyen vagyok! A zenéből... Jaj, igen. Hüddva rémálmotog, bán! Ha ha ha ha! niece Đartdi! Bezártuk a gyereket a kocsiba és az emberek eljelnek minket. Tassa meg a feleségét. Mondja, hogy minden rendben. Ez egy férfi. We are a coach. Juliana vagyok. Cleave Bixby. Á, mi a franc volt ez? Ó, én vagyok az apád. Pont úgy, mint a szülőszobában. Ezt mondtam neked, amikor kijöttél a nyugodtán műrészéből. Ó, úr isten, apa! Itt lesz nekem az én drágaságom. De sosem hagynál, ugye, kicsim? Oh, oh, oh, oh! Tehát, jó, ah! Hívd fel az apádat. Apa, anya, keres! Mondd, hogy zuhanyozom! Imádom! Elhangzott az a bűbályos mondat, hogy... Megint a lépcsőt. Call all, az a nevetés, az OMG, hogy úristen, a WTF meg, hogy mi van, Patel. A fantasztikus dúó, ó, Fisbo és... Lisbon! Még nem esetlen? Anya megkapott. Helytelen megtűnik, hogy ebben a ruhában vagyok. Valami sötétebb kéne és röviduljó. Meg le, meg le! Ó, ne! Jaj, ne le! Jaj, semmi! Nem tudték semmi. Úristen. Igen. Valószínűleg még mindig próbálják kiheverni a sokkot. Ó, ugyan már! Nem lehet olyan vészes. Még mindig látom! Érhetetlen, hogy ez történt. De hát mit csináltak? Semmit. Bármi is volt az Tuti apa átnyerésre. Rangos, professzionális díj. Igen, a díj a jémére. És az MIG nyertese a modern család. Modern család. A Vipus Csóly Szóval nyertese a modern család. A Rotters Gildo volt nyertese a modern család. Ires figura Golden Globot is nyert. Nyerni Oscart szoktak a Globot veszik. Köszönet a Hollywoodi Külföldi Tudósítók Szövetségének a megtisztelésért. Sok mérföldkő van egy ember életében. Születésnapok, élettségig. Ha szerencsés vagy egy kétesküvő. Örömmel nyilvánítalak benneteket házastársanká. Új családtagok is érkeznek. Az ember nem is gondolja, hogy ezeket újra átélheti. Ezek a legszebb pillanatok. Nekem új címem van. Véd nagymama. Ne, rosszat vettem, tessék. Most háromig számolok. Jól. A világon élnek álmodozók és realisták. Mindenki szeretne más lenni. Nekünk ez sikerült. Egy dologra vágyunk, hogy legyen kihez hazamennünk. Szívesen átélném még egyszer. Nehéz lesz a búcsú. Ez volt életem legszebb tíz éve.",
+  "chunks": [
+    {
+      "text": " Néhát...",
+      "start": 5.399999999999999,
+      "end": 5.88
+    },
+    {
+      "text": " Ő a mi kislányunk.",
+      "start": 6.8199999999999985,
+      "end": 8.3
+    },
+    {
+      "text": " A neve Li...",
+      "start": 8.82,
+      "end": 9.9
+    },
+    {
+      "text": " Ó, izgalmas!",
+      "start": 9.9,
+      "end": 11.88
+    },
+    {
+      "text": " Vegyél már vissza.",
+      "start": 12.14,
+      "end": 13.34
+    },
+    {
+      "text": " De ezt nem tehetem, én ilyen vagyok!",
+      "start": 13.46,
+      "end": 15.5
+    },
+    {
+      "text": " A zenéből...",
+      "start": 15.6,
+      "end": 16.66
+    },
+    {
+      "text": " Jaj, igen.",
+      "start": 16.66,
+      "end": 17.16
+    },
+    {
+      "text": " Hüddva rémálmotog, bán!",
+      "start": 20.779999999999998,
+      "end": 22.04
+    },
+    {
+      "text": " Ha ha ha ha! niece Đartdi!",
+      "start": 22.24,
+      "end": 24.32
+    },
+    {
+      "text": " Bezártuk a gyereket a kocsiba és az emberek eljelnek minket.",
+      "start": 25.26,
+      "end": 28.2
+    },
+    {
+      "text": " Tassa meg a feleségét. Mondja, hogy minden rendben.",
+      "start": 28.2,
+      "end": 30.68
+    },
+    {
+      "text": " Ez egy férfi.",
+      "start": 30.7,
+      "end": 31.34
+    },
+    {
+      "text": " We are a coach.",
+      "start": 34.74,
+      "end": 35.76
+    },
+    {
+      "text": " Juliana vagyok.",
+      "start": 35.92,
+      "end": 36.86
+    },
+    {
+      "text": " Cleave Bixby.",
+      "start": 37.04,
+      "end": 37.86
+    },
+    {
+      "text": " Á, mi a franc volt ez?",
+      "start": 38.42,
+      "end": 39.9
+    },
+    {
+      "text": " Ó, én vagyok az apád.",
+      "start": 40.06,
+      "end": 42.5
+    },
+    {
+      "text": " Pont úgy, mint a szülőszobában.",
+      "start": 42.64,
+      "end": 44.56
+    },
+    {
+      "text": " Ezt mondtam neked, amikor kijöttél a nyugodtán műrészéből.",
+      "start": 45.0,
+      "end": 47.52
+    },
+    {
+      "text": " Ó, úr isten, apa!",
+      "start": 47.54,
+      "end": 48.42
+    },
+    {
+      "text": " Itt lesz nekem az én drágaságom.",
+      "start": 51.2,
+      "end": 53.12
+    },
+    {
+      "text": " De sosem hagynál, ugye, kicsim?",
+      "start": 54.52,
+      "end": 56.86
+    },
+    {
+      "text": " Oh, oh, oh, oh!",
+      "start": 58.5,
+      "end": 60.44
+    },
+    {
+      "text": " Tehát, jó, ah!",
+      "start": 60.48,
+      "end": 61.42
+    },
+    {
+      "text": " Hívd fel az apádat.",
+      "start": 63.1,
+      "end": 64.28
+    },
+    {
+      "text": " Apa, anya, keres!",
+      "start": 64.7,
+      "end": 65.88
+    },
+    {
+      "text": " Mondd, hogy zuhanyozom!",
+      "start": 66.12,
+      "end": 67.42
+    },
+    {
+      "text": " Imádom!",
+      "start": 68.78,
+      "end": 69.3
+    },
+    {
+      "text": " Elhangzott az a bűbályos mondat, hogy...",
+      "start": 73.32,
+      "end": 75.28
+    },
+    {
+      "text": " Megint a lépcsőt.",
+      "start": 75.28,
+      "end": 76.86
+    },
+    {
+      "text": " Call all, az a nevetés, az OMG, hogy úristen, a WTF meg, hogy mi van, Patel.",
+      "start": 77.36,
+      "end": 82.2
+    },
+    {
+      "text": " A fantasztikus dúó, ó, Fisbo és...",
+      "start": 82.42,
+      "end": 85.94
+    },
+    {
+      "text": " Lisbon!",
+      "start": 86.72,
+      "end": 87.24
+    },
+    {
+      "text": " Még nem esetlen?",
+      "start": 87.24,
+      "end": 88.32
+    },
+    {
+      "text": " Anya megkapott.",
+      "start": 88.62,
+      "end": 89.6
+    },
+    {
+      "text": " Helytelen megtűnik, hogy ebben a ruhában vagyok. Valami sötétebb kéne és röviduljó.",
+      "start": 90.2,
+      "end": 94.6
+    },
+    {
+      "text": " Meg le, meg le!",
+      "start": 95.78,
+      "end": 96.92
+    },
+    {
+      "text": " Ó, ne! Jaj, ne le!",
+      "start": 97.80000000000001,
+      "end": 99.86
+    },
+    {
+      "text": " Jaj, semmi!",
+      "start": 100.02,
+      "end": 101.06
+    },
+    {
+      "text": " Nem tudték semmi.",
+      "start": 101.68,
+      "end": 102.94
+    },
+    {
+      "text": " Úristen.",
+      "start": 103.08,
+      "end": 103.6
+    },
+    {
+      "text": " Igen.",
+      "start": 103.9,
+      "end": 104.0
+    },
+    {
+      "text": " Valószínűleg még mindig próbálják kiheverni a sokkot.",
+      "start": 104.48,
+      "end": 106.94
+    },
+    {
+      "text": " Ó, ugyan már! Nem lehet olyan vészes.",
+      "start": 106.98,
+      "end": 109.22
+    },
+    {
+      "text": " Még mindig látom!",
+      "start": 109.96000000000001,
+      "end": 111.32
+    },
+    {
+      "text": " Érhetetlen, hogy ez történt.",
+      "start": 111.38,
+      "end": 112.76
+    },
+    {
+      "text": " De hát mit csináltak?",
+      "start": 112.92,
+      "end": 114.04
+    },
+    {
+      "text": " Semmit.",
+      "start": 114.12,
+      "end": 114.52
+    },
+    {
+      "text": " Bármi is volt az Tuti apa átnyerésre.",
+      "start": 114.52,
+      "end": 117.3
+    },
+    {
+      "text": " Rangos, professzionális díj.",
+      "start": 118.58000000000001,
+      "end": 120.16
+    },
+    {
+      "text": " Igen, a díj a jémére.",
+      "start": 120.2,
+      "end": 121.4
+    },
+    {
+      "text": " És az MIG nyertese a modern család.",
+      "start": 121.42,
+      "end": 123.86
+    },
+    {
+      "text": " Modern család.",
+      "start": 124.0,
+      "end": 124.48
+    },
+    {
+      "text": " A Vipus Csóly Szóval nyertese a modern család.",
+      "start": 124.48,
+      "end": 126.9
+    },
+    {
+      "text": " A Rotters Gildo volt nyertese a modern család.",
+      "start": 126.92,
+      "end": 129.42
+    },
+    {
+      "text": " Ires figura Golden Globot is nyert.",
+      "start": 129.5,
+      "end": 131.28
+    },
+    {
+      "text": " Nyerni Oscart szoktak a Globot veszik.",
+      "start": 131.38,
+      "end": 133.16
+    },
+    {
+      "text": " Köszönet a Hollywoodi Külföldi Tudósítók Szövetségének a megtisztelésért.",
+      "start": 133.2,
+      "end": 136.64
+    },
+    {
+      "text": " Sok mérföldkő van egy ember életében.",
+      "start": 136.76,
+      "end": 139.04
+    },
+    {
+      "text": " Születésnapok, élettségig.",
+      "start": 140.68,
+      "end": 141.88
+    },
+    {
+      "text": " Ha szerencsés vagy egy kétesküvő.",
+      "start": 141.88,
+      "end": 144.3
+    },
+    {
+      "text": " Örömmel nyilvánítalak benneteket házastársanká.",
+      "start": 144.64,
+      "end": 147.42
+    },
+    {
+      "text": " Új családtagok is érkeznek.",
+      "start": 147.68,
+      "end": 149.66
+    },
+    {
+      "text": " Az ember nem is gondolja, hogy ezeket újra átélheti.",
+      "start": 149.88,
+      "end": 152.84
+    },
+    {
+      "text": " Ezek a legszebb pillanatok.",
+      "start": 153.0,
+      "end": 154.48
+    },
+    {
+      "text": " Nekem új címem van.",
+      "start": 154.54,
+      "end": 155.54
+    },
+    {
+      "text": " Véd nagymama.",
+      "start": 157.06,
+      "end": 158.04
+    },
+    {
+      "text": " Ne, rosszat vettem, tessék.",
+      "start": 158.46,
+      "end": 160.26
+    },
+    {
+      "text": " Most háromig számolok.",
+      "start": 160.26,
+      "end": 162.18
+    },
+    {
+      "text": " Jól.",
+      "start": 162.2,
+      "end": 162.5
+    },
+    {
+      "text": " A világon élnek álmodozók és realisták.",
+      "start": 164.16000000000003,
+      "end": 168.02
+    },
+    {
+      "text": " Mindenki szeretne más lenni.",
+      "start": 170.52,
+      "end": 172.68
+    },
+    {
+      "text": " Nekünk ez sikerült.",
+      "start": 172.82,
+      "end": 174.24
+    },
+    {
+      "text": " Egy dologra vágyunk, hogy legyen kihez hazamennünk.",
+      "start": 180.0,
+      "end": 183.26
+    },
+    {
+      "text": " Szívesen átélném még egyszer.",
+      "start": 185.88,
+      "end": 188.22
+    },
+    {
+      "text": " Nehéz lesz a búcsú.",
+      "start": 189.42000000000002,
+      "end": 191.14
+    },
+    {
+      "text": " Ez volt életem legszebb tíz éve.",
+      "start": 191.88,
+      "end": 194.34
+    }
+  ],
+  "processing_time": 3.9042727947235107,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

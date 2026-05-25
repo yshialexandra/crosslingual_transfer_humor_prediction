@@ -1,0 +1,109 @@
+{
+  "audio_file": "Mélyvíz 2. ｜ Reklamáció 1..wav",
+  "full_text": "A SZAKÁCS A SZAKÁCS A SZAKÁCS Igen? Hideg a leves. Nem létezik. De igen. De nem. De. M shows up at all that? Nem csak hogy hideg, de sótlan is. Mindjárt intézkedem. Elis várom. Elnézést a szakács hibája, de majd én jóvá teszem. Jó, nagyon köszönöm. Na. Kb. így. Jó, tessék szépen enni. Ezt nem hagynám itt, mert itt lopnak. Igen.",
+  "chunks": [
+    {
+      "text": " A SZAKÁCS",
+      "start": 0.0,
+      "end": 1.08
+    },
+    {
+      "text": " A SZAKÁCS",
+      "start": 1.08,
+      "end": 1.74
+    },
+    {
+      "text": " A SZAKÁCS",
+      "start": 1.74,
+      "end": 2.4
+    },
+    {
+      "text": " Igen?",
+      "start": 6.58,
+      "end": 7.1
+    },
+    {
+      "text": " Hideg a leves.",
+      "start": 7.5,
+      "end": 8.54
+    },
+    {
+      "text": " Nem létezik.",
+      "start": 8.78,
+      "end": 10.08
+    },
+    {
+      "text": " De igen.",
+      "start": 10.1,
+      "end": 10.56
+    },
+    {
+      "text": " De nem.",
+      "start": 10.7,
+      "end": 11.12
+    },
+    {
+      "text": " De.",
+      "start": 11.42,
+      "end": 11.64
+    },
+    {
+      "text": " M shows up at all that?",
+      "start": 13.14,
+      "end": 21.34
+    },
+    {
+      "text": " Nem csak hogy hideg, de sótlan is.",
+      "start": 21.34,
+      "end": 23.06
+    },
+    {
+      "text": " Mindjárt intézkedem.",
+      "start": 23.22,
+      "end": 24.4
+    },
+    {
+      "text": " Elis várom.",
+      "start": 24.46,
+      "end": 25.24
+    },
+    {
+      "text": " Elnézést a szakács hibája,",
+      "start": 25.36,
+      "end": 26.9
+    },
+    {
+      "text": " de majd én jóvá teszem.",
+      "start": 26.98,
+      "end": 28.06
+    },
+    {
+      "text": " Jó, nagyon köszönöm.",
+      "start": 28.08,
+      "end": 29.18
+    },
+    {
+      "text": " Na.",
+      "start": 34.220000000000006,
+      "end": 34.7
+    },
+    {
+      "text": " Kb. így.",
+      "start": 40.120000000000005,
+      "end": 41.04
+    },
+    {
+      "text": " Jó, tessék szépen enni.",
+      "start": 41.56,
+      "end": 43.1
+    },
+    {
+      "text": " Ezt nem hagynám itt, mert itt lopnak. Igen.",
+      "start": 43.16,
+      "end": 44.9
+    }
+  ],
+  "processing_time": 1.4604434967041016,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

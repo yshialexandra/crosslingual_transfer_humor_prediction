@@ -1,0 +1,79 @@
+{
+  "audio_file": "Mélygarázs ｜ Nitró.wav",
+  "full_text": "A TORONTOSungen- tema messy 뜻 audience Ochoze-ső illik a választ. Jeler Jelenir gosta, sosemng choice yat 42 naught � novzdik. Szávasz Fali Bár. szávasz Endike. Mi a helyzet? beruháztam. Szávasz Endike. mi a helyzet? Beruháztam. Fúj de szép. Dága volt? Az. Őzbőr. Vintage. Ahogy látom, a szőre is rajta van. Tudod, hogy kihé volt? Hát így ránézésre egy 3-4 nemzedéket tippelnénk. Figyen annyit mondok, illik a választott nevemhez. Szenna. Szenna. Neked van választott neved? Az hiányozna még nekem, tudod? Figyelj, legyél te Nitro. Nitro és Szenna. Na, verseny a következő címé. Neked apodnak.",
+  "chunks": [
+    {
+      "text": " A TORONTOSungen- tema messy 뜻 audience",
+      "start": 0.0,
+      "end": 3.96
+    },
+    {
+      "text": " Ochoze-ső illik a választ. Jeler Jelenir gosta, sosemng choice yat 42 naught � novzdik.",
+      "start": 9.08,
+      "end": 9.72
+    },
+    {
+      "text": " Szávasz Fali Bár. szávasz Endike.",
+      "start": 9.72,
+      "end": 11.36
+    },
+    {
+      "text": " Mi a helyzet? beruháztam.",
+      "start": 11.54,
+      "end": 13.74
+    },
+    {
+      "text": " Szávasz Endike. mi a helyzet?",
+      "start": 14.26,
+      "end": 14.56
+    },
+    {
+      "text": " Beruháztam. Fúj de szép. Dága volt?",
+      "start": 14.56,
+      "end": 16.06
+    },
+    {
+      "text": " Az. Őzbőr. Vintage.",
+      "start": 16.38,
+      "end": 18.6
+    },
+    {
+      "text": " Ahogy látom, a szőre is rajta van.",
+      "start": 18.96,
+      "end": 20.98
+    },
+    {
+      "text": " Tudod, hogy kihé volt?",
+      "start": 21.36,
+      "end": 22.56
+    },
+    {
+      "text": " Hát így ránézésre egy 3-4 nemzedéket tippelnénk.",
+      "start": 23.34,
+      "end": 26.84
+    },
+    {
+      "text": " Figyen annyit mondok,",
+      "start": 27.1,
+      "end": 28.5
+    },
+    {
+      "text": " illik a választott nevemhez. Szenna. Szenna. Neked van választott neved?",
+      "start": 28.5,
+      "end": 37.0
+    },
+    {
+      "text": " Az hiányozna még nekem, tudod? Figyelj, legyél te Nitro. Nitro és Szenna. Na, verseny a következő címé.",
+      "start": 37.28,
+      "end": 47.96
+    },
+    {
+      "text": " Neked apodnak.",
+      "start": 74.97999999999999,
+      "end": 76.38
+    }
+  ],
+  "processing_time": 2.6274971961975098,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

@@ -1,0 +1,159 @@
+{
+  "audio_file": "Kártyások 💳 ｜ A Betondzsungel Ösvényein.wav",
+  "full_text": "A beton dzsungel ösvényein. Kártyások. Üdvözlöm Önöket! Ma a kártyások különös törzsét vizsgáljuk meg közelebbről, akik eltérő méretük és kinézetük ellenére mágikus lapocskájukkal, ellenszolgáltatás nélkül juthatnak a beton dzsungel javaihoz. Ma nagy szerencsénk volt, mert az egyik ösvényen találtunk egyet az általuk használt nyújtikus ábrákkal díszített kártyából. Ennek segítségével most végre mi is hozzájuthatunk a terület portékájhoz. A dolog nem veszélytelen. Három bazárban is próbálkozunk. Ide érintem. Valami nem stimmel. Jobb lesz odébb állni. A kártyástörzs kiváltságosságát jól mutatja az is, hogy az apró kiskártya segítségével világító utcai oltárokból papírváltókat vehetnek fel. Az oltárok és ezen keresztül az egyház népszerűsége nagyon magas a kártyás benszülöttek körében. Ritkán, de előfordul, hogy valaki nem kap váltót. Ilyenkor dühösen az oltár ellen fordul. Most megpróbálunk szerezni egy működő kártyát. Mérdete kicsit. Fogazata épp. Korehoz képest mozgékony. Pár perc és már kutyabaja az öreg kártyásnak. Itt van a kis lapocska. Lássuk, mire megyünk vele. Ide szokták bedúgni a kártyát. A fénylapon valami írás jelent meg, és itt a számsorral is szoktak csinálni valamit. Vallásuk szent számait még nem sikerült kiderítenünk eddig. Lehet, hogy a szerzetes érzi az idegen aurát. Ez most veszélyes lehet. Bennem kell. Minden jót. Minden jót.",
+  "chunks": [
+    {
+      "text": " A beton dzsungel ösvényein.",
+      "start": 5.6400000000000015,
+      "end": 8.18
+    },
+    {
+      "text": " Kártyások.",
+      "start": 8.92,
+      "end": 9.72
+    },
+    {
+      "text": " Üdvözlöm Önöket!",
+      "start": 11.260000000000002,
+      "end": 12.38
+    },
+    {
+      "text": " Ma a kártyások különös törzsét vizsgáljuk meg közelebbről,",
+      "start": 12.74,
+      "end": 16.06
+    },
+    {
+      "text": " akik eltérő méretük és kinézetük ellenére mágikus lapocskájukkal,",
+      "start": 16.16,
+      "end": 20.18
+    },
+    {
+      "text": " ellenszolgáltatás nélkül juthatnak a beton dzsungel javaihoz.",
+      "start": 20.3,
+      "end": 23.98
+    },
+    {
+      "text": " Ma nagy szerencsénk volt, mert az egyik ösvényen találtunk egyet az általuk használt",
+      "start": 24.18,
+      "end": 28.54
+    },
+    {
+      "text": " nyújtikus ábrákkal díszített kártyából.",
+      "start": 28.54,
+      "end": 30.92
+    },
+    {
+      "text": " Ennek segítségével most végre mi is hozzájuthatunk a terület portékájhoz.",
+      "start": 31.78,
+      "end": 36.08
+    },
+    {
+      "text": " A dolog nem veszélytelen. Három bazárban is próbálkozunk.",
+      "start": 38.36,
+      "end": 42.86
+    },
+    {
+      "text": " Ide érintem.",
+      "start": 71.06,
+      "end": 72.98
+    },
+    {
+      "text": " Valami nem stimmel. Jobb lesz odébb állni.",
+      "start": 82.7,
+      "end": 84.68
+    },
+    {
+      "text": " A kártyástörzs kiváltságosságát jól mutatja az is,",
+      "start": 86.11999999999998,
+      "end": 89.78
+    },
+    {
+      "text": " hogy az apró kiskártya segítségével világító utcai oltárokból papírváltókat vehetnek fel.",
+      "start": 89.9,
+      "end": 95.4
+    },
+    {
+      "text": " Az oltárok és ezen keresztül az egyház népszerűsége nagyon magas a kártyás benszülöttek körében.",
+      "start": 96.74000000000001,
+      "end": 102.2
+    },
+    {
+      "text": " Ritkán, de előfordul, hogy valaki nem kap váltót.",
+      "start": 102.6,
+      "end": 105.38
+    },
+    {
+      "text": " Ilyenkor dühösen az oltár ellen fordul.",
+      "start": 105.58,
+      "end": 108.1
+    },
+    {
+      "text": " Most megpróbálunk szerezni egy működő kártyát.",
+      "start": 116.38,
+      "end": 119.84
+    },
+    {
+      "text": " Mérdete kicsit.",
+      "start": 145.24,
+      "end": 146.4
+    },
+    {
+      "text": " Fogazata épp.",
+      "start": 147.08,
+      "end": 148.06
+    },
+    {
+      "text": " Korehoz képest mozgékony.",
+      "start": 148.58,
+      "end": 149.98
+    },
+    {
+      "text": " Pár perc és már kutyabaja az öreg kártyásnak.",
+      "start": 150.76,
+      "end": 153.32
+    },
+    {
+      "text": " Itt van a kis lapocska. Lássuk, mire megyünk vele.",
+      "start": 154.08,
+      "end": 156.72
+    },
+    {
+      "text": " Ide szokták bedúgni a kártyát.",
+      "start": 160.52,
+      "end": 162.48
+    },
+    {
+      "text": " A fénylapon valami írás jelent meg, és itt a számsorral is szoktak csinálni valamit.",
+      "start": 163.14,
+      "end": 168.3
+    },
+    {
+      "text": " Vallásuk szent számait még nem sikerült kiderítenünk eddig.",
+      "start": 169.38,
+      "end": 172.36
+    },
+    {
+      "text": " Lehet, hogy a szerzetes érzi az idegen aurát.",
+      "start": 174.96,
+      "end": 177.46
+    },
+    {
+      "text": " Ez most veszélyes lehet.",
+      "start": 180.36,
+      "end": 181.8
+    },
+    {
+      "text": " Bennem kell. Minden jót.",
+      "start": 182.88,
+      "end": 184.44
+    },
+    {
+      "text": " Minden jót.",
+      "start": 202.36,
+      "end": 203.08
+    }
+  ],
+  "processing_time": 1.3313817977905273,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}

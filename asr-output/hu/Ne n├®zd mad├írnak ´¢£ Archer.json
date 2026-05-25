@@ -1,0 +1,144 @@
+{
+  "audio_file": "Ne nézd madárnak ｜ Archer.wav",
+  "full_text": "A 3. A TŰPSTÁR Cscccccccccccccccccccccc Madár Örö, nem érdekel... Madár, kuss... Kussolj madár! M-m-m-m! Ne nézsz madárnak! Hát azért... Madár! Pem, másod le! A madarat... Remek döntés volt, madár! Aaa! Hány éves vagy? Senkit sem érdekel! Az éves, őszintén nagyon sajnálom! Madár! Ri-ri-ri-ri-ri-ket csenél... M a szá, a D a szá, a szer... Madár! Van egy csomó mentőmellény a tárolóban, szóval hát, ha kipárnázzák a becsapódást. Ó, te hozzám beszélsz? Ó. Igen. Tudsz repülni. Ó.",
+  "chunks": [
+    {
+      "text": " A 3. A TŰPSTÁR",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "text": " Cscccccccccccccccccccccc",
+      "start": 4.0600000000000005,
+      "end": 4.58
+    },
+    {
+      "text": " Madár",
+      "start": 4.58,
+      "end": 5.14
+    },
+    {
+      "text": " Örö, nem érdekel...",
+      "start": 5.14,
+      "end": 6.54
+    },
+    {
+      "text": " Madár, kuss...",
+      "start": 6.54,
+      "end": 7.36
+    },
+    {
+      "text": " Kussolj madár!",
+      "start": 7.36,
+      "end": 8.64
+    },
+    {
+      "text": " M-m-m-m!",
+      "start": 8.7,
+      "end": 9.38
+    },
+    {
+      "text": " Ne nézsz madárnak!",
+      "start": 9.38,
+      "end": 10.32
+    },
+    {
+      "text": " Hát azért...",
+      "start": 10.54,
+      "end": 11.52
+    },
+    {
+      "text": " Madár!",
+      "start": 11.52,
+      "end": 11.9
+    },
+    {
+      "text": " Pem, másod le!",
+      "start": 12.14,
+      "end": 13.12
+    },
+    {
+      "text": " A madarat...",
+      "start": 13.26,
+      "end": 14.06
+    },
+    {
+      "text": " Remek döntés volt, madár!",
+      "start": 14.06,
+      "end": 15.3
+    },
+    {
+      "text": " Aaa!",
+      "start": 15.42,
+      "end": 15.52
+    },
+    {
+      "text": " Hány éves vagy?",
+      "start": 16.12,
+      "end": 17.26
+    },
+    {
+      "text": " Senkit sem érdekel!",
+      "start": 17.42,
+      "end": 18.62
+    },
+    {
+      "text": " Az éves, őszintén nagyon sajnálom!",
+      "start": 18.7,
+      "end": 20.44
+    },
+    {
+      "text": " Madár!",
+      "start": 20.72,
+      "end": 21.2
+    },
+    {
+      "text": " Ri-ri-ri-ri-ri-ket csenél...",
+      "start": 21.6,
+      "end": 23.62
+    },
+    {
+      "text": " M a szá, a D a szá, a szer...",
+      "start": 23.62,
+      "end": 25.96
+    },
+    {
+      "text": " Madár!",
+      "start": 25.96,
+      "end": 26.46
+    },
+    {
+      "text": " Van egy csomó mentőmellény a tárolóban, szóval hát, ha kipárnázzák a becsapódást.",
+      "start": 26.46,
+      "end": 31.38
+    },
+    {
+      "text": " Ó, te hozzám beszélsz?",
+      "start": 33.76,
+      "end": 35.92
+    },
+    {
+      "text": " Ó.",
+      "start": 36.16,
+      "end": 36.32
+    },
+    {
+      "text": " Igen.",
+      "start": 36.64,
+      "end": 37.32
+    },
+    {
+      "text": " Tudsz repülni.",
+      "start": 37.54,
+      "end": 38.38
+    },
+    {
+      "text": " Ó.",
+      "start": 56.46,
+      "end": 56.88
+    }
+  ],
+  "processing_time": 1.348336935043335,
+  "language": "hu",
+  "model_id": "large-v3-turbo"
+}
