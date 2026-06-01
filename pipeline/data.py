@@ -46,15 +46,7 @@ def strip_audio_role_suffix(stem: str) -> tuple[str, str | None]:
 
 
 def collect_audio_items(audio_root: Path) -> list[dict]:
-    """Collect one audio item per video.
 
-    Supports both layouts:
-    - nested: <title>/Foreground.wav and optional <title>/Crowd.wav
-    - flat: <title> Foreground.wav and optional <title> Crowd.wav
-
-    Flat Foreground/Crowd files are grouped into one item by title so a video is
-    not counted twice.
-    """
     items = []
     flat_groups: dict[str, dict] = {}
     for p in audio_root.iterdir():

@@ -29,11 +29,6 @@ def interval_overlap(a_start: float, a_end: float, b_start: float, b_end: float)
 
 
 class RMSLaughterDetector:
-    """Temporary laughter detector module for pipeline testing.
-
-    Later, replace this class with the Standup4AI annotation/detection module
-    while keeping `detect(row)` returning [(start_sec, end_sec), ...].
-    """
 
     def __init__(self, cfg: PipelineConfig):
         self.cfg = cfg
@@ -85,11 +80,6 @@ class RMSLaughterDetector:
 
 
 class AnnotationLaughterDetector(RMSLaughterDetector):
-    """Load precomputed laughter intervals from laughter_crowd/<lang>/*.json.
-
-    The annotation JSON files are expected to contain entries with start_sec and
-    end_sec fields. Filename matching is title-based and cached per sample.
-    """
 
     def __init__(self, cfg: PipelineConfig, annotation_root: Path | None = None, min_match_score: float = 0.50):
         super().__init__(cfg)
